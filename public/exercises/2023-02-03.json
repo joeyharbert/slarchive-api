@@ -1,0 +1,182 @@
+[
+    {
+        "client_msg_id": "3de11276-77a1-4746-8223-bf66307f712b",
+        "type": "message",
+        "text": "Exercise:\nUse the Rails Full Stack CRUD guide to make an app to keep track of pets. A pet has a name, a breed, and an image.",
+        "user": "U04HL79B12M",
+        "ts": "1675446640.027119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1PRQQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nUse the Rails Full Stack CRUD guide to make an app to keep track of pets. A pet has a name, a breed, and an image."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9b8058a9-2e2b-41aa-ab0f-043230bc9d31",
+        "type": "message",
+        "text": "Exercise:\n• Use the Rails Full Stack Authentication guide to add authentication to your pets app!\n• Change your pet model to associate pets with users.\n• Change your pet CRUD actions to only allow users to be able to update or destroy the pets they created.",
+        "user": "U04HL79B12M",
+        "ts": "1675449766.540759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "28Asw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use the Rails Full Stack Authentication guide to add authentication to your pets app!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change your pet model to associate pets with users."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change your pet CRUD actions to only allow users to be able to update or destroy the pets they created."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1675449808.000000"
+        }
+    },
+    {
+        "client_msg_id": "1e717203-e7d1-4273-9e23-84cf69fb1aa0",
+        "type": "message",
+        "text": "Exercise:\nUpdate your work journal!\nGo to your gists: <https:\/\/gist.github.com\/mine>\nFind your gist titled “work-journal.md”\nClick “Edit”\nAdd your new content towards the top\n```## YYYY-MM-DD\n### Learnings\n- (Describe your learning accomplishments and wins, as well as how you are planning to improve in specific areas)\n\n### Interesting things\n- (List coding resources you have found and describe why they’re interesting)```\nUpdate the content with today’s date and your content for the learning and interesting things section",
+        "user": "U04HL79B12M",
+        "ts": "1675458136.385639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Qb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nUpdate your work journal!\nGo to your gists: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/mine"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFind your gist titled “work-journal.md”\nClick “Edit”\nAdd your new content towards the top\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "## YYYY-MM-DD\n### Learnings\n- (Describe your learning accomplishments and wins, as well as how you are planning to improve in specific areas)\n\n### Interesting things\n- (List coding resources you have found and describe why they’re interesting)"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update the content with today’s date and your content for the learning and interesting things section"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

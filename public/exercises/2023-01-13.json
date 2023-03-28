@@ -1,0 +1,696 @@
+[
+    {
+        "client_msg_id": "4efaa4cf-5f17-4df7-a6c5-6a35dc47cc5c",
+        "type": "message",
+        "text": "Exercise: Build a terminal dictionary app\n• Create a new ruby file called dictionary_app.rb\n• The program should ask the user to enter a word, then use the wordnik API to show the word’s definition: <https:\/\/developer.wordnik.com\/docs#!\/word\/getDefinitions>\n• Once that works, have it also display the top example and pronunciation (browse through the documentation to the top example and pronunciation).\n• Bonus: Write your program in a loop such that the user can keep entering new words without having to restart the program. Give them the option of entering q to quit.\n• Bonus: Search for the audio section in the documentation. Use wordnik’s audio api to get the first fileUrl to open in the browser (you’ll need to google this!) and pronounce the name of the word.\n",
+        "user": "U04HL79B12M",
+        "ts": "1673630040.594679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aA2Jx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Build a terminal dictionary app\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a new ruby file called dictionary_app.rb"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The program should ask the user to enter a word, then use the wordnik API to show the word’s definition: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/developer.wordnik.com\/docs#!\/word\/getDefinitions"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Once that works, have it also display the top example and pronunciation (browse through the documentation to the top example and pronunciation)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bonus: Write your program in a loop such that the user can keep entering new words without having to restart the program. Give them the option of entering q to quit."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bonus: Search for the audio section in the documentation. Use wordnik’s audio api to get the first fileUrl to open in the browser (you’ll need to google this!) and pronounce the name of the word."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/developer.wordnik.com\/docs#!\/word\/getDefinitions",
+                "thumb_url": "https:\/\/www.wordnik.com\/img\/wordnik-logo-300px.png",
+                "thumb_width": 300,
+                "thumb_height": 62,
+                "service_icon": "https:\/\/developer.wordnik.com\/img\/developer\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/developer.wordnik.com\/docs#!\/word\/getDefinitions",
+                "fallback": "Wordnik.com: Wordnik API Documentation",
+                "text": "The Wordnik API: All the words",
+                "title": "Wordnik API Documentation",
+                "title_link": "https:\/\/developer.wordnik.com\/docs#!\/word\/getDefinitions",
+                "service_name": "Wordnik.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7114b5ce-9b4f-4349-9a59-9e52565bccda",
+        "type": "message",
+        "text": "`rails new sample-app --database=postgresql`",
+        "user": "U04HL79B12M",
+        "ts": "1673635842.798779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T7Cqp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails new sample-app --database=postgresql",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f220a44b-b7e8-4ccc-b35b-f0662ae720ad",
+        "type": "message",
+        "text": "`cd sample-app`",
+        "user": "U04HL79B12M",
+        "ts": "1673635942.274899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xpqw6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cd sample-app",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5bc0f9e1-abec-4f2f-93fb-703c01e52c5d",
+        "type": "message",
+        "text": "`rails db:create`",
+        "user": "U04HL79B12M",
+        "ts": "1673635990.482939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "alR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails db:create",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9d17863c-36a4-4362-adfe-fd6188113c73",
+        "type": "message",
+        "text": "`rails server`",
+        "user": "U04HL79B12M",
+        "ts": "1673636065.961219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ivp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails server",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f31b420e-c786-453d-8f2d-fae482a4f08a",
+        "type": "message",
+        "text": "`rails generate controller example_pages`",
+        "user": "U04HL79B12M",
+        "ts": "1673637373.594719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yv2sO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails generate controller example_pages",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "add07efb-8dc7-4f6b-ae83-ef00190682f9",
+        "type": "message",
+        "text": "Exercise:\n• Create an api with THREE paths that return different messages!\n\n• Bonus: Try to render more complex information (arrays with hashes within arrays, etc.)\n\n• Bonus: Try to render something other than JSON! (Rails can render XML or HTML)",
+        "user": "U04HL79B12M",
+        "ts": "1673639052.358019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NDkV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n• Create an api with THREE paths that return different messages!\n\n• Bonus: Try to render more complex information (arrays with hashes within arrays, etc.)\n\n• Bonus: Try to render something other than JSON! (Rails can render XML or HTML)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2c215b72-c6b7-4d09-8b02-122bf294899e",
+        "type": "message",
+        "text": "Exercise:\nCreate a brand new rails application\n\nIn your terminal, kill any running rails servers (control c), and close all terminal tabs\nClose any existing text editors\nOpen your terminal and navigate to your Actualize folder, then run the following commands:\n```rails new fortune-app --database=postgresql```\n```cd fortune-app```\n```rails db:create```\n```rails server```\nIn your terminal, make a new terminal tab, then generate a controller called `my_examples`.\n```rails generate controller my_examples```\n\nIn your text editor, add code to the `config\/routes.rb` file and the `app\/controllers\/my_examples_controller.rb` file to implement the following features as separate pages:\n\nFeature 1: The page should return a random fortune. Every time you refresh the page, you’ll get a new fortune. You should make up at least 3 different fortunes.\n\nFeature 2: The page should return 6 randomly generated numbers between 1 and 60 so as to predict the upcoming lotto numbers.\n\nFeature 3: Every time a user visits\/refreshes the page, the page should tell the user the number of visits made to that page so far. NOTE: This is impossible, but you should try your hand at this for a few minutes to discover why it’s impossible.\n\nBonus: Add a page that returns the lyrics for “99 bottles of beer on the wall”.\n\nBonus: Make a Ruby script using the HTTP gem to display the results in the terminal instead of a web browser!",
+        "user": "U04HL79B12M",
+        "ts": "1673640773.311879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CzK5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nCreate a brand new rails application\n\nIn your terminal, kill any running rails servers (control c), and close all terminal tabs\nClose any existing text editors\nOpen your terminal and navigate to your Actualize folder, then run the following commands:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails new fortune-app --database=postgresql"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cd fortune-app"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails db:create"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails server"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIn your terminal, make a new terminal tab, then generate a controller called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "my_examples",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails generate controller my_examples"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nIn your text editor, add code to the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "config\/routes.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file and the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "app\/controllers\/my_examples_controller.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file to implement the following features as separate pages:\n\nFeature 1: The page should return a random fortune. Every time you refresh the page, you’ll get a new fortune. You should make up at least 3 different fortunes.\n\nFeature 2: The page should return 6 randomly generated numbers between 1 and 60 so as to predict the upcoming lotto numbers.\n\nFeature 3: Every time a user visits\/refreshes the page, the page should tell the user the number of visits made to that page so far. NOTE: This is impossible, but you should try your hand at this for a few minutes to discover why it’s impossible.\n\nBonus: Add a page that returns the lyrics for “99 bottles of beer on the wall”.\n\nBonus: Make a Ruby script using the HTTP gem to display the results in the terminal instead of a web browser!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "742ef170-c812-4552-af6f-8609c7596b3c",
+        "type": "message",
+        "text": "Exercise:\nFind some interesting APIs from this list that you may want to use in your final capstone project:\n• Free APIs with no authentication needed: <https:\/\/mixedanalytics.com\/blog\/list-actually-free-open-no-auth-needed-apis\/>\n• Free APIs that may require authentication:\n<https:\/\/github.com\/public-apis\/public-apis>",
+        "user": "U04HL79B12M",
+        "ts": "1673645650.481569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ile",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nFind some interesting APIs from this list that you may want to use in your final capstone project:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Free APIs with no authentication needed: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/mixedanalytics.com\/blog\/list-actually-free-open-no-auth-needed-apis\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Free APIs that may require authentication:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/public-apis\/public-apis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "074d2725-1e86-4109-aa02-0a6b847fa8e8",
+        "type": "message",
+        "text": "Exercise:\n• Build a terminal app using one of the free APIs from this list: \n<https:\/\/mixedanalytics.com\/blog\/list-actually-free-open-no-auth-needed-apis\/>.\n• Bonus: Use the tty-prompt gem (<https:\/\/github.com\/piotrmurach\/tty-prompt>) or other gems you may find to make your app more interactive and interesting!",
+        "user": "U04HL79B12M",
+        "ts": "1673646059.445219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g9g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Build a terminal app using one of the free APIs from this list: "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mixedanalytics.com\/blog\/list-actually-free-open-no-auth-needed-apis\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bonus: Use the tty-prompt gem ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/piotrmurach\/tty-prompt"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ") or other gems you may find to make your app more interactive and interesting!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

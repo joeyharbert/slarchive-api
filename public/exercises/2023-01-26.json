@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "47c7af42-df4a-458c-8d67-a463ca4da2c8",
+        "type": "message",
+        "text": "Exercise:\nRewrite your code to use the has_many and belongs_to shortcuts for Supplier and Product!",
+        "user": "U04HL79B12M",
+        "ts": "1674758530.130349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xW9a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nRewrite your code to use the has_many and belongs_to shortcuts for Supplier and Product!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "31b5efab-0e28-4569-b700-9726a9bf45f6",
+        "type": "message",
+        "text": "Review exercise:\nMake the twitter app (from the spreadsheet exercise #2)!\n1. Build the data layer only first (no routes\/controllers\/views)\n2. Build the CRUD API for tweets and users\n",
+        "user": "U04HL79B12M",
+        "ts": "1674759661.496829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+8ER6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Review exercise:\nMake the twitter app (from the spreadsheet exercise #2)!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Build the data layer only first (no routes\/controllers\/views)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Build the CRUD API for tweets and users"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

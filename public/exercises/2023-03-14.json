@@ -1,0 +1,339 @@
+[
+    {
+        "client_msg_id": "08d7f136-7650-4242-a9cd-49b1164e8e99",
+        "type": "message",
+        "text": "Exercise: Create your personal website!\n*Choose a free HTML theme*\n<https:\/\/html5up.net\/highlights>\n<https:\/\/html5up.net\/read-only>\n<https:\/\/html5up.net\/dimension>\n<https:\/\/html5up.net\/stellar>\n<https:\/\/html5up.net\/prologue>\n<https:\/\/html5up.net\/hyperspace>\n<https:\/\/html5up.net\/photon>\n<https:\/\/html5up.net\/strata>\n<https:\/\/html5up.net\/alpha>\n<https:\/\/html5up.net\/miniport>\n<https:\/\/html5up.net\/fractal>\n<https:\/\/html5up.net\/spectral>\n\n*Create a folder with the specific name `&lt;username&gt;.<http:\/\/github.io|github.io>`*\nMove downloaded files into this folder\nMake sure index.html is in root directory\n\n*Add an empty .nojekyll file to the root directory*\nNavigate to your folder in the terminal\nRun the command `touch .nojekyll`\n(This tells GitHub Pages not to use a tool called Jekyll, which can mess up your website if it has a `vendor` folder)\n\n*Customize the theme*\nUpdate the content with 3 sections (About, Portfolio, Contact).\nChange assets - images, etc. (use <http:\/\/pexels.com|pexels.com> for free images)\n\n*Upload to github pages*\nInitialize the git repo in the folder:\n```git init```\n```git add --all```\n```git commit -m \"Initial commit\"```\nCreate a repo on GitHub with the name `&lt;username&gt;.<http:\/\/github.io|github.io>`\nCopy and paste the terminal commands to push site online\n\n*Visit your site at `http:\/\/&lt;username&gt;.<http:\/\/github.io|github.io>`*",
+        "user": "U04HL79B12M",
+        "ts": "1678816082.160829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jmXY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Create your personal website!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Choose a free HTML theme",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/html5up.net\/highlights"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/html5up.net\/read-only"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/html5up.net\/dimension"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/html5up.net\/stellar"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/html5up.net\/prologue"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/html5up.net\/hyperspace"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/html5up.net\/photon"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/html5up.net\/strata"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/html5up.net\/alpha"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/html5up.net\/miniport"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/html5up.net\/fractal"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/html5up.net\/spectral"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Create a folder with the specific name ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "<username>.",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/github.io",
+                                "text": "github.io",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMove downloaded files into this folder\nMake sure index.html is in root directory\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Add an empty .nojekyll file to the root directory",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNavigate to your folder in the terminal\nRun the command "
+                            },
+                            {
+                                "type": "text",
+                                "text": "touch .nojekyll",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(This tells GitHub Pages not to use a tool called Jekyll, which can mess up your website if it has a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "vendor",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " folder)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Customize the theme",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nUpdate the content with 3 sections (About, Portfolio, Contact).\nChange assets - images, etc. (use "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/pexels.com",
+                                "text": "pexels.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for free images)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Upload to github pages",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nInitialize the git repo in the folder:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git init"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git add --all"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git commit -m \"Initial commit\""
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Create a repo on GitHub with the name "
+                            },
+                            {
+                                "type": "text",
+                                "text": "<username>.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/github.io",
+                                "text": "github.io",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCopy and paste the terminal commands to push site online\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Visit your site at ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "http:\/\/<username>.",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/github.io",
+                                "text": "github.io",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

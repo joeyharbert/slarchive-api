@@ -1,0 +1,213 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1676567761.208149",
+        "user": "U04C9TMTJT1",
+        "text": "<@U04C9TMTJT1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Who is ready to get started on their search immediately? Who is feeling in less of a rush?",
+        "ts": "1676567763.593479",
+        "bot_id": "B04D33KFQP3",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-46b86d8b-dfa5-4023-a6f9-38d00ff622a5-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Who is ready to get started on their search immediately? Who is feeling in less of a rush?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: Edit Poll",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":lock: Close Poll",
+                                "emoji": true
+                            },
+                            "value": "close_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":recycle: Recreate this Poll",
+                                "emoji": true
+                            },
+                            "value": "create_poll_from_recent_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":arrow_heading_down: Promote Poll",
+                                "emoji": true
+                            },
+                            "value": "promote_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-46b86d8b-dfa5-4023-a6f9-38d00ff622a5-vote-42404682",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Immediately - I’m excited!    `5`\n<@U04DLUZGJ4C>, <@U04GY24PLTY>, <@U04D3UXCN3Z>, <@U04DLUZ1JCU>, <@U04DFH2CCR3>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42404682",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-46b86d8b-dfa5-4023-a6f9-38d00ff622a5-vote-42404683",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Immediately - I need a job now\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42404683",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-46b86d8b-dfa5-4023-a6f9-38d00ff622a5-vote-42404684",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: No rush - I’m feeling some impostor syndrome    `2`\n<@U04DLUZMY84>, <@U04DLUZTL2Y>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42404684",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-46b86d8b-dfa5-4023-a6f9-38d00ff622a5-vote-42404685",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":four: No rush - I’m overloaded with too many other things right now\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42404685",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":four:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "1Mj",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U04J9382JP3> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "B04D33KFQP3",
+            "ts": "1676567804.000000"
+        }
+    },
+    {
+        "client_msg_id": "a38e0d7a-34d7-49dc-aa29-ca5475d0d882",
+        "type": "message",
+        "text": "*Create your resume!*\n1. Share your screen\n2. Start with the Actualize Guide to Building a Tech Resume from Scratch: <https:\/\/docs.google.com\/document\/d\/1dZfp4gWG0DvPJeoFnxlHlh_aiNd7tNxgYwQzvPJoS1Y\/edit>\n3. Move your content worksheet copy and your template into your ‘Actualize Job Search Documents’ folder\n4. If you already have a resume you want to use, get it approved by your Career Advisor first",
+        "user": "U04J9382JP3",
+        "ts": "1676569924.125729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rCKYP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Create your resume!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n1. Share your screen\n2. Start with the Actualize Guide to Building a Tech Resume from Scratch: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1dZfp4gWG0DvPJeoFnxlHlh_aiNd7tNxgYwQzvPJoS1Y\/edit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3. Move your content worksheet copy and your template into your ‘Actualize Job Search Documents’ folder\n4. If you already have a resume you want to use, get it approved by your Career Advisor first"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

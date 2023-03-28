@@ -1,0 +1,87 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04FS2N3P8U",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04DLUZGJ4C",
+        "display_as_bot": false,
+        "ts": "1671281974.402939",
+        "client_msg_id": "24FAFC4E-1D53-4A48-ABFF-69A0891BB97D",
+        "thread_ts": "1671281974.402939",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1671330219.996899",
+        "reply_users": [
+            "U04DLUZMY84"
+        ],
+        "replies": [
+            {
+                "user": "U04DLUZMY84",
+                "ts": "1671330219.996899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U04DLUZMY84",
+                    "U04DLUZTL2Y"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "312bad47-0039-416a-9a9b-c7c682cd1ba2",
+        "type": "message",
+        "text": "So, so true :joy:",
+        "user": "U04DLUZMY84",
+        "ts": "1671330219.996899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "48V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, so true "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671281974.402939",
+        "parent_user_id": "U04DLUZGJ4C"
+    }
+]

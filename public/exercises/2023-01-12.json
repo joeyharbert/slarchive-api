@@ -1,0 +1,282 @@
+[
+    {
+        "client_msg_id": "cac43995-e492-4158-9552-cacb3aa6bd5e",
+        "type": "message",
+        "text": "Exercise:\nCreate a new file in your `practice-ruby` folder called `module_example.rb` and open it in your text editor.\n\nCopy the Car and Bicycle class into your file (same as previous exercise): <https:\/\/gist.github.com\/peterxjang\/e9b69b4de36b2c41ef4b>\n\nThis time, use a module instead of inheritance to DRY up the code.\n\nBonus: Read more about the distinction between class composition and module mixins (both are an alternative to class inheritance): <http:\/\/stackoverflow.com\/questions\/15754768\/when-do-we-use-ruby-module-vs-using-class-composition>",
+        "user": "U04HL79B12M",
+        "ts": "1673543938.246339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VwEDO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nCreate a new file in your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "practice-ruby",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " folder called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "module_example.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and open it in your text editor.\n\nCopy the Car and Bicycle class into your file (same as previous exercise): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/peterxjang\/e9b69b4de36b2c41ef4b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis time, use a module instead of inheritance to DRY up the code.\n\nBonus: Read more about the distinction between class composition and module mixins (both are an alternative to class inheritance): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/stackoverflow.com\/questions\/15754768\/when-do-we-use-ruby-module-vs-using-class-composition"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/stackoverflow.com\/questions\/15754768\/when-do-we-use-ruby-module-vs-using-class-composition",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "http:\/\/stackoverflow.com\/questions\/15754768\/when-do-we-use-ruby-module-vs-using-class-composition",
+                "fallback": "Stack Overflow: When do we use ruby module vs using class composition?",
+                "text": "A question similar to this has been asked before, but I am asking specifically about using composition as an alternative to using module mixins. \n\nclass Helper\n def do_somthing\n end\nend\nIf I nee...",
+                "title": "When do we use ruby module vs using class composition?",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/15754768\/when-do-we-use-ruby-module-vs-using-class-composition",
+                "service_name": "Stack Overflow"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb1e145e-d83f-4cb1-9af8-f7934acb3198",
+        "type": "message",
+        "text": "Exercise:\n• Open the store_item.rb file you created from the previous lesson.\n• Create a new module in your store item.\n• Create separate files for each of your classes and modules.\n• Create a separate main.rb file to demonstrate how each class and module work.\n• Bonus: Read about the differences between load, require, and require_relative: <https:\/\/medium.com\/@ellishim\/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6>",
+        "user": "U04HL79B12M",
+        "ts": "1673545291.457849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6TH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Open the store_item.rb file you created from the previous lesson."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a new module in your store item."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create separate files for each of your classes and modules."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a separate main.rb file to demonstrate how each class and module work."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bonus: Read about the differences between load, require, and require_relative: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/medium.com\/@ellishim\/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1673545332.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/medium.com\/@ellishim\/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6",
+                "ts": 1511964040,
+                "image_url": "https:\/\/miro.medium.com\/freeze\/max\/500\/1*QJkZNUdLAyya8hQHsHsxog.gif",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 42704,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@ellishim\/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6",
+                "fallback": "Medium: Understanding Require vs. Require_relative vs. Require_all",
+                "text": "Two weeks ago was projects week and it felt like the rspec training wheels coming right off. I realized that one of the things I had taken…",
+                "title": "Understanding Require vs. Require_relative vs. Require_all",
+                "title_link": "https:\/\/medium.com\/@ellishim\/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6",
+                "service_name": "Medium",
+                "fields": [
+                    {
+                        "value": "3 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e50029b-bab7-408a-a88d-dbe4b99cc515",
+        "type": "message",
+        "text": "Exercise:\n• Work in pairs to complete these exercises; between exercises switch who is driving and who is navigating. Remember to check in with each other! :)\n• <https:\/\/gist.github.com\/peterxjang\/ba4fe8368a62e3f93768df01f6f4a963> ",
+        "user": "U04HL79B12M",
+        "ts": "1673548054.480539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6oro",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Work in pairs to complete these exercises; between exercises switch who is driving and who is navigating. Remember to check in with each other! :)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/gist.github.com\/peterxjang\/ba4fe8368a62e3f93768df01f6f4a963"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,492 @@
+[
+    {
+        "client_msg_id": "f58f97ed-6a35-4f8f-8ad3-fc65d2a6271d",
+        "type": "message",
+        "text": "Exercise: (work in groups)\nFollow the Rails guide to build a full stack Rails app! <https:\/\/guides.rubyonrails.org\/getting_started.html#creating-the-blog-application>\n\nNote that the tutorial uses many shortcuts we haven’t covered, so read it over carefully and try to recognize each shortcut!\n\nBonus: Use this guide to add system tests to your app (to test the frontend): <https:\/\/guides.rubyonrails.org\/testing.html#implementing-a-system-test>",
+        "user": "U04HL79B12M",
+        "ts": "1675367871.097289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FSu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: (work in groups)\nFollow the Rails guide to build a full stack Rails app! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/guides.rubyonrails.org\/getting_started.html#creating-the-blog-application"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nNote that the tutorial uses many shortcuts we haven’t covered, so read it over carefully and try to recognize each shortcut!\n\nBonus: Use this guide to add system tests to your app (to test the frontend): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/guides.rubyonrails.org\/testing.html#implementing-a-system-test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "be92447f-0e6a-4960-8318-e077300248b1",
+        "type": "message",
+        "text": "Exercise:\n\nFind coding communities that are interesting to you!\n\nSocial media (Twitter)\n\n<https:\/\/twitter.com\/addyosmani> <https:\/\/twitter.com\/saronyitbarek> <https:\/\/twitter.com\/sandimetz> <https:\/\/twitter.com\/cassidoo> <https:\/\/twitter.com\/BrittJMartin> <https:\/\/twitter.com\/b0rk> <https:\/\/twitter.com\/jensimmons> <https:\/\/twitter.com\/rockbot> <https:\/\/twitter.com\/dan_abramov> <https:\/\/twitter.com\/vaidehijoshi> <https:\/\/twitter.com\/taniarascia> <https:\/\/twitter.com\/Una> <https:\/\/twitter.com\/techgirl1908> <https:\/\/twitter.com\/shanselman> <https:\/\/twitter.com\/ellie_huxtable> <https:\/\/twitter.com\/HeyChelseaTroy> <https:\/\/twitter.com\/sarah_edo>\n\nSocial media (Reddit)\n\n<https:\/\/www.reddit.com\/r\/computing\/comments\/2e38m6\/master_list_of_tech_subreddits\/>\n\n<https:\/\/www.reddit.com\/r\/webdev\/>\n\n<https:\/\/www.reddit.com\/r\/learnprogramming\/>\n\n<https:\/\/www.reddit.com\/r\/programming\/>\n\nChat groups, social instant messaging platforms\n\n<https:\/\/medium.com\/startupsco\/the-full-list-of-400-slack-communities-5545e82cf65d>\n\n<https:\/\/interestingengineering.com\/culture\/25-engineering-and-technology-slack-groups>\n\n<https:\/\/slofile.com\/slack?category=Tech&amp;region=North+America>\n\n<https:\/\/careerkarma.com\/blog\/tech-discord-servers\/>\n\n<https:\/\/dev.to\/htnguy\/top-10-discord-servers-for-developers-559o>\n\nTechnical meetups\n\n<https:\/\/www.meetup.com\/find\/?keywords=programming&amp;source=GROUPS>\n\n<https:\/\/www.eventbrite.com\/> (search programming, it will use your current location)",
+        "user": "U04HL79B12M",
+        "ts": "1675372155.629919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OU\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n\nFind coding communities that are interesting to you!\n\nSocial media (Twitter)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/addyosmani"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/saronyitbarek"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/sandimetz"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/cassidoo"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/BrittJMartin"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/b0rk"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/jensimmons"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/rockbot"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/dan_abramov"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/vaidehijoshi"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/taniarascia"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/Una"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/techgirl1908"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/shanselman"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/ellie_huxtable"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/HeyChelseaTroy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/sarah_edo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSocial media (Reddit)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/computing\/comments\/2e38m6\/master_list_of_tech_subreddits\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/webdev\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/learnprogramming\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/programming\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nChat groups, social instant messaging platforms\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/startupsco\/the-full-list-of-400-slack-communities-5545e82cf65d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/interestingengineering.com\/culture\/25-engineering-and-technology-slack-groups"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/slofile.com\/slack?category=Tech&region=North+America"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careerkarma.com\/blog\/tech-discord-servers\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dev.to\/htnguy\/top-10-discord-servers-for-developers-559o"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nTechnical meetups\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/find\/?keywords=programming&source=GROUPS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (search programming, it will use your current location)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/addyosmani",
+                "thumb_url": "https:\/\/pbs.twimg.com\/profile_images\/1614881296404348928\/BO8tKI5H_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "service_icon": "https:\/\/twitter.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/addyosmani",
+                "fallback": "Twitter: Addy Osmani (@addyosmani) \/ Twitter",
+                "text": "Engineering lead working on @GoogleChrome • Husband &amp; Dad • Author • Great user &amp; dev experiences • @ChromiumDev @ChromeDevTools @ChromeUXReport @____lighthouse",
+                "title": "Addy Osmani (@addyosmani) \/ Twitter",
+                "title_link": "https:\/\/twitter.com\/addyosmani",
+                "service_name": "Twitter"
+            },
+            {
+                "from_url": "https:\/\/twitter.com\/saronyitbarek",
+                "thumb_url": "https:\/\/pbs.twimg.com\/profile_images\/1057577163300364290\/XxPn2DSb_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "service_icon": "https:\/\/twitter.com\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/twitter.com\/saronyitbarek",
+                "fallback": "Twitter: Saron (@saronyitbarek) \/ Twitter",
+                "text": "2x founder, building Disco, @CodeNewbies (acquired). I wore a t-shirt to my wedding. Developer. Host of #CommandLinePod. @Medium contributor. She\/her",
+                "title": "Saron (@saronyitbarek) \/ Twitter",
+                "title_link": "https:\/\/twitter.com\/saronyitbarek",
+                "service_name": "Twitter"
+            },
+            {
+                "from_url": "https:\/\/twitter.com\/sandimetz",
+                "thumb_url": "https:\/\/pbs.twimg.com\/profile_images\/2839753318\/bbc02488eec4b91964375b0da9955be2_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "service_icon": "https:\/\/twitter.com\/favicon.ico",
+                "id": 3,
+                "original_url": "https:\/\/twitter.com\/sandimetz",
+                "fallback": "Twitter: Sandi Metz (@sandimetz) \/ Twitter",
+                "text": "Cyclist, Rubyist, author (<https:\/\/t.co\/CzfNcGaidi> and <https:\/\/t.co\/ocMeAz8IaY>), obsessive programmer, recalcitrant blogger and the antidote for ambition.",
+                "title": "Sandi Metz (@sandimetz) \/ Twitter",
+                "title_link": "https:\/\/twitter.com\/sandimetz",
+                "service_name": "Twitter"
+            },
+            {
+                "from_url": "https:\/\/twitter.com\/cassidoo",
+                "thumb_url": "https:\/\/pbs.twimg.com\/profile_images\/1471241948853936132\/1d5PR5ge_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "service_icon": "https:\/\/twitter.com\/favicon.ico",
+                "id": 4,
+                "original_url": "https:\/\/twitter.com\/cassidoo",
+                "fallback": "Twitter: Cassidy (@cassidoo) \/ Twitter",
+                "text": "Making memes, dreams, &amp; software!\nCTO at @contendaco!\nMarried to @ijoosong.\nI like jokes and mechanical keyboards!\nShe\/Her :latin_cross:",
+                "title": "Cassidy (@cassidoo) \/ Twitter",
+                "title_link": "https:\/\/twitter.com\/cassidoo",
+                "service_name": "Twitter"
+            },
+            {
+                "from_url": "https:\/\/twitter.com\/BrittJMartin",
+                "thumb_url": "https:\/\/pbs.twimg.com\/profile_images\/1410962092358877197\/1_L6EJUR_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "service_icon": "https:\/\/twitter.com\/favicon.ico",
+                "id": 5,
+                "original_url": "https:\/\/twitter.com\/BrittJMartin",
+                "fallback": "Twitter: Brittany Martin (@BrittJMartin) \/ Twitter",
+                "text": "@TextUsBiz Engineering Manager :speech_balloon: | @therubyonrails Co-Host :studio_microphone:",
+                "title": "Brittany Martin (@BrittJMartin) \/ Twitter",
+                "title_link": "https:\/\/twitter.com\/BrittJMartin",
+                "service_name": "Twitter"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "594e32ec-5f82-46ec-8c43-602eff4a6d41",
+        "type": "message",
+        "text": "Exercise:\n\nFind coding communities that are interesting to you!\n\nIdentity-based groups\n\n<https:\/\/www.womenwhocode.com\/>\n\n<https:\/\/blackcodecollective.com\/>\n\n<https:\/\/outintech.com\/>\n\n<https:\/\/techqueria.org\/>\n\n<https:\/\/www.blackwomentalktech.com\/>\n\n<https:\/\/www.wnb-rb.dev\/>\n\nLocation-based groups\n\n<https:\/\/slofile.com\/slack?category=Tech&amp;region=North+America>\n\n<https:\/\/www.meetup.com\/detroit-code-with-friends-meetup\/>\n\n<https:\/\/www.meetup.com\/cities\/us\/il\/chicago\/tech\/>",
+        "user": "U04HL79B12M",
+        "ts": "1675372913.067299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gtKW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n\nFind coding communities that are interesting to you!\n\nIdentity-based groups\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.womenwhocode.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blackcodecollective.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/outintech.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techqueria.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.blackwomentalktech.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wnb-rb.dev\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLocation-based groups\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/slofile.com\/slack?category=Tech&region=North+America"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/detroit-code-with-friends-meetup\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/cities\/us\/il\/chicago\/tech\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "client_msg_id": "caaf165e-64a2-405b-bca9-ce10806e771c",
+        "type": "message",
+        "text": "Exercise:\nWork on a personal project!\n\nOption 1: Build something from your awesome-interests exploration!\n    ◦ <https:\/\/github.com\/acltc\/awesome-interests> \n    ◦ (look at the project ideas under each section)\nOption 2: Build a terminal app using an API!\n    ◦ Choose an API <https:\/\/github.com\/public-apis\/public-apis> \n    ◦ Make a Ruby script using web requests <https:\/\/github.com\/httprb\/http> \n    ◦ Make a terminal interface <https:\/\/ttytoolkit.org\/components\/> \n    ◦ (examples: <https:\/\/github.com\/homerchen19\/nba-go>, <https:\/\/github.com\/michael-lazar\/rtv> )\nOption 3: Build a full-stack Rails app!\n    ◦ Choose an idea for an app you would use for yourself\n    ◦ Write out the user stories\n    ◦ Design a database schema\n    ◦ Build the Rails app with models, associations, and seeds\n    ◦ Build the Rails app routes\/controller\/views\n    ◦ (examples: <https:\/\/www.codementor.io\/projects\/web>, or build one of the apps from the Team Project document)",
+        "user": "U04HL79B12M",
+        "ts": "1676308596.351669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pK2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nWork on a personal project!\n\nOption 1: Build something from your awesome-interests exploration!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/acltc\/awesome-interests"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(look at the project ideas under each section)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nOption 2: Build a terminal app using an API!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Choose an API "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/public-apis\/public-apis"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make a Ruby script using web requests "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/httprb\/http"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make a terminal interface "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/ttytoolkit.org\/components\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(examples: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/homerchen19\/nba-go"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/michael-lazar\/rtv"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " )"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nOption 3: Build a full-stack Rails app!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Choose an idea for an app you would use for yourself"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Write out the user stories"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Design a database schema"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Build the Rails app with models, associations, and seeds"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Build the Rails app routes\/controller\/views"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(examples: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.codementor.io\/projects\/web"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", or build one of the apps from the Team Project document)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

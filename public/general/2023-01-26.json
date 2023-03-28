@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "4d609f5a-b364-400a-8d7e-c5a429665b1d",
+        "type": "message",
+        "text": "I put a hex on ya'll!",
+        "user": "U04DLUZGJ4C",
+        "ts": "1674751910.916419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2FMwS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I put a hex on ya'll!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04HL79B12M",
+                    "U04DLUZMY84",
+                    "U04HB4D6ARZ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

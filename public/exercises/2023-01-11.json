@@ -1,0 +1,863 @@
+[
+    {
+        "client_msg_id": "11b1d786-f74e-4c53-b11c-4c78c65d04e2",
+        "type": "message",
+        "text": "1. Exercise:\n    a. • Use the terminal to create a new file in your `practice-ruby` folder called `inheritance_example.rb` and open it in your text editor.\n1. • Copy the Car and Bicycle class into your file: <https:\/\/gist.github.com\/peterxjang\/e9b69b4de36b2c41ef4b> \n1. • Use inheritance to DRY up the classes. Note - a car is NOT in a type of bicycle, and a bicycle is NOT a type of car!\n1. • To test it, create a bicycle and car instance from your newly modified classes (you can create them at the bottom of your file). First, have them accelerate. Then, make sure a bike can “Ring ring!” and a car \"Beeeeeeep!\"\nBonus: Read more about inheritance and object hierarchy in Ruby here: <https:\/\/www.leighhalliday.com\/object-hierarchy-in-ruby>",
+        "user": "U04HL79B12M",
+        "ts": "1673457797.791999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hgfy",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Exercise:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "• Use the terminal to create a new file in your `practice-ruby` folder called `inheritance_example.rb`"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "and open it in your text editor."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "• Copy the Car and Bicycle class into your file: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/gist.github.com\/peterxjang\/e9b69b4de36b2c41ef4b"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "• Use inheritance to DRY up the classes. Note - a car is NOT in a type of bicycle, and a bicycle is NOT a type of car!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "• To test it, create a bicycle and car instance from your newly modified classes (you can create them at the bottom of your file). First, have them accelerate. Then, make sure a bike can “Ring ring!” and a car \"Beeeeeeep!\""
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBonus: Read more about inheritance and object hierarchy in Ruby here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.leighhalliday.com\/object-hierarchy-in-ruby"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.leighhalliday.com\/object-hierarchy-in-ruby",
+                "image_url": "https:\/\/leighhalliday-og-image-git-master.leighhalliday.now.sh\/og.jpg?author=Leigh%20Halliday&website=leighhalliday.com&title=Object%20hierarchy%20in%20Ruby&image=https%3A%2F%2Fabnormalstudio.s3.amazonaws.com%2Fleigh-social.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 87810,
+                "service_icon": "https:\/\/www.leighhalliday.com\/icons-f46b389a765d729eebb6772be1eee554\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.leighhalliday.com\/object-hierarchy-in-ruby",
+                "fallback": "Object hierarchy in Ruby",
+                "text": "As a way to better understand how Ruby works, I started to dive into how object hierarchies work in the language. We're going to be covering…",
+                "title": "Object hierarchy in Ruby",
+                "title_link": "https:\/\/www.leighhalliday.com\/object-hierarchy-in-ruby",
+                "service_name": "leighhalliday"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2773c03-4f7b-48fe-8aad-61f0221a966b",
+        "type": "message",
+        "text": "Exercise:\n    a. * Open the *inheritance_example.rb* file from the previous example.\n* Add car specific attributes (instance variables) to the `Car` class (fuel, make, model, etc.) and bicycle specific attributes to the `Bicycle` class (type, weight, etc.). Use the super method to keep the `initialize` methods DRY.",
+        "user": "U04HL79B12M",
+        "ts": "1673459462.039439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eIdAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "* Open the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "inheritance_example.rb ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "file from the previous example."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "* Add car specific attributes (instance variables) to the `Car` class (fuel, make, model, etc.) and bicycle specific attributes to the `Bicycle` class (type, weight, etc.). Use the super method to keep the `initialize` methods DRY."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8519c2cf-0166-4b63-8a3c-52b27d2f78a4",
+        "type": "message",
+        "text": "Exercise:\n• Open the *store_item.rb* file you created from the previous lesson.\n• Some of your store items are food, which have a shelf life. Create a class called `Food` which inherits from your original class and has an additional property of `shelf_life`.",
+        "user": "U04HL79B12M",
+        "ts": "1673460879.018409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yXp6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Open the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "store_item.rb",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " file you created from the previous lesson."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Some of your store items are food, which have a shelf life. Create a class called "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Food",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " which inherits from your original class and has an additional property of "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "shelf_life",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1673460893.000000"
+        }
+    },
+    {
+        "client_msg_id": "682bb205-e024-4dcc-b472-3e77f5405c63",
+        "type": "message",
+        "text": "Exercise:\n    a. Create a new file called manager.rb. Paste in the code: <https:\/\/gist.github.com\/peterxjang\/628b90b89bd7f61f8cff9319a7f3d59d> \n    b. Create a method in the ``Manager`` class called ``give_all_raises`` that loops through each of the manager’s employees and gives them a raise (using the `give_annual_raise` method). Demonstrate how it works.\n    c. Create a method in the ``Manager`` class called ``fire_all_employees`` that loops through each of the manager’s employees and changes their ``active`` status to false.\n    d. Bonus: What happens when you define a method in the Employee and Manager class with the same name? Read more about method overriding here:  <https:\/\/medium.com\/@mattrice12\/method-overriding-and-super-f19cf7274c4>. Then try to use super on a method other than initialize!",
+        "user": "U04HL79B12M",
+        "ts": "1673462467.104989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a new file called manager.rb. Paste in the code: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/gist.github.com\/peterxjang\/628b90b89bd7f61f8cff9319a7f3d59d"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a method in the `"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Manager",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "` class called `"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "give_all_raises",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "` that loops through each of the manager’s employees and gives them a raise (using the `give_annual_raise` method). Demonstrate how it works."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a method in the `"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Manager",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "` class called `"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "fire_all_employees",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "` that loops through each of the manager’s employees and changes their `"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "active",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "` status to false."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bonus: What happens when you define a method in the Employee and Manager class with the same name? Read more about method overriding here:  "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/medium.com\/@mattrice12\/method-overriding-and-super-f19cf7274c4"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". Then try to use super on a method other than initialize!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1673462664.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/medium.com\/@mattrice12\/method-overriding-and-super-f19cf7274c4",
+                "ts": 1488176509,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@mattrice12\/method-overriding-and-super-f19cf7274c4",
+                "fallback": "Medium: Method Overriding and Super",
+                "text": "Method Overriding",
+                "title": "Method Overriding and Super",
+                "title_link": "https:\/\/medium.com\/@mattrice12\/method-overriding-and-super-f19cf7274c4",
+                "service_name": "Medium",
+                "fields": [
+                    {
+                        "value": "4 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59b24e13-2de1-4698-add9-3c340b8c9df4",
+        "type": "message",
+        "text": "Exercise:\n• Build a command line application to create\/read\/update\/delete your store items.\n<https:\/\/drive.google.com\/file\/d\/1DBwethY2Ux8p8S-58DALn8apk9tQfR1i\/view>\n• Bonus: Use the tty-table gem to print out nice-looking tables in your terminal <https:\/\/github.com\/piotrmurach\/tty-table> \n• Bonus: Use the pstore library to save the data to a file <https:\/\/ruby-doc.org\/stdlib-2.5.3\/libdoc\/pstore\/rdoc\/PStore.html> ",
+        "user": "U04HL79B12M",
+        "ts": "1673465847.154849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pQsV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Build a command line application to create\/read\/update\/delete your store items."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1DBwethY2Ux8p8S-58DALn8apk9tQfR1i\/view"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bonus: Use the tty-table gem to print out nice-looking tables in your terminal "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/piotrmurach\/tty-table"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bonus: Use the pstore library to save the data to a file "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/ruby-doc.org\/stdlib-2.5.3\/libdoc\/pstore\/rdoc\/PStore.html"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/piotrmurach\/tty-table",
+                "image_url": "https:\/\/repository-images.githubusercontent.com\/30498040\/23fb5600-7adc-11eb-9038-c421ebe87ae2",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 134172,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/piotrmurach\/tty-table",
+                "fallback": "GitHub: GitHub - piotrmurach\/tty-table: A flexible and intuitive table generator",
+                "text": "A flexible and intuitive table generator. Contribute to piotrmurach\/tty-table development by creating an account on GitHub.",
+                "title": "GitHub - piotrmurach\/tty-table: A flexible and intuitive table generator",
+                "title_link": "https:\/\/github.com\/piotrmurach\/tty-table",
+                "service_name": "GitHub"
+            },
+            {
+                "from_url": "https:\/\/ruby-doc.org\/stdlib-2.5.3\/libdoc\/pstore\/rdoc\/PStore.html",
+                "service_icon": "https:\/\/ruby-doc.org\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/ruby-doc.org\/stdlib-2.5.3\/libdoc\/pstore\/rdoc\/PStore.html",
+                "fallback": "Class: PStore (Ruby 2.5.3)",
+                "text": "Class : PStore - Ruby 2.5.3",
+                "title": "Class: PStore (Ruby 2.5.3)",
+                "title_link": "https:\/\/ruby-doc.org\/stdlib-2.5.3\/libdoc\/pstore\/rdoc\/PStore.html",
+                "service_name": "ruby-doc.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "476b832f-42fa-454e-a401-9abbe9c61095",
+        "type": "message",
+        "text": "Exercise:\nSpend the next 5 minutes decomposing the following problem (just decompose the problem, do not write any code to actually solve the problem for now):\nWrite code to keep track of the score of a game of bowling. It should have two methods: `roll` which takes in the number of pins knocked down, and `score` which is called at the end and returns the total game score.",
+        "user": "U04HL79B12M",
+        "ts": "1673471001.612699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GLX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nSpend the next 5 minutes decomposing the following problem (just decompose the problem, do not write any code to actually solve the problem for now):\nWrite code to keep track of the score of a game of bowling. It should have two methods: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "roll",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " which takes in the number of pins knocked down, and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "score",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " which is called at the end and returns the total game score."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a3728551-ef4c-4890-a9d9-47c1b62c03a2",
+        "type": "message",
+        "text": "Exercise:\n• Write the code using your decomposed steps.\n• You can work on bubble sort or the bowling score problem",
+        "user": "U04HL79B12M",
+        "ts": "1673471940.205639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZCZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Write the code using your decomposed steps."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You can work on bubble sort or the bowling score problem"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "71fb0edf-642f-4a60-a782-42f4e81d90ab",
+        "type": "message",
+        "text": "<https:\/\/www.wikihow.com\/Score-Bowling>",
+        "user": "U04HL79B12M",
+        "ts": "1673472962.778419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tYph",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wikihow.com\/Score-Bowling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.wikihow.com\/Score-Bowling",
+                "image_url": "https:\/\/www.wikihow.com\/images\/0\/04\/Score-Bowling-Step-14.jpg",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 922493,
+                "service_icon": "https:\/\/www.wikihow.com\/skins\/WikiHow\/wH-initials_152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/www.wikihow.com\/Score-Bowling",
+                "fallback": "wikiHow: How to Score Bowling: 14 Steps (with Pictures) - wikiHow",
+                "text": "Most modern bowling alleys are set up for electronic scoring, but understanding how to score bowling is important when electronic scoring is not available. To make sure you're keeping score correctly, you'll first need to practice scoring...",
+                "title": "How to Score Bowling: 14 Steps (with Pictures) - wikiHow",
+                "title_link": "https:\/\/www.wikihow.com\/Score-Bowling",
+                "service_name": "wikiHow"
+            }
+        ]
+    }
+]

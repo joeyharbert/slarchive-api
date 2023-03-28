@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "E48A78F0-945C-415C-AB23-D0D9712AE804",
+        "type": "message",
+        "text": "ALEX I am upstairs and I swear I heard the door to my basement squeak open\/shut…I blame you and your ghost for this. :face_with_peeking_eye: ",
+        "user": "U04DLUZMY84",
+        "ts": "1674685821.743659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gmk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ALEX I am upstairs and I swear I heard the door to my basement squeak open\/shut"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I blame you and your ghost for this. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_peeking_eye",
+                                "unicode": "1fae3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04DLUZGJ4C",
+                    "U04HB4D6ARZ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

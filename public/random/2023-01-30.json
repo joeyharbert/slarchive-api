@@ -1,0 +1,763 @@
+[
+    {
+        "client_msg_id": "7708c353-9c09-4f6c-93a2-343a3d9991cc",
+        "type": "message",
+        "text": "so is cross country skiing just about exercise? lol",
+        "user": "U04DLUZGJ4C",
+        "ts": "1675096907.113389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gCw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so is cross country skiing just about exercise? lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fb00749c-cdfb-4bb9-bb17-f74c0aa9da4e",
+        "type": "message",
+        "text": "I know in the olympics they usually have air guns though",
+        "user": "U04DLUZGJ4C",
+        "ts": "1675096921.017669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "58oqj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know in the olympics they usually have air guns though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7AE5FCD6-63D3-4BCE-8586-F786A807F617",
+        "type": "message",
+        "text": "It’s like going for a slightly faster walk. Basically an excuse to get out of the apartment.",
+        "user": "U04GY24PLTY",
+        "ts": "1675097346.427009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1B3q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " like going for a slightly faster walk. Basically an excuse to get out of the apartment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c0f56ed-fe58-43d0-8263-f3f80f21a0f2",
+        "type": "message",
+        "text": "<https:\/\/learntocodewith.me\/podcast\/>\n\nI discovered this gem of a podcast this weekend - the interview (S8E2) From Frying Chicken to Working at Google with Danny Thompson was really cool.",
+        "user": "U04DLUZMY84",
+        "ts": "1675097561.163169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ld2Pz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learntocodewith.me\/podcast\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI discovered this gem of a podcast this weekend - the interview (S8E2) From Frying Chicken to Working at Google with Danny Thompson was really cool."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/learntocodewith.me\/podcast\/",
+                "image_url": "https:\/\/learntocodewith.me\/wp-content\/uploads\/2014\/05\/my-hands-350.jpg",
+                "image_width": 557,
+                "image_height": 250,
+                "image_bytes": 33845,
+                "service_icon": "https:\/\/learntocodewith.me\/apple-icon-60x60.png",
+                "id": 1,
+                "original_url": "https:\/\/learntocodewith.me\/podcast\/",
+                "fallback": "Learn to Code With Me: Podcast Archive",
+                "text": "The Learn to Code With Me podcast is for self-taught techies and coders looking to build their skills or move into the tech industry. Hosted by Laurence Bradford.",
+                "title": "Podcast Archive",
+                "title_link": "https:\/\/learntocodewith.me\/podcast\/",
+                "service_name": "Learn to Code With Me"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U04HB4DFQ0K",
+                    "U04DLUZGJ4C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04DLUZGJ4C",
+                    "U04J9382JP3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81db1207-a191-41e8-b562-bf93e54b831f",
+        "type": "message",
+        "text": "ill give it a listen today! love a good podcast :slightly_smiling_face:",
+        "user": "U04DLUZGJ4C",
+        "ts": "1675097909.457579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kL4R7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ill give it a listen today! love a good podcast "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "88668714-fe42-4396-8e0c-dcfcad713bba",
+        "type": "message",
+        "text": "Just a heads up Madeline, I’m going to post some of these to Actualize social media for Monday comedic relief. So thank you for sharing!",
+        "user": "U04J9382JP3",
+        "ts": "1675108457.373619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just a heads up Madeline, I’m going to post some of these to Actualize social media for Monday comedic relief. So thank you for sharing!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674748717.150769",
+        "parent_user_id": "U04DLUZMY84",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04DLUZMY84"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e965d9d-1456-4de0-9c2b-b7753f5dd9ee",
+        "type": "message",
+        "text": "WHAT HAPPENED HERE",
+        "user": "U04J9382JP3",
+        "ts": "1675108592.223589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X\/S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WHAT HAPPENED HERE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673989845.467039",
+        "parent_user_id": "U04HL79B12M",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04HL79B12M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2dcb40c3-ba7a-4eca-bb92-f92b3eafdd6c",
+        "type": "message",
+        "text": "and by here I’m also talking about this horrifying picture",
+        "user": "U04J9382JP3",
+        "ts": "1675108622.247649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dBdNV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and by here I’m also talking about this horrifying picture"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673989845.467039",
+        "parent_user_id": "U04HL79B12M"
+    },
+    {
+        "client_msg_id": "3fe70327-b1d2-4dd3-9c34-b4590da372e2",
+        "type": "message",
+        "text": "it's a doctor who reference",
+        "user": "U04HL79B12M",
+        "ts": "1675108736.956319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n=ZUe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's a doctor who reference"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673989845.467039",
+        "parent_user_id": "U04HL79B12M"
+    },
+    {
+        "client_msg_id": "c77de9d0-97ef-435d-9968-643516b40cb0",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U04HL79B12M",
+        "ts": "1675108774.140849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O6g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673989845.467039",
+        "parent_user_id": "U04HL79B12M"
+    },
+    {
+        "client_msg_id": "6f72c169-5ace-4d2b-9089-cad07f1c6210",
+        "type": "message",
+        "text": "<https:\/\/scattergoriesonline.net\/g\/DLTAG22DWY>",
+        "user": "U04HB4D6ARZ",
+        "ts": "1675116573.067339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EC2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scattergoriesonline.net\/g\/DLTAG22DWY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/scattergoriesonline.net\/g\/DLTAG22DWY",
+                "service_icon": "https:\/\/scattergoriesonline.net\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/scattergoriesonline.net\/g\/DLTAG22DWY",
+                "fallback": "Categories game: Join the Categories game",
+                "text": "Categories are: Food, School subjects, Boy's name, Movie, Color, Girl's name ... #CategoriesGame",
+                "title": "Join the Categories game",
+                "title_link": "https:\/\/scattergoriesonline.net\/g\/DLTAG22DWY",
+                "service_name": "Categories game"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f727943-5e48-454c-ac5e-952f92692ffb",
+        "type": "message",
+        "text": "<https:\/\/scattergoriesonline.net\/g\/DDDAG22EAA>",
+        "user": "U04HB4D6ARZ",
+        "ts": "1675116792.741909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ixBU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scattergoriesonline.net\/g\/DDDAG22EAA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/scattergoriesonline.net\/g\/DDDAG22EAA",
+                "service_icon": "https:\/\/scattergoriesonline.net\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/scattergoriesonline.net\/g\/DDDAG22EAA",
+                "fallback": "Categories game: Join the Categories game",
+                "text": "Categories are: Food, School subjects, Boy's name, Movie, Color, Girl's name ... #CategoriesGame",
+                "title": "Join the Categories game",
+                "title_link": "https:\/\/scattergoriesonline.net\/g\/DDDAG22EAA",
+                "service_name": "Categories game"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63b35a82-4a20-4ec1-9611-8aa21ca2efd5",
+        "type": "message",
+        "text": "<https:\/\/scattergoriesonline.net\/g\/DNYAG22EVY>",
+        "user": "U04HB4D6ARZ",
+        "ts": "1675117554.405389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "60Af",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scattergoriesonline.net\/g\/DNYAG22EVY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/scattergoriesonline.net\/g\/DNYAG22EVY",
+                "service_icon": "https:\/\/scattergoriesonline.net\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/scattergoriesonline.net\/g\/DNYAG22EVY",
+                "fallback": "Categories game: Join the Categories game",
+                "text": "Categories are: Movie, Things that are green, TV show, Adjective, Body part, ... #CategoriesGame",
+                "title": "Join the Categories game",
+                "title_link": "https:\/\/scattergoriesonline.net\/g\/DNYAG22EVY",
+                "service_name": "Categories game"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cfd9ecca-c825-4afa-95b2-0b4e07c23d71",
+        "type": "message",
+        "text": "<https:\/\/scattergoriesonline.net\/g\/D7UAG22E2Q>",
+        "user": "U04HB4D6ARZ",
+        "ts": "1675117676.560569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AEXmX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scattergoriesonline.net\/g\/D7UAG22E2Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/scattergoriesonline.net\/g\/D7UAG22E2Q",
+                "service_icon": "https:\/\/scattergoriesonline.net\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/scattergoriesonline.net\/g\/D7UAG22E2Q",
+                "fallback": "Categories game: Join the Categories game",
+                "text": "Categories are: 3 letter words, Character, Body part, Holiday activities, TV ... #CategoriesGame",
+                "title": "Join the Categories game",
+                "title_link": "https:\/\/scattergoriesonline.net\/g\/D7UAG22E2Q",
+                "service_name": "Categories game"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f38338bc-378d-4319-923a-c7fae55b643c",
+        "type": "message",
+        "text": "<https:\/\/scattergoriesonline.net\/g\/DWYAG22E4A>",
+        "user": "U04HB4D6ARZ",
+        "ts": "1675117706.933959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "46TC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scattergoriesonline.net\/g\/DWYAG22E4A"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/scattergoriesonline.net\/g\/DWYAG22E4A",
+                "service_icon": "https:\/\/scattergoriesonline.net\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/scattergoriesonline.net\/g\/DWYAG22E4A",
+                "fallback": "Categories game: Join the Categories game",
+                "text": "Categories are: 3 letter words, Character, Body part, Holiday activities, TV ... #CategoriesGame",
+                "title": "Join the Categories game",
+                "title_link": "https:\/\/scattergoriesonline.net\/g\/DWYAG22E4A",
+                "service_name": "Categories game"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2355a890-95d8-49aa-be64-42ca18c84904",
+        "type": "message",
+        "text": "Awesome, love it! They made me happy!",
+        "user": "U04DLUZMY84",
+        "ts": "1675125500.387309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eVZnB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, love it! They made me happy!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674748717.150769",
+        "parent_user_id": "U04DLUZMY84"
+    }
+]

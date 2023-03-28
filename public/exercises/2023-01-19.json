@@ -1,0 +1,594 @@
+[
+    {
+        "client_msg_id": "d4418ed5-8276-42df-a377-5592e4356e9f",
+        "type": "message",
+        "text": "Exercise:\nImplement the create action in your mini-capstone.\n\nIn `app\/controllers\/application_controller.rb`, add the following line to disable forgery protection for API requests:\n```protect_from_forgery with: :exception, unless: -&gt; { request.format.json? }```\n\nTest it in an HTTP client: POST localhost:3000\/products.json",
+        "user": "U04HL79B12M",
+        "ts": "1674149252.198269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2C7gw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nImplement the create action in your mini-capstone.\n\nIn "
+                            },
+                            {
+                                "type": "text",
+                                "text": "app\/controllers\/application_controller.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", add the following line to disable forgery protection for API requests:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "protect_from_forgery with: :exception, unless: -> { request.format.json? }"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nTest it in an HTTP client: POST localhost:3000\/products.json"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2f6897ac-0f1c-4558-9e1a-c6d6ac226852",
+        "type": "message",
+        "text": "Exercise:\nChange the create action in your mini-capstone to use params instead of hard-coded data.\n\nTest it in an HTTP client: POST localhost:3000\/products.json with body parameters\n\nUpdate your test file to include a create test with body params:\n```  test \"create\" do\n    assert_difference \"Product.count\", 1 do\n      post \"\/products.json\", params: { name: \"test product\", price: 1, image_url: \"image.jpg\", description: \"test description\"  }\n    end\n  end```\n\nRun `rails test` in the terminal to make sure all tests pass\n\nBonus: Add an option to your frontend Ruby script to test your create action (you can get user input using gets.chomp). You'll need to read the docs to make a POST request with the http gem: <https:\/\/github.com\/httprb\/http\/wiki>",
+        "user": "U04HL79B12M",
+        "ts": "1674152154.447839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TZQeB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nChange the create action in your mini-capstone to use params instead of hard-coded data.\n\nTest it in an HTTP client: POST localhost:3000\/products.json with body parameters\n\nUpdate your test file to include a create test with body params:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  test \"create\" do\n    assert_difference \"Product.count\", 1 do\n      post \"\/products.json\", params: { name: \"test product\", price: 1, image_url: \"image.jpg\", description: \"test description\"  }\n    end\n  end"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nRun "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rails test",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the terminal to make sure all tests pass\n\nBonus: Add an option to your frontend Ruby script to test your create action (you can get user input using gets.chomp). You'll need to read the docs to make a POST request with the http gem: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/httprb\/http\/wiki"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/httprb\/http\/wiki",
+                "image_url": "https:\/\/opengraph.githubassets.com\/4039577b7016967d40e0e5528fe88387fe9bc6c3b4d0c4840c88a7958ce53188\/httprb\/http",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 78268,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/httprb\/http\/wiki",
+                "fallback": "GitHub: Home · httprb\/http Wiki",
+                "text": "HTTP (The Gem! a.k.a. http.rb) - a fast Ruby HTTP client with a chainable API, streaming support, and timeouts - Home · httprb\/http Wiki",
+                "title": "Home · httprb\/http Wiki",
+                "title_link": "https:\/\/github.com\/httprb\/http\/wiki",
+                "service_name": "GitHub"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b37ad37-8d91-4eba-98a6-3e7e974a2880",
+        "type": "message",
+        "text": "Exercise:\nAdd the test for the update action in `tests\/controllers\/products_controller_test.rb`\n```  test \"update\" do\n    product = Product.first\n    patch \"\/products\/#{product.id}.json\", params: { name: \"Updated name\" }\n    assert_response 200\n\n    data = JSON.parse(response.body)\n    assert_equal \"Updated name\", data[\"name\"]\n    assert_equal product.price, data[\"price\"]\n    assert_equal product.image_url, data[\"image_url\"]\n    assert_equal product.description, data[\"description\"]\n  end```\nImplement the update action in your mini-capstone.\nTest it in an HTTP client: PATCH localhost:3000\/products\/1.json with body parameters\nRun `rails test` in the terminal to make sure all tests pass\nBonus: In your frontend Ruby script, add an update option.",
+        "user": "U04HL79B12M",
+        "ts": "1674153861.656869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I\/g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nAdd the test for the update action in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tests\/controllers\/products_controller_test.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  test \"update\" do\n    product = Product.first\n    patch \"\/products\/#{product.id}.json\", params: { name: \"Updated name\" }\n    assert_response 200\n\n    data = JSON.parse(response.body)\n    assert_equal \"Updated name\", data[\"name\"]\n    assert_equal product.price, data[\"price\"]\n    assert_equal product.image_url, data[\"image_url\"]\n    assert_equal product.description, data[\"description\"]\n  end"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Implement the update action in your mini-capstone.\nTest it in an HTTP client: PATCH localhost:3000\/products\/1.json with body parameters\nRun "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rails test",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the terminal to make sure all tests pass\nBonus: In your frontend Ruby script, add an update option."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8f6f7402-37b1-4d00-8ae1-c01d11a0c91c",
+        "type": "message",
+        "text": "Exercise:\nAdd the test for the destroy action in `tests\/controllers\/products_controller_test.rb`\n```  test \"destroy\" do\n    assert_difference \"Product.count\", -1 do\n      delete \"\/products\/#{Product.first.id}.json\"\n      assert_response 200\n    end\n  end```\nImplement the destroy action in your mini-capstone.\nTest it in an HTTP client: DELETE localhost:3000\/products\/1.json\nRun `rails test` in the terminal to make sure all tests pass\nBonus: In your frontend Ruby script, add a destroy option.",
+        "user": "U04HL79B12M",
+        "ts": "1674155144.101499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ccvbi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nAdd the test for the destroy action in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tests\/controllers\/products_controller_test.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  test \"destroy\" do\n    assert_difference \"Product.count\", -1 do\n      delete \"\/products\/#{Product.first.id}.json\"\n      assert_response 200\n    end\n  end"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Implement the destroy action in your mini-capstone.\nTest it in an HTTP client: DELETE localhost:3000\/products\/1.json\nRun "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rails test",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the terminal to make sure all tests pass\nBonus: In your frontend Ruby script, add a destroy option."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4e906629-f0a7-48ab-8e13-ed235f131681",
+        "type": "message",
+        "text": "Exercise:\nInstall the rack-cors gem: <https:\/\/github.com\/cyu\/rack-cors>\n• add gem to Gemfile\n• kill server\n• run bundle install\nConfigure your Rails app to allow web requests from  `<http:\/\/mini-capstone.peterxjang.com|mini-capstone.peterxjang.com>`.\n• create `config\/initializers\/cors.rb` file\n• add config from documentation\n• change origins `*` to  `<http:\/\/mini-capstone.peterxjang.com|mini-capstone.peterxjang.com>`\nTest your backend using the frontend at  <https:\/\/mini-capstone.peterxjang.com\/restful-routes\/products>",
+        "user": "U04HL79B12M",
+        "ts": "1674156930.833709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dH2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nInstall the rack-cors gem: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/cyu\/rack-cors"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "add gem to Gemfile"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "kill server"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "run bundle install"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Configure your Rails app to allow web requests from  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mini-capstone.peterxjang.com",
+                                "text": "mini-capstone.peterxjang.com",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "create "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "config\/initializers\/cors.rb",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " file"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "add config from documentation"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "change origins "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "*",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to  "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/mini-capstone.peterxjang.com",
+                                        "text": "mini-capstone.peterxjang.com",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test your backend using the frontend at  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mini-capstone.peterxjang.com\/restful-routes\/products"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1674157260.000000"
+        }
+    },
+    {
+        "client_msg_id": "c0763427-a3c2-4bde-8049-acf5d634c29a",
+        "type": "message",
+        "text": "Exercise:\nMake a new rails app to keep track of your favorite songs.\nSongs should have attributes for `title`, `album`, `artist`, `year`\n_(you could add more attributes, but you shouldn’t in order to keep your practicing simple)_.\nImplement all five RESTful actions in your songs app.\nTry to whatever extent possible not to look at any example code; see how much of it you can build on your own, and check the example code each time you’re stuck.",
+        "user": "U04HL79B12M",
+        "ts": "1674158150.794609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mGa2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake a new rails app to keep track of your favorite songs.\nSongs should have attributes for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "title",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "album",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "artist",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "year",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(you could add more attributes, but you shouldn’t in order to keep your practicing simple)",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nImplement all five RESTful actions in your songs app.\nTry to whatever extent possible not to look at any example code; see how much of it you can build on your own, and check the example code each time you’re stuck."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

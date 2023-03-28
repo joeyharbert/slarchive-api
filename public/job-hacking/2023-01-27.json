@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "9a945afb-b034-473a-82f1-49fd38799486",
+        "type": "message",
+        "text": "From today’s reflections worksheet, write about the strengths you already have that you’re bringing to this new field and this new job.",
+        "user": "U04J9382JP3",
+        "ts": "1674853897.544699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2PgJy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From today’s reflections worksheet, write about the strengths you already have that you’re bringing to this new field and this new job."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

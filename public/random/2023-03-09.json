@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message",
+        "text": "Joey I found your next purchase \n<https:\/\/a.co\/d\/b7bJekp>",
+        "user": "U04DLUZMY84",
+        "ts": "1678376549.130619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ArL3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Joey I found your next purchase \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/a.co\/d\/b7bJekp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U04HL79B12M",
+                    "U04HB4D6ARZ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

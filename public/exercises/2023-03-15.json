@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "d16287cc-277b-4e61-aba4-8692271ab841",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1mv9WVka_od6gOozSuGA-f1svnOUtwrX54fLwSkKV06U\/edit>",
+        "user": "U04HL79B12M",
+        "ts": "1678898655.803639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OkAQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1mv9WVka_od6gOozSuGA-f1svnOUtwrX54fLwSkKV06U\/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8c4f6937-e33d-43e6-9359-eafa9ce1d268",
+        "type": "message",
+        "text": "Exercise: Team API Project!\n1) Make the Rails or React.js app\nChoose ONE person from your individual team to make a new Rails or React app\nThat person pushes that app to GitHub, then adds the other members as collaborators\nEvery OTHER member clones the app and runs `bundle install` or `npm install`\n\n2) Practice one pull request\nEveryone watches one person follow the pull request guide to make a new branch, make some trivial change in the code (add a comment to any file), and make a pull request on GitHub.\nSomeone else merges the code on GitHub.\nRepeat for each member in the group!\nBE SURE TO FOLLOW THE PULL REQUEST GUIDE - NO ONE SHOULD BE PUSHING TO THE MAIN BRANCH!\n\n3) Mob program for ~30 minutes\nMob Programming is a software development approach where the whole team works on the same thing, at the same time, in the same space, and at the same computer\nThis helps ensure everyone in the group understands what needs to get built out!\nBE SURE TO FOLLOW THE PULL REQUEST GUIDE - NO ONE SHOULD BE PUSHING TO THE MAIN BRANCH!\n\n4) Divide up the work individually or in pairs\nFirst follow the pull request cheat sheet to make sure everyone has the most up-to-date code\nTry to work on small features and make pull requests frequently (as opposed to working for two hours then making a pull request that’s very out of date)\nBE SURE TO FOLLOW THE PULL REQUEST GUIDE - NO ONE SHOULD BE PUSHING TO THE MAIN BRANCH!",
+        "user": "U04HL79B12M",
+        "ts": "1678898679.953259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c3QF2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Team API Project!\n1) Make the Rails or React.js app\nChoose ONE person from your individual team to make a new Rails or React app\nThat person pushes that app to GitHub, then adds the other members as collaborators\nEvery OTHER member clones the app and runs "
+                            },
+                            {
+                                "type": "text",
+                                "text": "bundle install",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "text",
+                                "text": "npm install",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n2) Practice one pull request\nEveryone watches one person follow the pull request guide to make a new branch, make some trivial change in the code (add a comment to any file), and make a pull request on GitHub.\nSomeone else merges the code on GitHub.\nRepeat for each member in the group!\nBE SURE TO FOLLOW THE PULL REQUEST GUIDE - NO ONE SHOULD BE PUSHING TO THE MAIN BRANCH!\n\n3) Mob program for ~30 minutes\nMob Programming is a software development approach where the whole team works on the same thing, at the same time, in the same space, and at the same computer\nThis helps ensure everyone in the group understands what needs to get built out!\nBE SURE TO FOLLOW THE PULL REQUEST GUIDE - NO ONE SHOULD BE PUSHING TO THE MAIN BRANCH!\n\n4) Divide up the work individually or in pairs\nFirst follow the pull request cheat sheet to make sure everyone has the most up-to-date code\nTry to work on small features and make pull requests frequently (as opposed to working for two hours then making a pull request that’s very out of date)\nBE SURE TO FOLLOW THE PULL REQUEST GUIDE - NO ONE SHOULD BE PUSHING TO THE MAIN BRANCH!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

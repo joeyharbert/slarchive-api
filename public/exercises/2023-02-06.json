@@ -1,0 +1,370 @@
+[
+    {
+        "client_msg_id": "c6216ada-02f7-44cc-87f3-f79ff8660b3f",
+        "type": "message",
+        "text": "Exercise:\nCopy the bootstrap starter template (<https:\/\/getbootstrap.com\/docs\/5.2\/getting-started\/introduction\/>) into a blank html file or codepen (<https:\/\/codepen.io\/pen\/?editors=1000>) and add the following:\n1) Navbar: <http:\/\/getbootstrap.com\/docs\/5.2\/components\/navbar\/>\n2) Cards in a grid: <http:\/\/getbootstrap.com\/docs\/5.2\/components\/card\/#using-grid-markup>\n3) Dismissable alert message: <http:\/\/getbootstrap.com\/docs\/5.2\/components\/alerts\/#dismissing>\n4) Modal:  <http:\/\/getbootstrap.com\/docs\/5.2\/components\/modal\/#live-demo>\nBonus: Check the docs and try using different components and css classes!",
+        "user": "U04HL79B12M",
+        "ts": "1675705864.399909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5tVS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nCopy the bootstrap starter template ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/getbootstrap.com\/docs\/5.2\/getting-started\/introduction\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") into a blank html file or codepen ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/codepen.io\/pen\/?editors=1000"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") and add the following:\n1) Navbar: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/getbootstrap.com\/docs\/5.2\/components\/navbar\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2) Cards in a grid: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/getbootstrap.com\/docs\/5.2\/components\/card\/#using-grid-markup"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3) Dismissable alert message: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/getbootstrap.com\/docs\/5.2\/components\/alerts\/#dismissing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n4) Modal:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/getbootstrap.com\/docs\/5.2\/components\/modal\/#live-demo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBonus: Check the docs and try using different components and css classes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/codepen.io\/pen\/?editors=1000",
+                "service_icon": "https:\/\/cpwebassets.codepen.io\/assets\/favicon\/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png",
+                "id": 2,
+                "original_url": "https:\/\/codepen.io\/pen\/?editors=1000",
+                "fallback": "CodePen: Create a New Pen",
+                "text": "...",
+                "title": "Create a New Pen",
+                "title_link": "https:\/\/codepen.io\/pen\/?editors=1000",
+                "service_name": "CodePen"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dded39cc-50a3-4ae3-9c5d-52bb2c8c0f9e",
+        "type": "message",
+        "text": "Exercise:\nCopy the bootstrap starter template (<https:\/\/getbootstrap.com\/docs\/5.2\/getting-started\/introduction\/>) into a blank codepen (<https:\/\/codepen.io\/pen\/?editors=1000>) and do the following:\n1) Add a Bootstrap grid: <http:\/\/getbootstrap.com\/docs\/5.2\/layout\/grid\/>\n2) Customize the grid to look like the following: <https:\/\/drive.google.com\/file\/d\/1iKjzdAk1zXESAOGv7Jvkoz9mQec7iGxN\/view?usp=sharing>\nNote: You can add some CSS to see colors with the columns:\n```.row &gt; div {\n  background-color: #99CF1C;\n  border: 2px black solid;\n  border-radius: 5px;\n  min-height: 50px;\n}\n\n.row {\n  margin-bottom: 15px;\n}```",
+        "user": "U04HL79B12M",
+        "ts": "1675707646.824209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wgl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nCopy the bootstrap starter template ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/getbootstrap.com\/docs\/5.2\/getting-started\/introduction\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") into a blank codepen ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/codepen.io\/pen\/?editors=1000"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") and do the following:\n1) Add a Bootstrap grid: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/getbootstrap.com\/docs\/5.2\/layout\/grid\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2) Customize the grid to look like the following: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1iKjzdAk1zXESAOGv7Jvkoz9mQec7iGxN\/view?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNote: You can add some CSS to see colors with the columns:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ".row > div {\n  background-color: #99CF1C;\n  border: 2px black solid;\n  border-radius: 5px;\n  min-height: 50px;\n}\n\n.row {\n  margin-bottom: 15px;\n}"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1675707699.000000"
+        }
+    },
+    {
+        "client_msg_id": "c33ac7b7-19c6-4440-a1cf-f5dc78aad832",
+        "type": "message",
+        "text": "Exercise:\n• Clone down this app:  <https:\/\/github.com\/actualize-daytime-2022-12-04\/shoes-app>\n```git clone <https:\/\/github.com\/actualize-daytime-2022-12-04\/shoes-app.git>\ncd shoes-app\nbundle install\nrails db:create db:migrate db:seed```\n• Make it pretty with bootstrap :slightly_smiling_face:",
+        "user": "U04HL79B12M",
+        "ts": "1675711963.023259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kwk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Clone down this app:  "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/actualize-daytime-2022-12-04\/shoes-app"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git clone "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/actualize-daytime-2022-12-04\/shoes-app.git"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ncd shoes-app\nbundle install\nrails db:create db:migrate db:seed"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make it pretty with bootstrap "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "slightly_smiling_face",
+                                        "unicode": "1f642"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1675712171.000000"
+        }
+    },
+    {
+        "client_msg_id": "19f851e7-8eca-4044-9fe5-12f8ea784552",
+        "type": "message",
+        "text": "`git clone`",
+        "user": "U04HL79B12M",
+        "ts": "1675711982.036119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2I0\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git clone",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "18de3261-1d8a-42e4-88ac-ff9705198754",
+        "type": "message",
+        "text": "`git pull origin main`",
+        "user": "U04HL79B12M",
+        "ts": "1675712504.877259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmGt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git pull origin main",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

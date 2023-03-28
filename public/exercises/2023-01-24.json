@@ -1,0 +1,277 @@
+[
+    {
+        "client_msg_id": "25b7ac7c-c34d-4127-be75-836c17fe209e",
+        "type": "message",
+        "text": "Exercise:\nAdd as many of these validations as you can to your models.\n-----------------------------\nProduct\n\n\nName - presence - uniqueness\nPrice - presence - numericality and not a negative number or 0\nDescription - length of a minimum of 10 and a maximum of 500 characters\n\nBonus: Do a web search to find out how to add a validation to make sure the image url is a valid file format (like .jpg, .png, etc.)",
+        "user": "U04HL79B12M",
+        "ts": "1674581202.897239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Me8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nAdd as many of these validations as you can to your models.\n-----------------------------\nProduct\n\n\nName - presence - uniqueness\nPrice - presence - numericality and not a negative number or 0\nDescription - length of a minimum of 10 and a maximum of 500 characters\n\nBonus: Do a web search to find out how to add a validation to make sure the image url is a valid file format (like .jpg, .png, etc.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1ae9b6c9-5866-4e67-8c13-b61d04a9e323",
+        "type": "message",
+        "text": "Exercise:\nIn your mini-capstone, add validations and sad paths for your create and update actions!\n● Add validations to your Rails models\n● Add an if \/ else condition to your controller `create` action to deal with happy \/ sad paths\n● Add an if \/ else condition to your controller `update` action to deal with happy \/ sad paths\nAdd tests for the sad paths\n```  test \"create\" do\n    assert_difference \"Product.count\", 1 do\n      post \"\/products.json\", params: { name: \"test\", price: 10, image_url: \"test.jpg\", description: \"test description\" }\n      assert_response 200\n    end\n\n    post \"\/products.json\", params: {}\n    assert_response 422\n  end\n\n  test \"update\" do\n    product = Product.first\n    patch \"\/products\/#{product.id}.json\", params: { name: \"Updated name\" }\n    assert_response 200\n\n    data = JSON.parse(response.body)\n    assert_equal \"Updated name\", data[\"name\"]\n    assert_equal product.price, data[\"price\"]\n    assert_equal product.image_url, data[\"image_url\"]\n    assert_equal product.description, data[\"description\"]\n\n    patch \"\/products\/#{product.id}.json\", params: { name: \"\" }\n    assert_response 422\n  end```\n",
+        "user": "U04HL79B12M",
+        "ts": "1674585170.575429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XgR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn your mini-capstone, add validations and sad paths for your create and update actions!\n● Add validations to your Rails models\n● Add an if \/ else condition to your controller "
+                            },
+                            {
+                                "type": "text",
+                                "text": "create",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " action to deal with happy \/ sad paths\n● Add an if \/ else condition to your controller "
+                            },
+                            {
+                                "type": "text",
+                                "text": "update",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " action to deal with happy \/ sad paths\nAdd tests for the sad paths\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  test \"create\" do\n    assert_difference \"Product.count\", 1 do\n      post \"\/products.json\", params: { name: \"test\", price: 10, image_url: \"test.jpg\", description: \"test description\" }\n      assert_response 200\n    end\n\n    post \"\/products.json\", params: {}\n    assert_response 422\n  end\n\n  test \"update\" do\n    product = Product.first\n    patch \"\/products\/#{product.id}.json\", params: { name: \"Updated name\" }\n    assert_response 200\n\n    data = JSON.parse(response.body)\n    assert_equal \"Updated name\", data[\"name\"]\n    assert_equal product.price, data[\"price\"]\n    assert_equal product.image_url, data[\"image_url\"]\n    assert_equal product.description, data[\"description\"]\n\n    patch \"\/products\/#{product.id}.json\", params: { name: \"\" }\n    assert_response 422\n  end"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "64a019dc-4069-419e-afbb-0aea47327feb",
+        "type": "message",
+        "text": "Exercise:\nMake a new rails app called `example-validations-app` with a User model (with attributes first_name, last_name, email).\n\nAdd validations to make sure a user has a first name, a last name.\nTest your validations using the rails console.\n\nMake an action to create a new user, with happy\/sad paths.\n\nBonus: Make an action to update a new user, with happy\/sad paths.\n\nBonus: Add a validation to make sure a user has a valid email address.",
+        "user": "U04HL79B12M",
+        "ts": "1674585578.886499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ti4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake a new rails app called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "example-validations-app",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with a User model (with attributes first_name, last_name, email).\n\nAdd validations to make sure a user has a first name, a last name.\nTest your validations using the rails console.\n\nMake an action to create a new user, with happy\/sad paths.\n\nBonus: Make an action to update a new user, with happy\/sad paths.\n\nBonus: Add a validation to make sure a user has a valid email address."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bfb0d84d-1123-4fde-afa8-72204cb78e2d",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1bbNKdXSeQQjSPBdNPZ_kdWvOoJHZSTR-UrxNJC3CfQY\/copy>",
+        "user": "U04HL79B12M",
+        "ts": "1674591241.601749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IKhJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1bbNKdXSeQQjSPBdNPZ_kdWvOoJHZSTR-UrxNJC3CfQY\/copy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "adbdaf9c-d291-41df-bc6d-051a51c93cb1",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/17I6xTu0REvnTprpruL4kPqYzIzPZ4WT1PlnhZLnPYhw\/copy>",
+        "user": "U04HL79B12M",
+        "ts": "1674591382.103909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YToL=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/17I6xTu0REvnTprpruL4kPqYzIzPZ4WT1PlnhZLnPYhw\/copy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a24b2e80-c98d-423a-baaa-6d978b9741af",
+        "type": "message",
+        "text": "Exercise:\nLet’s split up this table into two, so that we have one table that has the product info, and a separate table that contains the supplier info. The tricky part here is coming up with a way to indicate which product comes from which supplier.\nIn your spreadsheet, create a products table and suppliers table, and come up with your own way that would indicate which product comes from which supplier. There is no wrong answer - let’s just see what you come up with.",
+        "user": "U04HL79B12M",
+        "ts": "1674591446.394279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YEQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nLet’s split up this table into two, so that we have one table that has the product info, and a separate table that contains the supplier info. The tricky part here is coming up with a way to indicate which product comes from which supplier.\nIn your spreadsheet, create a products table and suppliers table, and come up with your own way that would indicate which product comes from which supplier. There is no wrong answer - let’s just see what you come up with."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1675367662.995929",
+        "user": "U04C9TMTJT1",
+        "text": "<@U04C9TMTJT1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Which one?",
+        "ts": "1675367665.314499",
+        "bot_id": "B04D33KFQP3",
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "E0u",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": ":gear: Anonymous",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "poll-146b4252-66f8-4d24-83ab-b6644a4a4601-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Which one?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: Edit Poll",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":lock: Close Poll",
+                                "emoji": true
+                            },
+                            "value": "close_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":recycle: Recreate this Poll",
+                                "emoji": true
+                            },
+                            "value": "create_poll_from_recent_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":arrow_heading_down: Promote Poll",
+                                "emoji": true
+                            },
+                            "value": "promote_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-146b4252-66f8-4d24-83ab-b6644a4a4601-vote-42098634",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Full-stack rails    `5`\n:heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42098634",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-146b4252-66f8-4d24-83ab-b6644a4a4601-vote-42098635",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Review    `1`\n:heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42098635",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "FePYK",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U04HL79B12M> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "B04D33KFQP3",
+            "ts": "1675367702.000000"
+        }
+    }
+]

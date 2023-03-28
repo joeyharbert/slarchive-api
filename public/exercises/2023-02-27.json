@@ -1,0 +1,711 @@
+[
+    {
+        "client_msg_id": "4f7f6d91-39de-4dc9-aa57-a0247912e7cc",
+        "type": "message",
+        "text": "Exercise:\nIn your terminal, install bootstrap using npm:\n```npm install bootstrap --save```\nImport bootstrap in *src\/main.jsx*\n```import \"bootstrap\";\nimport \"bootstrap\/dist\/css\/bootstrap.min.css\";```\n\nIn Content.jsx, add a “container” class for margin\/padding\n```&lt;div className=\"container\"&gt;```\n\nIn Header.jsx add a navbar: <https:\/\/getbootstrap.com\/docs\/5.2\/components\/navbar\/>\n(note: You'll need to read the error messages to fix the incorrect HTML from the bootstrap docs)\n\n\nUse bootstrap to style the rest of your application!",
+        "user": "U04HL79B12M",
+        "ts": "1677519520.552459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EJ0tR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn your terminal, install bootstrap using npm:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm install bootstrap --save"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nImport bootstrap in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "src\/main.jsx",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import \"bootstrap\";\nimport \"bootstrap\/dist\/css\/bootstrap.min.css\";"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nIn Content.jsx, add a “container” class for margin\/padding\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<div className=\"container\">"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nIn Header.jsx add a navbar: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/getbootstrap.com\/docs\/5.2\/components\/navbar\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(note: You'll need to read the error messages to fix the incorrect HTML from the bootstrap docs)\n\n\nUse bootstrap to style the rest of your application!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b6d2c358-7d37-469f-b1e0-88be57af49b7",
+        "type": "message",
+        "text": "Exercise:\nIn *\/src\/index.css*, change the font by adding a font from <http:\/\/cssfontstack.com> to the #root tag.\n\nIn *\/src\/index.css*, add a background image to the #root tag from <http:\/\/subtlepatterns.com> or <http:\/\/www.noupe.com\/design\/80-stunning-background-patterns-for-your-websites.html>\n\nBonus: Add cards to the index page, style the forms, etc.",
+        "user": "U04HL79B12M",
+        "ts": "1677522376.648989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "van=H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/src\/index.css",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", change the font by adding a font from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cssfontstack.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to the #root tag.\n\nIn "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/src\/index.css",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", add a background image to the #root tag from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/subtlepatterns.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.noupe.com\/design\/80-stunning-background-patterns-for-your-websites.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBonus: Add cards to the index page, style the forms, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/cssfontstack.com\/",
+                "service_icon": "http:\/\/dpidudyah7i0b.cloudfront.net\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/cssfontstack.com",
+                "fallback": "CSS Font Stack: Web Safe and Web Font Family with HTML and CSS code.",
+                "text": "Web safe CSS font stacks and web fonts. Select, preview, and generate CSS and HTML for your font family.",
+                "title": "CSS Font Stack: Web Safe and Web Font Family with HTML and CSS code.",
+                "title_link": "http:\/\/cssfontstack.com\/",
+                "service_name": "cssfontstack.com"
+            },
+            {
+                "from_url": "http:\/\/subtlepatterns.com\/",
+                "service_icon": "https:\/\/www.toptal.com\/designers\/subtlepatterns\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "http:\/\/subtlepatterns.com",
+                "fallback": "Subtle Patterns: Subtle Patterns | Free textures for your next web project",
+                "text": "Subtle Patterns brought to you by Toptal, free textures for your next web project. Find out more here.",
+                "title": "Subtle Patterns | Free textures for your next web project",
+                "title_link": "http:\/\/subtlepatterns.com\/",
+                "service_name": "Subtle Patterns"
+            },
+            {
+                "image_url": "https:\/\/www.jotform.com\/blog\/wp-content\/uploads\/2009\/10\/banner-28-ff9f43-604x366.png",
+                "image_width": 604,
+                "image_height": 366,
+                "image_bytes": 95069,
+                "from_url": "http:\/\/www.noupe.com\/design\/80-stunning-background-patterns-for-your-websites.html",
+                "service_icon": "https:\/\/www.jotform.com\/favicon.ico",
+                "id": 3,
+                "original_url": "http:\/\/www.noupe.com\/design\/80-stunning-background-patterns-for-your-websites.html",
+                "fallback": "The Jotform Blog: 80 Stunning Background Patterns For Your Websites | The Jotform Blog",
+                "text": "We are always attracted to the outstanding design, layout or content when we click in a website, but seldom of us would notice the textures and patterns that are used. If there are only background colors, many websites would not be that eye-catching as they are now.\nPatterns can be simply repetition...",
+                "title": "80 Stunning Background Patterns For Your Websites | The Jotform Blog",
+                "title_link": "http:\/\/www.noupe.com\/design\/80-stunning-background-patterns-for-your-websites.html",
+                "service_name": "The Jotform Blog"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62c33531-7a56-4941-86eb-27569fa303b8",
+        "type": "message",
+        "text": "Exercise:\nUse the React CRUD guide to build a second frontend for the blog-api from scratch (call it blog-frontend2)\n\n\nOnly practice the index and show actions\n\n\nBonus: Use bootstrap to style your application\n(only do this after you finish building the index and show actions!)",
+        "user": "U04HL79B12M",
+        "ts": "1677523022.756759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JIz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nUse the React CRUD guide to build a second frontend for the blog-api from scratch (call it blog-frontend2)\n\n\nOnly practice the index and show actions\n\n\nBonus: Use bootstrap to style your application\n(only do this after you finish building the index and show actions!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "595aeb18-9e90-4bbe-a730-f294a706fcd8",
+        "type": "message",
+        "text": "Exercise:\nMake a Signup.jsx component\nImport the component in Content.jsx\nTest the form to see the JSON response in the browser\nBonus: Read more about the different types of HTML inputs: <https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTML\/Element\/input>",
+        "user": "U04HL79B12M",
+        "ts": "1677527456.684659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NYK2E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake a Signup.jsx component\nImport the component in Content.jsx\nTest the form to see the JSON response in the browser\nBonus: Read more about the different types of HTML inputs: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTML\/Element\/input"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTML\/Element\/input",
+                "image_url": "https:\/\/developer.mozilla.org\/mdn-social-share.cd6c4a5a.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 23824,
+                "service_icon": "https:\/\/developer.mozilla.org\/apple-touch-icon.6803c6f0.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTML\/Element\/input",
+                "fallback": ": The Input (Form Input) element - HTML: HyperText Markup Language | MDN",
+                "title": ": The Input (Form Input) element - HTML: HyperText Markup Language | MDN",
+                "title_link": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTML\/Element\/input",
+                "service_name": "developer.mozilla.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9f5480a-fc5d-4e0f-a19b-494febe60879",
+        "type": "message",
+        "text": "Exercise:\nWrite a function to handle the form `onSubmit` event.\nThe function should use axios to send a POST request to `<http:\/\/localhost:3000\/users.json>` with the params from the form.",
+        "user": "U04HL79B12M",
+        "ts": "1677529100.141349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gLVFZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nWrite a function to handle the form "
+                            },
+                            {
+                                "type": "text",
+                                "text": "onSubmit",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event.\nThe function should use axios to send a POST request to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000\/users.json",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with the params from the form."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9286971f-696a-4327-b18d-7395a110d35b",
+        "type": "message",
+        "text": "Exercise:\nMake a Login.jsx form component\nIt should make a POST request to `<http:\/\/localhost:3000\/sessions.json>` with params for `email` and `password`",
+        "user": "U04HL79B12M",
+        "ts": "1677529482.385069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7pAE7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake a Login.jsx form component\nIt should make a POST request to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000\/sessions.json",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with params for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "email",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "password",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "762cf839-f546-4d60-8d7d-a3bf18836718",
+        "type": "message",
+        "text": "Exercise:\nSign into HackerRank (use your GitHub account): <https:\/\/www.hackerrank.com>\nSolve the first problem to familiarize yourself with the platform:\n<https:\/\/www.hackerrank.com\/challenges\/simple-array-sum\/problem>",
+        "user": "U04HL79B12M",
+        "ts": "1677532583.322839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C06\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nSign into HackerRank (use your GitHub account): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hackerrank.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSolve the first problem to familiarize yourself with the platform:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hackerrank.com\/challenges\/simple-array-sum\/problem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.hackerrank.com\/",
+                "image_url": "https:\/\/www.hackerrank.com\/wp-content\/uploads\/2022\/10\/Homepage-Social-Share-1024x468.png",
+                "image_width": 1024,
+                "image_height": 468,
+                "image_bytes": 29489,
+                "service_icon": "https:\/\/www.hackerrank.com\/wp-content\/uploads\/2020\/05\/hackerrank_cursor_favicon_480px-300x300.png",
+                "id": 1,
+                "original_url": "https:\/\/www.hackerrank.com",
+                "fallback": "HackerRank",
+                "text": "HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. Learn how to hire technical talent from anywhere!",
+                "title": "HackerRank",
+                "title_link": "https:\/\/www.hackerrank.com\/",
+                "service_name": "hackerrank.com"
+            },
+            {
+                "from_url": "https:\/\/www.hackerrank.com\/challenges\/simple-array-sum\/problem",
+                "thumb_url": "https:\/\/hrcdn.net\/og\/default.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 640,
+                "service_icon": "https:\/\/hrcdn.net\/fcore\/assets\/favicon-ddc852f75a.png",
+                "id": 2,
+                "original_url": "https:\/\/www.hackerrank.com\/challenges\/simple-array-sum\/problem",
+                "fallback": "HackerRank: Simple Array Sum | HackerRank",
+                "text": "Calculate the sum of integers in an array.",
+                "title": "Simple Array Sum | HackerRank",
+                "title_link": "https:\/\/www.hackerrank.com\/challenges\/simple-array-sum\/problem",
+                "service_name": "HackerRank"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de6bb941-a1ca-4677-811e-4e583b175d44",
+        "type": "message",
+        "text": "aaabccddd\n\n[aa]abccddd =&gt; abccddd\n\n[ab]cddd =&gt; abccddd\n\na[bc]cddd =&gt; abcccddd\n\nab[cc]ddd =&gt; abddd\n\na[bd]dd =&gt; abddd\n\nab[dd]d =&gt; abd\n\na[bd] =&gt; final answer: abd",
+        "user": "U04HL79B12M",
+        "ts": "1677533353.139619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o+GgG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aaabccddd\n\n[aa]abccddd => abccddd\n\n[ab]cddd => abccddd\n\na[bc]cddd => abcccddd\n\nab[cc]ddd => abddd\n\na[bd]dd => abddd\n\nab[dd]d => abd\n\na[bd] => final answer: abd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "968b8bd5-43b2-4f35-9ebd-d05964d45b76",
+        "type": "message",
+        "text": "baab\n[ba]ab =&gt; baab\nb[aa]b =&gt; bb\n[bb] =&gt; \"\" =&gt;",
+        "user": "U04HL79B12M",
+        "ts": "1677533479.165519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qBa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "baab\n[ba]ab => baab\nb[aa]b => bb\n[bb] => \"\" =>"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a6f3c58c-2887-45c7-ae06-e2282b9eb7aa",
+        "type": "message",
+        "text": "Empty String",
+        "user": "U04HL79B12M",
+        "ts": "1677533481.722619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dmJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Empty String"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a23e9b50-f1bf-4e6b-ae87-72f9af79d769",
+        "type": "message",
+        "text": "<https:\/\/www.hackerrank.com\/challenges\/reduced-string\/problem>",
+        "user": "U04HL79B12M",
+        "ts": "1677534389.967419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rBd\/S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hackerrank.com\/challenges\/reduced-string\/problem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.hackerrank.com\/challenges\/reduced-string\/problem",
+                "thumb_url": "https:\/\/hrcdn.net\/og\/default.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 640,
+                "service_icon": "https:\/\/hrcdn.net\/fcore\/assets\/favicon-ddc852f75a.png",
+                "id": 1,
+                "original_url": "https:\/\/www.hackerrank.com\/challenges\/reduced-string\/problem",
+                "fallback": "HackerRank: Super Reduced String | HackerRank",
+                "text": "Given a string, repeatedly remove adjacent pairs of matching characters and then print the reduced result.",
+                "title": "Super Reduced String | HackerRank",
+                "title_link": "https:\/\/www.hackerrank.com\/challenges\/reduced-string\/problem",
+                "service_name": "HackerRank"
+            }
+        ]
+    }
+]

@@ -1,0 +1,273 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "How do you feel about networking right now?",
+        "ts": "1677704488.237189",
+        "bot_id": "B04D33KFQP3",
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "q9uG",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": ":gear: Anonymous",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "poll-4b13ca06-fd36-45fc-97d9-6a09548a7a7b-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*How do you feel about networking right now?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: Edit Poll",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":lock: Close Poll",
+                                "emoji": true
+                            },
+                            "value": "close_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":recycle: Recreate this Poll",
+                                "emoji": true
+                            },
+                            "value": "create_poll_from_recent_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":arrow_heading_down: Promote Poll",
+                                "emoji": true
+                            },
+                            "value": "promote_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-4b13ca06-fd36-45fc-97d9-6a09548a7a7b-vote-42678579",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: I’m really looking forward to this!\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42678579",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-4b13ca06-fd36-45fc-97d9-6a09548a7a7b-vote-42678580",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: I’m uncomfortable with this, but am willing to do it anyway…    `6`\n:heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42678580",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-4b13ca06-fd36-45fc-97d9-6a09548a7a7b-vote-42678581",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: I’m really uncomfortable\/concerned and don’t want to do this.\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42678581",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "zld",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U04J9382JP3> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "B04D33KFQP3",
+            "ts": "1677704510.000000"
+        }
+    },
+    {
+        "client_msg_id": "755de4c4-88f7-43ab-8649-a1add2d81a32",
+        "type": "message",
+        "text": "*Share Your Screen*\n* Open your “Actualize Job Search Documents” folder: <https:\/\/drive.google.com\/drive\/search?q=type:folder%20Actualize%20Job%20Search%20Documents>\n* Open your “Actualize Job Search Plan for Graduation” and select at least one person from question 2 in the “Networking” section and compose a message asking them for an informational interview.\n* Send to your Career Advisor for review if you want feedback.\n\nTemplate\nSubject: Informational Interview Request (via LinkedIn) or one from here: <https:\/\/www.voilanorbert.com\/blog\/networking-email-subject-line-examples\/>\n\n*Example To Start With - Customize with at least one sentence to include why you want to talk to them specifically - what you have in common*\nDear THEIR NAME,\n\nMy name is YOUR NAME and I am in the process of making a career transition into software engineering, currently attending Actualize Coding Bootcamp. I’m reaching out because we are connected on LinkedIn and I’m looking to find out more about the industry and how I can jump in. I’d love to learn more about your experience in the field and advice you have for someone like me entering into tech and development.\n\nI’m sure you’re busy, so even 20 minutes would be appreciated.\n\nThanks so much,\nYOUR NAME",
+        "user": "U04J9382JP3",
+        "ts": "1677705609.582249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BvZwo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Share Your Screen",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n* Open your “Actualize Job Search Documents” folder: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/search?q=type:folder%20Actualize%20Job%20Search%20Documents"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n* Open your “Actualize Job Search Plan for Graduation” and select at least one person from question 2 in the “Networking” section and compose a message asking them for an informational interview.\n* Send to your Career Advisor for review if you want feedback.\n\nTemplate\nSubject: Informational Interview Request (via LinkedIn) or one from here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.voilanorbert.com\/blog\/networking-email-subject-line-examples\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Example To Start With - Customize with at least one sentence to include why you want to talk to them specifically - what you have in common",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDear THEIR NAME,\n\nMy name is YOUR NAME and I am in the process of making a career transition into software engineering, currently attending Actualize Coding Bootcamp. I’m reaching out because we are connected on LinkedIn and I’m looking to find out more about the industry and how I can jump in. I’d love to learn more about your experience in the field and advice you have for someone like me entering into tech and development.\n\nI’m sure you’re busy, so even 20 minutes would be appreciated.\n\nThanks so much,\nYOUR NAME"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.voilanorbert.com\/blog\/networking-email-subject-line-examples\/",
+                "service_icon": "https:\/\/www.voilanorbert.com\/wp-content\/uploads\/2016\/06\/apple-touch-icon-57x57.png",
+                "thumb_url": "https:\/\/www.voilanorbert.com\/wp-content\/uploads\/2019\/04\/Networking-Email-Subject-Line-Examples-and-Best-Practices--700x371.png",
+                "thumb_width": 700,
+                "thumb_height": 371,
+                "ts": 1597147245,
+                "id": 1,
+                "original_url": "https:\/\/www.voilanorbert.com\/blog\/networking-email-subject-line-examples\/",
+                "fallback": "Norbert: Networking Email Subject Line Examples and Best Practices",
+                "text": "Not sure how to get started with email networking? The following 50 networking email subject lines should give you plenty of inspiration.",
+                "title": "Networking Email Subject Line Examples and Best Practices",
+                "title_link": "https:\/\/www.voilanorbert.com\/blog\/networking-email-subject-line-examples\/",
+                "service_name": "Norbert"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "036df7ea-6557-4365-9da2-0696d375cd99",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1enKw7KFshi-rgG9Lt79FNzSQDub5f_mj8DRR3-rej7A\/edit>",
+        "user": "U04J9382JP3",
+        "ts": "1677707750.532859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yOQz9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1enKw7KFshi-rgG9Lt79FNzSQDub5f_mj8DRR3-rej7A\/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

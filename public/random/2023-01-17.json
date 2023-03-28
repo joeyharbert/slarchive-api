@@ -1,0 +1,477 @@
+[
+    {
+        "type": "message",
+        "text": "Also, this cassandra…",
+        "files": [
+            {
+                "id": "F04L0HB3K88",
+                "created": 1673985066,
+                "timestamp": 1673985066,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04HB4D6ARZ",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 177585,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04L0HB3K88\/image.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04L0HB3K88\/download\/image.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04L0HB3K88-7ced9adc6a\/image_64.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04L0HB3K88-7ced9adc6a\/image_80.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04L0HB3K88-7ced9adc6a\/image_360.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360_w": 322,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04L0HB3K88-7ced9adc6a\/image_160.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "original_w": 349,
+                "original_h": 390,
+                "thumb_tiny": "AwAwACqpHAynLYI9M1MIj08pR+JoFXYU3UMSKYgOP9Wn5mgwkA\/u0\/WtE+WvB\/lTJAAMilcZneWN\/KgHGeKk3\/ShuZT\/ALtRnqaTGh1XrdgABVI1PE2KbJiW2JJ4PHcVFJ0pwbIqOQ8VJRVwPMP0NRnqak\/5aH6Uw9apghTUqnFRcHvTyQB94U2RFlmNx3psjA1AG9JB+VOLD+8PyqbFXGf8tD9KaetOyPM4OeKgMnJpgj\/\/2Q==",
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04HB4D6ARZ\/F04L0HB3K88\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04L0HB3K88-d3b50e0f10",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04HB4D6ARZ",
+        "display_as_bot": false,
+        "ts": "1673985071.588939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pidst",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, this cassandra…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6733393a-5269-4e11-9558-78ebc0f9b315"
+    },
+    {
+        "client_msg_id": "6f84c9a2-032e-4fdb-bb74-9b0025954200",
+        "type": "message",
+        "text": "moisturize me",
+        "user": "U04HL79B12M",
+        "ts": "1673989845.467039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yK0S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "moisturize me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673989845.467039",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1675108774.140849",
+        "reply_users": [
+            "U04J9382JP3",
+            "U04HL79B12M"
+        ],
+        "replies": [
+            {
+                "user": "U04J9382JP3",
+                "ts": "1675108592.223589"
+            },
+            {
+                "user": "U04J9382JP3",
+                "ts": "1675108622.247649"
+            },
+            {
+                "user": "U04HL79B12M",
+                "ts": "1675108736.956319"
+            },
+            {
+                "user": "U04HL79B12M",
+                "ts": "1675108774.140849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2b463337-524a-427e-a621-1566423f5d11",
+        "type": "message",
+        "text": "Very that",
+        "user": "U04HB4D6ARZ",
+        "ts": "1673989852.775339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qrbnr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0da2deed-9dfd-47ea-a124-88e792b8bdb5",
+        "type": "message",
+        "text": "It's a good thing she's not relational bc I don't want to relate with her",
+        "user": "U04HL79B12M",
+        "ts": "1673989857.270749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qcn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's a good thing she's not relational bc I don't want to relate with her"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1673991850.000000"
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04HB4D6ARZ",
+                    "U04HB4DFQ0K"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa192a6d-8438-4240-b321-5d5a19c225ab",
+        "type": "message",
+        "text": "do you have the link for the discover github",
+        "user": "U04DLUZGJ4C",
+        "ts": "1673991454.407649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5k7+Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you have the link for the discover github"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7c8dad3b-dede-4693-ae87-cf934736cf95",
+        "type": "message",
+        "text": "sorry wrong group",
+        "user": "U04DLUZGJ4C",
+        "ts": "1673991478.057489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RMY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry wrong group"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2d953717-a8da-4b0a-aa4a-3d6a46ef275d",
+        "type": "message",
+        "text": "Were you looking for this? <https:\/\/github.com\/acltc\/awesome-interests>",
+        "user": "U04HB4D6ARZ",
+        "ts": "1673991555.314919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b2r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Were you looking for this? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/acltc\/awesome-interests"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/acltc\/awesome-interests",
+                "image_url": "https:\/\/opengraph.githubassets.com\/5f1976af6e119cf4bda0096a9f5ed2cdb0e3a03edc1c51b8028ce54cc1f8ec0f\/acltc\/awesome-interests",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 77487,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/acltc\/awesome-interests",
+                "fallback": "GitHub: GitHub - acltc\/awesome-interests: A curated list of awesome introductory programming resources for a variety of specialties within the profession.",
+                "text": "A curated list of awesome introductory programming resources for a variety of specialties within the profession. - GitHub - acltc\/awesome-interests: A curated list of awesome introductory programmi...",
+                "title": "GitHub - acltc\/awesome-interests: A curated list of awesome introductory programming resources for a variety of specialties within the profession.",
+                "title_link": "https:\/\/github.com\/acltc\/awesome-interests",
+                "service_name": "GitHub"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad173d13-b6c6-4a2c-a986-0d7c0da4a36e",
+        "type": "message",
+        "text": "A little stress inducing but I found this a good read on The Verge",
+        "user": "U04GY24PLTY",
+        "ts": "1673998069.970749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YKyO2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A little stress inducing but I found this a good read on The Verge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "572d237e-ec74-4e20-a3a5-fa69f9153e0a",
+        "type": "message",
+        "text": "<https:\/\/www.theverge.com\/23551060\/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji>",
+        "user": "U04GY24PLTY",
+        "ts": "1673998071.427729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GOj9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theverge.com\/23551060\/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.theverge.com\/23551060\/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji",
+                "ts": 1673953200,
+                "image_url": "https:\/\/cdn.vox-cdn.com\/thumbor\/HHIETiAhFgqswJN5EB0hqGpkwhM=\/0x0:3000x2000\/1200x628\/filters:focal(1500x1000:1501x1001)\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/24363745\/236486_Elon_Musk_Twitter_JLee_DARTS.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 74826,
+                "service_icon": "https:\/\/www.theverge.com\/icons\/apple_touch_icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theverge.com\/23551060\/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji",
+                "fallback": "The Verge: Inside Elon’s “extremely hardcore” Twitter",
+                "text": "Three months, thousands of layoffs, one ego",
+                "title": "Inside Elon’s “extremely hardcore” Twitter",
+                "title_link": "https:\/\/www.theverge.com\/23551060\/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji",
+                "service_name": "The Verge"
+            }
+        ],
+        "thread_ts": "1673998071.427729",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674181956.637909",
+        "reply_users": [
+            "U04DLUZMY84"
+        ],
+        "replies": [
+            {
+                "user": "U04DLUZMY84",
+                "ts": "1674181956.637909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

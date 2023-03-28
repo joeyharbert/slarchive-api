@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "3343958d-2a79-4222-b720-5c8096135c11",
+        "type": "message",
+        "text": "<https:\/\/www.npr.org\/2017\/11\/29\/567133944\/people-like-people-who-ask-questions>",
+        "user": "U04HL79B12M",
+        "ts": "1675373485.149259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nBv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.npr.org\/2017\/11\/29\/567133944\/people-like-people-who-ask-questions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.npr.org\/2017\/11\/29\/567133944\/people-like-people-who-ask-questions",
+                "image_url": "https:\/\/media.npr.org\/assets\/img\/2017\/12\/07\/gettyimages-640630063_wide-fc82e4be2cd6fde0f63f05964b05fb51f8739626-s1400-c100.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 721901,
+                "service_icon": "https:\/\/static-assets.npr.org\/static\/images\/favicon\/favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.npr.org\/2017\/11\/29\/567133944\/people-like-people-who-ask-questions",
+                "fallback": "NPR: People Like People Who Ask Questions",
+                "text": "A new study says people who ask more questions, particularly follow-up questions, are liked better by their conversation partners.",
+                "title": "People Like People Who Ask Questions",
+                "title_link": "https:\/\/www.npr.org\/2017\/11\/29\/567133944\/people-like-people-who-ask-questions",
+                "service_name": "NPR"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49fac74e-03fc-4124-a4ae-d2358d1b4746",
+        "type": "message",
+        "text": "<https:\/\/github.com\/mhxion\/awesome-discord-communities>",
+        "user": "U04HL79B12M",
+        "ts": "1675373894.514079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kSq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/mhxion\/awesome-discord-communities"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

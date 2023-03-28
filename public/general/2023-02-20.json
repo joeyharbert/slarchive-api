@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "8D9F7EBB-4D40-4715-AE3E-21E99027C9FD",
+        "type": "message",
+        "text": "Comcast at it again :face_with_symbols_on_mouth: ",
+        "user": "U04GY24PLTY",
+        "ts": "1676927690.738449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comcast at it again "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_symbols_on_mouth",
+                                "unicode": "1f92c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

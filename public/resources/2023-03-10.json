@@ -1,0 +1,231 @@
+[
+    {
+        "client_msg_id": "034b2b2d-8a8f-4d15-a81c-36b552734111",
+        "type": "message",
+        "text": "<https:\/\/www.postgresqltutorial.com\/>",
+        "user": "U04HL79B12M",
+        "ts": "1678469029.546549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vcIC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.postgresqltutorial.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.postgresqltutorial.com\/",
+                "service_icon": "https:\/\/www.postgresqltutorial.com\/wp-content\/uploads\/2017\/03\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.postgresqltutorial.com\/",
+                "fallback": "PostgreSQL Tutorial - Learn PostgreSQL from Scratch",
+                "text": "Learn PostgreSQL quickly through a practical PostgreSQL tutorial designed for database administrators and application developers.",
+                "title": "PostgreSQL Tutorial - Learn PostgreSQL from Scratch",
+                "title_link": "https:\/\/www.postgresqltutorial.com\/",
+                "service_name": "postgresqltutorial.com",
+                "fields": [
+                    {
+                        "value": "8 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "297fd54d-9ff3-4c8b-9927-6a16088a7933",
+        "type": "message",
+        "text": "```SELECT * FROM recipes \nWHERE prep_time &gt; 100 \nAND ingredients LIKE '%bread%'\nORDER BY prep_time DESC \nLIMIT 2;```\n",
+        "user": "U04HL79B12M",
+        "ts": "1678469038.492469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=yYJQ",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SELECT * FROM recipes \nWHERE prep_time > 100 \nAND ingredients LIKE '%bread%'\nORDER BY prep_time DESC \nLIMIT 2;"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "10e51d01-d821-4100-949f-cd5fb95b40d9",
+        "type": "message",
+        "text": "<https:\/\/sqlbolt.com\/>",
+        "user": "U04HL79B12M",
+        "ts": "1678479402.935079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "grx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sqlbolt.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/sqlbolt.com\/",
+                "id": 1,
+                "original_url": "https:\/\/sqlbolt.com\/",
+                "fallback": "SQLBolt - Learn SQL - Introduction to SQL",
+                "text": "SQLBolt provides a set of interactive lessons and exercises to help you learn SQL",
+                "title": "SQLBolt - Learn SQL - Introduction to SQL",
+                "title_link": "https:\/\/sqlbolt.com\/",
+                "service_name": "SQLBolt - Learn SQL with simple, interactive exercises."
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc58f96a-d8e9-4670-b539-92d0703b7b11",
+        "type": "message",
+        "text": "<https:\/\/pgexercises.com\/>, <http:\/\/sqlzoo.net\/>, <https:\/\/selectstarsql.com>, <https:\/\/mystery.knightlab.com>",
+        "user": "U04HL79B12M",
+        "ts": "1678479468.396079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2dHk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pgexercises.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sqlzoo.net\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/selectstarsql.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mystery.knightlab.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/mystery.knightlab.com\/",
+                "image_url": "http:\/\/mystery.knightlab.com\/174092-clue-illustration.png",
+                "image_width": 1200,
+                "image_height": 800,
+                "image_bytes": 84913,
+                "id": 1,
+                "original_url": "https:\/\/mystery.knightlab.com",
+                "fallback": "Knight Lab's SQL Murder Mystery: SQL Murder Mystery",
+                "text": "Use SQL queries to solve the murder mystery. Suitable for beginners or experienced SQL sleuths.",
+                "title": "SQL Murder Mystery",
+                "title_link": "https:\/\/mystery.knightlab.com\/",
+                "service_name": "Knight Lab's SQL Murder Mystery"
+            }
+        ]
+    }
+]

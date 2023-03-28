@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "20a96941-f82c-4fd6-80a4-fc7cf47f4bec",
+        "type": "message",
+        "text": "OFFICE HOURS WEEK 2\n<https:\/\/us02web.zoom.us\/j\/82396919118|Wednesday 12\/14> 6:30-8:30 pm CT. Mini-lesson at 6:30 pm on 2.27 Hashes: Nested Hashes",
+        "user": "U04CQDV5FTL",
+        "ts": "1670767306.016369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8OC8m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OFFICE HOURS WEEK 2\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/82396919118",
+                                "text": "Wednesday 12\/14"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 6:30-8:30 pm CT. Mini-lesson at 6:30 pm on 2.27 Hashes: Nested Hashes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gcd8bed110f3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd8bed110f3cff27a93d4b33f1963437.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Mitchell",
+            "display_name": "Kevin Mitchell",
+            "team": "T04C9T53QJK",
+            "name": "kevin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,629 @@
+[
+    {
+        "client_msg_id": "134a3b0c-67a7-488a-bff2-b67d9adb23bb",
+        "type": "message",
+        "text": "Exercise:\nCreate an api controller for contacts (plural)\n```rails generate controller contacts```\nCreate a route that displays JSON data about your first contact.\n\nBonus: Create a route that displays the data of all your contacts. It will be trickier to construct the JSON here because it’s an array of contacts…\n\nBonus: Make a Ruby script using the HTTP gem to display the results in the terminal instead of a web browser!",
+        "user": "U04HL79B12M",
+        "ts": "1673976337.539769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TRCJU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nCreate an api controller for contacts (plural)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails generate controller contacts"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nCreate a route that displays JSON data about your first contact.\n\nBonus: Create a route that displays the data of all your contacts. It will be trickier to construct the JSON here because it’s an array of contacts…\n\nBonus: Make a Ruby script using the HTTP gem to display the results in the terminal instead of a web browser!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "390edf63-cfd1-4e0f-a82b-f5f9f80002b8",
+        "type": "message",
+        "text": "Exercise:\nCreate a view for the contact model (singular)\n```rails generate jbuilder contact```\nModify the _contact.json.jbuilder code to include all contact attributes\n\nUse the \"contacts\/show\" template in the controller to show a single contact.\n\nUse the \"contacts\/index\" template in the controller to show all the contacts.\n\nTo test your app, make sure you are visiting <http:\/\/localhost:3000\/one_contact.json> (with the .json at the end)",
+        "user": "U04HL79B12M",
+        "ts": "1673980143.528289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bv7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nCreate a view for the contact model (singular)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails generate jbuilder contact"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nModify the _contact.json.jbuilder code to include all contact attributes\n\nUse the \"contacts\/show\" template in the controller to show a single contact.\n\nUse the \"contacts\/index\" template in the controller to show all the contacts.\n\nTo test your app, make sure you are visiting "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000\/one_contact.json"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (with the .json at the end)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aea37706-5873-4226-9698-d30227a2e4c9",
+        "type": "message",
+        "text": "Exercise:\nAdd new contacts using the `db\/seeds.rb` file. Run the seeds file from your terminal using `rails db:seed`.\n\nNote: you can rebuild your database using these commands:\n```rails db:drop\nrails db:create\nrails db:migrate\nrails db:seed```\nOr by using this shortcut:\n```rails db:drop db:create db:migrate db:seed```",
+        "user": "U04HL79B12M",
+        "ts": "1673983197.014909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wzy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nAdd new contacts using the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "db\/seeds.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file. Run the seeds file from your terminal using "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rails db:seed",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nNote: you can rebuild your database using these commands:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails db:drop\nrails db:create\nrails db:migrate\nrails db:seed"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nOr by using this shortcut:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails db:drop db:create db:migrate db:seed"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f397b48a-d283-415f-a9cb-d6eb5e08badf",
+        "type": "message",
+        "text": "Exercise: Begin the mini capstone. Where do you start?\n\n1 - Create a new rails api app called `mini-capstone` with a postgres database:\n```rails new mini-capstone-api```\n```cd mini-capstone-api```\n• Use git to add and commit your code.\n• Use GitHub to create a repo called `mini-capstone-api`, then copy and paste the commands to push your git repo to GitHub.\n2 - Create a `Product` model (singular!). Some important attributes include `name`, `price` (integer), `image_url`, and `description`.\n• Use git to add, commit, and push your code.\n3 - Create products either in the rails console or using the `db\/seeds.rb` file with the `rails db:seed` command!\n• Use git to add, commit, and push your code.\n\n4 - Create `product` jbuilder views with the product attributes\n• Use git to add, commit, and push your code.\n5 - Create a `products` controller (plural!)\n• Use git to add, commit, and push your code.\n6 - Create a route that displays JSON for all the available products.\n• Use git to add, commit, and push your code.\n7 - Make some routes to display JSON for individual products. What is inconvenient about this process?\n• Use git to add, commit, and push your code.\nBonus: Make a Ruby frontend script using the HTTP gem to display the results in the terminal instead of a web browser!\n\nBonus: In your Ruby frontend script, use the tty-table gem (<https:\/\/github.com\/piotrmurach\/tty-table>) to print out the results with tables in the terminal!\n\nAfter you complete your app, you can make your own cheat sheet to gather all instructions in one place. Annotate each instruction to explain what it means.\n(example starting point: <https:\/\/gist.github.com\/peterxjang\/7ca76ffdfbfce5fd6f495dd7b66c4337>)",
+        "user": "U04HL79B12M",
+        "ts": "1673985969.093379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C8k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Begin the mini capstone. Where do you start?\n\n1 - Create a new rails api app called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "mini-capstone",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with a postgres database:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails new mini-capstone-api"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cd mini-capstone-api"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use git to add and commit your code."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use GitHub to create a repo called "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "mini-capstone-api",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", then copy and paste the commands to push your git repo to GitHub."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n2 - Create a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Product",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " model (singular!). Some important attributes include "
+                            },
+                            {
+                                "type": "text",
+                                "text": "name",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "price",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (integer), "
+                            },
+                            {
+                                "type": "text",
+                                "text": "image_url",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "description",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use git to add, commit, and push your code."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n3 - Create products either in the rails console or using the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "db\/seeds.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file with the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rails db:seed",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " command!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use git to add, commit, and push your code."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n4 - Create "
+                            },
+                            {
+                                "type": "text",
+                                "text": "product",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " jbuilder views with the product attributes\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use git to add, commit, and push your code."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n5 - Create a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "products",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " controller (plural!)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use git to add, commit, and push your code."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n6 - Create a route that displays JSON for all the available products.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use git to add, commit, and push your code."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n7 - Make some routes to display JSON for individual products. What is inconvenient about this process?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use git to add, commit, and push your code."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBonus: Make a Ruby frontend script using the HTTP gem to display the results in the terminal instead of a web browser!\n\nBonus: In your Ruby frontend script, use the tty-table gem ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/piotrmurach\/tty-table"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") to print out the results with tables in the terminal!\n\nAfter you complete your app, you can make your own cheat sheet to gather all instructions in one place. Annotate each instruction to explain what it means.\n(example starting point: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/peterxjang\/7ca76ffdfbfce5fd6f495dd7b66c4337"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1673986953.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/piotrmurach\/tty-table",
+                "image_url": "https:\/\/repository-images.githubusercontent.com\/30498040\/23fb5600-7adc-11eb-9038-c421ebe87ae2",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 134172,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/piotrmurach\/tty-table",
+                "fallback": "GitHub: GitHub - piotrmurach\/tty-table: A flexible and intuitive table generator",
+                "text": "A flexible and intuitive table generator. Contribute to piotrmurach\/tty-table development by creating an account on GitHub.",
+                "title": "GitHub - piotrmurach\/tty-table: A flexible and intuitive table generator",
+                "title_link": "https:\/\/github.com\/piotrmurach\/tty-table",
+                "service_name": "GitHub"
+            }
+        ]
+    }
+]

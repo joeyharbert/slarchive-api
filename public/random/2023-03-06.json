@@ -1,0 +1,272 @@
+[
+    {
+        "client_msg_id": "750c0921-d01a-4529-8d61-af3b815add4b",
+        "type": "message",
+        "text": "Relevant to the the exercise:",
+        "user": "U04GY24PLTY",
+        "ts": "1678124157.427989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VIC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Relevant to the the exercise:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1d4ca79e-9607-4837-81b3-c095086b216a",
+        "type": "message",
+        "text": "<https:\/\/www.avclub.com\/its-always-sunny-in-philadelphia-words-per-minute-1850188851>",
+        "user": "U04GY24PLTY",
+        "ts": "1678124158.658159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/AE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.avclub.com\/its-always-sunny-in-philadelphia-words-per-minute-1850188851"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.avclub.com\/its-always-sunny-in-philadelphia-words-per-minute-1850188851",
+                "ts": 1677956040,
+                "image_url": "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200\/ce4b2d9378bc5b871f9267f66c74ed98.jpg",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 91009,
+                "service_icon": "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200\/no63bw902mddhwxtjtxh.png",
+                "id": 1,
+                "original_url": "https:\/\/www.avclub.com\/its-always-sunny-in-philadelphia-words-per-minute-1850188851",
+                "fallback": "The A.V. Club: It's Always Sunny is officially TV's least shutting-up-prone show",
+                "text": "A new study shows that no show throws more words per minute at the viewer than It's Always Sunny In Philadelphia",
+                "title": "It's Always Sunny is officially TV's least shutting-up-prone show",
+                "title_link": "https:\/\/www.avclub.com\/its-always-sunny-in-philadelphia-words-per-minute-1850188851",
+                "service_name": "The A.V. Club"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04DLUZMY84"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Definitely stealing this in the future",
+        "files": [
+            {
+                "id": "F04TC9WFHAL",
+                "created": 1678152329,
+                "timestamp": 1678152329,
+                "name": "IMG_9490.png",
+                "title": "IMG_9490",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04GY24PLTY",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 1451738,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04TC9WFHAL\/img_9490.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04TC9WFHAL\/download\/img_9490.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04TC9WFHAL-394203a5f3\/img_9490_64.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04TC9WFHAL-394203a5f3\/img_9490_80.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04TC9WFHAL-394203a5f3\/img_9490_360.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04TC9WFHAL-394203a5f3\/img_9490_480.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04TC9WFHAL-394203a5f3\/img_9490_160.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04TC9WFHAL-394203a5f3\/img_9490_720.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04TC9WFHAL-394203a5f3\/img_9490_800.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1732,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04TC9WFHAL-394203a5f3\/img_9490_960.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04TC9WFHAL-394203a5f3\/img_9490_1024.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 2436,
+                "thumb_tiny": "AwAwABaTyHPTHHHWlFtJ6D86s4Ysctgexp23\/aNRyo09oyp5D528butH2aT2\/OrowKXNPlQe0kNoopaZAlLRRQAgOf8A9VLim7AMnA+tGVPdfzpiHUUDOegxS0Af\/9k=",
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04GY24PLTY\/F04TC9WFHAL\/img_9490.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04TC9WFHAL-531fcd24ce",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GY24PLTY",
+        "display_as_bot": false,
+        "ts": "1678152337.707949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qZEvH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Definitely stealing this in the future"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "A6950139-C18D-4810-A92E-841ACBBCD9DB",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04HL79B12M",
+                    "U04DLUZGJ4C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04SGCYCA6S",
+                "created": 1678160373,
+                "timestamp": 1678160373,
+                "name": "IMG_2598.png",
+                "title": "IMG_2598",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04DLUZGJ4C",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 6529561,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04SGCYCA6S\/img_2598.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04SGCYCA6S\/download\/img_2598.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04SGCYCA6S-afa2639781\/img_2598_64.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04SGCYCA6S-afa2639781\/img_2598_80.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04SGCYCA6S-afa2639781\/img_2598_360.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04SGCYCA6S-afa2639781\/img_2598_480.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04SGCYCA6S-afa2639781\/img_2598_160.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04SGCYCA6S-afa2639781\/img_2598_720.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04SGCYCA6S-afa2639781\/img_2598_800.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04SGCYCA6S-afa2639781\/img_2598_960.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04SGCYCA6S-afa2639781\/img_2598_1024.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1284,
+                "original_h": 2778,
+                "thumb_tiny": "AwAwABan9luMY8psfSk+yXH\/ADxf8q23zhcd6FfPB69qAMU2lyf+WLflR9juP+eL\/lWxEGBfI6mpKAIlHzZLZ9jSvHtG8HA9KiLkjgEmp5mHknpnjigZGmQSd559qduP979KgQuB\/ESfyFO3P6N+VAEMM20YcZOe1SMyyMrdMdqx6Xa3ofyoEbKPj5d3AFP3+4rCooA\/\/9k=",
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04DLUZGJ4C\/F04SGCYCA6S\/img_2598.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04SGCYCA6S-715d994810",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04DLUZGJ4C",
+        "display_as_bot": false,
+        "ts": "1678160387.774549",
+        "client_msg_id": "12B78956-21ED-49EB-8AA4-54F2303F7E7B",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04HL79B12M",
+                    "U04HB4D6ARZ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

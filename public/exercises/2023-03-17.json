@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "4de3698c-1d2c-44f5-a286-e1bdc3f51728",
+        "type": "message",
+        "text": "Exercise:\nUpdate your work journal!\nGo to your gists: <https:\/\/gist.github.com\/mine>\nFind your gist titled “work-journal.md”\nClick “Edit”\nAdd your new content towards the top\n```## YYYY-MM-DD\n### Learnings\n- (Describe things you have learned, things you are struggling with and how you plan to tackle them)\n\n### Interesting things\n- (List coding resources you have found and describe why they’re interesting)```\nUpdate the content with today’s date and your content for the learning and interesting things section\n\nFor learnings, focus on what you learned during the team API project - What was your role? What went well? What would you do differently?",
+        "user": "U04HL79B12M",
+        "ts": "1679084728.560839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o\/U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nUpdate your work journal!\nGo to your gists: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/mine"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFind your gist titled “work-journal.md”\nClick “Edit”\nAdd your new content towards the top\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "## YYYY-MM-DD\n### Learnings\n- (Describe things you have learned, things you are struggling with and how you plan to tackle them)\n\n### Interesting things\n- (List coding resources you have found and describe why they’re interesting)"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update the content with today’s date and your content for the learning and interesting things section\n\nFor learnings, focus on what you learned during the team API project - What was your role? What went well? What would you do differently?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "3366fe21-c79d-490d-b6dc-55318e1830fd",
+        "type": "message",
+        "text": "Office hours after class today!",
+        "user": "U04HB4D6ARZ",
+        "ts": "1677791174.987009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UJa9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Office hours after class today!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

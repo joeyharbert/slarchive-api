@@ -1,0 +1,481 @@
+[
+    {
+        "client_msg_id": "56A57D68-7106-427E-9A13-1F8D4171513C",
+        "type": "message",
+        "text": "Not sure if they’re still signing people up but I joined the beta for this new app from the people who made Instagram: <https:\/\/www.theverge.com\/2023\/1\/31\/23579552\/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app|https:\/\/www.theverge.com\/2023\/1\/31\/23579552\/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app>",
+        "user": "U04GY24PLTY",
+        "ts": "1675382751.707869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jDwxo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "they’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " still signing people up but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I"
+                            },
+                            {
+                                "type": "text",
+                                "text": " joined the beta for this new app from the people who made Instagram: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theverge.com\/2023\/1\/31\/23579552\/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app",
+                                "text": "https:\/\/www.theverge.com\/2023\/1\/31\/23579552\/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.theverge.com\/2023\/1\/31\/23579552\/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app",
+                "ts": 1675180800,
+                "image_url": "https:\/\/cdn.vox-cdn.com\/thumbor\/AvWFoCBDJ6jD30FNas9q0UuWZWo=\/0x0:2880x1920\/1200x628\/filters:focal(1440x960:1441x961)\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/24398939\/unnamed.png",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 91532,
+                "service_icon": "https:\/\/www.theverge.com\/icons\/apple_touch_icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theverge.com\/2023\/1\/31\/23579552\/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app",
+                "fallback": "The Verge: Instagram’s co-founders are back with Artifact, a kind of TikTok for text",
+                "text": "The duo is back just over four years after leaving Instagram.",
+                "title": "Instagram’s co-founders are back with Artifact, a kind of TikTok for text",
+                "title_link": "https:\/\/www.theverge.com\/2023\/1\/31\/23579552\/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app",
+                "service_name": "The Verge"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04HB4DFQ0K"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04DLUZMY84"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E5A827E5-FEA5-488D-9AC6-AC2322AA0296",
+        "type": "message",
+        "text": "Pretty cool to see how a beta works for a big app like this.",
+        "user": "U04GY24PLTY",
+        "ts": "1675382778.997189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eHa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pretty cool to see how a beta works for a big app like this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B5407459-1B50-4BE0-B710-21F8DA147823",
+        "type": "message",
+        "text": "<https:\/\/artifact.news\/i?code=49CTEM|https:\/\/artifact.news\/i?code=49CTEM> this link is good for four ppl if anyone wants",
+        "user": "U04GY24PLTY",
+        "ts": "1675382921.992139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AWIR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/artifact.news\/i?code=49CTEM",
+                                "text": "https:\/\/artifact.news\/i?code=49CTEM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this link is good for four ppl if anyone wants"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/artifact.news\/i?code=49CTEM",
+                "image_url": "https:\/\/artifact.news\/og_image.png",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 15318,
+                "id": 1,
+                "original_url": "https:\/\/artifact.news\/i?code=49CTEM",
+                "fallback": "Artifact",
+                "text": "You've been invited to skip the waitlist for Artifact",
+                "title": "Artifact",
+                "title_link": "https:\/\/artifact.news\/i?code=49CTEM",
+                "service_name": "artifact.news"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9a9113d-338c-4ef0-aaa1-508ecad9f1bd",
+        "type": "message",
+        "text": "It worked for me! Very cool, thanks Nick.",
+        "user": "U04DLUZMY84",
+        "ts": "1675384061.629329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2cGH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It worked for me! Very cool, thanks Nick."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04MSTBLPLM",
+                "created": 1675391056,
+                "timestamp": 1675391056,
+                "name": "IMG_20230202_182344.jpg",
+                "title": "IMG_20230202_182344.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04HB4DFQ0K",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 134508,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04MSTBLPLM\/img_20230202_182344.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04MSTBLPLM\/download\/img_20230202_182344.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04MSTBLPLM-83c8812cee\/img_20230202_182344_64.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04MSTBLPLM-83c8812cee\/img_20230202_182344_80.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04MSTBLPLM-83c8812cee\/img_20230202_182344_360.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360_w": 334,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04MSTBLPLM-83c8812cee\/img_20230202_182344_480.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_480_w": 446,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04MSTBLPLM-83c8812cee\/img_20230202_182344_160.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04MSTBLPLM-83c8812cee\/img_20230202_182344_720.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720_w": 669,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04MSTBLPLM-83c8812cee\/img_20230202_182344_800.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_800_w": 800,
+                "thumb_800_h": 861,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04MSTBLPLM-83c8812cee\/img_20230202_182344_960.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_960_w": 892,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04MSTBLPLM-83c8812cee\/img_20230202_182344_1024.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_1024_w": 951,
+                "thumb_1024_h": 1024,
+                "original_w": 1125,
+                "original_h": 1211,
+                "thumb_tiny": "AwAwACyQz4vGRpG2hjxmp96AZLpj2NUpNovSXUEFznHWrLtBsPyg8fwrg0AV0uXaXaHfHPU1Pvf++351Utjmcbydv1q86xheQo9COtAxm9v77fnVi3JMZySee9QxxjALZyR64qWMFAQnIz3pCKZgf7ZJJsLKSelPLL6VIZdpKlc4OODTojlicfOaGkxlNY\/m\/d8t2Bqfy2VAzBcgc7Tn8aluG2IXYgMOVPeqq3gkO3gL\/FjqRTsFyVZ8DGNwFTwlpE3K20Zxgc05NxUbMbe2MYoGOeuc87aBFd\/9a\/8AvGlVd\/fgVAbmNiW2uMnP3hSpcoDkBvcFlqbajuSXEIMD7SRhec88VUMcaOArFiKsSXKSIVZSAeuGFVzJBuztkz7EVQAJFQkbMnPXOK0NPx9m4GPmPHpWeGgJPyyevLCp4b2OBNixuRnPJFAj\/9k=",
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04HB4DFQ0K\/F04MSTBLPLM\/img_20230202_182344.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04MSTBLPLM-5307facdac",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04HB4DFQ0K",
+        "display_as_bot": false,
+        "ts": "1675391058.618379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6xDF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7e9a82f7-edde-4c5c-96ce-5fc6fc586265",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04DLUZMY84",
+                    "U04GY24PLTY",
+                    "U04DLUZGJ4C",
+                    "U04HB4D6ARZ",
+                    "U04HL79B12M"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16F1B2CD-D18E-4475-8773-E0DA5184D6E7",
+        "type": "message",
+        "text": "Lmfao I was just about to post this <@U04HB4DFQ0K>! :joy: :joy: ",
+        "user": "U04DLUZGJ4C",
+        "ts": "1675394648.110149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DXdab",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lmfao I was just about to post this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04HB4DFQ0K"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U04HB4DFQ0K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DA668A8D-4DDA-4E00-9B71-F1DA5D705CCB",
+        "type": "message",
+        "text": "It seems we all search the same subreddits…",
+        "user": "U04DLUZGJ4C",
+        "ts": "1675394669.732679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a=b=e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It seems we all search the same subreddits"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0D971176-5B47-47AF-A565-330A92536B66",
+        "type": "message",
+        "text": "LOL.\nI just cracked a rib laughing at this.",
+        "user": "U04HB4D6ARZ",
+        "ts": "1675394729.680819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P0d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LOL.\nI just cracked a rib laughing at this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U04HB4DFQ0K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

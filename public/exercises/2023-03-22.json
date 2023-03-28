@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "2c79c1eb-b0ab-415b-8250-65d56ee51550",
+        "type": "message",
+        "text": "Exercise:\nAdd bootstrap for styling\nAdd react router for multiple pages\nResearch some library or technology from the first page of the capstone document to try and implement",
+        "user": "U04HL79B12M",
+        "ts": "1679501789.786559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p9KEH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nAdd bootstrap for styling\nAdd react router for multiple pages\nResearch some library or technology from the first page of the capstone document to try and implement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

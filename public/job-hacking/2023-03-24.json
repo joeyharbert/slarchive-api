@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "30e8dce1-c537-4929-a363-b6ea72075560",
+        "type": "message",
+        "text": "You guys! How do we have end class job hacking next week?! That’s wild. Friendly reminder that I’ve left everyone feedback on their job search plans. If you make any updates to that or your resume, just let me know and I’ll take another look! We will have some time to work on this during end class job hacking next week as well.",
+        "user": "U04J9382JP3",
+        "ts": "1679688203.758789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nYU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You guys! How do we have end class job hacking next week?! That’s wild. Friendly reminder that I’ve left everyone feedback on their job search plans. If you make any updates to that or your resume, just let me know and I’ll take another look! We will have some time to work on this during end class job hacking next week as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04DLUZMY84"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

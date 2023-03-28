@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "text": "Screenshot to show you where you can find my Calendly link in the office-hours channel.",
+        "files": [
+            {
+                "id": "F04FTPGV8CU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04CQDV5FTL",
+        "display_as_bot": false,
+        "ts": "1671386368.096079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "biH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Screenshot to show you where you can find my Calendly link in the office-hours channel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "82b2c699-d381-422c-bf0d-7b919dec527f"
+    }
+]

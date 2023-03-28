@@ -1,0 +1,325 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1670424498.614969",
+        "user": "U04E0MQE98T",
+        "text": "<@U04E0MQE98T> has joined the channel"
+    },
+    {
+        "client_msg_id": "A1C10702-20B0-44E3-BF0E-916199FE03A0",
+        "type": "message",
+        "text": "How’s week 1 going for everyone?? ",
+        "user": "U04DLUZ1JCU",
+        "ts": "1670432495.793729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ln\/mB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " week 1 going for everyone?? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g41ca7539271",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41ca75392712d62e32209ef36820efe3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Eddie",
+            "real_name": "Eddie Tong",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "edisonjtong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9c8129a8-7fa3-47ea-8278-ab193379c2de",
+        "type": "message",
+        "text": "going pretty good so far! hby? <@U04DLUZ1JCU>",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670433387.841099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X9rm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "going pretty good so far! hby? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04DLUZ1JCU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1F1083B3-8B01-4BBA-963F-8E2DE2A96032",
+        "type": "message",
+        "text": "<@U04DLUZGJ4C> gonna try and finish week 1 today and bust into week 2!",
+        "user": "U04DLUZ1JCU",
+        "ts": "1670436651.279799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZqNc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04DLUZGJ4C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " gonna try and finish week 1 today and bust into week 2!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g41ca7539271",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41ca75392712d62e32209ef36820efe3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Eddie",
+            "real_name": "Eddie Tong",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "edisonjtong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0C1FCD74-B7E5-4A35-9CE5-2B578C3235D9",
+        "type": "message",
+        "text": "I was worried yesterday though that I was gonna have something wrong on all the assignments I did and have to redo them…. Luckily it was just one of them",
+        "user": "U04DLUZ1JCU",
+        "ts": "1670436712.764769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v2SQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was worried yesterday though that I was gonna have something wrong on all the assignments I did and have to redo them"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Luckily it was just one of them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g41ca7539271",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41ca75392712d62e32209ef36820efe3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Eddie",
+            "real_name": "Eddie Tong",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "edisonjtong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2c88525a-faf9-4eaf-8629-664fe3235fd8",
+        "type": "message",
+        "text": "wow! you really powered through that haha! im on lesson 24 i believe. Gonna power through after work and hopefully get done tmrw!",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670436966.878309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wow! you really powered through that haha! im on lesson 24 i believe. Gonna power through after work and hopefully get done tmrw!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5127A191-AE55-417B-935D-6743AC45F9FF",
+        "type": "message",
+        "text": "<@U04DLUZGJ4C> yeah just trying to get a head start now so I don’t have to code for hours on Christmas ",
+        "user": "U04DLUZ1JCU",
+        "ts": "1670438034.720829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "toTlQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04DLUZGJ4C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yeah just trying to get a head start now so I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have to code for hours on Christmas "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g41ca7539271",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41ca75392712d62e32209ef36820efe3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Eddie",
+            "real_name": "Eddie Tong",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "edisonjtong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d4479570-bb5b-43a5-9980-60a4d5da2eaf",
+        "type": "message",
+        "text": "hahaha, good idea! I think ill follow your lead :joy::+1: <@U04DLUZ1JCU>",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670442209.475919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahaha, good idea! I think ill follow your lead "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04DLUZ1JCU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

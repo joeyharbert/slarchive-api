@@ -1,0 +1,417 @@
+[
+    {
+        "client_msg_id": "6f972853-697d-452c-9590-9101a0bcdb70",
+        "type": "message",
+        "text": "```brew tap mongodb\/brew```\n```brew install mongodb-community```\n```brew services start mongodb-community```\n",
+        "user": "U04HL79B12M",
+        "ts": "1678382102.918229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aDcU8",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "brew tap mongodb\/brew"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "brew install mongodb-community"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "brew services start mongodb-community"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "72d3cf2d-96cc-44c4-a9d4-2d5abb7c2062",
+        "type": "message",
+        "text": "Exercise: (work in pairs)\nFollow this tutorial to build a Sinatra API backend - <https:\/\/x-team.com\/blog\/how-to-create-a-ruby-api-with-sinatra\/>\n\nNote: There are a couple of small typos later on in the tutorial! It will be your job to decipher error messages and try to find them yourselves...\n\nBonus: Customize the app with some more routes of your own!",
+        "user": "U04HL79B12M",
+        "ts": "1678382188.921059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3NI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: (work in pairs)\nFollow this tutorial to build a Sinatra API backend - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/x-team.com\/blog\/how-to-create-a-ruby-api-with-sinatra\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nNote: There are a couple of small typos later on in the tutorial! It will be your job to decipher error messages and try to find them yourselves...\n\nBonus: Customize the app with some more routes of your own!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/x-team.com\/blog\/how-to-create-a-ruby-api-with-sinatra\/",
+                "ts": 1461693946,
+                "image_url": "https:\/\/res.cloudinary.com\/dukp6c7f7\/image\/upload\/f_auto,fl_lossy,q_auto\/s3-ghost\/\/2022\/05\/jason-d-VKLJ-BJlszE-unsplash--1-.jpg",
+                "image_width": 1800,
+                "image_height": 1200,
+                "image_bytes": 90969,
+                "service_icon": "https:\/\/x-team.com\/blog\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/x-team.com\/blog\/how-to-create-a-ruby-api-with-sinatra\/",
+                "fallback": "X-Team Blog - The Most-Loved Company for Engineers: How to Create a Ruby API with Sinatra",
+                "text": "Everybody loves a good API! How about you learn how to make one? This tutorial will teach you how to do it with Ruby and Sinatra.",
+                "title": "How to Create a Ruby API with Sinatra",
+                "title_link": "https:\/\/x-team.com\/blog\/how-to-create-a-ruby-api-with-sinatra\/",
+                "service_name": "X-Team Blog - The Most-Loved Company for Engineers",
+                "fields": [
+                    {
+                        "value": "Thibault",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "code, ruby",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5db555d-8374-4377-a478-9b16ef50213c",
+        "type": "message",
+        "text": "@everyone if you get an error talking about missing \"thin\" just add `gem 'thin'` to your gemfile and bundle install",
+        "user": "U04HL79B12M",
+        "ts": "1678383836.783289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J3X=m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@everyone if you get an error talking about missing \"thin\" just add "
+                            },
+                            {
+                                "type": "text",
+                                "text": "gem 'thin'",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to your gemfile and bundle install"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9a116bc1-4565-42e3-bf5f-3552db8a9721",
+        "type": "message",
+        "text": "<https:\/\/flask.palletsprojects.com\/en\/2.2.x\/installation\/>",
+        "user": "U04HL79B12M",
+        "ts": "1678386112.444199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CsUN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/flask.palletsprojects.com\/en\/2.2.x\/installation\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ff06e0c2-6099-4425-b81d-6ab60d20697d",
+        "type": "message",
+        "text": "Exercise:\nDisable AirPlay receiver to avoid conflicts with localhost:5000: <https:\/\/paretosecurity.com\/auditor\/checks\/airplay>\n\n\nFollow the Flask quickstart guide to make a minimal application\n<https:\/\/flask.palletsprojects.com\/en\/2.2.x\/quickstart\/>\n\n\nRead the documentation and experiment with other features!",
+        "user": "U04HL79B12M",
+        "ts": "1678386512.763349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NI2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nDisable AirPlay receiver to avoid conflicts with localhost:5000: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/paretosecurity.com\/auditor\/checks\/airplay"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nFollow the Flask quickstart guide to make a minimal application\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/flask.palletsprojects.com\/en\/2.2.x\/quickstart\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nRead the documentation and experiment with other features!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/paretosecurity.com\/static_paretosecurity_com\/images\/social\/default.png?v=1678350013",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 60594,
+                "from_url": "https:\/\/paretosecurity.com\/auditor\/checks\/airplay",
+                "service_icon": "https:\/\/paretosecurity.com\/static_paretosecurity_com\/images\/favicon.png?v=1678350013",
+                "id": 1,
+                "original_url": "https:\/\/paretosecurity.com\/auditor\/checks\/airplay",
+                "fallback": "Pareto Security: AirPlay Receiver is Off",
+                "text": "Learn about AirPlay Receiver on macOS and how it should be configured.",
+                "title": "AirPlay Receiver is Off",
+                "title_link": "https:\/\/paretosecurity.com\/auditor\/checks\/airplay",
+                "service_name": "Pareto Security"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9f5bbbc-18b3-4440-b268-df8cec4621ce",
+        "type": "message",
+        "text": "Exercise:\nFollow the Flask tutorial to build a complete CRUD app with a sqlite database:\n<https:\/\/flask.palletsprojects.com\/en\/2.2.x\/tutorial\/>\n\nIf you get stuck, you can refer to the commits in this repository as a reference:\n<https:\/\/github.com\/acltc\/flask-tutorial\/commits\/main>",
+        "user": "U04HL79B12M",
+        "ts": "1678387381.647659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ILZoa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nFollow the Flask tutorial to build a complete CRUD app with a sqlite database:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/flask.palletsprojects.com\/en\/2.2.x\/tutorial\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf you get stuck, you can refer to the commits in this repository as a reference:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/acltc\/flask-tutorial\/commits\/main"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d2725961-98a9-4b1c-8766-44276ad8b70a",
+        "type": "message",
+        "text": "Exercise:\nFollow this tutorial to build an Express API backend -  <https:\/\/medium.com\/@purposenigeria\/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb>\nNote: This tutorial uses an app called Postman to test the API, you can use the REST client instead\n\nBonus: Customize the app with some more routes of your own!\nBonus: Follow this tutorial to make a new Express API using a MongoDB database: <https:\/\/auth0.com\/blog\/node-js-and-express-tutorial-building-and-securing-restful-apis\/>",
+        "user": "U04HL79B12M",
+        "ts": "1678392720.143159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ypyWA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nFollow this tutorial to build an Express API backend -  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/@purposenigeria\/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNote: This tutorial uses an app called Postman to test the API, you can use the REST client instead\n\nBonus: Customize the app with some more routes of your own!\nBonus: Follow this tutorial to make a new Express API using a MongoDB database: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/auth0.com\/blog\/node-js-and-express-tutorial-building-and-securing-restful-apis\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

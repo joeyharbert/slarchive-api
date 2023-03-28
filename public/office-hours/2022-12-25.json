@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "d6cfc60f-11d8-4264-ba2e-fcb6fec1d451",
+        "type": "message",
+        "text": "*OFFICE HOURS WEEK 4*\n<https:\/\/us02web.zoom.us\/j\/89249438695|Thursday> Dec. 29th from 6:30 - 8:30pm CT mini-lesson at 6:30pm on exercise 4.15 - Converting Hashes Into Objects, 7:30 - 9:30pm CT open questions and mac installs!\n\n<https:\/\/us02web.zoom.us\/j\/87482240354|Saturday> Dec. 31st from 11:00am - 2:00pm CT mini-lesson at 11:00am on exercise 4.15 - Converting Hashes Into Objects, 12:00 - 2:00pm CT open questions and mac installs!",
+        "user": "U04CQDV5FTL",
+        "ts": "1672012351.433079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8QM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OFFICE HOURS WEEK 4",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/89249438695",
+                                "text": "Thursday"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dec. 29th from 6:30 - 8:30pm CT mini-lesson at 6:30pm on exercise 4.15 - Converting Hashes Into Objects, 7:30 - 9:30pm CT open questions and mac installs!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/87482240354",
+                                "text": "Saturday"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dec. 31st from 11:00am - 2:00pm CT mini-lesson at 11:00am on exercise 4.15 - Converting Hashes Into Objects, 12:00 - 2:00pm CT open questions and mac installs!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gcd8bed110f3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd8bed110f3cff27a93d4b33f1963437.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Mitchell",
+            "display_name": "Kevin Mitchell",
+            "team": "T04C9T53QJK",
+            "name": "kevin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04CQDV5FTL",
+            "ts": "1672012369.000000"
+        }
+    }
+]

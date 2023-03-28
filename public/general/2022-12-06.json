@@ -1,0 +1,244 @@
+[
+    {
+        "client_msg_id": "65670CFE-1A68-4956-A280-FAD7565D0F0A",
+        "type": "message",
+        "text": "Hey everybody. Just got done with finals yesterday about to hunker down and get into the work. Hope it’s going great for everybody so far !!",
+        "user": "U04DJFFRN3C",
+        "ts": "1670344517.146339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NQ+ei",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everybody. Just got done with finals yesterday about to hunker down and get into the work. Hope "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " going great for everybody so far !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g849cc56ed76",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/20c86b537377ef12c795f3651203068e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Deactivated",
+            "real_name": "Deactivated User",
+            "display_name": "deactivateduser",
+            "team": "T04C9T53QJK",
+            "name": "deactivateduser364567",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670344517.146339",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1670351532.112599",
+        "reply_users": [
+            "U04DLUZMY84",
+            "U04DLUZGJ4C"
+        ],
+        "replies": [
+            {
+                "user": "U04DLUZMY84",
+                "ts": "1670344880.366999"
+            },
+            {
+                "user": "U04DLUZGJ4C",
+                "ts": "1670351519.084629"
+            },
+            {
+                "user": "U04DLUZGJ4C",
+                "ts": "1670351532.112599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04DLUZMY84",
+                    "U04DLUZ1JCU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "869e23d2-b485-4a96-8bb6-abf36939f31d",
+        "type": "message",
+        "text": "Congrats on finishing finals! So far it's going well, I'm really liking how the course is set up.",
+        "user": "U04DLUZMY84",
+        "ts": "1670344880.366999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats on finishing finals! So far it's going well, I'm really liking how the course is set up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670344517.146339",
+        "parent_user_id": "U04DJFFRN3C"
+    },
+    {
+        "client_msg_id": "1dd82b1a-c1fc-4a80-a16a-1a571e3bd21d",
+        "type": "message",
+        "text": "So am I! Jay is a great teacher!",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670351519.084629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3j53M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So am I! Jay is a great teacher!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670344517.146339",
+        "parent_user_id": "U04DJFFRN3C"
+    },
+    {
+        "client_msg_id": "4b35a930-e434-4de4-a405-e87233afa556",
+        "type": "message",
+        "text": "Congrats on the Finals! <@U04DJFFRN3C>",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670351532.112599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "80MM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats on the Finals! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04DJFFRN3C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670344517.146339",
+        "parent_user_id": "U04DJFFRN3C"
+    },
+    {
+        "client_msg_id": "ca5d9692-1bc6-4660-932b-3d836f094550",
+        "type": "message",
+        "text": "How we all doing today?!",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670351543.204289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CxS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How we all doing today?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

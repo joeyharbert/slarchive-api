@@ -1,0 +1,159 @@
+[
+    {
+        "client_msg_id": "23af7edf-650c-4537-bc8b-fb08397c57a7",
+        "type": "message",
+        "text": "<https:\/\/semaphoreci.com\/blog\/test-driven-development#tdd-styles>",
+        "user": "U04HL79B12M",
+        "ts": "1678729842.867579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "En=KT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/semaphoreci.com\/blog\/test-driven-development#tdd-styles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/semaphoreci.com\/blog\/test-driven-development#tdd-styles",
+                "ts": 1640095648,
+                "image_url": "https:\/\/wpblog.semaphoreci.com\/wp-content\/uploads\/2021\/12\/test-driven-development-featured.png",
+                "image_width": 1200,
+                "image_height": 676,
+                "image_bytes": 66405,
+                "service_icon": "https:\/\/semaphoreci.com\/\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/semaphoreci.com\/blog\/test-driven-development#tdd-styles",
+                "fallback": "Semaphore: Test-Driven Development: A Time-Tested Recipe for Quality Software",
+                "text": "Test-Driven Development (TDD) is an established practice that has been favored by many developers for years. This article helps you understand the history behind TDD, its purpose, its relationship to testing in general, and the benefits you can gain from its use.",
+                "title": "Test-Driven Development: A Time-Tested Recipe for Quality Software",
+                "title_link": "https:\/\/semaphoreci.com\/blog\/test-driven-development#tdd-styles",
+                "service_name": "Semaphore",
+                "fields": [
+                    {
+                        "value": "Ferdinando Santacroce",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "14 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb0ca5fb-499e-47b8-a5b8-f39824c5ac1f",
+        "type": "message",
+        "text": "<https:\/\/rspec.info\/documentation\/3.12\/rspec-core\/>",
+        "user": "U04HL79B12M",
+        "ts": "1678734196.025429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Hygd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rspec.info\/documentation\/3.12\/rspec-core\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b00e6e50-5680-4c0a-b838-2e08f9190965",
+        "type": "message",
+        "text": "<https:\/\/www.betterspecs.org\/>",
+        "user": "U04HL79B12M",
+        "ts": "1678734252.513779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DUJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.betterspecs.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.betterspecs.org\/",
+                "service_icon": "https:\/\/www.betterspecs.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.betterspecs.org\/",
+                "fallback": "Better Specs. Testing Guidelines for Developers.",
+                "text": "Better Specs is a collection of best practices developers learned while testing apps that you can use to improve your coding skills, or simply for inspiration.",
+                "title": "Better Specs. Testing Guidelines for Developers.",
+                "title_link": "https:\/\/www.betterspecs.org\/",
+                "service_name": "betterspecs.org"
+            }
+        ]
+    }
+]

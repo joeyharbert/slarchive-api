@@ -1,0 +1,307 @@
+[
+    {
+        "client_msg_id": "3bfec3fb-3fb1-4a01-b1a8-717f0e2da479",
+        "type": "message",
+        "text": "Hows everyone doing on the second week lessons? Not gonna lie I did not care for strings in week 1 :joy: Took me to long to get lmao. I finally got it now though",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670898448.252029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MYu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hows everyone doing on the second week lessons? Not gonna lie I did not care for strings in week 1 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Took me to long to get lmao. I finally got it now though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2FADFEA5-3048-4187-927A-361F2F7926DB",
+        "type": "message",
+        "text": "Hey congrats! All I know is I’m on Arrays right now and it’s a blast…:dizzy_face::exploding_head::joy: ",
+        "user": "U04D3UXCN3Z",
+        "ts": "1670900213.966849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JS6J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey congrats! All I know is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on Arrays right now and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a blast"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dizzy_face",
+                                "unicode": "1f635"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head",
+                                "unicode": "1f92f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "b8ed508f301a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-04\/4477343164609_b8ed508f301af4c69372_72.png",
+            "first_name": "Dallin",
+            "real_name": "Dallin Forsyth",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "dallfor192",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7DF6CB50-C4F3-4F93-A4BD-100C1ECFD504",
+        "type": "message",
+        "text": "Yeah I was so not confident about the last checkpoint of week 1 but I passed it and I feel like loops are a bit easier to me :sweat_smile: ",
+        "user": "U04E0MQE98T",
+        "ts": "1670900422.790299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TngU8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I was so not confident about the last checkpoint of week 1 but I passed it and I feel like loops are a bit easier to me "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "ga64575ba66e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a64575ba66e19545a4afb18b4b75880d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Noa",
+            "real_name": "Noa",
+            "display_name": "Noa",
+            "team": "T04C9T53QJK",
+            "name": "noavanrooylutz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99bf83d9-3b16-4267-816c-c54d7d55220c",
+        "type": "message",
+        "text": "loops are 100% easier lmao. Also, feels really good when you get stuck on a problem, take a quick break and it just pops into ur head on ur break so you rush back to ur computer:joy:",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670901734.232249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ca07w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "loops are 100% easier lmao. Also, feels really good when you get stuck on a problem, take a quick break and it just pops into ur head on ur break so you rush back to ur computer"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04D3UXCN3Z",
+                    "U04E0MQE98T"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6E0F626B-894A-4004-B579-06051EFA8751",
+        "type": "message",
+        "text": "Seriously sometimes I’m staring at the problem for like 10 minutes then suddenly I realize I’m just missing a period someplace and it all comes together ",
+        "user": "U04DLUZ1JCU",
+        "ts": "1670904044.981829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seriously sometimes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " staring at the problem for like 10 minutes then suddenly I realize "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just missing a period someplace and it all comes together "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g41ca7539271",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41ca75392712d62e32209ef36820efe3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Eddie",
+            "real_name": "Eddie Tong",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "edisonjtong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

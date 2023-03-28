@@ -1,0 +1,262 @@
+[
+    {
+        "client_msg_id": "ac1c3734-6be2-4cda-babf-98712f2c24e0",
+        "type": "message",
+        "text": "The punchline in this made me lol",
+        "user": "U04GY24PLTY",
+        "ts": "1676644005.365129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DydA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The punchline in this made me lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a7e95298-0b2c-4d7a-9383-e366d9b9a393",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=5bId3N7QZec>",
+        "user": "U04GY24PLTY",
+        "ts": "1676644006.406099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PoI7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=5bId3N7QZec"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=5bId3N7QZec",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/5bId3N7QZec\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/5bId3N7QZec?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"how programmers overprepare for job interviews\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=5bId3N7QZec",
+                "fallback": "YouTube Video: how programmers overprepare for job interviews",
+                "title": "how programmers overprepare for job interviews",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=5bId3N7QZec",
+                "author_name": "Joma Tech",
+                "author_link": "https:\/\/www.youtube.com\/@jomaoppa",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "thread_ts": "1676644006.406099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676652958.126319",
+        "reply_users": [
+            "U04HL79B12M"
+        ],
+        "replies": [
+            {
+                "user": "U04HL79B12M",
+                "ts": "1676652958.126319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U04HB4DFQ0K"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U04DLUZTL2Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04HL79B12M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a37cd749-f649-4ba9-80a0-fd6b50ebedd8",
+        "type": "message",
+        "text": "lmao. \"I fuckin love meditating\" made me die",
+        "user": "U04DLUZGJ4C",
+        "ts": "1676652834.983619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lmao. \"I fuckin love meditating\" made me die"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "37799bd0-1f10-4afe-8704-9052f5b25067",
+        "type": "message",
+        "text": "that is incredible",
+        "user": "U04HL79B12M",
+        "ts": "1676652958.126319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Scm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that is incredible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676644006.406099",
+        "parent_user_id": "U04GY24PLTY"
+    },
+    {
+        "client_msg_id": "84C240C8-23A6-45B7-ABFC-4772428ED1F6",
+        "type": "message",
+        "text": "Btw that guy’s YT channel is freaking awesome. Very worth watching more of his stuff.",
+        "user": "U04GY24PLTY",
+        "ts": "1676668793.127499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8hUZC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Btw that guy’s YT channel is freaking awesome. Very worth watching more of his stuff."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04HB4DFQ0K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,944 @@
+[
+    {
+        "client_msg_id": "49542111-f801-4c03-94f6-0a4ff9b82d0d",
+        "type": "message",
+        "text": "Exercise:\nMove each component into separate files\nHighlight a function\nClick on the yellow light bulb (or right click, select Refactor) -&gt; Move to new file\nRepeat for each function (EXCEPT `function App()`, since it’s already in its own file)",
+        "user": "U04HL79B12M",
+        "ts": "1677258973.700729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XKVJ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMove each component into separate files\nHighlight a function\nClick on the yellow light bulb (or right click, select Refactor) -> Move to new file\nRepeat for each function (EXCEPT "
+                            },
+                            {
+                                "type": "text",
+                                "text": "function App()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", since it’s already in its own file)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0e690e2c-7fea-4d00-8dc6-762d9c6c0a43",
+        "type": "message",
+        "text": "Exercise:\nMake a practice frontend for your mini-capstone!\n\n\n1) First kill any servers and close all terminal tabs and text editor windows.\n\n\n2) In your terminal, navigate to your Actualize folder and run\n```npm create vite@latest```\n• Project name: `practice-mini-capstone-frontend`\n• Select a framework: `react`\n• Select a variant: `JavaScript`\n\n3) Run the suggested commands\n``` cd practice-mini-capstone-frontend```\n``` npm install```\n```npm run dev```\n\n4) Open browser to <http:\/\/localhost:5173> to see the app\n\n\n5) Open a new terminal tab and use git to commit your code\n``` git init```\n``` git add --all```\n```git commit -m \"Initial commit\"```\n6) In your terminal, run `code .` to open VSCode\n\n\n7) Open `src\/App.jsx`\n\n\n8) Replace the code in `src\/index.css` with the following:\n```#products-index img {\n  width: 300px;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}```\n9) Replace the code in `src\/App.jsx` with the following:\n```function Header() {}\n\nfunction ProductsNew() {}\n\nfunction ProductsIndex() {}\n\nfunction Footer() {}\n\nfunction Content() {\n  return (\n    &lt;div&gt;\n      &lt;ProductsNew \/&gt;\n      &lt;ProductsIndex \/&gt;\n    &lt;\/div&gt;\n  );\n}\n\nfunction App() {\n  return (\n    &lt;div&gt;\n      &lt;Header \/&gt;\n      &lt;Content \/&gt;\n      &lt;Footer \/&gt;\n    &lt;\/div&gt;\n  );\n}\n\nexport default App;```\n\n10) Write the HTML code for the Header, ProductsNew, ProductsIndex, and Footer components (use hard-coded data for products with a name, description, price, and image_url)\n\n\n11) Move each component into a separate file (you can use VSCode’s refactoring features)",
+        "user": "U04HL79B12M",
+        "ts": "1677259322.522969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TvFA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake a practice frontend for your mini-capstone!\n\n\n1) First kill any servers and close all terminal tabs and text editor windows.\n\n\n2) In your terminal, navigate to your Actualize folder and run\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm create vite@latest"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Project name: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "practice-mini-capstone-frontend",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Select a framework: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "react",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Select a variant: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "JavaScript",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n3) Run the suggested commands\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " cd practice-mini-capstone-frontend"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " npm install"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm run dev"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n4) Open browser to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:5173"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to see the app\n\n\n5) Open a new terminal tab and use git to commit your code\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " git init"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " git add --all"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git commit -m \"Initial commit\""
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n6) In your terminal, run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "code .",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to open VSCode\n\n\n7) Open "
+                            },
+                            {
+                                "type": "text",
+                                "text": "src\/App.jsx",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n8) Replace the code in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "src\/index.css",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with the following:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#products-index img {\n  width: 300px;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n9) Replace the code in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "src\/App.jsx",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with the following:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "function Header() {}\n\nfunction ProductsNew() {}\n\nfunction ProductsIndex() {}\n\nfunction Footer() {}\n\nfunction Content() {\n  return (\n    <div>\n      <ProductsNew \/>\n      <ProductsIndex \/>\n    <\/div>\n  );\n}\n\nfunction App() {\n  return (\n    <div>\n      <Header \/>\n      <Content \/>\n      <Footer \/>\n    <\/div>\n  );\n}\n\nexport default App;"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n10) Write the HTML code for the Header, ProductsNew, ProductsIndex, and Footer components (use hard-coded data for products with a name, description, price, and image_url)\n\n\n11) Move each component into a separate file (you can use VSCode’s refactoring features)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1677259515.000000"
+        }
+    },
+    {
+        "client_msg_id": "94eff272-c63f-414e-8cb9-dd2d809260db",
+        "type": "message",
+        "text": "Exercise:\nKill any servers and terminal windows.\nOpen a new terminal, navigate to your `blog-api`, run `rails server`\nOpen a new terminal tab, navigate to your `blog-frontend`, run `npm run dev`\nOpen a new terminal tab, run `code .`\nVisit <http:\/\/localhost:5173> in Google Chrome and open the dev tools (CMD OPT J)",
+        "user": "U04HL79B12M",
+        "ts": "1677262511.253049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yZu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nKill any servers and terminal windows.\nOpen a new terminal, navigate to your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "blog-api",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rails server",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOpen a new terminal tab, navigate to your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "blog-frontend",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "npm run dev",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOpen a new terminal tab, run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "code .",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nVisit "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:5173"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in Google Chrome and open the dev tools (CMD OPT J)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1677262599.000000"
+        }
+    },
+    {
+        "client_msg_id": "68086d03-2f1e-4d8c-92c8-7b750a4789aa",
+        "type": "message",
+        "text": "Exercise:\nMake a src\/Modal.css file\n```.modal-background {\n  display: block;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width:100%;\n  height: 100%;\n  background: rgba(0, 0, 0, 0.6);\n  z-index: 1000;\n}\n\n.modal-main {\n  position:fixed;\n  background: white;\n  width: 80%;\n  height: auto;\n  top:50%;\n  left:50%;\n  transform: translate(-50%,-50%);\n  padding: 1em;\n}\n\n.modal-main button.close {\n  font-size: 2em;\n  background: none;\n  border: none;\n  position: absolute;\n  top: 0em; \n  right: 0.2em;\n}```\nMake a src\/Modal.jsx file\n```import \".\/Modal.css\";\n\nexport function Modal(props) {\n  if (props.show) {\n    return (\n      &lt;div className=\"modal-background\"&gt;\n        &lt;section className=\"modal-main\"&gt;\n          {props.children}\n          &lt;button className=\"close\" type=\"button\" onClick={props.onClose}&gt;\n            &amp;#x2715;\n          &lt;\/button&gt;\n        &lt;\/section&gt;\n      &lt;\/div&gt;\n    );\n  }\n}```\nIn src\/Content.jsx, import the modal component\n```import { Modal } from \".\/Modal\";```\nIn src\/Content.jsx, import and display the modal component\n```      &lt;Modal show={true}&gt;\n        &lt;p&gt;TEST&lt;\/p&gt;\n      &lt;\/Modal&gt;```",
+        "user": "U04HL79B12M",
+        "ts": "1677263156.753399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TYTjx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake a src\/Modal.css file\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ".modal-background {\n  display: block;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width:100%;\n  height: 100%;\n  background: rgba(0, 0, 0, 0.6);\n  z-index: 1000;\n}\n\n.modal-main {\n  position:fixed;\n  background: white;\n  width: 80%;\n  height: auto;\n  top:50%;\n  left:50%;\n  transform: translate(-50%,-50%);\n  padding: 1em;\n}\n\n.modal-main button.close {\n  font-size: 2em;\n  background: none;\n  border: none;\n  position: absolute;\n  top: 0em; \n  right: 0.2em;\n}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Make a src\/Modal.jsx file\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import \".\/Modal.css\";\n\nexport function Modal(props) {\n  if (props.show) {\n    return (\n      <div className=\"modal-background\">\n        <section className=\"modal-main\">\n          {props.children}\n          <button className=\"close\" type=\"button\" onClick={props.onClose}>\n            &#x2715;\n          <\/button>\n        <\/section>\n      <\/div>\n    );\n  }\n}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In src\/Content.jsx, import the modal component\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import { Modal } from \".\/Modal\";"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIn src\/Content.jsx, import and display the modal component\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "      <Modal show={true}>\n        <p>TEST<\/p>\n      <\/Modal>"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "947c5dcd-4b7a-4192-aa2e-e389819ee818",
+        "type": "message",
+        "text": "Exercise:\nChange the modal to hide and show based on user input\n• In the Content.jsx component, define the state\n```  const [isPostsShowVisible, setIsPostsShowVisible] = useState(false);```\n• In the Content.jsx component, define the handler functions to change the state\n```  const handleShowPost = () =&gt; {\n    setIsPostsShowVisible(true);\n  };\n\n  const handleClose = () =&gt; {\n    setIsPostsShowVisible(false);\n  };```\n• Change the Modal show prop to use the isPostsShowVisible state variable\n• Add a PostsIndex onShowPost prop to use the handleShowPost function\n• Add a Modal onClose prop to use the handleClose function\n• In the PostsIndex.jsx component, make a new button with an onClick that runs the onShowPost prop",
+        "user": "U04HL79B12M",
+        "ts": "1677264362.645169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xhx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nChange the modal to hide and show based on user input\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In the Content.jsx component, define the state"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  const [isPostsShowVisible, setIsPostsShowVisible] = useState(false);"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In the Content.jsx component, define the handler functions to change the state"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  const handleShowPost = () => {\n    setIsPostsShowVisible(true);\n  };\n\n  const handleClose = () => {\n    setIsPostsShowVisible(false);\n  };"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change the Modal show prop to use the isPostsShowVisible state variable"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add a PostsIndex onShowPost prop to use the handleShowPost function"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add a Modal onClose prop to use the handleClose function"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In the PostsIndex.jsx component, make a new button with an onClick that runs the onShowPost prop"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1677264394.000000"
+        }
+    },
+    {
+        "client_msg_id": "e43013f7-a02e-40d2-bc7b-17f96df2d67f",
+        "type": "message",
+        "text": "Exercise:\nChange the modal to display current post info\n\nIn Content.jsx, define the state\n```const [currentPost, setCurrentPost] = useState({});```\nChange the `handleShowPost` to take in an argument called `post` and call `setCurrentPost(post);` inside the function\n\nChange the content inside the modal to display info about currentPost\n```&lt;h2&gt;Title: {currentPost.title}&lt;\/h2&gt;\n(etc.)```\nIn PostsIndex.jsx, change the button onClick to pass in the current post\n```&lt;button onClick={() =&gt; props.onShowPost(post)}&gt;More info&lt;\/button&gt;```",
+        "user": "U04HL79B12M",
+        "ts": "1677265850.944599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "duG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nChange the modal to display current post info\n\nIn Content.jsx, define the state\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "const [currentPost, setCurrentPost] = useState({});"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nChange the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "handleShowPost",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to take in an argument called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "post",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and call "
+                            },
+                            {
+                                "type": "text",
+                                "text": "setCurrentPost(post);",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " inside the function\n\nChange the content inside the modal to display info about currentPost\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<h2>Title: {currentPost.title}<\/h2>\n(etc.)"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIn PostsIndex.jsx, change the button onClick to pass in the current post\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<button onClick={() => props.onShowPost(post)}>More info<\/button>"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cce534b7-783d-4f28-b46d-8b2412a743a2",
+        "type": "message",
+        "text": "Exercise:\nMake a separate component for the posts show",
+        "user": "U04HL79B12M",
+        "ts": "1677267738.767609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Nh0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake a separate component for the posts show"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9fb47bc7-4465-40c3-85c0-82b714e6ceb8",
+        "type": "message",
+        "text": "Exercise:\nUpdate your work journal!\nGo to your gists: <https:\/\/gist.github.com\/mine>\nFind your gist titled “work-journal.md”\nClick “Edit”\nAdd your new content towards the top\n```## YYYY-MM-DD\n### Learnings\n- (Describe your learning accomplishments and wins, as well as how you are planning to improve in specific areas)\n\n### Interesting things\n- (List coding resources you have found and describe why they’re interesting)```\nUpdate the content with today’s date and your content for the learning and interesting things section",
+        "user": "U04HL79B12M",
+        "ts": "1677272464.744979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YfW0K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nUpdate your work journal!\nGo to your gists: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/mine"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFind your gist titled “work-journal.md”\nClick “Edit”\nAdd your new content towards the top\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "## YYYY-MM-DD\n### Learnings\n- (Describe your learning accomplishments and wins, as well as how you are planning to improve in specific areas)\n\n### Interesting things\n- (List coding resources you have found and describe why they’re interesting)"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update the content with today’s date and your content for the learning and interesting things section"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

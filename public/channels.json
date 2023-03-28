@@ -1,0 +1,263 @@
+[
+{
+    "id": "C04C9T553HD",
+    "name": "general",
+    "created": 1669643479,
+    "creator": "U04DE4Y05EU",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+        "U04C9TMTJT1",
+        "U04D3UXCN3Z",
+        "U04DE4Y05EU",
+        "U04DFH2CCR3",
+        "U04DLUZ1JCU",
+        "U04DLUZGJ4C",
+        "U04DLUZMY84",
+        "U04DLUZTL2Y",
+        "U04GY24PLTY",
+        "U04HB4D6ARZ",
+        "U04HB4DFQ0K",
+        "U04HL79B12M",
+        "U04HQ40UQ87",
+        "U04J9382JP3"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This is the one channel that will always include everyone. It’s a great spot for announcements and team-wide conversations.",
+        "creator": "U04DE4Y05EU",
+        "last_set": 1669643479
+    }
+},
+{
+    "id": "C04CQDWFMS6",
+    "name": "office-hours",
+    "created": 1669643551,
+    "creator": "U04DE4Y05EU",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04D3UXCN3Z",
+        "U04DE4Y05EU",
+        "U04DFH2CCR3",
+        "U04DLUZ1JCU",
+        "U04DLUZGJ4C",
+        "U04DLUZMY84",
+        "U04DLUZTL2Y",
+        "U04GY24PLTY",
+        "U04HB4D6ARZ",
+        "U04HB4DFQ0K",
+        "U04HL79B12M",
+        "U04HQ40UQ87",
+        "U04J9382JP3"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C04CQE230AW",
+    "name": "resources",
+    "created": 1669643614,
+    "creator": "U04DE4Y05EU",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04D3UXCN3Z",
+        "U04DE4Y05EU",
+        "U04DFH2CCR3",
+        "U04DLUZ1JCU",
+        "U04DLUZGJ4C",
+        "U04DLUZMY84",
+        "U04DLUZTL2Y",
+        "U04GY24PLTY",
+        "U04HB4D6ARZ",
+        "U04HB4DFQ0K",
+        "U04HL79B12M",
+        "U04HQ40UQ87",
+        "U04J9382JP3"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C04D33A8CSV",
+    "name": "job-hacking",
+    "created": 1669643562,
+    "creator": "U04DE4Y05EU",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04C9TMTJT1",
+        "U04D3UXCN3Z",
+        "U04DE4Y05EU",
+        "U04DFH2CCR3",
+        "U04DLUZ1JCU",
+        "U04DLUZGJ4C",
+        "U04DLUZMY84",
+        "U04DLUZTL2Y",
+        "U04GY24PLTY",
+        "U04HB4D6ARZ",
+        "U04HB4DFQ0K",
+        "U04HL79B12M",
+        "U04HQ40UQ87",
+        "U04J9382JP3"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C04DE4Y20N4",
+    "name": "random",
+    "created": 1669643480,
+    "creator": "U04DE4Y05EU",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04C9TMTJT1",
+        "U04D3UXCN3Z",
+        "U04DE4Y05EU",
+        "U04DFH2CCR3",
+        "U04DLUZ1JCU",
+        "U04DLUZGJ4C",
+        "U04DLUZMY84",
+        "U04DLUZTL2Y",
+        "U04GY24PLTY",
+        "U04HB4D6ARZ",
+        "U04HB4DFQ0K",
+        "U04HL79B12M",
+        "U04HQ40UQ87",
+        "U04J9382JP3"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas, and funny GIFs. Go wild!",
+        "creator": "U04DE4Y05EU",
+        "last_set": 1669643480
+    }
+},
+{
+    "id": "C04DE53263A",
+    "name": "exercises",
+    "created": 1669643536,
+    "creator": "U04DE4Y05EU",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04D3UXCN3Z",
+        "U04DE4Y05EU",
+        "U04DFH2CCR3",
+        "U04DLUZ1JCU",
+        "U04DLUZGJ4C",
+        "U04DLUZMY84",
+        "U04DLUZTL2Y",
+        "U04GY24PLTY",
+        "U04HB4D6ARZ",
+        "U04HB4DFQ0K",
+        "U04HL79B12M"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This channel is for everything #exercises. Hold meetings, share docs, and make decisions together with your team.",
+        "creator": "U04DE4Y05EU",
+        "last_set": 1669643536
+    }
+},
+{
+    "id": "C04LNNTS27P",
+    "name": "pets",
+    "created": 1674766882,
+    "creator": "U04HL79B12M",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04D3UXCN3Z",
+        "U04DFH2CCR3",
+        "U04DLUZ1JCU",
+        "U04DLUZGJ4C",
+        "U04DLUZMY84",
+        "U04DLUZTL2Y",
+        "U04GY24PLTY",
+        "U04HB4D6ARZ",
+        "U04HB4DFQ0K",
+        "U04HL79B12M",
+        "U04J9382JP3"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "post ya pets",
+        "creator": "U04HL79B12M",
+        "last_set": 1674766882
+    }
+},
+{
+    "id": "C04TCJLQSHX",
+    "name": "books",
+    "created": 1678295583,
+    "creator": "U04DLUZMY84",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U04D3UXCN3Z",
+        "U04DFH2CCR3",
+        "U04DLUZ1JCU",
+        "U04DLUZGJ4C",
+        "U04DLUZMY84",
+        "U04DLUZTL2Y",
+        "U04GY24PLTY",
+        "U04HB4D6ARZ",
+        "U04HB4DFQ0K",
+        "U04HL79B12M",
+        "U04J9382JP3"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "good reads",
+        "creator": "U04DLUZMY84",
+        "last_set": 1678295584
+    }
+}
+]

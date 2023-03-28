@@ -1,0 +1,265 @@
+[
+    {
+        "client_msg_id": "1e7ad24d-49e8-4d64-b5fd-9ba6ce65db19",
+        "type": "message",
+        "text": "*Terminal Commands*\nList folder contents: `ls`\nGo one level deeper \/ Enter folder: `cd directory`\nGo one level higher \/ Leave folder: `cd ..`\nGo back to home folder: `cd ~`\nGet complete file path: `pwd`\nCreate folder: `mkdir foldername`\nCreate file: `touch filename`\nAdd text to file: `echo 'add this text'  &gt;&gt; newfile.rb`\nGet contents of file: `cat filename`\nOpen the current directory in Finder: `open .`",
+        "user": "U04HL79B12M",
+        "ts": "1673287943.907979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M2\/j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Terminal Commands",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nList folder contents: `ls`\nGo one level deeper \/ Enter folder: `cd directory`\nGo one level higher \/ Leave folder: `cd ..`\nGo back to home folder: `cd ~`\nGet complete file path: `pwd`\nCreate folder: `mkdir foldername`\nCreate file: `touch filename`\nAdd text to file: `echo 'add this text'  >> newfile.rb`\nGet contents of file: `cat filename`\nOpen the current directory in Finder: `open .`"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ce187898-9f06-422b-9c10-42e74caf23a7",
+        "type": "message",
+        "text": "<https:\/\/github.com\/actualize-daytime-2022-12-04\/resources\/blob\/main\/setup_vscode.md>",
+        "user": "U04HL79B12M",
+        "ts": "1673289779.146049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GsMM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/actualize-daytime-2022-12-04\/resources\/blob\/main\/setup_vscode.md"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fd5cdc83-242d-4df6-9a9e-d18fcfac9856",
+        "type": "message",
+        "text": "```{\n  \"editor.tabSize\": 2,\n  \"files.autoSave\": \"onFocusChange\",\n  \"editor.formatOnSave\": true,\n  \"editor.wordWrap\": \"on\",\n  \"editor.parameterHints.enabled\": false,\n  \"explorer.openEditors.visible\": 0,\n  \"ruby.useLanguageServer\": true,\n  \"ruby.lint\": { \"rubocop\": false },\n  \"ruby.format\": false,\n  \"[vue]\": {\n    \"editor.defaultFormatter\": \"esbenp.prettier-vscode\"\n  },\n  \"[javascript]\": {\n    \"editor.defaultFormatter\": \"esbenp.prettier-vscode\"\n  },\n  \"[javascriptreact]\": {\n    \"editor.defaultFormatter\": \"esbenp.prettier-vscode\"\n  }\n}```",
+        "user": "U04HL79B12M",
+        "ts": "1673289807.406089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uvRcZ",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "{\n  \"editor.tabSize\": 2,\n  \"files.autoSave\": \"onFocusChange\",\n  \"editor.formatOnSave\": true,\n  \"editor.wordWrap\": \"on\",\n  \"editor.parameterHints.enabled\": false,\n  \"explorer.openEditors.visible\": 0,\n  \"ruby.useLanguageServer\": true,\n  \"ruby.lint\": { \"rubocop\": false },\n  \"ruby.format\": false,\n  \"[vue]\": {\n    \"editor.defaultFormatter\": \"esbenp.prettier-vscode\"\n  },\n  \"[javascript]\": {\n    \"editor.defaultFormatter\": \"esbenp.prettier-vscode\"\n  },\n  \"[javascriptreact]\": {\n    \"editor.defaultFormatter\": \"esbenp.prettier-vscode\"\n  }\n}"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "deaf6e98-99c4-4985-b52b-3a7c39ffb3b3",
+        "type": "message",
+        "text": "`code ~\/.rubocop.yml`",
+        "user": "U04HL79B12M",
+        "ts": "1673290526.591549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "code ~\/.rubocop.yml",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "99031032-d89d-4ab9-b1f6-ba4da2262e68",
+        "type": "message",
+        "text": "```AllCops:\n  DisabledByDefault: true\n\nLayout\/IndentationConsistency:\n  EnforcedStyle: indented_internal_methods\n\nLayout\/IndentationWidth:\n  Width: 2\n\nStyle\/MethodDefParentheses:\n  EnforcedStyle: require_parentheses\n\nNaming\/MethodName:\n  EnforcedStyle: snake_case\n\nNaming\/VariableName:\n  EnforcedStyle: snake_case\n\nNaming\/VariableNumber:\n  EnforcedStyle: normalcase\n\nLint\/AssignmentInCondition:\n  AllowSafeAssignment: true\n\nLayout\/BlockAlignment:\n  EnforcedStyleAlignWith: either\n\nLayout\/EndAlignment:\n  EnforcedStyleAlignWith: keyword\n  AutoCorrect: false\n\nLayout\/DefEndAlignment:\n  EnforcedStyleAlignWith: start_of_line\n  AutoCorrect: false\n\nLint\/InheritException:\n  EnforcedStyle: runtime_error\n\nLint\/UnusedBlockArgument:\n  IgnoreEmptyBlocks: true\n  AllowUnusedKeywordArguments: false\n\nLint\/UnusedMethodArgument:\n  AllowUnusedKeywordArguments: false\n  IgnoreEmptyMethods: true```",
+        "user": "U04HL79B12M",
+        "ts": "1673290545.194699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WFD",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AllCops:\n  DisabledByDefault: true\n\nLayout\/IndentationConsistency:\n  EnforcedStyle: indented_internal_methods\n\nLayout\/IndentationWidth:\n  Width: 2\n\nStyle\/MethodDefParentheses:\n  EnforcedStyle: require_parentheses\n\nNaming\/MethodName:\n  EnforcedStyle: snake_case\n\nNaming\/VariableName:\n  EnforcedStyle: snake_case\n\nNaming\/VariableNumber:\n  EnforcedStyle: normalcase\n\nLint\/AssignmentInCondition:\n  AllowSafeAssignment: true\n\nLayout\/BlockAlignment:\n  EnforcedStyleAlignWith: either\n\nLayout\/EndAlignment:\n  EnforcedStyleAlignWith: keyword\n  AutoCorrect: false\n\nLayout\/DefEndAlignment:\n  EnforcedStyleAlignWith: start_of_line\n  AutoCorrect: false\n\nLint\/InheritException:\n  EnforcedStyle: runtime_error\n\nLint\/UnusedBlockArgument:\n  IgnoreEmptyBlocks: true\n  AllowUnusedKeywordArguments: false\n\nLint\/UnusedMethodArgument:\n  AllowUnusedKeywordArguments: false\n  IgnoreEmptyMethods: true"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aea06718-fb18-483e-8113-b0b0c5213b81",
+        "type": "message",
+        "text": "<https:\/\/rectangleapp.com>",
+        "user": "U04HL79B12M",
+        "ts": "1673291244.363719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OsV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rectangleapp.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/rectangleapp.com\/",
+                "thumb_url": "https:\/\/rectangleapp.com\/assets\/images\/mac512pts1x.png",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/rectangleapp.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/rectangleapp.com",
+                "fallback": "Rectangle",
+                "text": "Move and resize windows in macOS using keyboard shortcuts or snap areas. The official page for Rectangle.",
+                "title": "Rectangle",
+                "title_link": "https:\/\/rectangleapp.com\/",
+                "service_name": "rectangleapp.com"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673303495.345689",
+        "user": "U04HQ40UQ87",
+        "text": "<@U04HQ40UQ87> has joined the channel"
+    }
+]

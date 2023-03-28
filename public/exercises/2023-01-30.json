@@ -1,0 +1,439 @@
+[
+    {
+        "client_msg_id": "fb5f4ba0-cf7a-45e0-b340-7d5b87d85b39",
+        "type": "message",
+        "text": "Exercise:\nCreate a new rails app called `example-dogs-api`.\n\n\nIn `app\/controllers\/application_controller.rb`, add the following line to disable Rails CSRF protection for JSON POST requests:\n```  protect_from_forgery with: :exception, unless: -&gt; { request.format.json? }```\nUse the Authentication guide to implement user signup and login actions. Use your http client to create at least 2 different users.\n\n\nMake a Dog model with attributes for name, age, and breed.\n\n\nImplement a dogs create action. The dogs create action should only work if a user is logged in; if they are not, send a json message saying users must be logged in to create new dogs.\n\n\nBonus: Make a has_many \/ belongs_to relationship between users and dogs, and change the create action to save the user’s id with each dog.\n\nBonus part 2: Make update and destroy actions that only work if the current user is the owner of that dog.",
+        "user": "U04HL79B12M",
+        "ts": "1675098600.721849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "28sR0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nCreate a new rails app called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "example-dogs-api",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\n\nIn "
+                            },
+                            {
+                                "type": "text",
+                                "text": "app\/controllers\/application_controller.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", add the following line to disable Rails CSRF protection for JSON POST requests:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  protect_from_forgery with: :exception, unless: -> { request.format.json? }"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nUse the Authentication guide to implement user signup and login actions. Use your http client to create at least 2 different users.\n\n\nMake a Dog model with attributes for name, age, and breed.\n\n\nImplement a dogs create action. The dogs create action should only work if a user is logged in; if they are not, send a json message saying users must be logged in to create new dogs.\n\n\nBonus: Make a has_many \/ belongs_to relationship between users and dogs, and change the create action to save the user’s id with each dog.\n\nBonus part 2: Make update and destroy actions that only work if the current user is the owner of that dog."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e55acf08-504d-43ec-a299-b7e8b1095998",
+        "type": "message",
+        "text": "Exercise:\nIn your mini-capstone make proper associations between your Order, User, and Product models.",
+        "user": "U04HL79B12M",
+        "ts": "1675103306.344109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uMh8z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn your mini-capstone make proper associations between your Order, User, and Product models."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2ac50e7f-2fb8-476d-b7ad-9775da47691a",
+        "type": "message",
+        "text": "`rails generate model Order user_id:integer product_id:integer quantity:integer 'subtotal:decimal{9,2}' 'tax:decimal{9,2}' 'total:decimal{9,2}'`",
+        "user": "U04HL79B12M",
+        "ts": "1675103340.539939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MxDvO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails generate model Order user_id:integer product_id:integer quantity:integer 'subtotal:decimal{9,2}' 'tax:decimal{9,2}' 'total:decimal{9,2}'",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "537d251a-1f2d-4106-b22c-f9d98a5e6835",
+        "type": "message",
+        "text": "Exercise: Decomposition\n• Write out all the steps necessary for your mini-capstone backend to allow users to purchase products. (aim for roughly 5 to 10 steps)\n• For now, a user can submit an order for any quantity of a single product (we are not implementing a “shopping cart” where an order contains multiple products).\n• Do not write any code for this exercise; just focus on decomposing the different steps necessary to complete the feature.\nHere is some criteria for good decomposition:\n1) Break down the first step of the problem to something you know you can do (deliberate practice)\n2) Write a test condition for each step or at least every several steps\n3) Save the hard unknown stuff for the later steps",
+        "user": "U04HL79B12M",
+        "ts": "1675104034.405179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y6Ka",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Decomposition\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Write out all the steps necessary for your mini-capstone backend to allow users to purchase products. (aim for roughly 5 to 10 steps)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "For now, a user can submit an order for any quantity of a single product (we are not implementing a “shopping cart” where an order contains multiple products)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do not write any code for this exercise; just focus on decomposing the different steps necessary to complete the feature."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nHere is some criteria for good decomposition:\n1) Break down the first step of the problem to something you know you can do (deliberate practice)\n2) Write a test condition for each step or at least every several steps\n3) Save the hard unknown stuff for the later steps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1fbf1978-3ebf-4300-b208-92d8b55feced",
+        "type": "message",
+        "text": "Exercise:\nAllow users to \"purchase\" items in your mini-capstone\n\n1) Create an orders controller.\n\n2) Add an orders `create` action. Assume you're getting ALL params from the user (user_id, product_id, quantity, subtotal, tax, total). I know this is wrong, but do it this way first.\n\n3) Test the orders `create` in your HTTP client.\n\n4) Add an orders `show` action. Assume it's completely normal!\n\n5) Test the orders `show` in your HTTP client.\n\n6) Add an orders `index` action. Assume it's completely normal!\n\n7) Test the orders `index` in your HTTP client.\n\n8 ) Change the orders `create` so the user_id comes from `current_user.id`.\n(This will require your HTTP client request to send a jwt in Authorization: Bearer ___ header)\n\n9) Change the orders `create` so the subtotal, tax, and total come from calculations.\n\n10) Change the orders `show` so only the current user can see their order.\n(This will require your HTTP client request to send a jwt in Authorization: Bearer ___ header)\n\n11) Change the orders `index` so only the current user can see their orders.\n(This will require your HTTP client request to send a jwt in Authorization: Bearer ___ header)\n\n12) Add tests in `tests\/controllers\/orders_controller_tests.rb`:\n```require \"test_helper\"\n\nclass OrdersControllerTest &lt; ActionDispatch::IntegrationTest\n  setup do\n    @user = User.create(name: \"Test\", email: \"test@test.com\", password: \"password\")\n    @order = Order.create(user_id: @user.id, product_id: Product.first.id, quantity: 10)\n    post \"\/sessions.json\", params: { email: \"test@test.com\", password: \"password\" }\n    data = JSON.parse(response.body)\n    @jwt = data[\"jwt\"]\n  end\n\n  test \"index\" do\n    get \"\/orders.json\", headers: { \"Authorization\" =&gt; \"Bearer #{@jwt}\" }\n    assert_response 200\n  end\n\n  test \"create\" do\n    assert_difference \"Order.count\", 1 do\n      post \"\/orders.json\",\n        params: { product_id: Product.first.id, quantity: 10 },\n        headers: { \"Authorization\" =&gt; \"Bearer #{@jwt}\" }\n      assert_response 200\n    end\n  end\n\n  test \"show\" do\n    get \"\/orders\/#{@order.id}.json\", headers: { \"Authorization\" =&gt; \"Bearer #{@jwt}\" }\n    assert_response 200\n\n    data = JSON.parse(response.body)\n    assert_equal [\"id\", \"quantity\", \"subtotal\", \"tax\", \"total\", \"product\", \"created_at\", \"updated_at\"], data.keys\n  end\nend```\nOnce everything all the tests are passing, you can test out your app with the frontend at: <https:\/\/mini-capstone.peterxjang.com\/authentication\/products>\nTo make the frontend work, you’ll need to customize the orders json to send the exact json the frontend needs...",
+        "user": "U04HL79B12M",
+        "ts": "1675104982.156469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ogb=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nAllow users to \"purchase\" items in your mini-capstone\n\n1) Create an orders controller.\n\n2) Add an orders "
+                            },
+                            {
+                                "type": "text",
+                                "text": "create",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " action. Assume you're getting ALL params from the user (user_id, product_id, quantity, subtotal, tax, total). I know this is wrong, but do it this way first.\n\n3) Test the orders "
+                            },
+                            {
+                                "type": "text",
+                                "text": "create",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in your HTTP client.\n\n4) Add an orders "
+                            },
+                            {
+                                "type": "text",
+                                "text": "show",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " action. Assume it's completely normal!\n\n5) Test the orders "
+                            },
+                            {
+                                "type": "text",
+                                "text": "show",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in your HTTP client.\n\n6) Add an orders "
+                            },
+                            {
+                                "type": "text",
+                                "text": "index",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " action. Assume it's completely normal!\n\n7) Test the orders "
+                            },
+                            {
+                                "type": "text",
+                                "text": "index",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in your HTTP client.\n\n8 ) Change the orders "
+                            },
+                            {
+                                "type": "text",
+                                "text": "create",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so the user_id comes from "
+                            },
+                            {
+                                "type": "text",
+                                "text": "current_user.id",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n(This will require your HTTP client request to send a jwt in Authorization: Bearer ___ header)\n\n9) Change the orders "
+                            },
+                            {
+                                "type": "text",
+                                "text": "create",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so the subtotal, tax, and total come from calculations.\n\n10) Change the orders "
+                            },
+                            {
+                                "type": "text",
+                                "text": "show",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so only the current user can see their order.\n(This will require your HTTP client request to send a jwt in Authorization: Bearer ___ header)\n\n11) Change the orders "
+                            },
+                            {
+                                "type": "text",
+                                "text": "index",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so only the current user can see their orders.\n(This will require your HTTP client request to send a jwt in Authorization: Bearer ___ header)\n\n12) Add tests in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tests\/controllers\/orders_controller_tests.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "require \"test_helper\"\n\nclass OrdersControllerTest < ActionDispatch::IntegrationTest\n  setup do\n    @user = User.create(name: \"Test\", email: \"test@test.com\", password: \"password\")\n    @order = Order.create(user_id: @user.id, product_id: Product.first.id, quantity: 10)\n    post \"\/sessions.json\", params: { email: \"test@test.com\", password: \"password\" }\n    data = JSON.parse(response.body)\n    @jwt = data[\"jwt\"]\n  end\n\n  test \"index\" do\n    get \"\/orders.json\", headers: { \"Authorization\" => \"Bearer #{@jwt}\" }\n    assert_response 200\n  end\n\n  test \"create\" do\n    assert_difference \"Order.count\", 1 do\n      post \"\/orders.json\",\n        params: { product_id: Product.first.id, quantity: 10 },\n        headers: { \"Authorization\" => \"Bearer #{@jwt}\" }\n      assert_response 200\n    end\n  end\n\n  test \"show\" do\n    get \"\/orders\/#{@order.id}.json\", headers: { \"Authorization\" => \"Bearer #{@jwt}\" }\n    assert_response 200\n\n    data = JSON.parse(response.body)\n    assert_equal [\"id\", \"quantity\", \"subtotal\", \"tax\", \"total\", \"product\", \"created_at\", \"updated_at\"], data.keys\n  end\nend"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nOnce everything all the tests are passing, you can test out your app with the frontend at: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mini-capstone.peterxjang.com\/authentication\/products"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTo make the frontend work, you’ll need to customize the orders json to send the exact json the frontend needs..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

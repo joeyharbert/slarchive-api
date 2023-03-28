@@ -1,0 +1,328 @@
+[
+    {
+        "client_msg_id": "2ebec3f1-6f16-4b9b-b448-70072ab1fa46",
+        "type": "message",
+        "text": "Exercise: (Discovery, work in pairs)\nDo research on how you would make changes to a Rails database after a model has already been created and migrated.\n\nStart by searching \"rails migration\".\n\nTest out your code to modify your database in the following ways:\n• Add a column to an existing table\n• Remove a column from an existing table\n• Rename a column from an existing table\n• Change the datatype of a column in an existing table\nSome tips on discovery:\n• Start with an official guide if you can find one.\n• Read any instructions carefully and don’t skip steps.\n• If there are steps that you don’t understand, do more research.\n• If you are stuck for too long without making progress (more than 10 minutes), find other tutorials to get different perspectives.\n• Find a balance between sticking with something you don’t fully understand and looking for something new to try.\n",
+        "user": "U04HL79B12M",
+        "ts": "1674495761.474959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2pW9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: (Discovery, work in pairs)\nDo research on how you would make changes to a Rails database after a model has already been created and migrated.\n\nStart by searching \"rails migration\".\n\nTest out your code to modify your database in the following ways:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add a column to an existing table"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Remove a column from an existing table"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Rename a column from an existing table"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change the datatype of a column in an existing table"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nSome tips on discovery:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Start with an official guide if you can find one."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Read any instructions carefully and don’t skip steps."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If there are steps that you don’t understand, do more research."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If you are stuck for too long without making progress (more than 10 minutes), find other tutorials to get different perspectives."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Find a balance between sticking with something you don’t fully understand and looking for something new to try."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "38c05e26-b96a-4413-a296-6e720390a55e",
+        "type": "message",
+        "text": "Exercise:\nMake changes to your Mini-Capstone App!\n\n• Your description attribute may currently use the wrong data-type (string). Update it with the correct one if needed.\n\n• Update the price attribute with the correct data-type. Be mindful of the correct number digits your type of products require.\n\n• Add an attribute you can use to keep track of how many items you have in inventory for each product.",
+        "user": "U04HL79B12M",
+        "ts": "1674500629.161179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BILY\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake changes to your Mini-Capstone App!\n\n• Your description attribute may currently use the wrong data-type (string). Update it with the correct one if needed.\n\n• Update the price attribute with the correct data-type. Be mindful of the correct number digits your type of products require.\n\n• Add an attribute you can use to keep track of how many items you have in inventory for each product."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cda16bfc-3eb6-47a8-a4fd-b3494ba06de3",
+        "type": "message",
+        "text": "Exercise: Create a new rails app called real-estate-app\n• Create a model (don’t worry about  routes, views, or controllers) with the attributes below. Try your best to choose the correct datatype when creating the model:\n    ◦ description\n    ◦ year_built\n    ◦ square_feet\n    ◦ bedrooms\n    ◦ bathrooms\n    ◦ floors\n    ◦ availability\n    ◦ address\n    ◦ price\n• Bonus: Your project manager has told you that they no longer need to know “floors” for listings. Remove it from your model.\n• Bonus: Use your migrations cheat sheet to practice any other migrations you can think of!",
+        "user": "U04HL79B12M",
+        "ts": "1674504648.813469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "agM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Create a new rails app called real-estate-app\n• Create a model (don’t worry about  routes, views, or controllers) with the attributes below. Try your best to choose the correct datatype when creating the model:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "description"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "year_built"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "square_feet"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "bedrooms"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "bathrooms"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "floors"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "availability"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "address"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "• Bonus: Your project manager has told you that they no longer need to know “floors” for listings. Remove it from your model.\n• Bonus: Use your migrations cheat sheet to practice any other migrations you can think of!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1674505224.000000"
+        }
+    }
+]

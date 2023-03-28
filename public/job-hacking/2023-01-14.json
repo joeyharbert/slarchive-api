@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "3687e00e-1238-434b-a23f-9428676b5143",
+        "type": "message",
+        "text": "I hope this is the right channel. I know we just started, but I think everyone should atleast try to apply for this and give it a shot. Apprenticeship at snapchat paying low six figures..",
+        "user": "U04DLUZGJ4C",
+        "ts": "1673748478.981279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IyDK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hope this is the right channel. I know we just started, but I think everyone should atleast try to apply for this and give it a shot. Apprenticeship at snapchat paying low six figures.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673748478.981279",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674752213.796819",
+        "reply_users": [
+            "U04J9382JP3"
+        ],
+        "replies": [
+            {
+                "user": "U04J9382JP3",
+                "ts": "1674752213.796819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2c10563e-549d-4dea-a0b6-a6f6d22048f4",
+        "type": "message",
+        "text": "<https:\/\/wd1.myworkdaysite.com\/en-US\/recruiting\/snapchat\/snap\/job\/Los-Angeles-California\/XMLNAME-2023-Software-Engineer--Snap-Up-Apprentice_R0029712-1|https:\/\/wd1.myworkdaysite.com\/en-US\/recruiting\/snapchat\/snap\/job\/Los-Angeles-California[…]NAME-2023-Software-Engineer--Snap-Up-Apprentice_R0029712-1>",
+        "user": "U04DLUZGJ4C",
+        "ts": "1673748480.524389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sFF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wd1.myworkdaysite.com\/en-US\/recruiting\/snapchat\/snap\/job\/Los-Angeles-California\/XMLNAME-2023-Software-Engineer--Snap-Up-Apprentice_R0029712-1",
+                                "text": "https:\/\/wd1.myworkdaysite.com\/en-US\/recruiting\/snapchat\/snap\/job\/Los-Angeles-California[…]NAME-2023-Software-Engineer--Snap-Up-Apprentice_R0029712-1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/wd1.myworkdaysite.com\/en-US\/recruiting\/snapchat\/snap\/job\/Los-Angeles-California\/XMLNAME-2023-Software-Engineer--Snap-Up-Apprentice_R0029712-1",
+                "thumb_url": "https:\/\/wd1.myworkdaysite.com\/en-US\/recruiting\/snapchat\/snap\/assets\/logo",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/wd1.myworkdaysite.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/wd1.myworkdaysite.com\/en-US\/recruiting\/snapchat\/snap\/job\/Los-Angeles-California\/XMLNAME-2023-Software-Engineer--Snap-Up-Apprentice_R0029712-1",
+                "fallback": "2023 Software Engineer, Snap Up Apprentice",
+                "text": "Snap Inc. is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. We contribute to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. We’re looking for Apprentices to join an Engineering program at Snap Inc. called Snap Up. Snap Up is a full time 11 month engineering rotational program created by Snap to provide career development opportunities to new graduates with limited or no technical software engineering work experience. Snap Up is designed to provide Apprentices with on-the-job training and close mentorship opportunities that maximize opportunity to level up into engineering professional roles. This program requires you to be in office at least four days a week at any one of our major engineering office locations: Santa Monica, New York City, Palo Alto, or Seattle. What you’ll do: Rotate within 3 of our engineering groups every 3 months Gain exposure to various technical challenges to build upon existing knowledge Learn how to conduct code reviews and ensure exceptional code quality Learn how to build robust, lasting, and scalable products Learn how to iterate quickly without compromising quality Knowledge, Skills &amp; Abilities: Good CS fundamentals Good problem solving skills Ability to quickly analyze and contextualize information Minimum Qualifications: New Grad with a BS\/BA or MS in a technical field such as Computer Science or equivalent experience (Grad Date between December 2022 &amp; August 2023) Limited to no relevant internship experience Preferred Qualifications: Excellent interpersonal, written, and verbal communication skills Possess organizational skills and a healthy respect for deadlines Self-starter and “figure it out” attitude A high level of professional integrity and confidentiality Interest in gaining exposure to various aspects of Software Engineering A passion for Snapchat and creativity! The base salary for this position is $120,000 This position is eligible for equity in the form of RSUs At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a “default together” approach and expect our team members to work in an office at least 80% of the time (an average of 4 days per week). If you are not based in the same location(s) listed for this role and are open to relocation, we encourage you to apply to take advantage of our generous relocation policy. At Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability\/vets. If you have a disability or special need that requires accommodation, please don’t be shy and contact us at <mailto:accommodations-ext@snap.com|accommodations-ext@snap.com>. A Decade of Snap: Learn about our origin story, values, mission, culture of innovation, and more. CitizenSnap: In our third annual CitizenSnap Report, we demonstrate progress towards our environmental, social, and governance (ESG) goals, and we lay out our plans looking forward. The DEI Innovation Summit: Watch highlights from the 2nd annual DEI Innovation Summit, which brings together thought leaders and DEI experts for a day of courageous conversations to enable bold action. Snap News: Stay up to date on the latest and greatest product and innovation news at Snap Applicant and Candidate Privacy Policy",
+                "title": "2023 Software Engineer, Snap Up Apprentice",
+                "title_link": "https:\/\/wd1.myworkdaysite.com\/en-US\/recruiting\/snapchat\/snap\/job\/Los-Angeles-California\/XMLNAME-2023-Software-Engineer--Snap-Up-Apprentice_R0029712-1",
+                "service_name": "wd1.myworkdaysite.com"
+            }
+        ]
+    }
+]

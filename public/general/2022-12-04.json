@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1670174119.251659",
+        "user": "U04DLUZGJ4C",
+        "text": "<@U04DLUZGJ4C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1670176771.249039",
+        "user": "U04D3UXCN3Z",
+        "text": "<@U04D3UXCN3Z> has joined the channel"
+    },
+    {
+        "client_msg_id": "ce0e0b5c-952e-4fb7-800b-c1500f20eebb",
+        "type": "message",
+        "text": "Hows it going gentleman and ladies?!",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670187450.230439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iu94",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hows it going gentleman and ladies?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bdfd7ce5-4543-45d6-a1b9-5389d6422805",
+        "type": "message",
+        "text": "That sounds weird lol, ladies and gentleman* :joy:",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670187709.403459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8TAP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That sounds weird lol, ladies and gentleman* "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "3a9e7e52-63e9-43da-b051-2f968110ef0b",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1Gbt3N_w7_YOrkTsGtkyN2nNM21cghLQXAaEMhzB2gOg\/copy>",
+        "user": "U04HL79B12M",
+        "ts": "1678137952.130369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eeGn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1Gbt3N_w7_YOrkTsGtkyN2nNM21cghLQXAaEMhzB2gOg\/copy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

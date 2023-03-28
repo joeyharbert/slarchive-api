@@ -1,0 +1,98 @@
+[
+    {
+        "type": "message",
+        "text": "Shout out <@U04DLUZGJ4C> for the sticker recommendation! Definitely helpful.",
+        "files": [
+            {
+                "id": "F04HNSRLC4E",
+                "created": 1673035934,
+                "timestamp": 1673035934,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04GY24PLTY",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 16038970,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04HNSRLC4E\/image.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04HNSRLC4E\/download\/image.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04HNSRLC4E-3109092dcd\/image_64.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04HNSRLC4E-3109092dcd\/image_80.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04HNSRLC4E-3109092dcd\/image_360.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04HNSRLC4E-3109092dcd\/image_480.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04HNSRLC4E-3109092dcd\/image_160.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04HNSRLC4E-3109092dcd\/image_720.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04HNSRLC4E-3109092dcd\/image_800.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04HNSRLC4E-3109092dcd\/image_960.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04HNSRLC4E-3109092dcd\/image_1024.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACRi71UANgD2qa0zvfJySBURFIszQtkAHIwc0IGiO4H74gepqLbtqR5EZyxVsn3FI0iFcbG\/SrERfhR+FPyn9xvzoyn9xvzoCxa61BPk46mp6Yw5rFM0sVSD6U2rOKSquKxXAJpdpqfFGKLhylgdqa30FPI29ajyc1IxCD7Umz6U+igBu0+1Gw+1Ozj0oz9KAuf\/2Q==",
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04GY24PLTY\/F04HNSRLC4E\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04HNSRLC4E-4ba9836458",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GY24PLTY",
+        "display_as_bot": false,
+        "ts": "1673035975.383629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "whPQJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shout out "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04DLUZGJ4C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the sticker recommendation! Definitely helpful."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c98db4fc-6970-41a4-ba37-aa6a81c6f277"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673053613.528279",
+        "user": "U04J9382JP3",
+        "text": "<@U04J9382JP3> has joined the channel"
+    }
+]

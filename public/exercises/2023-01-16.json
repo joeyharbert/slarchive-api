@@ -1,0 +1,558 @@
+[
+    {
+        "client_msg_id": "fc928a5f-39b0-44a7-8937-edb66ddfd093",
+        "type": "message",
+        "text": "Exercise:\nIn your terminal, paste the following to configure your default `rails new` options:\n```echo \"--database=postgresql\" &gt;&gt; ~\/.railsrc```",
+        "user": "U04HL79B12M",
+        "ts": "1673894760.092579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6nX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn your terminal, paste the following to configure your default "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rails new",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " options:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "echo \"--database=postgresql\" >> ~\/.railsrc"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "729cf485-286d-4258-bf22-242376c47bc9",
+        "type": "message",
+        "text": "Exercise:\n1. In your terminal, navigate to your Actualize folder and make a new rails app to store your personal contacts.\n```rails new contacts-api```\n```cd contacts-api```\n```rails db:create```\n2. In your text editor, make a Contact class in your *app\/models* folder. Attributes can include: `first_name`, `last_name`, `email`, `phone_number`.\n\n3. In your terminal, open the rails console and create a new contact instance. (Note that the contact will not be saved when you restart your rails console).\n```rails console```\nBonus: Read about the Ruby PStore library, which can be used to persist data to a file. (Rails does not use this particular library, but it can give you an idea of the steps needed to save persistent data). <https:\/\/robm.me.uk\/ruby\/2014\/01\/25\/pstore.html>",
+        "user": "U04HL79B12M",
+        "ts": "1673895315.952459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xsR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n1. In your terminal, navigate to your Actualize folder and make a new rails app to store your personal contacts.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails new contacts-api"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cd contacts-api"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails db:create"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n2. In your text editor, make a Contact class in your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "app\/models",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " folder. Attributes can include: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "first_name",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "last_name",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "email",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "phone_number",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\n3. In your terminal, open the rails console and create a new contact instance. (Note that the contact will not be saved when you restart your rails console).\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails console"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBonus: Read about the Ruby PStore library, which can be used to persist data to a file. (Rails does not use this particular library, but it can give you an idea of the steps needed to save persistent data). "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/robm.me.uk\/ruby\/2014\/01\/25\/pstore.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/robm.me.uk\/ruby\/2014\/01\/25\/pstore.html",
+                "ts": 1390629600,
+                "id": 1,
+                "original_url": "https:\/\/robm.me.uk\/ruby\/2014\/01\/25\/pstore.html",
+                "fallback": "Persisting data in Ruby with PStore",
+                "text": "Ruby comes with a powerful persistent storage system that’s backed by flat files and handles concurrent access and transactions out of the box – stuff you’d expect to need a database for. It’s criminally underused, and it’s called PStore. Never roll your own file locking code again!",
+                "title": "Persisting data in Ruby with PStore",
+                "title_link": "https:\/\/robm.me.uk\/ruby\/2014\/01\/25\/pstore.html",
+                "service_name": "robm.me.uk"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da699ae8-6989-4204-a981-50f6651fe64a",
+        "type": "message",
+        "text": "Exercise:\nIn your text editor, delete your *app\/models\/contact.rb* file.\n\nIn your terminal, use the `rails generate model` command to automatically generate a model called `Contact`. It should have attributes `first_name`, `last_name`, `email`, `phone_number` (all of these are strings).\n<https:\/\/guides.rubyonrails.org\/getting_started.html#mvc-and-you-generating-a-model>\n\n\nIn your terminal, use the rails command to make the appropriate changes to your database.\n```rails db:migrate```\n\nIn your terminal, enter the rails console:\n```rails console```\n\nIn your terminal rails console, *create* three new contacts.\n<https:\/\/guides.rubyonrails.org\/active_record_basics.html#create>\n\nIn your terminal rails console, test out other methods to *read*, *update*, and *delete* contacts.\n<https:\/\/guides.rubyonrails.org\/active_record_basics.html#read>\n<https:\/\/guides.rubyonrails.org\/active_record_basics.html#update>\n<https:\/\/guides.rubyonrails.org\/active_record_basics.html#delete>\n\n\nWhen you are finished, exit the rails console using the `exit` command.",
+        "user": "U04HL79B12M",
+        "ts": "1673898856.153379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o=y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn your text editor, delete your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "app\/models\/contact.rb",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file.\n\nIn your terminal, use the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rails generate model",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " command to automatically generate a model called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Contact",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". It should have attributes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "first_name",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "last_name",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "email",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "phone_number",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (all of these are strings).\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/guides.rubyonrails.org\/getting_started.html#mvc-and-you-generating-a-model"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nIn your terminal, use the rails command to make the appropriate changes to your database.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails db:migrate"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nIn your terminal, enter the rails console:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails console"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nIn your terminal rails console, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "create",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " three new contacts.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/guides.rubyonrails.org\/active_record_basics.html#create"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIn your terminal rails console, test out other methods to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "read",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "update",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "delete",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " contacts.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/guides.rubyonrails.org\/active_record_basics.html#read"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/guides.rubyonrails.org\/active_record_basics.html#update"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/guides.rubyonrails.org\/active_record_basics.html#delete"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nWhen you are finished, exit the rails console using the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "exit",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " command."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1c1e809f-d72d-4be5-9cd0-8cf9026eb13f",
+        "type": "message",
+        "text": "xercise:\n\nExplore coding interests!\n\nLook through the resources in <https:\/\/github.com\/acltc\/awesome-interests>\n\nIf you find a resource interesting, see if you can follow the guide or tutorial to get started\n\nIf you don’t find a resource interesting, move on after 10 minutes or so",
+        "user": "U04HL79B12M",
+        "ts": "1673904022.524269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1f6a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "xercise:\n\nExplore coding interests!\n\nLook through the resources in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/acltc\/awesome-interests"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf you find a resource interesting, see if you can follow the guide or tutorial to get started\n\nIf you don’t find a resource interesting, move on after 10 minutes or so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/acltc\/awesome-interests",
+                "image_url": "https:\/\/opengraph.githubassets.com\/5f1976af6e119cf4bda0096a9f5ed2cdb0e3a03edc1c51b8028ce54cc1f8ec0f\/acltc\/awesome-interests",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 77487,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/acltc\/awesome-interests",
+                "fallback": "GitHub: GitHub - acltc\/awesome-interests: A curated list of awesome introductory programming resources for a variety of specialties within the profession.",
+                "text": "A curated list of awesome introductory programming resources for a variety of specialties within the profession. - GitHub - acltc\/awesome-interests: A curated list of awesome introductory programmi...",
+                "title": "GitHub - acltc\/awesome-interests: A curated list of awesome introductory programming resources for a variety of specialties within the profession.",
+                "title_link": "https:\/\/github.com\/acltc\/awesome-interests",
+                "service_name": "GitHub"
+            }
+        ]
+    }
+]

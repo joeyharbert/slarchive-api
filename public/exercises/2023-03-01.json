@@ -1,0 +1,255 @@
+[
+    {
+        "client_msg_id": "bb620436-b3d0-40ca-b298-2adc3150a8f5",
+        "type": "message",
+        "text": "Exercise:\nSet up your mini-capstone-api backend!\n• Open a new terminal to your Actualize folder, navigate to your mini-capstone, and start your `rails server`\n• Run rails test to check your routes are working and\/or use HTTPie to manually test\n• In `config\/initializers\/cors.rb`, add localhost:5173 to the list of allowable origins\n```origins \"<http:\/\/mini-capstone.peterxjang.com|mini-capstone.peterxjang.com>\", \"localhost:5173\"```",
+        "user": "U04HL79B12M",
+        "ts": "1677691661.230999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5vn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nSet up your mini-capstone-api backend!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Open a new terminal to your Actualize folder, navigate to your mini-capstone, and start your "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "rails server",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Run rails test to check your routes are working and\/or use HTTPie to manually test"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "config\/initializers\/cors.rb",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", add localhost:5173 to the list of allowable origins"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "origins \"mini-capstone.peterxjang.com\", \"localhost:5173\""
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1677691691.000000"
+        }
+    },
+    {
+        "client_msg_id": "0026d746-a8e9-4ab3-8b06-bb03bda5750b",
+        "type": "message",
+        "text": "Exercise:\nUse the React CRUD guide to build a frontend for your mini-capstone!\n\n• First build an index action using decomposed steps\nMake a src\/ProductsIndex.jsx that just returns an h1 tag, import the ProductsIndex into your Content.jsx and display the ProductsIndex\nIn Content.jsx, make a normal JavaScript variable for products (`const products = \"hello\"`), then pass it into ProductsIndex as props, then display within ProductsIndex\nIn Content.jsx, change products to be an array of objects, then change ProductsIndex to use a props.products.map to display each product in a loop\nIn Content.jsx, make a function that makes an axios to make a web request to GET localhost:3000\/products.json, console.log the response, run it with useEffect\nIn Content.jsx, use React useState to define products as React state and set the value within the web request\n\n• Then follow the React Authentication guide to build signup\/login\/logout actions\n• Then build the remaining CRUD actions (create\/show\/update\/destroy)\n• Bonus: Install bootstrap and style your application!\n",
+        "user": "U04HL79B12M",
+        "ts": "1677691707.264069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I67qW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nUse the React CRUD guide to build a frontend for your mini-capstone!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "First build an index action using decomposed steps"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Make a src\/ProductsIndex.jsx that just returns an h1 tag, import the ProductsIndex into your Content.jsx and display the ProductsIndex\nIn Content.jsx, make a normal JavaScript variable for products ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "const products = \"hello\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "), then pass it into ProductsIndex as props, then display within ProductsIndex\nIn Content.jsx, change products to be an array of objects, then change ProductsIndex to use a props.products.map to display each product in a loop\nIn Content.jsx, make a function that makes an axios to make a web request to GET localhost:3000\/products.json, console.log the response, run it with useEffect\nIn Content.jsx, use React useState to define products as React state and set the value within the web request\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Then follow the React Authentication guide to build signup\/login\/logout actions"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Then build the remaining CRUD actions (create\/show\/update\/destroy)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bonus: Install bootstrap and style your application!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

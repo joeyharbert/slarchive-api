@@ -1,0 +1,699 @@
+[
+    {
+        "client_msg_id": "68d859ca-d131-4b07-96a5-5422d9b750a8",
+        "type": "message",
+        "text": "Exercise:\n• Clone the repository to your computer.\n```git clone <https:\/\/github.com\/actualize-daytime-2022-12-04\/sample-team-api.git>\ncd sample-team-api\nbundle install\nrails db:create```\n    ◦ _If you have issues with bundle install, open the code in your text editor and change the version of Ruby in BOTH the `Gemfile` and `.ruby-version` to your version of ruby, then run `gem update bundler`, `bundle install`, and `rails db:create`._\n• Change the json message by adding your name in it somewhere.\n• Test your code in your browser.\n• Push your code to GitHub.\n```git add --all\ngit commit -m \"added my name to the json\"\ngit push origin main```",
+        "user": "U04HL79B12M",
+        "ts": "1675790462.036109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5CJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Clone the repository to your computer."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git clone "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/actualize-daytime-2022-12-04\/sample-team-api.git"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ncd sample-team-api\nbundle install\nrails db:create"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If you have issues with bundle install, open the code in your text editor and change the version of Ruby in BOTH the ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Gemfile",
+                                        "style": {
+                                            "italic": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ".ruby-version",
+                                        "style": {
+                                            "italic": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to your version of ruby, then run ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "gem update bundler",
+                                        "style": {
+                                            "italic": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "bundle install",
+                                        "style": {
+                                            "italic": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", and ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "rails db:create",
+                                        "style": {
+                                            "italic": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ".",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change the json message by adding your name in it somewhere."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Test your code in your browser."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Push your code to GitHub."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git add --all\ngit commit -m \"added my name to the json\"\ngit push origin main"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1675790497.000000"
+        }
+    },
+    {
+        "client_msg_id": "07afcd8a-c017-4dc4-9e51-4194a38d5e48",
+        "type": "message",
+        "text": "Exercise:\n*Note: Do not push during this exercise.*\n\n• Create a new branch in your repository. For the branch name, use your last name.\n```git branch &lt;your-branch-name&gt;```\n• Switch into the new branch. (To verify that you’re in the new branch, use the `git status` or the `git branch` command).\n```git checkout &lt;your-branch-name&gt;```\n\n• Create a new controller with index route, controller action, and a JSON message of your choice. You can choose any name for the controller. Add and commit your code.\n• Switch back into the main branch and notice how the files and folders change within your text editor. (Verify how things changed using the `git status` command).\n```git checkout main```\n• Switch back into the branch you created and notice how the files and folders change. (Verify how things changed using the `git status` command).\n",
+        "user": "U04HL79B12M",
+        "ts": "1675792337.979299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FVf=h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Note: Do not push during this exercise.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a new branch in your repository. For the branch name, use your last name."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git branch <your-branch-name>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Switch into the new branch. (To verify that you’re in the new branch, use the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "git status",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " or the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "git branch",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " command)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git checkout <your-branch-name>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a new controller with index route, controller action, and a JSON message of your choice. You can choose any name for the controller. Add and commit your code."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Switch back into the main branch and notice how the files and folders change within your text editor. (Verify how things changed using the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "git status",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " command)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git checkout main"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Switch back into the branch you created and notice how the files and folders change. (Verify how things changed using the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "git status",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " command)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ba9d8002-ede7-42cf-95c7-a218446c5dd9",
+        "type": "message",
+        "text": "Exercise:\n• First make sure you’re in the branch you created (run `git status` or `git branch` to check). Also make sure you’ve committed all your code.\n\n• Then run `git pull origin main` to retrieve the current main branch code from github (note: every time someone merges a pull request it changes main)\n\n• Resolve conflict on your local branch\n\n• git add --all\n\n• git commit\n\n• Push your local “feature branch” to the github “feature branch”\n\n• Go to the github site to create a pull request\n\n• Remember, you should only create a pull request, do not merge the changes yourself.\n\n• Once someone else has merged to main, you can delete your feature branch on github, update your local main and delete local feature branch\n\nBonus: If you want more practice on git flow try this tutorial\n<https:\/\/learngitbranching.js.org\/>",
+        "user": "U04HL79B12M",
+        "ts": "1675795174.595089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qMrc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n• First make sure you’re in the branch you created (run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "git status",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "text",
+                                "text": "git branch",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to check). Also make sure you’ve committed all your code.\n\n• Then run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "git pull origin main",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to retrieve the current main branch code from github (note: every time someone merges a pull request it changes main)\n\n• Resolve conflict on your local branch\n\n• git add --all\n\n• git commit\n\n• Push your local “feature branch” to the github “feature branch”\n\n• Go to the github site to create a pull request\n\n• Remember, you should only create a pull request, do not merge the changes yourself.\n\n• Once someone else has merged to main, you can delete your feature branch on github, update your local main and delete local feature branch\n\nBonus: If you want more practice on git flow try this tutorial\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learngitbranching.js.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/learngitbranching.js.org\/",
+                "image_url": "https:\/\/pcottle.github.io\/learnGitBranching\/assets\/learnGitBranching.png",
+                "image_width": 371,
+                "image_height": 250,
+                "image_bytes": 70656,
+                "id": 1,
+                "original_url": "https:\/\/learngitbranching.js.org\/",
+                "fallback": "Learn Git Branching",
+                "text": "An interactive Git visualization tool to educate and challenge!",
+                "title": "Learn Git Branching",
+                "title_link": "https:\/\/learngitbranching.js.org\/",
+                "service_name": "learngitbranching.js.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca09f5b6-39d0-423a-bb24-4c533af408da",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1MNdXDfuFTlNf3bwaB7O6ZDqh2umzeI-HJjDV5i-4nvg\/edit#>",
+        "user": "U04HL79B12M",
+        "ts": "1675799247.610019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iD51",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1MNdXDfuFTlNf3bwaB7O6ZDqh2umzeI-HJjDV5i-4nvg\/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a650ad7e-c83c-4103-9e22-4cf178cda58f",
+        "type": "message",
+        "text": "Exercise: Team Project!\n1) Make the Fullstack Rails app (hint: use your guide!)\nChoose ONE person from your individual team to make a new rails app\nThat person pushes that app to GitHub, then adds the other members as collaborators\nEvery OTHER member clones the app and runs `bundle install`\nEvery OTHER member needs to make a `config\/master.key` file as well\n\n2) Practice one pull request\nEveryone watches one person follow the pull request guide to make a new branch, make some trivial change in the code (add a comment to any file), and make a pull request on GitHub.\nSomeone else merges the code on GitHub.\nRepeat for each member in the group!\nBE SURE TO FOLLOW THE PULL REQUEST GUIDE - NO ONE SHOULD BE PUSHING TO THE MAIN BRANCH!\n\n3) Mob program for ~30 minutes\nMob Programming is a software development approach where the whole team works on the same thing, at the same time, in the same space, and at the same computer\nThis helps ensure everyone in the group understands what needs to get built out!\nBE SURE TO FOLLOW THE PULL REQUEST GUIDE - NO ONE SHOULD BE PUSHING TO THE MAIN BRANCH!\n\n4) Divide up the work individually or in pairs\nFirst follow the pull request cheat sheet to make sure everyone has the most up-to-date code\nTry to work on small features and make pull requests frequently (as opposed to working for two hours then making a pull request that’s very out of date)\nBE SURE TO FOLLOW THE PULL REQUEST GUIDE - NO ONE SHOULD BE PUSHING TO THE MAIN BRANCH!",
+        "user": "U04HL79B12M",
+        "ts": "1675799288.118149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BLezz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Team Project!\n1) Make the Fullstack Rails app (hint: use your guide!)\nChoose ONE person from your individual team to make a new rails app\nThat person pushes that app to GitHub, then adds the other members as collaborators\nEvery OTHER member clones the app and runs "
+                            },
+                            {
+                                "type": "text",
+                                "text": "bundle install",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEvery OTHER member needs to make a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "config\/master.key",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file as well\n\n2) Practice one pull request\nEveryone watches one person follow the pull request guide to make a new branch, make some trivial change in the code (add a comment to any file), and make a pull request on GitHub.\nSomeone else merges the code on GitHub.\nRepeat for each member in the group!\nBE SURE TO FOLLOW THE PULL REQUEST GUIDE - NO ONE SHOULD BE PUSHING TO THE MAIN BRANCH!\n\n3) Mob program for ~30 minutes\nMob Programming is a software development approach where the whole team works on the same thing, at the same time, in the same space, and at the same computer\nThis helps ensure everyone in the group understands what needs to get built out!\nBE SURE TO FOLLOW THE PULL REQUEST GUIDE - NO ONE SHOULD BE PUSHING TO THE MAIN BRANCH!\n\n4) Divide up the work individually or in pairs\nFirst follow the pull request cheat sheet to make sure everyone has the most up-to-date code\nTry to work on small features and make pull requests frequently (as opposed to working for two hours then making a pull request that’s very out of date)\nBE SURE TO FOLLOW THE PULL REQUEST GUIDE - NO ONE SHOULD BE PUSHING TO THE MAIN BRANCH!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

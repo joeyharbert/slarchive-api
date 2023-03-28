@@ -1,0 +1,278 @@
+[
+    {
+        "client_msg_id": "d9bc60f7-d3f1-4347-8ae4-1bf2b165dc9b",
+        "type": "message",
+        "text": "Hey job seekers! I’ve decided to start sharing a weekly list of jobs and internships that are explicitly open to bootcamp grads. Here are 6 to get you started.  Happy applying!\n\nSoftware Engineer I at YipitData- remote\n<https:\/\/boards.greenhouse.io\/yipitdata\/jobs\/4841723?gh_src=0dacae101us>\n\nGame Squad Engineering Internship at PBS - remote OR Arlington or Alexander, Virginia\n<https:\/\/www.pbs.org\/about\/careers\/?gnk=job&amp;gni=8a7885a88675eead0186b88362c05ab1&amp;lang=en>\n\nPlatform Engineering Intern at Secureworks (Dell) - remote\n<https:\/\/jobs.dell.com\/job\/-\/-\/375\/45791789024?source=rd_LinkedIn>\n\nProduct Software Firmware\/Features Intern at Meraki - remote OR San Francisco OR Chicago\n<https:\/\/jobs.cisco.com\/jobs\/ProjectDetail\/Product-Software-Firmware-Features-Intern-Fall-2024-Meraki\/1399176?source=LinkedIn>\n\nSoftware Developer at Booz Allen Hamilton- Charleston, SC or remote\n<https:\/\/careers.boozallen.com\/jobs\/JobDetail\/Charleston-Software-Developer-R0157091\/69767?source=JB-14400>\n\nSupport Software Engineer at PowerFlex - remote\n<https:\/\/www.indeed.com\/viewjob?cmp=PowerFlex&amp;t=Support+Software+Engineer&amp;jk=8ed57b684b232a9b&amp;vjs=3>",
+        "user": "U04J9382JP3",
+        "ts": "1678984839.160579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey job seekers! I’ve decided to start sharing a weekly list of jobs and internships that are explicitly open to bootcamp grads. Here are 6 to get you started.  Happy applying!\n\nSoftware Engineer I at YipitData- remote\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/boards.greenhouse.io\/yipitdata\/jobs\/4841723?gh_src=0dacae101us"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nGame Squad Engineering Internship at PBS - remote OR Arlington or Alexander, Virginia\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pbs.org\/about\/careers\/?gnk=job&gni=8a7885a88675eead0186b88362c05ab1&lang=en"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPlatform Engineering Intern at Secureworks (Dell) - remote\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.dell.com\/job\/-\/-\/375\/45791789024?source=rd_LinkedIn"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nProduct Software Firmware\/Features Intern at Meraki - remote OR San Francisco OR Chicago\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.cisco.com\/jobs\/ProjectDetail\/Product-Software-Firmware-Features-Intern-Fall-2024-Meraki\/1399176?source=LinkedIn"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSoftware Developer at Booz Allen Hamilton- Charleston, SC or remote\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.boozallen.com\/jobs\/JobDetail\/Charleston-Software-Developer-R0157091\/69767?source=JB-14400"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSupport Software Engineer at PowerFlex - remote\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.indeed.com\/viewjob?cmp=PowerFlex&t=Support+Software+Engineer&jk=8ed57b684b232a9b&vjs=3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/boards.greenhouse.io\/yipitdata\/jobs\/4841723?gh_src=0dacae101us",
+                "service_icon": "https:\/\/boards.greenhouse.io\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/boards.greenhouse.io\/yipitdata\/jobs\/4841723?gh_src=0dacae101us",
+                "fallback": "Software Engineer I - ETL Engineering",
+                "text": "US Remote",
+                "title": "Software Engineer I - ETL Engineering",
+                "title_link": "https:\/\/boards.greenhouse.io\/yipitdata\/jobs\/4841723?gh_src=0dacae101us",
+                "service_name": "boards.greenhouse.io"
+            },
+            {
+                "image_url": "https:\/\/d1qbemlbhjecig.cloudfront.net\/prod\/filer_public\/careers-pbs\/ba4623b9b5_6d6bebf3c1_PBS_rgb_copy.png",
+                "image_width": 767,
+                "image_height": 327,
+                "image_bytes": 49590,
+                "from_url": "https:\/\/www.pbs.org\/about\/careers\/?gnk=job&gni=8a7885a88675eead0186b88362c05ab1&lang=en",
+                "service_icon": "https:\/\/d1qbemlbhjecig.cloudfront.net\/prod\/3.100.0\/staticfiles\/bento_cms\/favicons\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/www.pbs.org\/about\/careers\/?gnk=job&amp;gni=8a7885a88675eead0186b88362c05ab1&amp;lang=en",
+                "fallback": "PBS Careers: Careers at PBS",
+                "text": "View open positions at PBS and apply now.",
+                "title": "Careers at PBS",
+                "title_link": "https:\/\/www.pbs.org\/about\/careers\/?gnk=job&gni=8a7885a88675eead0186b88362c05ab1&lang=en",
+                "service_name": "PBS Careers"
+            },
+            {
+                "from_url": "https:\/\/jobs.dell.com\/job\/-\/-\/375\/45791789024?source=rd_LinkedIn",
+                "service_icon": "http:\/\/tbcdn.talentbrew.com\/company\/375\/v4_0\/img\/dellfavicon.ico",
+                "id": 3,
+                "original_url": "https:\/\/jobs.dell.com\/job\/-\/-\/375\/45791789024?source=rd_LinkedIn",
+                "fallback": "Intern Software Engineer - Platform Engineering- Secureworks - (100% Remote US; Work From Home; OR Austin, TX) at Dell Careers",
+                "text": "Learn more about applying for Intern Software Engineer - Platform Engineering- Secureworks - (100% Remote US; Work From Home; OR Austin, TX) at Dell Careers",
+                "title": "Intern Software Engineer - Platform Engineering- Secureworks - (100% Remote US; Work From Home; OR Austin, TX) at Dell Careers",
+                "title_link": "https:\/\/jobs.dell.com\/job\/-\/-\/375\/45791789024?source=rd_LinkedIn",
+                "service_name": "jobs.dell.com"
+            },
+            {
+                "from_url": "https:\/\/jobs.cisco.com\/jobs\/ProjectDetail\/Product-Software-Firmware-Features-Intern-Fall-2024-Meraki\/1399176?source=LinkedIn",
+                "id": 4,
+                "original_url": "https:\/\/jobs.cisco.com\/jobs\/ProjectDetail\/Product-Software-Firmware-Features-Intern-Fall-2024-Meraki\/1399176?source=LinkedIn",
+                "fallback": "Product Software Firmware\/Features Intern Fall 2024 Meraki",
+                "text": "Apply for Product Software Firmware\/Features Intern Fall 2024 Meraki job with Cisco in San Francisco, California, US. Read about the role and find out if it's right for you.",
+                "title": "Product Software Firmware\/Features Intern Fall 2024 Meraki",
+                "title_link": "https:\/\/jobs.cisco.com\/jobs\/ProjectDetail\/Product-Software-Firmware-Features-Intern-Fall-2024-Meraki\/1399176?source=LinkedIn",
+                "service_name": "jobs.cisco.com"
+            },
+            {
+                "from_url": "https:\/\/careers.boozallen.com\/jobs\/JobDetail\/Charleston-Software-Developer-R0157091\/69767?source=JB-14400",
+                "thumb_url": "https:\/\/careers.boozallen.com\/portal\/10\/images\/linkedinThumb.jpg",
+                "thumb_width": 180,
+                "thumb_height": 110,
+                "id": 5,
+                "original_url": "https:\/\/careers.boozallen.com\/jobs\/JobDetail\/Charleston-Software-Developer-R0157091\/69767?source=JB-14400",
+                "fallback": "Booz Allen Careers: Software Developer",
+                "text": "Software DeveloperThe Challenge:Do you want to build software that solves enterprise-scale challenges while learning and growing your skills? This role is more than just coding. Our junior...",
+                "title": "Software Developer",
+                "title_link": "https:\/\/careers.boozallen.com\/jobs\/JobDetail\/Charleston-Software-Developer-R0157091\/69767?source=JB-14400",
+                "service_name": "Booz Allen Careers"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U04HB4DFQ0K",
+                    "U04GY24PLTY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1687c7be-4ee0-42fb-a24c-d4be0d850435",
+        "type": "message",
+        "text": "<https:\/\/www.indeed.com\/career-advice\/interviewing\/how-to-use-the-star-interview-response-technique>\n<https:\/\/www.themuse.com\/advice\/star-interview-method>",
+        "user": "U04J9382JP3",
+        "ts": "1678997191.439099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Nb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.indeed.com\/career-advice\/interviewing\/how-to-use-the-star-interview-response-technique"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.themuse.com\/advice\/star-interview-method"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.themuse.com\/advice\/star-interview-method",
+                "ts": 1545174000,
+                "image_url": "https:\/\/cms-assets.themuse.com\/media\/lead\/_1200x630_crop_center-center_82_none\/star-method-07012022-849592780-SDI-Productions.jpg?mtime=1656692471",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 47673,
+                "service_icon": "https:\/\/public-assets.themuse.com\/images\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.themuse.com\/advice\/star-interview-method",
+                "fallback": "The Muse: How to Use the STAR Method to Answer Any Behavioral Interview Question",
+                "text": "No more rambling through stories or blanking when you hear, “Tell me about a time…”",
+                "title": "How to Use the STAR Method to Answer Any Behavioral Interview Question",
+                "title_link": "https:\/\/www.themuse.com\/advice\/star-interview-method",
+                "service_name": "The Muse"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3bddcf3-7921-45d1-8377-1d045bcd9beb",
+        "type": "message",
+        "text": "Alrighty, the interview questions 5 and 6 (in section 5) have both been updated with better links and instructors. Sorry about that everyone!",
+        "user": "U04J9382JP3",
+        "ts": "1679001767.816549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xfhu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alrighty, the interview questions 5 and 6 (in section 5) have both been updated with better links and instructors. Sorry about that everyone!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679001767.816549",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1679606617.883189",
+        "reply_users": [
+            "U04HL79B12M",
+            "U04J9382JP3"
+        ],
+        "replies": [
+            {
+                "user": "U04HL79B12M",
+                "ts": "1679068326.993839"
+            },
+            {
+                "user": "U04J9382JP3",
+                "ts": "1679606617.883189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

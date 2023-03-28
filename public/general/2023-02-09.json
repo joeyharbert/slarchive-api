@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "b40b9e88-eea1-4d56-9cc0-ae9f318fcc8a",
+        "type": "message",
+        "text": "<https:\/\/www.linkedin.com\/news\/story\/yahoo-to-lay-off-20-of-workforce-6162674\/> oof:confused:",
+        "user": "U04DLUZGJ4C",
+        "ts": "1675978295.596029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YnnG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/news\/story\/yahoo-to-lay-off-20-of-workforce-6162674\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " oof"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/news\/story\/yahoo-to-lay-off-20-of-workforce-6162674\/",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/D4E1AAQGZHvFANUZQMg\/storylineheaderimage-shrink_400_400\/0\/1675973659691?e=2147483647&v=beta&t=iPxPDcyg6IPD6Thf2c-up9DcOVmIj3FXrcQRQdTzmjs",
+                "thumb_width": 400,
+                "thumb_height": 266,
+                "service_icon": "https:\/\/static.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/news\/story\/yahoo-to-lay-off-20-of-workforce-6162674\/",
+                "fallback": "Yahoo to lay off 20% of workforce | LinkedIn",
+                "text": "The cuts will affect more than 1,600 people and will be focused on the company's ad tech division, which is not profitable.",
+                "title": "Yahoo to lay off 20% of workforce | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/news\/story\/yahoo-to-lay-off-20-of-workforce-6162674\/",
+                "service_name": "linkedin.com"
+            }
+        ]
+    }
+]

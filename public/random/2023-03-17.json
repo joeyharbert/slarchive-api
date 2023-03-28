@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "0e6cb6a9-eb87-40e8-8a17-c7a304acb3c6",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=8WvIOuAAqCw>",
+        "user": "U04GY24PLTY",
+        "ts": "1679069311.718119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gti3k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=8WvIOuAAqCw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=8WvIOuAAqCw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/8WvIOuAAqCw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/8WvIOuAAqCw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Burnout 3 Babyyyyyyyyyy\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=8WvIOuAAqCw",
+                "fallback": "YouTube Video: Burnout 3 Babyyyyyyyyyy",
+                "title": "Burnout 3 Babyyyyyyyyyy",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=8WvIOuAAqCw",
+                "author_name": "videogamedunkey",
+                "author_link": "https:\/\/www.youtube.com\/@videogamedunkey",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

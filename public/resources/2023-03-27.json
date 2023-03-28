@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "f41ddc96-e382-4330-8fc2-e2327f596de9",
+        "type": "message",
+        "text": "<https:\/\/gist.github.com\/peterxjang\/213a77f5c6c615e9206b9d2e5c3182da>",
+        "user": "U04HL79B12M",
+        "ts": "1679937545.211339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HG6=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/peterxjang\/213a77f5c6c615e9206b9d2e5c3182da"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

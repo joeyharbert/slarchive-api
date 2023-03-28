@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1670252988.459699",
+        "user": "U04DJFFRN3C",
+        "text": "<@U04DJFFRN3C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1670257074.007879",
+        "user": "U04DFH2CCR3",
+        "text": "<@U04DFH2CCR3> has joined the channel"
+    },
+    {
+        "client_msg_id": "04e9cdb3-b429-412a-b5b1-295b12871965",
+        "type": "message",
+        "text": "<https:\/\/us02web.zoom.us\/j\/88417076378|Meet and Greet>:  Monday the 5th 6:30-7:30 pm CT\n\n<https:\/\/us02web.zoom.us\/j\/81145222338|Office Hours >:  Wednesday the 7th from 6:30-8:30 pm CT:\nStarting at 6:30 pm I’ll be going over Checkpoint Conditionals Part 2 and giving a mini-lesson on code flow plus introducing some new concepts from week 2!",
+        "user": "U04CQDV5FTL",
+        "ts": "1670286710.024399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bs98",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/88417076378",
+                                "text": "Meet and Greet"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":  Monday the 5th 6:30-7:30 pm CT\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/81145222338",
+                                "text": "Office Hours "
+                            },
+                            {
+                                "type": "text",
+                                "text": ":  Wednesday the 7th from 6:30-8:30 pm CT:\nStarting at 6:30 pm I’ll be going over Checkpoint Conditionals Part 2 and giving a mini-lesson on code flow plus introducing some new concepts from week 2!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gcd8bed110f3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd8bed110f3cff27a93d4b33f1963437.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Mitchell",
+            "display_name": "Kevin Mitchell",
+            "team": "T04C9T53QJK",
+            "name": "kevin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "F5EFA89A-CC7C-4ED9-B81D-917AA40C5362",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/MgtGHfdpigU|https:\/\/youtu.be\/MgtGHfdpigU> cool YouTube channel called ASMR programming. He does a lot of cool little projects. No tutorials, just a video of him programing, and it’s quite relaxing. Thought one of the reasons I posted this is he has hit GitHub link in the description. So some of these that he does could be good little side project ideas!",
+        "user": "U04DLUZGJ4C",
+        "ts": "1674087413.273869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hBe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/MgtGHfdpigU",
+                                "text": "https:\/\/youtu.be\/MgtGHfdpigU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cool YouTube channel called ASMR programming. He does a lot of cool little projects. No tutorials, just a video of him programing, and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " quite relaxing. Thought one of the reasons I posted this is he has hit GitHub link in the description. So some of these that he does could be good little side project ideas!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/MgtGHfdpigU",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/MgtGHfdpigU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/MgtGHfdpigU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"ASMR Programming - Most Simple XO Coding - No Talking\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/MgtGHfdpigU",
+                "fallback": "YouTube Video: ASMR Programming - Most Simple XO Coding - No Talking",
+                "title": "ASMR Programming - Most Simple XO Coding - No Talking",
+                "title_link": "https:\/\/youtu.be\/MgtGHfdpigU",
+                "author_name": "AsmrProg",
+                "author_link": "https:\/\/www.youtube.com\/@AsmrProg",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

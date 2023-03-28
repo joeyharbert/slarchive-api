@@ -1,0 +1,119 @@
+[
+    {
+        "client_msg_id": "51f6e958-78f6-4153-9e4a-11a5e1725121",
+        "type": "message",
+        "text": "Exercise:\nUpdate your mini-capstone to use a single route to display any one product",
+        "user": "U04HL79B12M",
+        "ts": "1674067556.879899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZYq73",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nUpdate your mini-capstone to use a single route to display any one product"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e8af4f8e-73de-4a7b-a40a-5619818f2f46",
+        "type": "message",
+        "text": "Exercise:\nAdd tests for the index and show actions in `tests\/controllers\/products_controller_test.rb`\n```test \"index\" do\n  get \"\/products.json\"\n  assert_response 200\n\n  data = JSON.parse(response.body)\n  assert_equal Product.count, data.length\nend\n\ntest \"show\" do\n  get \"\/products\/#{Product.first.id}.json\"\n  assert_response 200\n\n  data = JSON.parse(response.body)\n  assert_equal [\"id\", \"name\", \"price\", \"image_url\", \"description\", \"created_at\", \"updated_at\"], data.keys\nend```\nImplement the restful index and show actions in your mini-capstone.\nRun `rails test` in the terminal to make sure all tests pass\nBonus: Make a Ruby script to test the index and show actions using the HTTP gem.",
+        "user": "U04HL79B12M",
+        "ts": "1674072982.102359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xvS4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nAdd tests for the index and show actions in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tests\/controllers\/products_controller_test.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test \"index\" do\n  get \"\/products.json\"\n  assert_response 200\n\n  data = JSON.parse(response.body)\n  assert_equal Product.count, data.length\nend\n\ntest \"show\" do\n  get \"\/products\/#{Product.first.id}.json\"\n  assert_response 200\n\n  data = JSON.parse(response.body)\n  assert_equal [\"id\", \"name\", \"price\", \"image_url\", \"description\", \"created_at\", \"updated_at\"], data.keys\nend"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nImplement the restful index and show actions in your mini-capstone.\nRun "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rails test",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the terminal to make sure all tests pass\nBonus: Make a Ruby script to test the index and show actions using the HTTP gem."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

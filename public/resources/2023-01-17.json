@@ -1,0 +1,241 @@
+[
+    {
+        "client_msg_id": "c6b4f559-b5b5-4a41-9015-fc30431c683f",
+        "type": "message",
+        "text": "<https:\/\/github.com\/faker-ruby\/faker>",
+        "user": "U04HL79B12M",
+        "ts": "1673977716.604489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WI82z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/faker-ruby\/faker"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/faker-ruby\/faker",
+                "image_url": "https:\/\/opengraph.githubassets.com\/7fa848438260f460ce62b43174e081073a45c43a145d21b5007c55c39dbc8907\/faker-ruby\/faker",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 61161,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/faker-ruby\/faker",
+                "fallback": "GitHub: GitHub - faker-ruby\/faker: A library for generating fake data such as names, addresses, and phone numbers.",
+                "text": "A library for generating fake data such as names, addresses, and phone numbers. - GitHub - faker-ruby\/faker: A library for generating fake data such as names, addresses, and phone numbers.",
+                "title": "GitHub - faker-ruby\/faker: A library for generating fake data such as names, addresses, and phone numbers.",
+                "title_link": "https:\/\/github.com\/faker-ruby\/faker",
+                "service_name": "GitHub"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b03ef3a-5a14-40a9-b1fc-2dcd31aecacf",
+        "type": "message",
+        "text": "<http:\/\/dbweekly.com\/>",
+        "user": "U04HL79B12M",
+        "ts": "1673984745.463789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4kLh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/dbweekly.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "df5a718d-a1cf-4cf9-86d1-206e57fcef43",
+        "type": "message",
+        "text": "<https:\/\/www.thoughtworks.com\/insights\/blog\/nosql-databases-overview?utm_source=dbweekly&amp;utm_medium=email>",
+        "user": "U04HL79B12M",
+        "ts": "1673984915.867509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "676",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.thoughtworks.com\/insights\/blog\/nosql-databases-overview?utm_source=dbweekly&utm_medium=email"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.thoughtworks.com\/insights\/blog\/nosql-databases-overview?utm_source=dbweekly&utm_medium=email",
+                "image_url": "https:\/\/www.thoughtworks.com\/content\/dam\/thoughtworks\/images\/photography\/meta\/insights\/in_meta_blogs.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 327199,
+                "id": 1,
+                "original_url": "https:\/\/www.thoughtworks.com\/insights\/blog\/nosql-databases-overview?utm_source=dbweekly&amp;utm_medium=email",
+                "fallback": "Thoughtworks: NoSQL Databases: An Overview",
+                "text": "Over the last few years we have seen the rise of a new type of databases, known as NoSQL databases, that are challenging the dominance of relational databases. Relational databases have dominated the software industry for a long time providing mechanisms to store data persistently, concurrency control, transactions, mostly standard interfaces and mechanisms to integrate application data, reporting. The dominance of relational databases, however, is cracking.",
+                "title": "NoSQL Databases: An Overview",
+                "title_link": "https:\/\/www.thoughtworks.com\/insights\/blog\/nosql-databases-overview?utm_source=dbweekly&utm_medium=email",
+                "service_name": "Thoughtworks"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c35bc86-3942-432c-b1f4-a746d478db6c",
+        "type": "message",
+        "text": "SQL\/relational database\n• means it has columns and rows\n\nNoSQL\/non-relational database\n• means does not have columns and rows",
+        "user": "U04HL79B12M",
+        "ts": "1673985044.520769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CR6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SQL\/relational database\n• means it has columns and rows\n\nNoSQL\/non-relational database\n• means does not have columns and rows"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8ceff7ff-31ea-49fc-b977-098641052edb",
+        "type": "message",
+        "text": "<https:\/\/db-engines.com\/en\/ranking>",
+        "user": "U04HL79B12M",
+        "ts": "1673985061.456679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wKApZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/db-engines.com\/en\/ranking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/db-engines.com\/en\/ranking",
+                "thumb_url": "https:\/\/db-engines.com\/pictures\/db-engines_128x128.png",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https:\/\/db-engines.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/db-engines.com\/en\/ranking",
+                "fallback": "DB-Engines: DB-Engines Ranking",
+                "text": "Popularity ranking of database management systems.",
+                "title": "DB-Engines Ranking",
+                "title_link": "https:\/\/db-engines.com\/en\/ranking",
+                "service_name": "DB-Engines"
+            }
+        ]
+    }
+]

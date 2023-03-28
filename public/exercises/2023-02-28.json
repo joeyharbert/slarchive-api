@@ -1,0 +1,652 @@
+[
+    {
+        "client_msg_id": "f9ff9fdb-93ad-4026-9de5-781a8ca3f3b0",
+        "type": "message",
+        "text": "Exercise:\n• Replace your Signup.jsx and Login.jsx code with the code from the guide. \n• Make a LogoutLink.jsx using the guide\n• Test everything in the browser by examining how localStorage changes in the JavaScript console as you login and logout\n",
+        "user": "U04HL79B12M",
+        "ts": "1677606222.636829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FgA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Replace your Signup.jsx and Login.jsx code with the code from the guide. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make a LogoutLink.jsx using the guide"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Test everything in the browser by examining how localStorage changes in the JavaScript console as you login and logout"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e3bcfbdc-9e59-4fda-b09d-e88c8025cdfa",
+        "type": "message",
+        "text": "Exercise:\nIn src\/PostsNew.jsx, make a name attribute for each input for params\nMake a function to handle the form submit event that creates a new post\nTest it in the browser (for now you’ll need to refresh the page to see new posts appear)",
+        "user": "U04HL79B12M",
+        "ts": "1677607080.503649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qWdYY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn src\/PostsNew.jsx, make a name attribute for each input for params\nMake a function to handle the form submit event that creates a new post\nTest it in the browser (for now you’ll need to refresh the page to see new posts appear)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "137377e7-9c5d-492f-9737-74ebda3e0d5a",
+        "type": "message",
+        "text": "Exercise:\n• In Content.jsx, make a `handleCreatePost` function. This function should make the POST \/posts request, then update the posts state using `setPosts([...posts, response.data]);`\n• In Content.jsx, make a new PostsNew prop called `onCreatePost` and set it equal to the `handleCreatePost` function.\n• In PostsNew.jsx, add props as an argument to the top PostsNew function\n• In PostsNew.jsx, change the handleSubmit function to call `props.onCreatePost(params);` instead of making the web request directly. (You can also remove the `import axios from \"axios\";` statement since this component will not make any direct web requests)\n",
+        "user": "U04HL79B12M",
+        "ts": "1677609402.270379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hGH3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In Content.jsx, make a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "handleCreatePost",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " function. This function should make the POST \/posts request, then update the posts state using "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "setPosts([...posts, response.data]);",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In Content.jsx, make a new PostsNew prop called "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "onCreatePost",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and set it equal to the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "handleCreatePost",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " function."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In PostsNew.jsx, add props as an argument to the top PostsNew function"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In PostsNew.jsx, change the handleSubmit function to call "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "props.onCreatePost(params);",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " instead of making the web request directly. (You can also remove the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "import axios from \"axios\";",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " statement since this component will not make any direct web requests)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4f2bbffb-f7f9-47b9-800f-0731a76d75ac",
+        "type": "message",
+        "text": "Exercise:\n• In src\/PostsShow.jsx, make a form to update a new post (similar to the form in PostsNew.jsx)\n• Add a defaultValue to each input using values from <http:\/\/props.post|props.post>\n• Make a function to handle the form submit event that updates a new post\n• Test it in the browser (for now you’ll need to refresh the page to see the updated post appear)\n",
+        "user": "U04HL79B12M",
+        "ts": "1677610586.696429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "03ra",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In src\/PostsShow.jsx, make a form to update a new post (similar to the form in PostsNew.jsx)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add a defaultValue to each input using values from props.post"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make a function to handle the form submit event that updates a new post"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Test it in the browser (for now you’ll need to refresh the page to see the updated post appear)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a3964a4a-bce4-4660-90e1-4c18e0c2b6dc",
+        "type": "message",
+        "text": "Exercise:\n• In Content.jsx, make a `handleUpdatePost` function. This function should make the axios.patch request, then update the posts state using `setPosts`\n• In Content.jsx, make a new PostsShow prop called onUpdatePost and set it equal to the handleUpdatePost function.\n• In PostsShow.jsx, change the handleSubmit function to call `props.onUpdatePost(props.post.id, params);` instead of making the web request directly. (You can also remove the `import axios from \"axios\";` statement since this component will not make any direct web requests)",
+        "user": "U04HL79B12M",
+        "ts": "1677612650.390729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KVb1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In Content.jsx, make a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "handleUpdatePost",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " function. This function should make the axios.patch request, then update the posts state using "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "setPosts",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In Content.jsx, make a new PostsShow prop called onUpdatePost and set it equal to the handleUpdatePost function."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In PostsShow.jsx, change the handleSubmit function to call "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "props.onUpdatePost(props.post.id, params);",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " instead of making the web request directly. (You can also remove the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "import axios from \"axios\";",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " statement since this component will not make any direct web requests)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7e88d401-10aa-454a-bb94-9b7748a07590",
+        "type": "message",
+        "text": "Exercise:\n• In src\/PostsShow.jsx, add a button to call an onDestroyPost prop\n• In src\/Content.jsx, add the function to destroy a post and pass it to the PostsShow component\n",
+        "user": "U04HL79B12M",
+        "ts": "1677613590.469879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vTpDV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In src\/PostsShow.jsx, add a button to call an onDestroyPost prop"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In src\/Content.jsx, add the function to destroy a post and pass it to the PostsShow component"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dfd1d18a-d082-467d-bfc1-d3520f9fa4b4",
+        "type": "message",
+        "text": "Exercise:\n• Work on the following problems in groups of three.\n• Take turns driving for each problem (one driver, two navigators).\n• If you get stuck, decompose and solve smaller problems that can lead you to the solution!\n<https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup>\n<https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=strings>",
+        "user": "U04HL79B12M",
+        "ts": "1677618058.810609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zp=a2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Work on the following problems in groups of three."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Take turns driving for each problem (one driver, two navigators)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If you get stuck, decompose and solve smaller problems that can lead you to the solution!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=strings"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup",
+                "service_icon": "https:\/\/hrcdn.net\/fcore\/assets\/favicon-ddc852f75a.png",
+                "thumb_url": "https:\/\/hrcdn.net\/og\/default.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 640,
+                "id": 1,
+                "original_url": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup",
+                "fallback": "HackerRank: Solve Programming Questions | HackerRank",
+                "text": "The true test of problem solving: when one realizes that time and memory aren't infinite.",
+                "title": "Solve Programming Questions | HackerRank",
+                "title_link": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup",
+                "service_name": "HackerRank"
+            },
+            {
+                "from_url": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=strings",
+                "service_icon": "https:\/\/hrcdn.net\/fcore\/assets\/favicon-ddc852f75a.png",
+                "thumb_url": "https:\/\/hrcdn.net\/og\/default.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 640,
+                "id": 2,
+                "original_url": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=strings",
+                "fallback": "HackerRank: Solve Programming Questions | HackerRank",
+                "text": "The true test of problem solving: when one realizes that time and memory aren't infinite.",
+                "title": "Solve Programming Questions | HackerRank",
+                "title_link": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=strings",
+                "service_name": "HackerRank"
+            }
+        ]
+    }
+]

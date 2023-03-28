@@ -1,0 +1,187 @@
+[
+    {
+        "client_msg_id": "878604d2-3e0a-4efd-ae9b-aecfebd62b2a",
+        "type": "message",
+        "text": "<https:\/\/www.troyhunt.com\/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means\/>",
+        "user": "U04HL79B12M",
+        "ts": "1674839934.863879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v\/TW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.troyhunt.com\/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.troyhunt.com\/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means\/",
+                "ts": 1599178307,
+                "image_url": "https:\/\/www.troyhunt.com\/content\/images\/2020\/09\/MD5-hashes.png",
+                "image_width": 420,
+                "image_height": 250,
+                "image_bytes": 134130,
+                "service_icon": "https:\/\/www.troyhunt.com\/content\/images\/size\/w256h256\/2021\/12\/Troy-Hunt-LM-0059_square.png",
+                "id": 1,
+                "original_url": "https:\/\/www.troyhunt.com\/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means\/",
+                "fallback": "Troy Hunt: We Didn't Encrypt Your Password, We Hashed It. Here's What That Means:",
+                "text": "You've possibly just found out you're in a data breach. The organisation\ninvolved may have contacted you and advised your password was exposed but\nfortunately, they encrypted it. But you should change it anyway. Huh? Isn't the\nwhole point of encryption that it protects data when exposed to unintended\nparties?",
+                "title": "We Didn't Encrypt Your Password, We Hashed It. Here's What That Means:",
+                "title_link": "https:\/\/www.troyhunt.com\/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means\/",
+                "service_name": "Troy Hunt",
+                "fields": [
+                    {
+                        "value": "Troy Hunt",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "Security, Passwords",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "259dd65c-6716-4fb1-8b96-3d6e8d74f765",
+        "type": "message",
+        "text": "<https:\/\/cheatsheetseries.owasp.org\/cheatsheets\/Password_Storage_Cheat_Sheet.html>",
+        "user": "U04HL79B12M",
+        "ts": "1674839950.091579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PFu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cheatsheetseries.owasp.org\/cheatsheets\/Password_Storage_Cheat_Sheet.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/cheatsheetseries.owasp.org\/cheatsheets\/Password_Storage_Cheat_Sheet.html",
+                "service_icon": "https:\/\/cheatsheetseries.owasp.org\/assets\/WebSite_Favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/cheatsheetseries.owasp.org\/cheatsheets\/Password_Storage_Cheat_Sheet.html",
+                "fallback": "Password Storage - OWASP Cheat Sheet Series",
+                "text": "Website with the collection of all the cheat sheets of the project.",
+                "title": "Password Storage - OWASP Cheat Sheet Series",
+                "title_link": "https:\/\/cheatsheetseries.owasp.org\/cheatsheets\/Password_Storage_Cheat_Sheet.html",
+                "service_name": "cheatsheetseries.owasp.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1acdfedf-7cd3-45ec-b108-5f8001b64890",
+        "type": "message",
+        "text": "<https:\/\/privacyaustralia.net\/dark-web-personal-data\/#:~:text=The%20Dark%20Web%20is%20real,%2C%20birth%20date%2C%20and%20CVV>.",
+        "user": "U04HL79B12M",
+        "ts": "1674840366.010009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7W4XD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/privacyaustralia.net\/dark-web-personal-data\/#:~:text=The%20Dark%20Web%20is%20real,%2C%20birth%20date%2C%20and%20CVV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/privacyaustralia.net\/dark-web-personal-data\/#:~:text=The%20Dark%20Web%20is%20real,%2C%20birth%20date%2C%20and%20CVV",
+                "image_url": "https:\/\/privacyaustralia.net\/wp-content\/uploads\/2018\/12\/bitcoin-management-vector.jpg?_t=1672503473",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 16552,
+                "service_icon": "https:\/\/privacyaustralia.net\/wp-content\/uploads\/2021\/04\/pa-favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/privacyaustralia.net\/dark-web-personal-data\/#:~:text=The%20Dark%20Web%20is%20real,%2C%20birth%20date%2C%20and%20CVV",
+                "fallback": "Privacy Australia: How Much Does Your Data Cost on the Dark Web? - You'll Be Surprised",
+                "text": "Worried about your personal data on dark web? You needn't worry any longer as we have checked it for you and the data isn't worth much.",
+                "title": "How Much Does Your Data Cost on the Dark Web? - You'll Be Surprised",
+                "title_link": "https:\/\/privacyaustralia.net\/dark-web-personal-data\/#:~:text=The%20Dark%20Web%20is%20real,%2C%20birth%20date%2C%20and%20CVV",
+                "service_name": "Privacy Australia",
+                "fields": [
+                    {
+                        "value": "9 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    }
+]

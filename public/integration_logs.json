@@ -1,0 +1,5 @@
+[
+{"user_id":"U04DLUZGJ4C","user_name":"alex.centeno1991","date":"1674250535","change_type":"added","app_type":"GitHub","app_id":"A01BP7R4KNY"},
+{"user_id":"U04DE4Y05EU","user_name":"peter","date":"1669643667","change_type":"added","app_type":"Simple Poll","app_id":"A0HFW7MR6"},
+{"user_id":"U04DE4Y05EU","user_name":"peter","date":"1669643666","change_type":"added","app_type":"Simple Poll","app_id":"A0HFW7MR6","scope":"identity.basic,identity.email"}
+]

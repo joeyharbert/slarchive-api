@@ -1,0 +1,203 @@
+[
+    {
+        "client_msg_id": "2687c600-9808-42b2-800b-48991785f964",
+        "type": "message",
+        "text": "More recent job postings to apply to!\n\nAssociate Software Engineer\n<https:\/\/talent.lowes.com\/us\/en\/job\/2531127BR\/Associate-Software-Engineer?utm_source=617IndeedOrganic>\n\nTechnical Support Engineer at EasyPost - Listed as remote but also mentions the Lehi, Utah office\n<https:\/\/jobs.lever.co\/easypost-2\/0569ce0f-05db-49ef-b552-895b1eb6e38b>\n\nSoftware Engineer II (Ruby on Rails) at G2 - Remote\n<https:\/\/boards.greenhouse.io\/embed\/job_app?for=g2crowd&amp;token=4935381&amp;b=https%3A%2F%2Fcompany.g2.com%2Fcareers%2Fopen-positions&amp;source=indeed.com>\n\nEarly Career Developer at Adaptive - Hybrid in New York City\n<https:\/\/weareadaptive.com\/careers\/jobs\/?job=4928011&amp;gh_jid=4928011>\n\nAssociate Software Development engineer at Delta Air Lines - Atlanta, Georgia\n<https:\/\/delta.avature.net\/careers\/JobDetail\/Associate-Software-Development-Engineer-20001\/20001?source=LinkedIn>\n\n\nSoftware Engineer at Tempus Labs - Chicago, New York, San Francisco, or Boston\n<https:\/\/www.tempus.com\/about-us\/careers\/job\/?gh_jid=4368281002>",
+        "user": "U04J9382JP3",
+        "ts": "1679606596.278809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rWMuq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More recent job postings to apply to!\n\nAssociate Software Engineer\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/talent.lowes.com\/us\/en\/job\/2531127BR\/Associate-Software-Engineer?utm_source=617IndeedOrganic"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nTechnical Support Engineer at EasyPost - Listed as remote but also mentions the Lehi, Utah office\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.lever.co\/easypost-2\/0569ce0f-05db-49ef-b552-895b1eb6e38b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSoftware Engineer II (Ruby on Rails) at G2 - Remote\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/boards.greenhouse.io\/embed\/job_app?for=g2crowd&token=4935381&b=https%3A%2F%2Fcompany.g2.com%2Fcareers%2Fopen-positions&source=indeed.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEarly Career Developer at Adaptive - Hybrid in New York City\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/weareadaptive.com\/careers\/jobs\/?job=4928011&gh_jid=4928011"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAssociate Software Development engineer at Delta Air Lines - Atlanta, Georgia\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/delta.avature.net\/careers\/JobDetail\/Associate-Software-Development-Engineer-20001\/20001?source=LinkedIn"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nSoftware Engineer at Tempus Labs - Chicago, New York, San Francisco, or Boston\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tempus.com\/about-us\/careers\/job\/?gh_jid=4368281002"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/assets.phenompeople.com\/CareerConnectResources\/pp\/LOWEUS\/images\/Lowes-logo-twitter-1024x512-1642014142632.jpg",
+                "image_width": 1024,
+                "image_height": 512,
+                "image_bytes": 48513,
+                "from_url": "https:\/\/talent.lowes.com\/us\/en\/job\/2531127BR\/Associate-Software-Engineer?utm_source=617IndeedOrganic",
+                "service_icon": "https:\/\/talent.lowes.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/talent.lowes.com\/us\/en\/job\/2531127BR\/Associate-Software-Engineer?utm_source=617IndeedOrganic",
+                "fallback": "Lowes: Associate Software Engineer in Lowe's SSC-C | Technology at Lowe's",
+                "text": "Apply for Associate Software Engineer job with Lowe's in Lowe's SSC-C. Technology at Lowe's.",
+                "title": "Associate Software Engineer in Lowe's SSC-C | Technology at Lowe's",
+                "title_link": "https:\/\/talent.lowes.com\/us\/en\/job\/2531127BR\/Associate-Software-Engineer?utm_source=617IndeedOrganic",
+                "service_name": "Lowes"
+            },
+            {
+                "from_url": "https:\/\/jobs.lever.co\/easypost-2\/0569ce0f-05db-49ef-b552-895b1eb6e38b",
+                "service_icon": "https:\/\/jobs.lever.co\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/jobs.lever.co\/easypost-2\/0569ce0f-05db-49ef-b552-895b1eb6e38b",
+                "fallback": "EasyPost - Technical Support Engineer",
+                "text": "About the role: We are hiring for an API Technical Support Engineer to join our growing Lehi, Utah office. When developers reach out to EasyPost they get someone smart and technical who understands their business. The experience is light years away from what they are used to when dealing with shipping APIs! Whether we’re helping a break-out company automate their first international shipments or helping a top 50 carrier seamlessly add a new delivery partner, we are welcome partners who our customers will rely on for their business to run. The Support Engineering team is small, but touches every part of the company. If you are technically inclined and enjoy wearing a lot of hats, we’d love to talk to you. What you will do: o Ensure that when developers engage with EasyPost they get someone smart and technical who understands their business. o Provide first-level contact and convey resolutions to customer issues o Uphold an experience that is light years away from what they are used",
+                "title": "EasyPost - Technical Support Engineer",
+                "title_link": "https:\/\/jobs.lever.co\/easypost-2\/0569ce0f-05db-49ef-b552-895b1eb6e38b",
+                "service_name": "jobs.lever.co",
+                "fields": [
+                    {
+                        "value": "Remote",
+                        "title": "Location",
+                        "short": true
+                    },
+                    {
+                        "value": "Technical Support Engineer",
+                        "title": "Team",
+                        "short": true
+                    }
+                ]
+            },
+            {
+                "from_url": "https:\/\/boards.greenhouse.io\/embed\/job_app?for=g2crowd&token=4935381&b=https%3A%2F%2Fcompany.g2.com%2Fcareers%2Fopen-positions&source=indeed.com",
+                "service_icon": "https:\/\/boards.greenhouse.io\/favicon.ico",
+                "id": 3,
+                "original_url": "https:\/\/boards.greenhouse.io\/embed\/job_app?for=g2crowd&amp;token=4935381&amp;b=https%3A%2F%2Fcompany.g2.com%2Fcareers%2Fopen-positions&amp;source=indeed.com",
+                "fallback": "Software Engineer II (Ruby on Rails)",
+                "text": "US Remote",
+                "title": "Software Engineer II (Ruby on Rails)",
+                "title_link": "https:\/\/boards.greenhouse.io\/embed\/job_app?for=g2crowd&token=4935381&b=https%3A%2F%2Fcompany.g2.com%2Fcareers%2Fopen-positions&source=indeed.com",
+                "service_name": "boards.greenhouse.io"
+            },
+            {
+                "image_url": "https:\/\/weareadaptive.com\/wp-content\/uploads\/2018\/05\/About-us.png",
+                "image_width": 565,
+                "image_height": 517,
+                "image_bytes": 318868,
+                "from_url": "https:\/\/weareadaptive.com\/careers\/jobs\/?job=4928011&gh_jid=4928011",
+                "service_icon": "https:\/\/weareadaptive.com\/wp-content\/themes\/bh-core\/assets\/images\/favicons\/apple-touch-icon.png",
+                "id": 4,
+                "original_url": "https:\/\/weareadaptive.com\/careers\/jobs\/?job=4928011&amp;gh_jid=4928011",
+                "fallback": "Adaptive Financial Consulting: Jobs - Adaptive Financial Consulting",
+                "title": "Jobs - Adaptive Financial Consulting",
+                "title_link": "https:\/\/weareadaptive.com\/careers\/jobs\/?job=4928011&gh_jid=4928011",
+                "service_name": "Adaptive Financial Consulting"
+            },
+            {
+                "image_url": "https:\/\/delta.avature.net\/portal\/4\/images\/delta.png",
+                "image_width": 400,
+                "image_height": 400,
+                "image_bytes": 37116,
+                "from_url": "https:\/\/delta.avature.net\/careers\/JobDetail\/Associate-Software-Development-Engineer-20001\/20001?source=LinkedIn",
+                "id": 5,
+                "original_url": "https:\/\/delta.avature.net\/careers\/JobDetail\/Associate-Software-Development-Engineer-20001\/20001?source=LinkedIn",
+                "fallback": "Associate Software Development Engineer",
+                "text": "Find Jobs Careers",
+                "title": "Associate Software Development Engineer",
+                "title_link": "https:\/\/delta.avature.net\/careers\/JobDetail\/Associate-Software-Development-Engineer-20001\/20001?source=LinkedIn",
+                "service_name": "delta.avature.net"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "beb3618a-b19d-4d49-93b8-c074f6ff4919",
+        "type": "message",
+        "text": "whoooops lol",
+        "user": "U04J9382JP3",
+        "ts": "1679606617.883189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "83m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "whoooops lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679001767.816549",
+        "parent_user_id": "U04J9382JP3"
+    }
+]

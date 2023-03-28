@@ -1,0 +1,56 @@
+[
+    {
+        "type": "message",
+        "text": "\n<https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7046498347674710016?utm_source=share&amp;utm_medium=member_ios>",
+        "user": "U04DLUZMY84",
+        "ts": "1680018925.867709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fteT=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7046498347674710016?utm_source=share&amp;utm_medium=member_ios",
+                                "text": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7046498347674710016?utm_source=share&utm_medium=member_ios"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7046498347674710016?utm_source=share&utm_medium=member_ios",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/logos\/favicons\/v1\/favicon.ico",
+                "thumb_width": 16,
+                "thumb_height": 16,
+                "service_icon": "https:\/\/static.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7046498347674710016?utm_source=share&amp;utm_medium=member_ios",
+                "fallback": "Sign Up | LinkedIn",
+                "text": "500 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+                "title": "Sign Up | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7046498347674710016?utm_source=share&utm_medium=member_ios",
+                "service_name": "linkedin.com"
+            }
+        ]
+    }
+]

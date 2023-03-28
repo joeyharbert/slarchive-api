@@ -1,0 +1,845 @@
+[
+    {
+        "client_msg_id": "f4ba6635-d30a-4b27-a466-3db5d51a2f60",
+        "type": "message",
+        "text": "very nice <@U04GY24PLTY> I just got mine in the other day! :smile:",
+        "user": "U04DLUZGJ4C",
+        "ts": "1673282726.225369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zfz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "very nice "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04GY24PLTY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I just got mine in the other day! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "58758564-d43d-4228-9bce-3c328c53d976",
+        "type": "message",
+        "text": "Cohort name ideas:",
+        "user": "U04HL79B12M",
+        "ts": "1673299848.016649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C5IwC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cohort name ideas:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7392a3de-8132-439f-b14a-81415657638d",
+        "type": "message",
+        "text": "Giant Brains Working",
+        "user": "U04GY24PLTY",
+        "ts": "1673299934.033969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1+UcT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Giant Brains Working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "69899753-bd37-4a45-af87-a0c62fb4b16c",
+        "type": "message",
+        "text": "team pup and suds (if anyone ever saw brink on disney channel back in the day)",
+        "user": "U04DLUZGJ4C",
+        "ts": "1673299966.564889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6qC7e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "team pup and suds (if anyone ever saw brink on disney channel back in the day)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "92ef337c-539f-4749-8b6a-7171659e4017",
+        "type": "message",
+        "text": ":brain: :zap:️",
+        "user": "U04HB4D6ARZ",
+        "ts": "1673299972.800949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MZF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "brain",
+                                "unicode": "1f9e0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zap",
+                                "unicode": "26a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "️"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3cbdb916-e3db-4ede-b534-4644ff7bfc56",
+        "type": "message",
+        "text": "Learning Bit by Bit (like the unit of data type of bit)",
+        "user": "U04DFH2CCR3",
+        "ts": "1673300028.867669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gAk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Learning Bit by Bit (like the unit of data type of bit)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0033814c118",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0033814c118d0c5130f202bb2c0ec62f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Taylor",
+            "display_name": "Matthew Taylor",
+            "team": "T04C9T53QJK",
+            "name": "mjt.inbox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e385aab4-da94-4932-ad3e-f097c7817474",
+        "type": "message",
+        "text": "hash it out",
+        "user": "U04DLUZGJ4C",
+        "ts": "1673300174.135929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GgJhG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hash it out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f0707df7-2838-4461-9605-861f19b99131",
+        "type": "message",
+        "text": "brewing java",
+        "user": "U04DLUZGJ4C",
+        "ts": "1673300191.510909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rptjn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "brewing java"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b5617784-3983-4cff-947d-fbc57d9b6f6b",
+        "type": "message",
+        "text": "405 found",
+        "user": "U04DLUZGJ4C",
+        "ts": "1673300204.416609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fSp6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "405 found"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04D3UXCN3Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b444ef0-f072-44ea-b792-668e715be6b1",
+        "type": "message",
+        "text": "or 312 not found (chicago area code)",
+        "user": "U04DLUZGJ4C",
+        "ts": "1673300224.066209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O7F8d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or 312 not found (chicago area code)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "820ec24c-8b06-4118-b46f-00c8b106a503",
+        "type": "message",
+        "text": "ctrl alt elite",
+        "user": "U04DLUZGJ4C",
+        "ts": "1673300256.947179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r77r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ctrl alt elite"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04DLUZTL2Y",
+                    "U04DLUZ1JCU",
+                    "U04GY24PLTY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcd0539e-43ed-4f77-9855-150538e4e03f",
+        "type": "message",
+        "text": "enemy of syntax",
+        "user": "U04DLUZGJ4C",
+        "ts": "1673300273.946899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "85+e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "enemy of syntax"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1a52f6c1-985d-416f-843f-9428c369b5ec",
+        "type": "message",
+        "text": "Baby Got Bytes",
+        "user": "U04GY24PLTY",
+        "ts": "1673300418.073929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1qLJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Baby Got Bytes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673300660.848099",
+        "user": "U04C9TMTJT1",
+        "text": "<@U04C9TMTJT1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Cohort name",
+        "ts": "1673300719.746469",
+        "bot_id": "B04D33KFQP3",
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "oX0Tw",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": ":gear: Anonymous",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ea06d8c7-4ff5-4c8b-8f78-54aa0c4c6034-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Cohort name*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: Edit Poll",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":lock: Close Poll",
+                                "emoji": true
+                            },
+                            "value": "close_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":recycle: Recreate this Poll",
+                                "emoji": true
+                            },
+                            "value": "create_poll_from_recent_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":bar_chart: Create new Poll",
+                                "emoji": true
+                            },
+                            "value": "create_new_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ea06d8c7-4ff5-4c8b-8f78-54aa0c4c6034-vote-41565485",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Giant Brains Working    `2`\n:heavy_check_mark::heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-41565485",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ea06d8c7-4ff5-4c8b-8f78-54aa0c4c6034-vote-41565486",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Team Pup and Suds\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-41565486",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ea06d8c7-4ff5-4c8b-8f78-54aa0c4c6034-vote-41565487",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: Learning Bit by Bit\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-41565487",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ea06d8c7-4ff5-4c8b-8f78-54aa0c4c6034-vote-41565488",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":four: Hash It Out\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-41565488",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":four:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ea06d8c7-4ff5-4c8b-8f78-54aa0c4c6034-vote-41565489",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":five: Brewing Java    `1`\n:heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-41565489",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":five:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ea06d8c7-4ff5-4c8b-8f78-54aa0c4c6034-vote-41565490",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":six: 405 found    `1`\n:heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-41565490",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":six:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ea06d8c7-4ff5-4c8b-8f78-54aa0c4c6034-vote-41565491",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":seven: 312 not found    `1`\n:heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-41565491",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":seven:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ea06d8c7-4ff5-4c8b-8f78-54aa0c4c6034-vote-41565492",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":eight: ctrl alt elite    `6`\n:heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-41565492",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":eight:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ea06d8c7-4ff5-4c8b-8f78-54aa0c4c6034-vote-41565493",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":nine: enemy of syntax\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-41565493",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":nine:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ea06d8c7-4ff5-4c8b-8f78-54aa0c4c6034-vote-41565494",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":keycap_ten: Baby Got Bytes\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-41565494",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":keycap_ten:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "CiHNt",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U04HL79B12M> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "B04D33KFQP3",
+            "ts": "1673300771.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673303495.386409",
+        "user": "U04HQ40UQ87",
+        "text": "<@U04HQ40UQ87> has joined the channel"
+    }
+]

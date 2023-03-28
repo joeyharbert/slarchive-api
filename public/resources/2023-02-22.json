@@ -1,0 +1,173 @@
+[
+    {
+        "client_msg_id": "dcbdeaed-ce96-4d07-9668-e9c9b9b3cd2a",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=8aGhZQkoFbQ>",
+        "user": "U04HL79B12M",
+        "ts": "1677087935.586729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zzm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=8aGhZQkoFbQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=8aGhZQkoFbQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/8aGhZQkoFbQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/8aGhZQkoFbQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"What the heck is the event loop anyway? | Philip Roberts | JSConf EU\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=8aGhZQkoFbQ",
+                "fallback": "YouTube Video: What the heck is the event loop anyway? | Philip Roberts | JSConf EU",
+                "title": "What the heck is the event loop anyway? | Philip Roberts | JSConf EU",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=8aGhZQkoFbQ",
+                "author_name": "JSConf",
+                "author_link": "https:\/\/www.youtube.com\/@jsconf_",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68170ff3-bb5a-4d3c-92d3-88dd24e1b941",
+        "type": "message",
+        "text": "<https:\/\/babeljs.io\/docs\/en\/learn>  <https:\/\/turriate.com\/articles\/modern-javascript-everything-you-missed-over-10-years>",
+        "user": "U04HL79B12M",
+        "ts": "1677091748.124599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+bBG+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/babeljs.io\/docs\/en\/learn"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/turriate.com\/articles\/modern-javascript-everything-you-missed-over-10-years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/babeljs.io\/docs\/en\/learn",
+                "service_icon": "https:\/\/babeljs.io\/img\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/babeljs.io\/docs\/en\/learn",
+                "fallback": "Learn ES2015 · Babel",
+                "text": "es6features",
+                "title": "Learn ES2015 · Babel",
+                "title_link": "https:\/\/babeljs.io\/docs\/en\/learn",
+                "service_name": "babeljs.io"
+            },
+            {
+                "image_url": "https:\/\/turriate.com\/assets\/c2g3jtsjk28jp4a1oup0",
+                "image_width": 520,
+                "image_height": 260,
+                "image_bytes": 72546,
+                "from_url": "https:\/\/turriate.com\/articles\/modern-javascript-everything-you-missed-over-10-years",
+                "service_icon": "https:\/\/turriate.com\/assets\/c19p2ksjk28quo545430?apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/turriate.com\/articles\/modern-javascript-everything-you-missed-over-10-years",
+                "fallback": "Modern Javascript: Everything you missed over the last 10 years",
+                "text": "JavaScript has come a long way since I knew it as the “D” in DHTML. For anyone like me, who’s been reluctant to use the latest syntax that could require polyfills or a transpiler, I’ve written this cheatsheet to get you caught up on all the goodness that’s widely supported in modern browsers.",
+                "title": "Modern Javascript: Everything you missed over the last 10 years",
+                "title_link": "https:\/\/turriate.com\/articles\/modern-javascript-everything-you-missed-over-10-years",
+                "service_name": "turriate.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f75522a-5142-449f-815c-09edbbdafb06",
+        "type": "message",
+        "text": "<https:\/\/www.cs.cornell.edu\/~xanda\/interviews.html>",
+        "user": "U04HL79B12M",
+        "ts": "1677100527.686279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VQTr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cs.cornell.edu\/~xanda\/interviews.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

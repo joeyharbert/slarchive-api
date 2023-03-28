@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04KPJ2DJ9W",
+                "created": 1673806295,
+                "timestamp": 1673806295,
+                "name": "IMG_0233.jpg",
+                "title": "IMG_0233",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04GY24PLTY",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 38673,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04KPJ2DJ9W\/img_0233.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04KPJ2DJ9W\/download\/img_0233.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KPJ2DJ9W-bad793fb0b\/img_0233_64.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KPJ2DJ9W-bad793fb0b\/img_0233_80.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KPJ2DJ9W-bad793fb0b\/img_0233_360.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360_w": 323,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KPJ2DJ9W-bad793fb0b\/img_0233_480.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_480_w": 430,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KPJ2DJ9W-bad793fb0b\/img_0233_160.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KPJ2DJ9W-bad793fb0b\/img_0233_720.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720_w": 646,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KPJ2DJ9W-bad793fb0b\/img_0233_800.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_800_w": 717,
+                "thumb_800_h": 800,
+                "original_w": 720,
+                "original_h": 803,
+                "thumb_tiny": "AwAwACvQ2vz8\/wBOKVQwzubd+GKaQufvL+Qowv8AeX8hQBJRTNn0\/KlCc84P4UAOooAA6DFFADCoOcoKMD\/nmKXI9\/yo3D3\/ACoAUE9xilpu4e\/5Ubh7\/lQA6ikBBOP6UtADdoz\/APXo2j\/Jql\/aIP8AAfzFH9oD+6f++hQBd2j\/ACaNo9\/zqmNRAHKE\/wDAhSf2mv8Azyb86ALw46UtUhqKkZ8vvjlhTf7TX\/nk35igD\/\/Z",
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04GY24PLTY\/F04KPJ2DJ9W\/img_0233.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04KPJ2DJ9W-2aa5fdb24b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GY24PLTY",
+        "display_as_bot": false,
+        "ts": "1673806300.570759",
+        "client_msg_id": "91F7FDF6-B85E-46C1-A70A-2483CDD5C886",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04HL79B12M",
+                    "U04DLUZGJ4C",
+                    "U04DLUZMY84",
+                    "U04HB4DFQ0K"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

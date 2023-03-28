@@ -1,0 +1,375 @@
+[
+    {
+        "client_msg_id": "b74e563b-6b36-4d6e-8325-2fae5144de6a",
+        "type": "message",
+        "text": "Exercise: Experiment with a JavaScript library!\nIn your Actualize folder, make a new folder called `practice-javascript`. In that folder, make a new file called `index.html` and enter the following code:\n```<!DOCTYPE html>\n&lt;html lang=\"en\"&gt;\n&lt;head&gt;\n  &lt;meta charset=\"UTF-8\"&gt;\n  &lt;title&gt;JavaScript Example&lt;\/title&gt;\n&lt;\/head&gt;\n&lt;body&gt;\n  &lt;h1&gt;Hello from HTML!&lt;\/h1&gt;\n&lt;\/body&gt;\n&lt;\/html&gt;```\nTo open the HTML file in your browser, run `open index.html` in your terminal\n\n\nFollow the HighCharts documentation to add a chart: <http:\/\/www.highcharts.com\/docs>\n\nOnce you have a working chart, try to modify the data or make different types of charts!\n\nBonus: Choose a JavaScript library to experiment with: <https:\/\/speckyboy.com\/top-50-javascript\/>",
+        "user": "U04HL79B12M",
+        "ts": "1676999914.749689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q3Cd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Experiment with a JavaScript library!\nIn your Actualize folder, make a new folder called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "practice-javascript",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". In that folder, make a new file called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "index.html",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and enter the following code:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>JavaScript Example<\/title>\n<\/head>\n<body>\n  <h1>Hello from HTML!<\/h1>\n<\/body>\n<\/html>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To open the HTML file in your browser, run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "open index.html",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in your terminal\n\n\nFollow the HighCharts documentation to add a chart: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.highcharts.com\/docs"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOnce you have a working chart, try to modify the data or make different types of charts!\n\nBonus: Choose a JavaScript library to experiment with: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/speckyboy.com\/top-50-javascript\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/speckyboy.com\/top-50-javascript\/",
+                "ts": 1626159938,
+                "image_url": "https:\/\/speckyboy.com\/wp-content\/uploads\/2019\/11\/javascript-thumb.jpg",
+                "image_width": 750,
+                "image_height": 500,
+                "image_bytes": 18242,
+                "service_icon": "https:\/\/speckyboy.com\/wp-content\/themes\/speckyboy-test\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/speckyboy.com\/top-50-javascript\/",
+                "fallback": "Speckyboy Design Magazine: Top 50 Free JavaScript Plugins &amp; Libraries",
+                "text": "We have 50 free JavaScript plugins for creating sliders, image galleries, responsive menus, modal windows, and many other common components and uses.",
+                "title": "Top 50 Free JavaScript Plugins &amp; Libraries",
+                "title_link": "https:\/\/speckyboy.com\/top-50-javascript\/",
+                "service_name": "Speckyboy Design Magazine"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8b67e5c-43c1-475a-9e10-b97320b124d3",
+        "type": "message",
+        "text": "Exercise: (work individually)\nConvert the following Ruby examples into JavaScript.\n(To run a JavaScript file in the terminal, enter `node filename.js`)\n```# Write a function that accepts an array of strings and returns a new array containing every other string from the original array. For example, if the input is [\"a\", \"b\", \"c\", \"d\", \"e\", \"f\"], the output should be [\"a\", \"c\", \"e\"].\n\ndef select_even_items(strings)\n  result = []\n  index = 0\n  strings.each do |string|\n    if index % 2 == 0\n      result &lt;&lt; string\n    end\n    index = index + 1\n  end\n  result\nend\np select_even_items([\"a\", \"b\", \"c\", \"d\", \"e\", \"f\"])```\n```# Write a method that accepts one argument - an array of numbers. The method should return the greatest number. For example, if the input is [5, 4, 8, 1, 2], the output should be 8.\n\ndef max(numbers)\n  current_max = numbers[0]\n  numbers.each do |number|\n    if number &gt; current_max\n      current_max = number\n    end\n  end\n  current_max\nend\np max([5, 4, 8, 1, 2])```\n```# Write a method that accepts a number and returns its factorial. For example, the factorial of 5 is 5 * 4 * 3 * 2 * 1 = 120.\n\ndef factorial(number)\n  result = 1\n  current_number = number\n  number.times do\n    result = result * current_number\n    current_number = current_number - 1\n  end\n  result\nend\np factorial(5)```\n```# Write a method that accepts one argument - an array of numbers that are in ascending order. The method that returns a new array with the same values in descending order. However, do not use the \"reverse\" method built into Ruby.\n\ndef descending(numbers)\n  result = []\n  index = numbers.length - 1\n  numbers.length.times do\n    result &lt;&lt; numbers[index]\n    index = index - 1\n  end\n  result\nend\np descending([1, 3, 5, 7])```\n```# Write a method that accepts two arrays of numbers, and returns an array of every sum of every combination of single numbers from the first and second array. For example, if the method receives [1, 5, 10] and [100, 500, 1000], the method should return this array: [101, 501, 1001, 105, 505, 1005, 110, 510, 1010].\n\ndef sum_combinations(numbers1, numbers2)\n  result = []\n  numbers1.each do |number1|\n    numbers2.each do |number2|\n      result &lt;&lt; number1 + number2\n    end\n  end\n  result\nend\np sum_combinations([1, 5, 10], [100, 500, 1000])```\nBonus: Convert the following sorting algorithms from Ruby to JavaScript! <https:\/\/www.sitepoint.com\/sorting-algorithms-ruby\/>",
+        "user": "U04HL79B12M",
+        "ts": "1677003783.295259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KcA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: (work individually)\nConvert the following Ruby examples into JavaScript.\n(To run a JavaScript file in the terminal, enter "
+                            },
+                            {
+                                "type": "text",
+                                "text": "node filename.js",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "# Write a function that accepts an array of strings and returns a new array containing every other string from the original array. For example, if the input is [\"a\", \"b\", \"c\", \"d\", \"e\", \"f\"], the output should be [\"a\", \"c\", \"e\"].\n\ndef select_even_items(strings)\n  result = []\n  index = 0\n  strings.each do |string|\n    if index % 2 == 0\n      result << string\n    end\n    index = index + 1\n  end\n  result\nend\np select_even_items([\"a\", \"b\", \"c\", \"d\", \"e\", \"f\"])"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "# Write a method that accepts one argument - an array of numbers. The method should return the greatest number. For example, if the input is [5, 4, 8, 1, 2], the output should be 8.\n\ndef max(numbers)\n  current_max = numbers[0]\n  numbers.each do |number|\n    if number > current_max\n      current_max = number\n    end\n  end\n  current_max\nend\np max([5, 4, 8, 1, 2])"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "# Write a method that accepts a number and returns its factorial. For example, the factorial of 5 is 5 * 4 * 3 * 2 * 1 = 120.\n\ndef factorial(number)\n  result = 1\n  current_number = number\n  number.times do\n    result = result * current_number\n    current_number = current_number - 1\n  end\n  result\nend\np factorial(5)"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "# Write a method that accepts one argument - an array of numbers that are in ascending order. The method that returns a new array with the same values in descending order. However, do not use the \"reverse\" method built into Ruby.\n\ndef descending(numbers)\n  result = []\n  index = numbers.length - 1\n  numbers.length.times do\n    result << numbers[index]\n    index = index - 1\n  end\n  result\nend\np descending([1, 3, 5, 7])"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "# Write a method that accepts two arrays of numbers, and returns an array of every sum of every combination of single numbers from the first and second array. For example, if the method receives [1, 5, 10] and [100, 500, 1000], the method should return this array: [101, 501, 1001, 105, 505, 1005, 110, 510, 1010].\n\ndef sum_combinations(numbers1, numbers2)\n  result = []\n  numbers1.each do |number1|\n    numbers2.each do |number2|\n      result << number1 + number2\n    end\n  end\n  result\nend\np sum_combinations([1, 5, 10], [100, 500, 1000])"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBonus: Convert the following sorting algorithms from Ruby to JavaScript! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sitepoint.com\/sorting-algorithms-ruby\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sitepoint.com\/sorting-algorithms-ruby\/",
+                "ts": 1410530407,
+                "service_icon": "https:\/\/www.sitepoint.com\/favicons\/48x48.png",
+                "id": 1,
+                "original_url": "https:\/\/www.sitepoint.com\/sorting-algorithms-ruby\/",
+                "fallback": "Sorting Algorithms in Ruby — SitePoint",
+                "text": "The point of understanding sorting algorithms has very little to do with the actual act of sorting. Rather, the different algorithms are great examples of various techniques that can be applied to large set of problems. In this article, we'll take a look at some of these algorithms and the underlying ideas, as well as implementations in Ruby.",
+                "title": "Sorting Algorithms in Ruby — SitePoint",
+                "title_link": "https:\/\/www.sitepoint.com\/sorting-algorithms-ruby\/",
+                "service_name": "sitepoint.com",
+                "fields": [
+                    {
+                        "value": "Dhaivat Pandya",
+                        "title": "Written by",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca13f16c-3be2-4457-af3f-1de495898f4e",
+        "type": "message",
+        "text": "Exercise: (work in pairs)\nSolve the following problems first in Ruby, then convert the solution to JavaScript.\n1) Write a function that takes in an array of numbers and returns its sum.\n\n2) Write a function that takes in an array of strings and returns the smallest string.\n\n3) Write a function that takes in an array of numbers and returns a new array with the numbers in reverse order.\n\n4) Write a function that takes in an array of words and returns the number of words that begin with the letter “a”.\n\n5) Write a function that takes in an array of strings and joins them together to make a single string separated by commas.\n\n6) Write a function that takes in an array of numbers and returns the product of all the numbers (each number multiplied by each other).\n\n7) Write a function that takes in an array of numbers and returns the two smallest numbers.\n\n8) Write a function that takes in an array of numbers and returns a count of how many zeros are in the array.\n\n9) Write a function that takes in an array of numbers and returns true if all the numbers are bigger than 10, otherwise returns false.\n\n10) Write a function that takes in an array of words and returns the number of times the letter “a” appeared in total.\n\n(solutions to half of the ruby problems: <https:\/\/gist.github.com\/peterxjang\/a9a3827be5077abe008b62f6f9900d71>)\n\nBONUS PROBLEMS\nWrite a function that accepts a string and returns whether it’s a palindrome.\n\nWrite a function to generate\/print\/store the first \"n\" prime numbers.\n\nGiven a tic-tac-toe board (matrix of 3 x 3), write a function that can check to see whether X or O won.\n\nDOUBLE BONUS:\nUse the Ruby .map\/.select\/.reduce shortcuts to rewrite some of the Ruby problems!\nUse the JavaScript .map\/.filter\/.reduce shortcuts to rewrite some of the JavaScript problems!",
+        "user": "U04HL79B12M",
+        "ts": "1677007955.095699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7r6z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: (work in pairs)\nSolve the following problems first in Ruby, then convert the solution to JavaScript.\n1) Write a function that takes in an array of numbers and returns its sum.\n\n2) Write a function that takes in an array of strings and returns the smallest string.\n\n3) Write a function that takes in an array of numbers and returns a new array with the numbers in reverse order.\n\n4) Write a function that takes in an array of words and returns the number of words that begin with the letter “a”.\n\n5) Write a function that takes in an array of strings and joins them together to make a single string separated by commas.\n\n6) Write a function that takes in an array of numbers and returns the product of all the numbers (each number multiplied by each other).\n\n7) Write a function that takes in an array of numbers and returns the two smallest numbers.\n\n8) Write a function that takes in an array of numbers and returns a count of how many zeros are in the array.\n\n9) Write a function that takes in an array of numbers and returns true if all the numbers are bigger than 10, otherwise returns false.\n\n10) Write a function that takes in an array of words and returns the number of times the letter “a” appeared in total.\n\n(solutions to half of the ruby problems: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/peterxjang\/a9a3827be5077abe008b62f6f9900d71"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nBONUS PROBLEMS\nWrite a function that accepts a string and returns whether it’s a palindrome.\n\nWrite a function to generate\/print\/store the first \"n\" prime numbers.\n\nGiven a tic-tac-toe board (matrix of 3 x 3), write a function that can check to see whether X or O won.\n\nDOUBLE BONUS:\nUse the Ruby .map\/.select\/.reduce shortcuts to rewrite some of the Ruby problems!\nUse the JavaScript .map\/.filter\/.reduce shortcuts to rewrite some of the JavaScript problems!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "31dfc641-70cc-4b95-a879-cb60079e23e8",
+        "type": "message",
+        "text": "Exercise:\nWork on the following problems in groups of three. (Take turns on doing each one.)\nBe sure to follow the process outlined in the guide!\nDo each problem the long way, avoid Ruby methods that solve the problem for you (like .sort, .reverse, etc.)\nAfter all people agree the solution is correct, one person should execute it and verify that it works!\n\n1) Write a function that takes in an array of numbers and returns its sum.\n\n2) Write a function that takes in an array of strings and returns the smallest string.\n\n3) Write a function that takes in an array of numbers and returns a new array with the numbers in reverse order.\n\n4) Write a function that takes in an array of words and returns the number of words that begin with the letter “a”.\n\n5) Write a function that takes in an array of strings and joins them together to make a single string separated by commas.\n\n6) Write a function that takes in an array of numbers and returns the product of all the numbers (each number multiplied by each other).\n\n7) Write a function that takes in an array of numbers and returns the two smallest numbers.\n\n8) Write a function that takes in an array of numbers and returns a count of how many zeros are in the array.\n\n9) Write a function that takes in an array of numbers and returns true if all the numbers are bigger than 10, otherwise returns false.\n\n10) Write a function that takes in an array of words and returns the number of times the letter “a” appeared in total.\n\nBONUS PROBLEMS\nWrite a function that accepts a string and returns whether it’s a palindrome.\n\nWrite a function to generate\/print\/store the first \"n\" prime numbers.\n\nGiven a tic-tac-toe board (matrix of 3 x 3), write a function that can check to see whether X or O won.",
+        "user": "U04HL79B12M",
+        "ts": "1677013271.304069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "stpg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nWork on the following problems in groups of three. (Take turns on doing each one.)\nBe sure to follow the process outlined in the guide!\nDo each problem the long way, avoid Ruby methods that solve the problem for you (like .sort, .reverse, etc.)\nAfter all people agree the solution is correct, one person should execute it and verify that it works!\n\n1) Write a function that takes in an array of numbers and returns its sum.\n\n2) Write a function that takes in an array of strings and returns the smallest string.\n\n3) Write a function that takes in an array of numbers and returns a new array with the numbers in reverse order.\n\n4) Write a function that takes in an array of words and returns the number of words that begin with the letter “a”.\n\n5) Write a function that takes in an array of strings and joins them together to make a single string separated by commas.\n\n6) Write a function that takes in an array of numbers and returns the product of all the numbers (each number multiplied by each other).\n\n7) Write a function that takes in an array of numbers and returns the two smallest numbers.\n\n8) Write a function that takes in an array of numbers and returns a count of how many zeros are in the array.\n\n9) Write a function that takes in an array of numbers and returns true if all the numbers are bigger than 10, otherwise returns false.\n\n10) Write a function that takes in an array of words and returns the number of times the letter “a” appeared in total.\n\nBONUS PROBLEMS\nWrite a function that accepts a string and returns whether it’s a palindrome.\n\nWrite a function to generate\/print\/store the first \"n\" prime numbers.\n\nGiven a tic-tac-toe board (matrix of 3 x 3), write a function that can check to see whether X or O won."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

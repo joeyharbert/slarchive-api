@@ -1,0 +1,360 @@
+[
+    {
+        "client_msg_id": "96128d6e-8cec-444a-9a7b-a72ad74df2f2",
+        "type": "message",
+        "text": "<https:\/\/www.taniarascia.com\/getting-started-with-vue\/#vue-cli>",
+        "user": "U04HL79B12M",
+        "ts": "1678295770.626119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M=YTK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.taniarascia.com\/getting-started-with-vue\/#vue-cli"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.taniarascia.com\/getting-started-with-vue\/#vue-cli",
+                "thumb_url": "https:\/\/www.taniarascia.com\/static\/cf23526f451784ff137f161b8fe18d5a\/92ab1\/vue.png",
+                "thumb_width": 150,
+                "thumb_height": 150,
+                "service_icon": "https:\/\/www.taniarascia.com\/icons\/icon-48x48.png?v=07f5a193c5a1357203c0389b1002fb71",
+                "id": 1,
+                "original_url": "https:\/\/www.taniarascia.com\/getting-started-with-vue\/#vue-cli",
+                "fallback": "Vue Tutorial: An Overview and Walkthrough",
+                "text": "We're in a golden era of JavaScript libraries and frameworks. More and more companies are building out full, dynamic web apps in addition to…",
+                "title": "Vue Tutorial: An Overview and Walkthrough",
+                "title_link": "https:\/\/www.taniarascia.com\/getting-started-with-vue\/#vue-cli",
+                "service_name": "taniarascia.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3311221-f795-4e07-bea6-5a4c862d4dc7",
+        "type": "message",
+        "text": "Exercise:\nMake a new Vue.js app in your Actualize folder:\n```vue create vue-app```\n```cd vue-app```\n```npm run serve```\nThen follow this tutorial to build a Vue.js employees app with components:\n<https:\/\/www.taniarascia.com\/getting-started-with-vue\/#getting-started>\n(you can stop at Making Asynchronous REST API Calls)",
+        "user": "U04HL79B12M",
+        "ts": "1678295820.919699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C5mPj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake a new Vue.js app in your Actualize folder:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vue create vue-app"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cd vue-app"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm run serve"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then follow this tutorial to build a Vue.js employees app with components:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.taniarascia.com\/getting-started-with-vue\/#getting-started"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(you can stop at Making Asynchronous REST API Calls)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.taniarascia.com\/getting-started-with-vue\/#getting-started",
+                "thumb_url": "https:\/\/www.taniarascia.com\/static\/cf23526f451784ff137f161b8fe18d5a\/92ab1\/vue.png",
+                "thumb_width": 150,
+                "thumb_height": 150,
+                "service_icon": "https:\/\/www.taniarascia.com\/icons\/icon-48x48.png?v=07f5a193c5a1357203c0389b1002fb71",
+                "id": 1,
+                "original_url": "https:\/\/www.taniarascia.com\/getting-started-with-vue\/#getting-started",
+                "fallback": "Vue Tutorial: An Overview and Walkthrough",
+                "text": "We're in a golden era of JavaScript libraries and frameworks. More and more companies are building out full, dynamic web apps in addition to…",
+                "title": "Vue Tutorial: An Overview and Walkthrough",
+                "title_link": "https:\/\/www.taniarascia.com\/getting-started-with-vue\/#getting-started",
+                "service_name": "taniarascia.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9832d2d8-08a1-4f30-b9e3-2d643979f6e8",
+        "type": "message",
+        "text": "Exercise:\nChoose a new frontend framework technology to explore!\n\n\nChrome extensions: add custom browser features using HTML\/CSS\/JS\n<https:\/\/developer.chrome.com\/extensions\/getstarted>\n\n\nElectron: a framework to build desktop apps using HTML\/CSS\/JS\n<https:\/\/www.electronjs.org\/docs\/tutorial\/quick-start>\n<https:\/\/electronjs.org\/blog\/simple-samples>\n\n\nReact Native: Build iOS and Android apps using React\n<https:\/\/facebook.github.io\/react-native\/>\n\nIonic: Build hybrid web\/native iOS and Android apps using React or Vue\n<https:\/\/ionicframework.com\/docs\/react>\n(fun note - VSCode is an Electron app, you can view the Chrome devtools in VSCode from the menu Help -&gt; Toggle Developer Tools)",
+        "user": "U04HL79B12M",
+        "ts": "1678299328.698099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O7qi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nChoose a new frontend framework technology to explore!\n\n\nChrome extensions: add custom browser features using HTML\/CSS\/JS\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developer.chrome.com\/extensions\/getstarted"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nElectron: a framework to build desktop apps using HTML\/CSS\/JS\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.electronjs.org\/docs\/tutorial\/quick-start"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/electronjs.org\/blog\/simple-samples"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nReact Native: Build iOS and Android apps using React\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/facebook.github.io\/react-native\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIonic: Build hybrid web\/native iOS and Android apps using React or Vue\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ionicframework.com\/docs\/react"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(fun note - VSCode is an Electron app, you can view the Chrome devtools in VSCode from the menu Help -> Toggle Developer Tools)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1e6da304-f69e-4e97-b98d-24b19d340db4",
+        "type": "message",
+        "text": "Exercise:\nWork on the following problem (the well-formed maze):\n<https:\/\/docs.google.com\/document\/d\/1Gbt3N_w7_YOrkTsGtkyN2nNM21cghLQXAaEMhzB2gOg\/edit#heading=h.q01ooli9qvnp>",
+        "user": "U04HL79B12M",
+        "ts": "1678309568.069159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zX1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nWork on the following problem (the well-formed maze):\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1Gbt3N_w7_YOrkTsGtkyN2nNM21cghLQXAaEMhzB2gOg\/edit#heading=h.q01ooli9qvnp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b78a25d7-0634-44e0-8242-25f4256d1225",
+        "type": "message",
+        "text": "Exercise:\nUpdate your work journal!\nGo to your gists: <https:\/\/gist.github.com\/mine>\nFind your gist titled “work-journal.md”\nClick “Edit”\nAdd your new content towards the top\n```## YYYY-MM-DD\n### Learnings\n- (Describe your learning accomplishments and wins, as well as how you are planning to improve in specific areas)\n\n### Interesting things\n- (List coding resources you have found and describe why they’re interesting)```\nUpdate the content with today’s date and your content for the learning and interesting things section",
+        "user": "U04HL79B12M",
+        "ts": "1678310401.762539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RHbNm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nUpdate your work journal!\nGo to your gists: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/mine"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFind your gist titled “work-journal.md”\nClick “Edit”\nAdd your new content towards the top\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "## YYYY-MM-DD\n### Learnings\n- (Describe your learning accomplishments and wins, as well as how you are planning to improve in specific areas)\n\n### Interesting things\n- (List coding resources you have found and describe why they’re interesting)"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update the content with today’s date and your content for the learning and interesting things section"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

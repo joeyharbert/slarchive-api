@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "501da6fc-b479-45ef-bae0-11407798b5cb",
+        "type": "message",
+        "text": "OFFICE HOURS WEEK 3\n<https:\/\/us02web.zoom.us\/j\/86136364539|Thursday> Dec. 22nd from 6:30-9:30pm CT: mini-lesson at 6:30pm on the bubble sort, open forum\/mac installs starting at 7:30\n\n<https:\/\/us02web.zoom.us\/j\/82207526834|Saturday> Dec. 24th from 11am-2pm CT: mini-lesson at 11am on the bubble sort + open forum\/mac installs starting at 12:00pm",
+        "user": "U04CQDV5FTL",
+        "ts": "1671385694.511509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OFFICE HOURS WEEK 3\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/86136364539",
+                                "text": "Thursday"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dec. 22nd from 6:30-9:30pm CT: mini-lesson at 6:30pm on the bubble sort, open forum\/mac installs starting at 7:30\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/82207526834",
+                                "text": "Saturday"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dec. 24th from 11am-2pm CT: mini-lesson at 11am on the bubble sort + open forum\/mac installs starting at 12:00pm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gcd8bed110f3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd8bed110f3cff27a93d4b33f1963437.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Mitchell",
+            "display_name": "Kevin Mitchell",
+            "team": "T04C9T53QJK",
+            "name": "kevin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

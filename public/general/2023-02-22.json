@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "7be1d806-40a7-44c9-bf89-1fb2148b4317",
+        "type": "message",
+        "text": "Office hours today for anyone who wants to stay!",
+        "user": "U04HB4DFQ0K",
+        "ts": "1677100879.817109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CW0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Office hours today for anyone who wants to stay!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "8788338e91da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4615286762803_8788338e91da5cb6f873_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn Spaulding",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "robynm27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

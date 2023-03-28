@@ -1,0 +1,244 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1670252988.414599",
+        "user": "U04DJFFRN3C",
+        "text": "<@U04DJFFRN3C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1670257073.978959",
+        "user": "U04DFH2CCR3",
+        "text": "<@U04DFH2CCR3> has joined the channel"
+    },
+    {
+        "client_msg_id": "0b8fd8b9-bcd1-4020-a3aa-851df868e09c",
+        "type": "message",
+        "text": "Hello! Happy day 1!",
+        "user": "U04DLUZMY84",
+        "ts": "1670258735.610059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y1Tsu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! Happy day 1!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A6A7210D-426E-4279-A634-C4AA018ABAC6",
+        "type": "message",
+        "text": "Yeah I’m excited to get started!",
+        "user": "U04DLUZ1JCU",
+        "ts": "1670259732.364919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tGK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " excited to get started!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g41ca7539271",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41ca75392712d62e32209ef36820efe3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Eddie",
+            "real_name": "Eddie Tong",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "edisonjtong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "038e5736-9032-41ed-8e9b-4fd660199ef6",
+        "type": "message",
+        "text": "hows it going for you guys so far?! I made it to 20 before i called it quits for the day",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670276997.031309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5df3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hows it going for you guys so far?! I made it to 20 before i called it quits for the day"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D05F0F37-ED52-470E-B636-6B15282CC629",
+        "type": "message",
+        "text": "I just got home from work so I’ll let you know in a few hours!",
+        "user": "U04DLUZ1JCU",
+        "ts": "1670277085.529849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eFE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just got home from work so "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let you know in a few hours!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g41ca7539271",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41ca75392712d62e32209ef36820efe3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Eddie",
+            "real_name": "Eddie Tong",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "edisonjtong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8188420e-65c1-4f47-b0be-f8c9bfbf2914",
+        "type": "message",
+        "text": "<@U04DLUZ1JCU> good luck!",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670277104.997649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5dOnM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04DLUZ1JCU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " good luck!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

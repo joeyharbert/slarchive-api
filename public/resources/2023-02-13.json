@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "f2c48b87-f535-4ed3-a2e4-f974e84cae1e",
+        "type": "message",
+        "text": "<https:\/\/www.robinsloan.com\/notes\/home-cooked-app\/>",
+        "user": "U04HL79B12M",
+        "ts": "1676308319.554949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zrG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.robinsloan.com\/notes\/home-cooked-app\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.robinsloan.com\/notes\/home-cooked-app\/",
+                "image_url": "https:\/\/www.robinsloan.com\/img\/boopsnoop-card-v2.png",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 134011,
+                "service_icon": "https:\/\/www.robinsloan.com\/img\/dragon-moon-logotype-256.png",
+                "id": 1,
+                "original_url": "https:\/\/www.robinsloan.com\/notes\/home-cooked-app\/",
+                "fallback": "Robin Sloan: An app can be a home-cooked meal",
+                "text": "I made a messaging app for my family and my family only.",
+                "title": "An app can be a home-cooked meal",
+                "title_link": "https:\/\/www.robinsloan.com\/notes\/home-cooked-app\/",
+                "service_name": "Robin Sloan"
+            }
+        ]
+    }
+]

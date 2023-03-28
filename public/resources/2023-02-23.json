@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "8b2bde4f-e70e-426d-aa72-a2e61259dee0",
+        "type": "message",
+        "text": "<https:\/\/www.freecodecamp.org\/news\/var-let-and-const-whats-the-difference\/>",
+        "user": "U04HL79B12M",
+        "ts": "1677168710.103929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qox98",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.freecodecamp.org\/news\/var-let-and-const-whats-the-difference\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.freecodecamp.org\/news\/var-let-and-const-whats-the-difference\/",
+                "ts": 1585836603,
+                "image_url": "https:\/\/cdn-media-2.freecodecamp.org\/w1280\/5f9c9bd4740569d1a4ca2e24.jpg",
+                "image_width": 1280,
+                "image_height": 835,
+                "image_bytes": 65932,
+                "service_icon": "https:\/\/cdn.freecodecamp.org\/universal\/favicons\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.freecodecamp.org\/news\/var-let-and-const-whats-the-difference\/",
+                "fallback": "freeCodeCamp.org: Var, Let, and Const – What's the Difference?",
+                "text": "A lot of shiny new features came out with ES2015 (ES6). And now, since it's 2020, it's assumed that a lot of JavaScript developers have become familiar with and have started using these features. While this assumption might be partially true, it's still possible that some of these features",
+                "title": "Var, Let, and Const – What's the Difference?",
+                "title_link": "https:\/\/www.freecodecamp.org\/news\/var-let-and-const-whats-the-difference\/",
+                "service_name": "freeCodeCamp.org",
+                "fields": [
+                    {
+                        "value": "Sarah Chima Atuonwu",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "JavaScript, ES6, Frontend",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    }
+]

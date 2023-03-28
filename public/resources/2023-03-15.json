@@ -1,0 +1,299 @@
+[
+    {
+        "client_msg_id": "a06c2efd-b9b5-489b-a692-cc861cd0dede",
+        "type": "message",
+        "text": "<https:\/\/martinfowler.com\/bliki\/MicroservicePremium.html>",
+        "user": "U04HL79B12M",
+        "ts": "1678897536.346139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yeZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/martinfowler.com\/bliki\/MicroservicePremium.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/martinfowler.com\/bliki\/MicroservicePremium.html",
+                "image_url": "https:\/\/martinfowler.com\/bliki\/images\/microservice-verdict\/productivity.png",
+                "image_width": 937,
+                "image_height": 737,
+                "image_bytes": 104759,
+                "service_icon": "https:\/\/martinfowler.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/martinfowler.com\/bliki\/MicroservicePremium.html",
+                "fallback": "martinfowler.com: bliki: MicroservicePremium",
+                "text": "The microservice architectural style is useful for handling complex systems, but brings its own complexity so should not be used for simpler environments.",
+                "title": "bliki: MicroservicePremium",
+                "title_link": "https:\/\/martinfowler.com\/bliki\/MicroservicePremium.html",
+                "service_name": "martinfowler.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5cd2565-7d75-4898-b9e1-6886332f3280",
+        "type": "message",
+        "text": "<https:\/\/martinfowler.com\/articles\/dont-start-monolith.html>",
+        "user": "U04HL79B12M",
+        "ts": "1678897542.324659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oNXaV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/martinfowler.com\/articles\/dont-start-monolith.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/martinfowler.com\/articles\/dont-start-monolith.html",
+                "image_url": "https:\/\/martinfowler.com\/articles\/dont-start-monolith\/monolith-theory-practice.png",
+                "image_width": 652,
+                "image_height": 313,
+                "image_bytes": 43200,
+                "service_icon": "https:\/\/martinfowler.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/martinfowler.com\/articles\/dont-start-monolith.html",
+                "fallback": "martinfowler.com: Don’t start with a monolith",
+                "text": "Don’t start with a monolith if you want to end up with microservices. It’s usually a good idea to follow the YAGNI principle, but a monolith won’t magically contain services waiting to be liberated.",
+                "title": "Don’t start with a monolith",
+                "title_link": "https:\/\/martinfowler.com\/articles\/dont-start-monolith.html",
+                "service_name": "martinfowler.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26290751-c917-48eb-9116-526f61264e05",
+        "type": "message",
+        "text": "<https:\/\/martinfowler.com\/articles\/microservice-trade-offs.html>",
+        "user": "U04HL79B12M",
+        "ts": "1678897547.200459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1z3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/martinfowler.com\/articles\/microservice-trade-offs.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/martinfowler.com\/articles\/microservice-trade-offs.html",
+                "image_url": "https:\/\/martinfowler.com\/articles\/microservice-trade-offs\/card.png",
+                "image_width": 560,
+                "image_height": 300,
+                "image_bytes": 52181,
+                "service_icon": "https:\/\/martinfowler.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/martinfowler.com\/articles\/microservice-trade-offs.html",
+                "fallback": "martinfowler.com: Microservice Trade-Offs",
+                "text": "The microservices architecture can be useful, but to know if it's suitable in your context you need to understand its costs and benefits.",
+                "title": "Microservice Trade-Offs",
+                "title_link": "https:\/\/martinfowler.com\/articles\/microservice-trade-offs.html",
+                "service_name": "martinfowler.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad12e252-3ce9-4b58-9804-81b9db121f6f",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=XU0llRltyFM>\n\n<https:\/\/www.scrumguides.org\/scrum-guide.html>",
+        "user": "U04HL79B12M",
+        "ts": "1678898131.109899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+qvE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=XU0llRltyFM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.scrumguides.org\/scrum-guide.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=XU0llRltyFM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/XU0llRltyFM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/XU0llRltyFM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Intro to Scrum in Under 10 Minutes\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=XU0llRltyFM",
+                "fallback": "YouTube Video: Intro to Scrum in Under 10 Minutes",
+                "title": "Intro to Scrum in Under 10 Minutes",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=XU0llRltyFM",
+                "author_name": "Axosoft",
+                "author_link": "https:\/\/www.youtube.com\/@axosoft",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            },
+            {
+                "from_url": "https:\/\/www.scrumguides.org\/scrum-guide.html",
+                "id": 2,
+                "original_url": "https:\/\/www.scrumguides.org\/scrum-guide.html",
+                "fallback": "Scrum Guide | Scrum Guides",
+                "text": "The Scrum Guide provided in HTML format on the web.",
+                "title": "Scrum Guide | Scrum Guides",
+                "title_link": "https:\/\/www.scrumguides.org\/scrum-guide.html",
+                "service_name": "scrumguides.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37476980-59af-47af-aa11-81f7e5974237",
+        "type": "message",
+        "text": "<https:\/\/luketheweb.dev\/blog\/what-is-vite-and-why-should-you-use-it-instead-of-create-react-app>",
+        "user": "U04HL79B12M",
+        "ts": "1678903620.823489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uxX=B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/luketheweb.dev\/blog\/what-is-vite-and-why-should-you-use-it-instead-of-create-react-app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/luketheweb.dev\/blog\/what-is-vite-and-why-should-you-use-it-instead-of-create-react-app",
+                "service_icon": "https:\/\/luketheweb.dev\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/luketheweb.dev\/images\/vite.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "ts": 1676959200,
+                "id": 1,
+                "original_url": "https:\/\/luketheweb.dev\/blog\/what-is-vite-and-why-should-you-use-it-instead-of-create-react-app",
+                "fallback": "Luke the Web Dev: What is Vite and Why Should You Use It Instead of Create React App?",
+                "text": "Vite is the new kid on the block. Creat React App has lost its crown! Find out why you should be using Vite over Create React App in 2023.",
+                "title": "What is Vite and Why Should You Use It Instead of Create React App?",
+                "title_link": "https:\/\/luketheweb.dev\/blog\/what-is-vite-and-why-should-you-use-it-instead-of-create-react-app",
+                "service_name": "Luke the Web Dev"
+            }
+        ]
+    }
+]

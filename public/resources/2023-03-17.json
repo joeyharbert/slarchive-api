@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "e076c692-e100-41b1-9c2f-dfe9b9854d26",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1JdYNSkiolDT3xt8MaNYcHBh1K4cMy_w1TRtRLMvAXn4\/copy>",
+        "user": "U04HL79B12M",
+        "ts": "1679085649.041529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l206H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1JdYNSkiolDT3xt8MaNYcHBh1K4cMy_w1TRtRLMvAXn4\/copy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bb5da2c1-ec77-4090-81e8-a28b8af3fb46",
+        "type": "message",
+        "text": "<https:\/\/projectbook.code.brettchalupa.com\/>",
+        "user": "U04HL79B12M",
+        "ts": "1679085920.862179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fbSOn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/projectbook.code.brettchalupa.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/projectbook.code.brettchalupa.com\/",
+                "image_url": "https:\/\/projectbook.code.brettchalupa.com\/cover-landscape.webp",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 40430,
+                "service_icon": "https:\/\/projectbook.code.brettchalupa.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/projectbook.code.brettchalupa.com\/",
+                "fallback": "Introduction | Projectbook",
+                "text": "Over 100 free project ideas for learning how to program with detailed specifications and mock-ups.",
+                "title": "Introduction | Projectbook",
+                "title_link": "https:\/\/projectbook.code.brettchalupa.com\/",
+                "service_name": "projectbook.code.brettchalupa.com"
+            }
+        ]
+    }
+]

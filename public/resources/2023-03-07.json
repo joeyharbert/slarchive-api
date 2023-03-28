@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "ef17a82a-25be-4d02-8acf-0011509b576c",
+        "type": "message",
+        "text": "<https:\/\/vitejs.dev\/guide\/env-and-mode.html>",
+        "user": "U04HL79B12M",
+        "ts": "1678210062.451079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mnT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vitejs.dev\/guide\/env-and-mode.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/vitejs.dev\/guide\/env-and-mode.html",
+                "image_url": "https:\/\/vitejs.dev\/og-image.png",
+                "image_width": 2600,
+                "image_height": 1302,
+                "image_bytes": 641358,
+                "id": 1,
+                "original_url": "https:\/\/vitejs.dev\/guide\/env-and-mode.html",
+                "fallback": "Vite",
+                "text": "Next Generation Frontend Tooling",
+                "title": "Vite",
+                "title_link": "https:\/\/vitejs.dev\/guide\/env-and-mode.html",
+                "service_name": "vitejs.dev"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6461d42d-43c1-41df-9551-705242f111b1",
+        "type": "message",
+        "text": "<https:\/\/security.stackexchange.com\/questions\/8264\/why-is-the-same-origin-policy-so-important>",
+        "user": "U04HL79B12M",
+        "ts": "1678210659.789839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v41",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/security.stackexchange.com\/questions\/8264\/why-is-the-same-origin-policy-so-important"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/security.stackexchange.com\/questions\/8264\/why-is-the-same-origin-policy-so-important",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/security\/Img\/apple-touch-icon@2.png?v=497726d850f9",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/security\/Img\/apple-touch-icon.png?v=14deb51d6304",
+                "id": 1,
+                "original_url": "https:\/\/security.stackexchange.com\/questions\/8264\/why-is-the-same-origin-policy-so-important",
+                "fallback": "Information Security Stack Exchange: Why is the same origin policy so important?",
+                "text": "I can't really fully understand what same origin domain means. I know it means that when getting a resource from another domain (say a JS file) it will run from the context of the domain that serve...",
+                "title": "Why is the same origin policy so important?",
+                "title_link": "https:\/\/security.stackexchange.com\/questions\/8264\/why-is-the-same-origin-policy-so-important",
+                "service_name": "Information Security Stack Exchange"
+            }
+        ]
+    }
+]

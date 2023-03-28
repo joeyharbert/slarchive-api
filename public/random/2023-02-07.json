@@ -1,0 +1,465 @@
+[
+    {
+        "client_msg_id": "781da136-43b3-450e-a000-ebb183b2ae70",
+        "type": "message",
+        "text": "Side note, he definitely has the best chair",
+        "user": "U04DLUZMY84",
+        "ts": "1675787528.811409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TKr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Side note, he definitely has the best chair"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04DLUZMY84",
+            "ts": "1675787563.000000"
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "121dca95-27ad-4a3a-b298-91781a806cf6",
+        "type": "message",
+        "text": "damn I gotta get a better setup",
+        "user": "U04HL79B12M",
+        "ts": "1675787529.243239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mD7e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "damn I gotta get a better setup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675787529.243239",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1675802782.757759",
+        "reply_users": [
+            "U04HQ40UQ87",
+            "U04HL79B12M"
+        ],
+        "replies": [
+            {
+                "user": "U04HQ40UQ87",
+                "ts": "1675792922.108029"
+            },
+            {
+                "user": "U04HL79B12M",
+                "ts": "1675799928.122409"
+            },
+            {
+                "user": "U04HQ40UQ87",
+                "ts": "1675802782.757759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e813948b-7600-45d7-b6ea-6528ea6cfa06",
+        "type": "message",
+        "text": "The “Just moved in” setup",
+        "user": "U04D3UXCN3Z",
+        "ts": "1675789059.107589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zDn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The “Just moved in” setup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "b8ed508f301a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-04\/4477343164609_b8ed508f301af4c69372_72.png",
+            "first_name": "Dallin",
+            "real_name": "Dallin Forsyth",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "dallfor192",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04HL79B12M",
+                    "U04DLUZGJ4C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ad5dbaf-7140-48e4-820b-0355f2d356ce",
+        "type": "message",
+        "text": "get \"\/workingtreedirty\" =&gt; \"pornhub#show\"",
+        "user": "U04DLUZMY84",
+        "ts": "1675791960.705349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q=sb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "get \"\/workingtreedirty\" => \"pornhub#show\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04DLUZMY84",
+            "ts": "1675793169.000000"
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04D3UXCN3Z",
+                    "U04HL79B12M",
+                    "U04DLUZGJ4C"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81d7539e-e1e9-4699-9843-30830874fa9e",
+        "type": "message",
+        "text": "Joey, you need a different apartment for a different setup :joy:",
+        "user": "U04HQ40UQ87",
+        "ts": "1675792922.108029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WGtIL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Joey, you need a different apartment for a different setup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "931fa901cfa7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4629319036929_931fa901cfa7b5779096_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Tucker",
+            "display_name": "Lisa Tucker",
+            "team": "T04C9T53QJK",
+            "name": "lisa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675787529.243239",
+        "parent_user_id": "U04HL79B12M",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04HL79B12M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90913266-615f-4df0-b4d1-8b3ab0122f0e",
+        "type": "message",
+        "text": "post \"\/ihopejaydoesn'treadtherandomchannel\" =&gt; \"pleasedontfireme#icanexplain\"",
+        "user": "U04HL79B12M",
+        "ts": "1675793780.583319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jz6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "post \"\/ihopejaydoesn'treadtherandomchannel\" => \"pleasedontfireme#icanexplain\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04DLUZMY84",
+                    "U04DLUZGJ4C",
+                    "U04D3UXCN3Z"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd8fdce4-8a0b-4ab8-88ff-e1f8fa499089",
+        "type": "message",
+        "text": ":eyes:",
+        "user": "U04HB4D6ARZ",
+        "ts": "1675793804.404839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FNv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "db8c91fa-35c2-4f3b-9231-bfd486f843d6",
+        "type": "message",
+        "text": "Don't YELL AT ME",
+        "user": "U04HL79B12M",
+        "ts": "1675799928.122409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TgKR3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't YELL AT ME"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675787529.243239",
+        "parent_user_id": "U04HL79B12M"
+    },
+    {
+        "client_msg_id": "3fedea77-3dfb-4a7c-a84f-02c1619c3be1",
+        "type": "message",
+        "text": "You’re the one yelling - I didn’t use all caps :face_with_raised_eyebrow:\nBesides - aside from not having room for that setup and the 3 flights of stairs to climb, your apartment’s great!",
+        "user": "U04HQ40UQ87",
+        "ts": "1675802782.757759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uHB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You’re the one yelling - I didn’t use all caps "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_raised_eyebrow",
+                                "unicode": "1f928"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBesides - aside from not having room for that setup and the 3 flights of stairs to climb, your apartment’s great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "931fa901cfa7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4629319036929_931fa901cfa7b5779096_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Tucker",
+            "display_name": "Lisa Tucker",
+            "team": "T04C9T53QJK",
+            "name": "lisa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675787529.243239",
+        "parent_user_id": "U04HL79B12M",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04HL79B12M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

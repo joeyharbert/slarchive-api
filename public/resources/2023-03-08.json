@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "fc1de7e7-7c3b-4b4f-8060-8ab60d9808bd",
+        "type": "message",
+        "text": "<https:\/\/www.joshwcomeau.com\/react\/common-beginner-mistakes\/>\n\nSeems useful",
+        "user": "U04HL79B12M",
+        "ts": "1678298627.856239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pd6s2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.joshwcomeau.com\/react\/common-beginner-mistakes\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSeems useful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.joshwcomeau.com\/images\/og-common-beginner-mistakes.jpg",
+                "image_width": 1280,
+                "image_height": 675,
+                "image_bytes": 69641,
+                "from_url": "https:\/\/www.joshwcomeau.com\/react\/common-beginner-mistakes\/",
+                "service_icon": "https:\/\/www.joshwcomeau.com\/assets\/favicon.png?v=4",
+                "id": 1,
+                "original_url": "https:\/\/www.joshwcomeau.com\/react\/common-beginner-mistakes\/",
+                "fallback": "Common Beginner Mistakes with React",
+                "text": "I used to teach React at a local coding bootcamp, and I noticed that students kept getting tripped up by the same handful of things. In this article, we're going to go through 9 of the most dastardly gotchas. I'll show you how to solve these common problems, so you can avoid a lot of potential frustration!",
+                "title": "Common Beginner Mistakes with React",
+                "title_link": "https:\/\/www.joshwcomeau.com\/react\/common-beginner-mistakes\/",
+                "service_name": "joshwcomeau.com"
+            }
+        ]
+    }
+]

@@ -1,0 +1,357 @@
+[
+    {
+        "client_msg_id": "c8e8a631-2d50-4299-b5fc-d580f43d6923",
+        "type": "message",
+        "text": "`brew install --cask httpie`",
+        "user": "U04HL79B12M",
+        "ts": "1673552682.042899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vp2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "brew install --cask httpie",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d5988243-8345-4040-9af5-23fdeea9c5ed",
+        "type": "message",
+        "text": "<https:\/\/httpie.io\/product>",
+        "user": "U04HL79B12M",
+        "ts": "1673552692.104999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rLPHv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/httpie.io\/product"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/httpie.io\/product",
+                "image_url": "https:\/\/httpie.io\/Images\/Share\/default.png",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 23264,
+                "service_icon": "https:\/\/httpie.io\/Brand\/Favicons\/Black\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/httpie.io\/product",
+                "fallback": "Web &amp; Desktop App – HTTPie",
+                "text": "All the user-friendliness of our Terminal version, now wrapped up in a sleek graphical interface.",
+                "title": "Web &amp; Desktop App – HTTPie",
+                "title_link": "https:\/\/httpie.io\/product",
+                "service_name": "httpie.io"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa08b849-7206-4f6c-a64f-7e99d8be263b",
+        "type": "message",
+        "text": "A server is hard to define: <https:\/\/jvns.ca\/blog\/2019\/12\/26\/whats-a-server\/>\nWhat happens when you type <http:\/\/google.com|google.com> into your browser's address box and press enter? <https:\/\/github.com\/alex\/what-happens-when\/blob\/master\/README.rst>\nBook: High Performance Browser Networking <https:\/\/hpbn.co\/>",
+        "user": "U04HL79B12M",
+        "ts": "1673553063.790839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Opy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A server is hard to define: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jvns.ca\/blog\/2019\/12\/26\/whats-a-server\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWhat happens when you type "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/google.com",
+                                "text": "google.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " into your browser's address box and press enter? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/alex\/what-happens-when\/blob\/master\/README.rst"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBook: High Performance Browser Networking "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hpbn.co\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/jvns.ca\/blog\/2019\/12\/26\/whats-a-server\/",
+                "service_icon": "https:\/\/jvns.ca\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/jvns.ca\/blog\/2019\/12\/26\/whats-a-server\/",
+                "fallback": "Julia Evans: \"server\" is hard to define",
+                "text": "\"server\" is hard to define",
+                "title": "\"server\" is hard to define",
+                "title_link": "https:\/\/jvns.ca\/blog\/2019\/12\/26\/whats-a-server\/",
+                "service_name": "Julia Evans"
+            },
+            {
+                "from_url": "https:\/\/github.com\/alex\/what-happens-when\/blob\/master\/README.rst",
+                "image_url": "https:\/\/opengraph.githubassets.com\/8967a567a05c4a3467b32d1f98ba2aaaca097ac9640cd2bad239247cc6fd1fb1\/alex\/what-happens-when",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 152937,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 2,
+                "original_url": "https:\/\/github.com\/alex\/what-happens-when\/blob\/master\/README.rst",
+                "fallback": "GitHub: what-happens-when\/README.rst at master · alex\/what-happens-when",
+                "text": "An attempt to answer the age old interview question &amp;quot;What happens when you type <http:\/\/google.com|google.com> into your browser and press enter?&amp;quot; - what-happens-when\/README.rst at master · alex\/what-happens...",
+                "title": "what-happens-when\/README.rst at master · alex\/what-happens-when",
+                "title_link": "https:\/\/github.com\/alex\/what-happens-when\/blob\/master\/README.rst",
+                "service_name": "GitHub"
+            },
+            {
+                "from_url": "https:\/\/hpbn.co\/",
+                "image_url": "https:\/\/hpbn.co\/assets\/twitter.jpg",
+                "image_width": 467,
+                "image_height": 250,
+                "image_bytes": 45289,
+                "service_icon": "https:\/\/hpbn.co\/assets\/icons\/icon-192.png",
+                "id": 3,
+                "original_url": "https:\/\/hpbn.co\/",
+                "fallback": "High Performance Browser Networking: High Performance Browser Networking (O'Reilly)",
+                "text": "What every web developer must know about mobile networks, protocols, and APIs provided by browser to deliver the best user experience.",
+                "title": "High Performance Browser Networking (O'Reilly)",
+                "title_link": "https:\/\/hpbn.co\/",
+                "service_name": "High Performance Browser Networking"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc156551-b17d-41f8-ad06-a8445599ddb9",
+        "type": "message",
+        "text": "<https:\/\/chrome.google.com\/webstore\/detail\/json-formatter\/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en-US>",
+        "user": "U04HL79B12M",
+        "ts": "1673553364.850399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=iY3d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chrome.google.com\/webstore\/detail\/json-formatter\/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en-US"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chrome.google.com\/webstore\/detail\/json-formatter\/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en-US",
+                "thumb_url": "https:\/\/lh3.googleusercontent.com\/kAyuA6Uo8kCc8EQJNkvj0GHetWNpbwU9ssHPf0tKbDaVddJD3FebnaZM5boUoU4_WLOOlJEVxnLoQFhPg_WuGPSI",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https:\/\/www.google.com\/images\/icons\/product\/chrome_web_store-32.png",
+                "id": 1,
+                "original_url": "https:\/\/chrome.google.com\/webstore\/detail\/json-formatter\/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en-US",
+                "fallback": "JSON Formatter",
+                "text": "Makes JSON easy to read. Open source.",
+                "title": "JSON Formatter",
+                "title_link": "https:\/\/chrome.google.com\/webstore\/detail\/json-formatter\/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en-US",
+                "service_name": "chrome.google.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fb0710f-d461-4fcd-a5b7-cf7300e72f5c",
+        "type": "message",
+        "text": "`gem install http`",
+        "user": "U04HL79B12M",
+        "ts": "1673553478.466399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tis",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gem install http",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f8e99546-4c71-4dbe-b09c-a592c1f6a17b",
+        "type": "message",
+        "text": "<http:\/\/developer.wordnik.com\/docs#!\/word\/>",
+        "user": "U04HL79B12M",
+        "ts": "1673555367.450779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qFo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/developer.wordnik.com\/docs#!\/word\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/developer.wordnik.com\/docs#!\/word\/",
+                "thumb_url": "https:\/\/www.wordnik.com\/img\/wordnik-logo-300px.png",
+                "thumb_width": 300,
+                "thumb_height": 62,
+                "service_icon": "http:\/\/developer.wordnik.com\/img\/developer\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/developer.wordnik.com\/docs#!\/word\/",
+                "fallback": "Wordnik.com: Wordnik API Documentation",
+                "text": "The Wordnik API: All the words",
+                "title": "Wordnik API Documentation",
+                "title_link": "http:\/\/developer.wordnik.com\/docs#!\/word\/",
+                "service_name": "Wordnik.com"
+            }
+        ]
+    }
+]

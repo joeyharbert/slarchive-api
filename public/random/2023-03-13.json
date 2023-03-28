@@ -1,0 +1,203 @@
+[
+    {
+        "client_msg_id": "e7d4f9f9-35d8-4dd2-921a-c0e099b12ddb",
+        "type": "message",
+        "text": "<@U04J9382JP3> this one MUST go to social media",
+        "user": "U04HL79B12M",
+        "ts": "1678723472.711369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1STMD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J9382JP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this one MUST go to social media"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678583023.208609",
+        "parent_user_id": "U04HB4DFQ0K"
+    },
+    {
+        "client_msg_id": "d4701548-1c0d-4eb2-a63f-dc7667e57dca",
+        "type": "message",
+        "text": "hahah love it",
+        "user": "U04J9382JP3",
+        "ts": "1678724476.478589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rK5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahah love it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678583023.208609",
+        "parent_user_id": "U04HB4DFQ0K"
+    },
+    {
+        "client_msg_id": "c954e20d-0b24-4d86-9379-c9925b9e06a7",
+        "type": "message",
+        "text": "on it",
+        "user": "U04J9382JP3",
+        "ts": "1678724479.288149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kGb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678583023.208609",
+        "parent_user_id": "U04HB4DFQ0K"
+    },
+    {
+        "client_msg_id": "620AE6A2-3803-47E8-A6DA-98F55595344F",
+        "type": "message",
+        "text": "<http:\/\/ascii.textfiles.com\/archives\/5509|http:\/\/ascii.textfiles.com\/archives\/5509>",
+        "user": "U04GY24PLTY",
+        "ts": "1678742369.351669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UoLU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ascii.textfiles.com\/archives\/5509",
+                                "text": "http:\/\/ascii.textfiles.com\/archives\/5509"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "39F8780D-B807-4E57-8DF0-0A8E39E4C313",
+        "type": "message",
+        "text": "A good read about documentation &amp; information “lore” esp. on discord",
+        "user": "U04GY24PLTY",
+        "ts": "1678742410.264459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wHgC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A good read about documentation & information “lore” esp. on discord"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

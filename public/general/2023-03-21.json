@@ -1,0 +1,315 @@
+[
+    {
+        "client_msg_id": "ebab6646-774f-44f7-bfaf-edc8cd5d43bc",
+        "type": "message",
+        "text": "Robyn and I are planning to host community night after class today. However, if anyone needs help with their capstones we are both more than happy to assist today.",
+        "user": "U04HB4D6ARZ",
+        "ts": "1679429016.979159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S=8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Robyn and I are planning to host community night after class today. However, if anyone needs help with their capstones we are both more than happy to assist today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "502a148c-273c-422f-a433-87a9820eb948",
+        "type": "message",
+        "text": "Hey sorry my computer is being really weird and it kicked me out",
+        "user": "U04HB4DFQ0K",
+        "ts": "1679435034.313839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bY1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey sorry my computer is being really weird and it kicked me out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "8788338e91da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4615286762803_8788338e91da5cb6f873_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn Spaulding",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "robynm27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b8bb8fcc-9ed9-4f32-8599-1e0d075936cd",
+        "type": "message",
+        "text": "No worries, we got it fixed and are done now!",
+        "user": "U04DLUZMY84",
+        "ts": "1679435549.195989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1AX6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries, we got it fixed and are done now!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fe3df201-bf2d-42b5-9634-9ce047dfcd67",
+        "type": "message",
+        "text": "Great!",
+        "user": "U04HB4DFQ0K",
+        "ts": "1679435555.181579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ErqlA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "8788338e91da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4615286762803_8788338e91da5cb6f873_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn Spaulding",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "robynm27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B64A7019-0B15-48E8-BBA2-80E345A7B2D3",
+        "type": "message",
+        "text": "Lol at this Chi Hack Night and it feels like everyone already knows each other :sob: ",
+        "user": "U04GY24PLTY",
+        "ts": "1679440984.560939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Qn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lol at this Chi Hack Night and it feels like everyone already knows each other "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6E94943D-3F6E-4F2D-AC44-704AA65F5882",
+        "type": "message",
+        "text": "Give me strength, I’ve already had one deeply uncomfortable interaction ",
+        "user": "U04GY24PLTY",
+        "ts": "1679441026.585669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dBN7=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Give me strength, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " already had one deeply uncomfortable interaction "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0500QB1UGH",
+                "created": 1679442063,
+                "timestamp": 1679442063,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04DLUZMY84",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 6112,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F0500QB1UGH\/image_from_ios.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F0500QB1UGH\/download\/image_from_ios.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F0500QB1UGH-9433d5ade6\/image_from_ios_64.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F0500QB1UGH-9433d5ade6\/image_from_ios_80.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F0500QB1UGH-9433d5ade6\/image_from_ios_360.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360_w": 193,
+                "thumb_360_h": 130,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F0500QB1UGH-9433d5ade6\/image_from_ios_160.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "original_w": 193,
+                "original_h": 130,
+                "thumb_tiny": "AwAgADCskeThRkn0qdbbu5\/AVbUIg2xjH9aY1NGLGp5KAAkKPrj1pC0eOGXOPXPOapTFi7ZPemAkUF9C6wPXtUZFMSYrgGpvlcccGrTM3EkvJjbqCoyzHv2qO3naZDvxkegqa4jSXPm9B\/F6VXhjjWMFJjuZeR6VmjRq6IpgPMaoiKuvDG3zM5B6UzyYSSGlxz1oBIqjlfpUiMRT\/LhGPnPOc8inPFCFYrLkgce9O4WP\/9k=",
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04DLUZMY84\/F0500QB1UGH\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F0500QB1UGH-a8a570f96a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04DLUZMY84",
+        "display_as_bot": false,
+        "ts": "1679442065.929359",
+        "client_msg_id": "B5C9F9D0-BDAB-49D5-A2B1-0319F40573D4",
+        "reactions": [
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U04GY24PLTY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

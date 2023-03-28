@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "7F93A0F1-74D0-46B8-8768-52409F6AC603",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/badUIbattles\/comments\/udx3ab\/please_enter_your_phone_number\/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf|https:\/\/www.reddit.com\/r\/badUIbattles\/comments\/udx3ab\/please_enter_your_phone_number\/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf>",
+        "user": "U04GY24PLTY",
+        "ts": "1677445700.930959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mu9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/badUIbattles\/comments\/udx3ab\/please_enter_your_phone_number\/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+                                "text": "https:\/\/www.reddit.com\/r\/badUIbattles\/comments\/udx3ab\/please_enter_your_phone_number\/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.reddit.com\/r\/badUIbattles\/comments\/udx3ab\/please_enter_your_phone_number\/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+                "image_url": "https:\/\/external-preview.redd.it\/_5eGyxB4a_iT4NzEChfrAac8Rzx26jqgHqUnECYjus0.png?overlay-align=bottom,left&crop=1200:628.272251309,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_lpjvv.png%3Fs%3D181857a7e366b009d8a1b0b0054df4ee16af6a2a&width=1200&height=628.272251309&auto=webp&v=enabled&s=ff9245555927baab4d446cf70087aa4e3442e7b2",
+                "image_width": 1200,
+                "image_height": 628,
+                "image_bytes": 23651,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/badUIbattles\/comments\/udx3ab\/please_enter_your_phone_number\/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf",
+                "fallback": "reddit: Please enter your phone number",
+                "text": "Posted in r\/badUIbattles by u\/Lamamour • 8,334 points and 78 comments",
+                "title": "Please enter your phone number",
+                "title_link": "https:\/\/www.reddit.com\/r\/badUIbattles\/comments\/udx3ab\/please_enter_your_phone_number\/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+                "service_name": "reddit"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04HL79B12M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "081B67A5-6FC2-415E-9670-7783A4F0B06B",
+        "type": "message",
+        "text": "My new favorite subreddit :joy: ",
+        "user": "U04GY24PLTY",
+        "ts": "1677445714.578269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jXUqW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My new favorite subreddit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

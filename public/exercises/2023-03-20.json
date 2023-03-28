@@ -1,0 +1,249 @@
+[
+    {
+        "client_msg_id": "e35777cc-41e3-4848-9df5-439e0ee8f5a9",
+        "type": "message",
+        "text": "Exercise: Build your backend!\n• Step 1: Use the Rails API CRUD cheat sheet to build JUST THE MODELS\n\n• Step 2: Write all the belongs_to \/ has_many associations in your models\n\n• Step 3: Check all your associations in the `rails console` (`User.first.trips`, `Trip.first.user`, etc.)\nIf things are wrong, you can always rebuild your database with `rails db:drop db:create db:migrate db:seed`\n\n• Step 4: Use the Rails Authentication cheat sheet to build the signup and login actions: \n• (note: you will already have made the user model at this point)\n• (note: you will need to change your seeds file for creating users - instead of `User.create!(password_digest: \"...\")`, it should be `User.create!(password: \"password\")`)\n• Step 5: Choose which route\/controller actions you will build for your MVP (about 5 routes) and write them out based on the cheat sheet\n",
+        "user": "U04HL79B12M",
+        "ts": "1679328830.088169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9NG7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Build your backend!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Step 1: Use the Rails API CRUD cheat sheet to build JUST THE MODELS"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Step 2: Write all the belongs_to \/ has_many associations in your models"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Step 3: Check all your associations in the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "rails console",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ("
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "User.first.trips",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Trip.first.user",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", etc.)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If things are wrong, you can always rebuild your database with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rails db:drop db:create db:migrate db:seed",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Step 4: Use the Rails Authentication cheat sheet to build the signup and login actions: "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(note: you will already have made the user model at this point)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(note: you will need to change your seeds file for creating users - instead of "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "User.create!(password_digest: \"...\")",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", it should be "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "User.create!(password: \"password\")",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Step 5: Choose which route\/controller actions you will build for your MVP (about 5 routes) and write them out based on the cheat sheet"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

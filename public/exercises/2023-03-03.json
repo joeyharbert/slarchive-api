@@ -1,0 +1,380 @@
+[
+    {
+        "client_msg_id": "8699abc3-71b8-4eca-95d9-a68e69dc9990",
+        "type": "message",
+        "text": "Exercise::\nIn your search filter input, add an attribute for `list=\"titles\"`\n\nUnderneath the search filter input, make a datalist with an id of titles: `&lt;datalist id=\"titles\"&gt;&lt;\/datalist&gt;`\n\nWithin the datalist, make a loop to make an option for each post title\n```{props.posts.map(post =&gt; &lt;option key={post.id}&gt;{post.title}&lt;\/option&gt;)}```\nTest the autocomplete in your browser",
+        "user": "U04HL79B12M",
+        "ts": "1677863774.384029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pK2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise::\nIn your search filter input, add an attribute for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "list=\"titles\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nUnderneath the search filter input, make a datalist with an id of titles: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "<datalist id=\"titles\"><\/datalist>",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWithin the datalist, make a loop to make an option for each post title\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "{props.posts.map(post => <option key={post.id}>{post.title}<\/option>)}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nTest the autocomplete in your browser"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a6e79c54-6830-4100-85d2-12e53386ad95",
+        "type": "message",
+        "text": "Exercise:\n• Create a (basic) `store-api` backend from scratch!\n    ◦ CRUD out a `Product` model with a name, price as a decimal (look up syntax for this), description, and quantity\n• Create a single page frontend `store-frontend` for your new store backend\n    ◦ CRUD out the Product on the front end!\n• *Note*: No need for authentication this go round!!\n• Bonus: If you finish early, you can spend time polishing up the frontend (routes, filtering, bootstrap, etc) and\/or make the backend more complex (add supplier relationship, add a shopping cart, etc). As you update the backend, make sure you're updating the frontend to match!!",
+        "user": "U04HL79B12M",
+        "ts": "1677864431.163059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ponx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a (basic) "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "store-api",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " backend from scratch!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CRUD out a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Product",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " model with a name, price as a decimal (look up syntax for this), description, and quantity"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a single page frontend "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "store-frontend",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " for your new store backend"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CRUD out the Product on the front end!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Note",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": No need for authentication this go round!!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bonus: If you finish early, you can spend time polishing up the frontend (routes, filtering, bootstrap, etc) and\/or make the backend more complex (add supplier relationship, add a shopping cart, etc). As you update the backend, make sure you're updating the frontend to match!!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "36960478-910c-48df-b2b9-55071f4e2cda",
+        "type": "message",
+        "text": "Exercise:\nWork on the following HackerRank problem:\n<https:\/\/www.hackerrank.com\/challenges\/bigger-is-greater\/problem>",
+        "user": "U04HL79B12M",
+        "ts": "1677877232.044599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vff",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nWork on the following HackerRank problem:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hackerrank.com\/challenges\/bigger-is-greater\/problem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.hackerrank.com\/challenges\/bigger-is-greater\/problem",
+                "thumb_url": "https:\/\/hrcdn.net\/og\/default.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 640,
+                "service_icon": "https:\/\/hrcdn.net\/fcore\/assets\/favicon-ddc852f75a.png",
+                "id": 1,
+                "original_url": "https:\/\/www.hackerrank.com\/challenges\/bigger-is-greater\/problem",
+                "fallback": "HackerRank: Bigger is Greater | HackerRank",
+                "text": "Rearrange the letters of a string to construct another string such that the new string is lexicographically greater than the original.",
+                "title": "Bigger is Greater | HackerRank",
+                "title_link": "https:\/\/www.hackerrank.com\/challenges\/bigger-is-greater\/problem",
+                "service_name": "HackerRank"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f77b4bc9-1417-42cb-9797-51e5724c52cc",
+        "type": "message",
+        "text": "Exercise:\nUpdate your work journal!\nGo to your gists: <https:\/\/gist.github.com\/mine>\nFind your gist titled “work-journal.md”\nClick “Edit”\nAdd your new content towards the top\n```## YYYY-MM-DD\n### Learnings\n- (Describe your learning accomplishments and wins, as well as how you are planning to improve in specific areas)\n\n### Interesting things\n- (List coding resources you have found and describe why they’re interesting)```\nUpdate the content with today’s date and your content for the learning and interesting things section",
+        "user": "U04HL79B12M",
+        "ts": "1677878189.990129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iilG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nUpdate your work journal!\nGo to your gists: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/mine"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFind your gist titled “work-journal.md”\nClick “Edit”\nAdd your new content towards the top\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "## YYYY-MM-DD\n### Learnings\n- (Describe your learning accomplishments and wins, as well as how you are planning to improve in specific areas)\n\n### Interesting things\n- (List coding resources you have found and describe why they’re interesting)"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nUpdate the content with today’s date and your content for the learning and interesting things section"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1677878238.000000"
+        }
+    }
+]

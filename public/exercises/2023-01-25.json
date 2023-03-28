@@ -1,0 +1,377 @@
+[
+    {
+        "client_msg_id": "60d5c0ca-274e-445c-b408-0d12925be002",
+        "type": "message",
+        "text": "Exercise:\nHere are three database tables that are ripe for normalization. Figure out how to break up each table into two, while keeping the tables associated with one another. Also, mark down which table has many of the other, and which table belongs to the other.\nNote: These are 3 separate exercises, not one large group of tables to associate.",
+        "user": "U04HL79B12M",
+        "ts": "1674667310.209849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w3V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nHere are three database tables that are ripe for normalization. Figure out how to break up each table into two, while keeping the tables associated with one another. Also, mark down which table has many of the other, and which table belongs to the other.\nNote: These are 3 separate exercises, not one large group of tables to associate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d22ba231-1920-4648-b7bb-fb890a2f9722",
+        "type": "message",
+        "text": "Exercise:\n1. In your mini-capstone, add a new model called Supplier. It should have the attributes: name, email, and phone_number (all are strings). \n2. Use the rails console or seeds file to add 2 or 3 suppliers to your database.\n3. Then, add a migration to add supplier_id (which must be an integer) to your products table. \n4. Use the rails console or Postico to associate products with suppliers by updating the empty supplier_id data.\n5. Bonus: Create routes and a controller for your Supplier model, so a user can CRUD a supplier.\n",
+        "user": "U04HL79B12M",
+        "ts": "1674669268.192859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QNt\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In your mini-capstone, add a new model called Supplier. It should have the attributes: name, email, and phone_number (all are strings). "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use the rails console or seeds file to add 2 or 3 suppliers to your database."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Then, add a migration to add supplier_id (which must be an integer) to your products table. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use the rails console or Postico to associate products with suppliers by updating the empty supplier_id data."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bonus: Create routes and a controller for your Supplier model, so a user can CRUD a supplier."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "52419d79-fcc5-4a58-bb8c-16c4f00c3b74",
+        "type": "message",
+        "text": "Exercise:\n1. In the Product model, make a `supplier` method to get the associated supplier. Test the code in the rails console with something like:\n```product = Product.first\nproduct.supplier```\n2. Change your app to show the supplier’s info with each product.\n3. Bonus: In the Supplier model, make a `products` method to get the associated products. Test in rails console.",
+        "user": "U04HL79B12M",
+        "ts": "1674675744.469839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JOi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n1. In the Product model, make a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "supplier",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " method to get the associated supplier. Test the code in the rails console with something like:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "product = Product.first\nproduct.supplier"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2. Change your app to show the supplier’s info with each product.\n3. Bonus: In the Supplier model, make a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "products",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " method to get the associated products. Test in rails console."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1674675845.000000"
+        }
+    },
+    {
+        "client_msg_id": "1b35ec54-8b6f-4942-acf7-f13e41adbe27",
+        "type": "message",
+        "text": "Exercise:\n1. Change your mini-capstone so there can be multiple images, instead of just one. (This will take multiple steps!)\n    ◦ You will need to remove the image_url attribute from the Product model and create an entirely new Image model to do this.\n    ◦ Use `url` as the image attribute to get this to work seamlessly with the mini-capstone front end.\n2. Change your json to show all images with each product.\n\n    ◦ You can test your code using the frontend at <https:\/\/mini-capstone.peterxjang.com\/model-associations\/products>. If your associations are working correctly, it will show multiple images on the products show page in a carousel!\n3. Bonus: Fix your product’s create and update actions! (They are broken because you changed how images are saved…)\n    ◦ Note: If you have a validation for `image_url` in your Product model, you’ll need to comment it out or move it into your Image model before you can save a product.\n4. Bonus: Make it so a user can create new images for a given product.\n\nCommit and push your changes (A friendly reminder!)",
+        "user": "U04HL79B12M",
+        "ts": "1674676405.629679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JfCI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n1. Change your mini-capstone so there can be multiple images, instead of just one. (This will take multiple steps!)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You will need to remove the image_url attribute from the Product model and create an entirely new Image model to do this."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "url",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " as the image attribute to get this to work seamlessly with the mini-capstone front end."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n2. Change your json to show all images with each product.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You can test your code using the frontend at "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/mini-capstone.peterxjang.com\/model-associations\/products"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". If your associations are working correctly, it will show multiple images on the products show page in a carousel!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n3. Bonus: Fix your product’s create and update actions! (They are broken because you changed how images are saved…)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Note: If you have a validation for "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "image_url",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " in your Product model, you’ll need to comment it out or move it into your Image model before you can save a product."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n4. Bonus: Make it so a user can create new images for a given product.\n\nCommit and push your changes (A friendly reminder!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1674677501.000000"
+        }
+    }
+]

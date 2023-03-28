@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "1c9e705f-f6b2-40dc-9533-6af00bac1b68",
+        "type": "message",
+        "text": "<!everyone> Hi all! My name is Joey Harbert, I'll be the lead instructor for the live class starting this Monday. A couple of notes for our first class:\n\n*Classes are 11am-4pm CST Mon-Fri.* Please be courteous to your colleagues and arrive promptly so we can begin on time and cover as much ground as we possibly can. This is important for each and every session, not just the first one.\n\n*Classes will be online through Zoom.* I will send out a link to the zoom room around 10 minutes before class begins on Monday in the Slack general channel. You will need to participate in class in a private room or area where you can have your video camera and microphone on throughout the class. You should follow this document to configure your Zoom options appropriate for our class:\n<https:\/\/docs.google.com\/document\/d\/1u0_wr73nznxICVz-B7DJNmb3UGspMY7eMl3_SUSgmW4>\n\n*Before coming to class this Monday, please sign up for a GitHub account* on <https:\/\/github.com> - we’ll be using this website to backup and share code during the course. When you sign up, you’ll have to choose a username, which should be both professional and easy to remember. Please use your full name (no dashes, underscores, spaces, or numbers). For example, if your name is Wendy Williams, your username should be wendywilliams. If that’s taken, using initials like wwilliams is a good option, or add your middle initial.\n\nPlease let me know if you have any questions about any of the above. Looking forward to meeting everyone on Monday!",
+        "user": "U04HL79B12M",
+        "ts": "1672850645.442269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EAxC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi all! My name is Joey Harbert, I'll be the lead instructor for the live class starting this Monday. A couple of notes for our first class:\n\n*Classes are 11am-4pm CST Mon-Fri.* Please be courteous to your colleagues and arrive promptly so we can begin on time and cover as much ground as we possibly can. This is important for each and every session, not just the first one.\n\n*Classes will be online through Zoom.* I will send out a link to the zoom room around 10 minutes before class begins on Monday in the Slack general channel. You will need to participate in class in a private room or area where you can have your video camera and microphone on throughout the class. You should follow this document to configure your Zoom options appropriate for our class:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1u0_wr73nznxICVz-B7DJNmb3UGspMY7eMl3_SUSgmW4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n*Before coming to class this Monday, please sign up for a GitHub account* on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - we’ll be using this website to backup and share code during the course. When you sign up, you’ll have to choose a username, which should be both professional and easy to remember. Please use your full name (no dashes, underscores, spaces, or numbers). For example, if your name is Wendy Williams, your username should be wendywilliams. If that’s taken, using initials like wwilliams is a good option, or add your middle initial.\n\nPlease let me know if you have any questions about any of the above. Looking forward to meeting everyone on Monday!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/",
+                "image_url": "https:\/\/github.githubassets.com\/images\/modules\/site\/social-cards\/campaign-social.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 309453,
+                "service_icon": "https:\/\/github.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/github.com",
+                "fallback": "GitHub: GitHub: Let’s build from here",
+                "text": "GitHub is where over 94 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...",
+                "title": "GitHub: Let’s build from here",
+                "title_link": "https:\/\/github.com\/",
+                "service_name": "GitHub"
+            }
+        ]
+    }
+]

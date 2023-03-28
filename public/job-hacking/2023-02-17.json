@@ -1,0 +1,1354 @@
+[
+    {
+        "client_msg_id": "1a124e40-2a76-43e3-963d-0e9e7e89c728",
+        "type": "message",
+        "text": "<https:\/\/www.indeed.com\/jobs?q=jr+software+developer&amp;l=&amp;vjk=c2b683fede16cdde>\nExercise: Take 10 minutes to look at the posts that show up for “software developer.” Read job descriptions, get a feel for what basic and preferred requirements are, etc",
+        "user": "U04J9382JP3",
+        "ts": "1676655304.343659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NAdB+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.indeed.com\/jobs?q=jr+software+developer&l=&vjk=c2b683fede16cdde"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nExercise: Take 10 minutes to look at the posts that show up for “software developer.” Read job descriptions, get a feel for what basic and preferred requirements are, etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04J9382JP3",
+            "ts": "1676655359.000000"
+        }
+    },
+    {
+        "client_msg_id": "803243d0-485b-454e-81fb-844d7183abc0",
+        "type": "message",
+        "text": "Technical Support Engineer\n• Eddie\nTest Software Engineer\/Quality Assurance Engineer\/SDET\n• Annie, Dallin\nSales\/Solutions Engineer\n• Alex\nDevOps\/Site Reliability Engineer\n• Matthew\nTechnical Project Manager\/Scrum Master\n• Madeline\nDatabase Administrator\n• Nick",
+        "user": "U04HL79B12M",
+        "ts": "1676656395.572979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F2xQb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Technical Support Engineer\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Eddie"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test Software Engineer\/Quality Assurance Engineer\/SDET\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Annie, Dallin"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sales\/Solutions Engineer\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Alex"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DevOps\/Site Reliability Engineer\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Matthew"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Technical Project Manager\/Scrum Master\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Madeline"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Database Administrator\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Nick"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1676656417.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "How concerned are you about getting repeated rejections for jobs?",
+        "ts": "1676659902.493409",
+        "bot_id": "B04D33KFQP3",
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "tqbs",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": ":gear: Anonymous",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "poll-c6dcfce9-d33a-4535-8dc6-3013e49cd085-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*How concerned are you about getting repeated rejections for jobs?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: Edit Poll",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":lock: Close Poll",
+                                "emoji": true
+                            },
+                            "value": "close_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":recycle: Recreate this Poll",
+                                "emoji": true
+                            },
+                            "value": "create_poll_from_recent_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":arrow_heading_down: Promote Poll",
+                                "emoji": true
+                            },
+                            "value": "promote_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-c6dcfce9-d33a-4535-8dc6-3013e49cd085-vote-42436971",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Not concerned    `3`\n:heavy_check_mark::heavy_check_mark::heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42436971",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-c6dcfce9-d33a-4535-8dc6-3013e49cd085-vote-42436972",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: A little concerned    `3`\n:heavy_check_mark::heavy_check_mark::heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42436972",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-c6dcfce9-d33a-4535-8dc6-3013e49cd085-vote-42436973",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: Somewhat concerned\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42436973",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-c6dcfce9-d33a-4535-8dc6-3013e49cd085-vote-42436974",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":four: Very concerned    `1`\n:heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42436974",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":four:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "CFAEz",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U04J9382JP3> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "B04D33KFQP3",
+            "ts": "1676659944.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "How concerned are you about not knowing the answers in an interview or when you start the job?",
+        "ts": "1676660371.037739",
+        "bot_id": "B04D33KFQP3",
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "lj4OR",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": ":gear: Anonymous",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "poll-c555816f-4543-4e1a-94b9-a0b5b3f4e7f2-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*How concerned are you about not knowing the answers in an interview or when you start the job?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: Edit Poll",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":lock: Close Poll",
+                                "emoji": true
+                            },
+                            "value": "close_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":recycle: Recreate this Poll",
+                                "emoji": true
+                            },
+                            "value": "create_poll_from_recent_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":arrow_heading_down: Promote Poll",
+                                "emoji": true
+                            },
+                            "value": "promote_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-c555816f-4543-4e1a-94b9-a0b5b3f4e7f2-vote-42437162",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Not concerned    `1`\n:heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42437162",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-c555816f-4543-4e1a-94b9-a0b5b3f4e7f2-vote-42437163",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: A little concerned    `1`\n:heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42437163",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-c555816f-4543-4e1a-94b9-a0b5b3f4e7f2-vote-42437164",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: Somewhat concerned    `4`\n:heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42437164",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-c555816f-4543-4e1a-94b9-a0b5b3f4e7f2-vote-42437165",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":four: Very concerned    `1`\n:heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42437165",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":four:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "m6r",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U04J9382JP3> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "B04D33KFQP3",
+            "ts": "1676660404.000000"
+        }
+    },
+    {
+        "client_msg_id": "958a4317-4915-4bf7-910c-8229aec01542",
+        "type": "message",
+        "text": "<https:\/\/www.codenewbie.org\/blogs\/what-i-look-for-in-a-junior-developer>",
+        "user": "U04J9382JP3",
+        "ts": "1676661261.788919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YIu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codenewbie.org\/blogs\/what-i-look-for-in-a-junior-developer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "26df6b10-4f76-4a2e-bf0e-62405115ac28",
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/file\/d\/13mySHe40E9Dj7U0AWkjkCyVJxhewm2RZ\/view?usp=sharing>",
+        "user": "U04J9382JP3",
+        "ts": "1676662477.645669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5PyM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/13mySHe40E9Dj7U0AWkjkCyVJxhewm2RZ\/view?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cded4b6d-5a37-403d-9220-2bd29442206d",
+        "type": "message",
+        "text": "Open your “Actualize Job Search Documents” folder: <https:\/\/drive.google.com\/drive\/search?q=type:folder%20Actualize%20Job%20Search%20Documents>\n* Open the spreadsheet “[Exercise] Target Companies”\n* Use Google Searches, BuiltIn websites, and <https:\/\/www.all-hands.us\/?utm_source=Actualize|All Hands> to find companies you have a hiring advantage with.",
+        "user": "U04J9382JP3",
+        "ts": "1676663295.839189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Qv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Open your “Actualize Job Search Documents” folder: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/search?q=type:folder%20Actualize%20Job%20Search%20Documents"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n* Open the spreadsheet “[Exercise] Target Companies”\n* Use Google Searches, BuiltIn websites, and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.all-hands.us\/?utm_source=Actualize",
+                                "text": "All Hands"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to find companies you have a hiring advantage with."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.all-hands.us\/?utm_source=Actualize",
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/5e41725639b7795755667edc\/1582997199160-3FKM8AJIIYUGIQ3D4P6W\/favicon.ico",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/5e41725639b7795755667edc\/t\/60a524243675cd0d7d79bc57\/1621435428728\/headline+yellow+photo.png?format=1500w",
+                "thumb_width": 1500,
+                "thumb_height": 844,
+                "id": 1,
+                "original_url": "https:\/\/www.all-hands.us\/?utm_source=Actualize",
+                "fallback": "All Hands: All Hands – Switch your job. Build what matters.",
+                "text": "We're calling for the best + brightest tech, digital, data, and ops talent to join the social impact &amp; civic engagement space. And we're here to help you do it.",
+                "title": "All Hands – Switch your job. Build what matters.",
+                "title_link": "https:\/\/www.all-hands.us\/?utm_source=Actualize",
+                "service_name": "All Hands"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9352544-16ff-425d-81b9-d9440f944847",
+        "type": "message",
+        "text": "<https:\/\/careers.airbnb.com\/positions\/4711777\/>",
+        "user": "U04DLUZGJ4C",
+        "ts": "1676664866.175459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fYBI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.airbnb.com\/positions\/4711777\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/careers.airbnb.com\/wp-content\/uploads\/sites\/7\/2018\/12\/Tokyo_021.jpg?fit=889%2C450",
+                "image_width": 889,
+                "image_height": 450,
+                "image_bytes": 132245,
+                "from_url": "https:\/\/careers.airbnb.com\/positions\/4711777\/",
+                "service_icon": "https:\/\/careers.airbnb.com\/wp-content\/themes\/onboard\/resources\/assets\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/careers.airbnb.com\/positions\/4711777\/",
+                "fallback": "Careers at Airbnb: Engineering Apprentice",
+                "title": "Engineering Apprentice",
+                "title_link": "https:\/\/careers.airbnb.com\/positions\/4711777\/",
+                "service_name": "Careers at Airbnb"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28b98c8d-f0af-41fa-9fb6-716f2a6a5cb0",
+        "type": "message",
+        "text": "Sign up for Prentus: <https:\/\/hire.actualize.co\/signup\/member>\nStatus: either Student or Job Seeker\nGraduation Date: March 30, 2023\n(Update for each cohort)",
+        "user": "U04J9382JP3",
+        "ts": "1676665310.468449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sign up for Prentus: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hire.actualize.co\/signup\/member"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nStatus: either Student or Job Seeker\nGraduation Date: March 30, 2023\n(Update for each cohort)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/hire.actualize.co\/signup\/member",
+                "image_url": "https:\/\/d1muf25xaso8hp.cloudfront.net\/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1675816712803x578567928672521600%2FOG%2520Image%2520-%2520Main%2520%25282%2529.png?w=&h=&auto=compress&dpr=1&fit=max",
+                "image_width": 1200,
+                "image_height": 627,
+                "image_bytes": 46354,
+                "service_icon": "https:\/\/d1muf25xaso8hp.cloudfront.net\/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1654870645650x348577964125185150%2FLogo%2520-%2520Hand%2520Extra%2520Large.png?w=128&amp;h=&amp;auto=compress&amp;dpr=1&amp;fit=max",
+                "id": 1,
+                "original_url": "https:\/\/hire.actualize.co\/signup\/member",
+                "fallback": "Prentus: Prentus | Job Placement Platform",
+                "text": "Prentus is the job search platform with a Job Tracker, Job Search Planner, and the largest bootcamp grad community to help you break into tech. Join today to make your job search fast and fun.",
+                "title": "Prentus | Job Placement Platform",
+                "title_link": "https:\/\/hire.actualize.co\/signup\/member",
+                "service_name": "Prentus"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e64798fc-dbd4-4819-9d0c-c1c2fffba6a5",
+        "type": "message",
+        "text": "<https:\/\/chrome.google.com\/webstore\/detail\/prentus-job-search-tracke\/ennpkannelepddoomheofppcbnnlnoop#:~:text=Use%20the%20Prentus%20Chrome%20Extension,extension%20while%20viewing%20a%20job.|Prentus Chrome extension>",
+        "user": "U04J9382JP3",
+        "ts": "1676665379.283469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7OW4O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chrome.google.com\/webstore\/detail\/prentus-job-search-tracke\/ennpkannelepddoomheofppcbnnlnoop#:~:text=Use%20the%20Prentus%20Chrome%20Extension,extension%20while%20viewing%20a%20job.",
+                                "text": "Prentus Chrome extension"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chrome.google.com\/webstore\/detail\/prentus-job-search-tracke\/ennpkannelepddoomheofppcbnnlnoop#:~:text=Use%20the%20Prentus%20Chrome%20Extension,extension%20while%20viewing%20a%20job.",
+                "service_icon": "https:\/\/www.google.com\/images\/icons\/product\/chrome_web_store-32.png",
+                "thumb_url": "https:\/\/lh3.googleusercontent.com\/BWM-Mz29PaLgTW7bKdYgwqgoYtMJtt5CG704tfNGi2F_H0pGT-NrrzcFTCtUrQ2M2bMoIfdAkTb_Fx3HvTOb4FGy3A",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "id": 1,
+                "original_url": "https:\/\/chrome.google.com\/webstore\/detail\/prentus-job-search-tracke\/ennpkannelepddoomheofppcbnnlnoop#:~:text=Use%20the%20Prentus%20Chrome%20Extension,extension%20while%20viewing%20a%20job.",
+                "fallback": "Prentus Job Search Tracker",
+                "text": "Track &amp; share jobs in your community. Land your dream job faster.",
+                "title": "Prentus Job Search Tracker",
+                "title_link": "https:\/\/chrome.google.com\/webstore\/detail\/prentus-job-search-tracke\/ennpkannelepddoomheofppcbnnlnoop#:~:text=Use%20the%20Prentus%20Chrome%20Extension,extension%20while%20viewing%20a%20job.",
+                "service_name": "chrome.google.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb7e4d80-575d-41e2-8642-2d4baccd8ac3",
+        "type": "message",
+        "text": "*Cover Letter Guide:* <https:\/\/docs.google.com\/document\/d\/10sAfxWifA4M6E8LO-g1VlzhIYzpDFa2KVoSKx7SWsSk\/edit>\nFor feedback, send your draft to Sarah\/Lisa with edit permissions, and a link to the job posting\n\nSlack questions anytime or meet with Lisa\/Sarah:\n<https:\/\/calendly.com\/sarah-at-actualize>\n<https:\/\/calendly.com\/lisa-at-actualize>",
+        "user": "U04J9382JP3",
+        "ts": "1676665893.188749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ftLa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cover Letter Guide:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/10sAfxWifA4M6E8LO-g1VlzhIYzpDFa2KVoSKx7SWsSk\/edit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFor feedback, send your draft to Sarah\/Lisa with edit permissions, and a link to the job posting\n\nSlack questions anytime or meet with Lisa\/Sarah:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calendly.com\/sarah-at-actualize"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calendly.com\/lisa-at-actualize"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/calendly.com\/sarah-at-actualize",
+                "service_icon": "https:\/\/assets.calendly.com\/assets\/touch-icon-iphone-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png",
+                "thumb_url": "https:\/\/assets.calendly.com\/assets\/booking\/ogimage-580d3a8621e91e703045f669f2ecaaa830761eeede7e142c135cee0a0b475faf.png?source=opengraph",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 1,
+                "original_url": "https:\/\/calendly.com\/sarah-at-actualize",
+                "fallback": "Calendly: Sarah Kercher",
+                "text": "Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.",
+                "title": "Sarah Kercher",
+                "title_link": "https:\/\/calendly.com\/sarah-at-actualize",
+                "service_name": "Calendly"
+            },
+            {
+                "from_url": "https:\/\/calendly.com\/lisa-at-actualize",
+                "service_icon": "https:\/\/assets.calendly.com\/assets\/touch-icon-iphone-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png",
+                "thumb_url": "https:\/\/d3v0px0pttie1i.cloudfront.net\/uploads\/user\/avatar\/1654233\/c624da80.jpg?source=opengraph",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 2,
+                "original_url": "https:\/\/calendly.com\/lisa-at-actualize",
+                "fallback": "Calendly: Lisa Tucker",
+                "text": "Please choose a scheduling option that best fits your needs for a career advising conversation.",
+                "title": "Lisa Tucker",
+                "title_link": "https:\/\/calendly.com\/lisa-at-actualize",
+                "service_name": "Calendly"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f0a18f7-c4b8-41f7-973f-5a865a61d2c4",
+        "type": "message",
+        "text": "Step-by-Step Instructions for:\nTargeting Companies: <https:\/\/docs.google.com\/document\/d\/10ltYhg9jrvqItawzNo1AxfAWaMgID3x8UDUu04waOXw\/edit>\nWhen you get an interview: <https:\/\/docs.google.com\/document\/d\/1ESQRLXPBhdqojcv4yqL4GigYzkr5qWSH_cAKq0l7J5M\/edit>",
+        "user": "U04J9382JP3",
+        "ts": "1676665954.991289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qThJ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Step-by-Step Instructions for:\nTargeting Companies: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/10ltYhg9jrvqItawzNo1AxfAWaMgID3x8UDUu04waOXw\/edit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWhen you get an interview: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1ESQRLXPBhdqojcv4yqL4GigYzkr5qWSH_cAKq0l7J5M\/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "I know what networking looks like",
+        "ts": "1676666062.202349",
+        "bot_id": "B04D33KFQP3",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-7a40f181-2a5a-4875-9787-d0d1de44c896-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*I know what networking looks like*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: Edit Poll",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":lock: Close Poll",
+                                "emoji": true
+                            },
+                            "value": "close_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":recycle: Recreate this Poll",
+                                "emoji": true
+                            },
+                            "value": "create_poll_from_recent_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":arrow_heading_down: Promote Poll",
+                                "emoji": true
+                            },
+                            "value": "promote_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-7a40f181-2a5a-4875-9787-d0d1de44c896-vote-42439019",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Yes\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42439019",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-7a40f181-2a5a-4875-9787-d0d1de44c896-vote-42439020",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: No    `6`\n<@U04DLUZGJ4C>, <@U04GY24PLTY>, <@U04DLUZ1JCU>, <@U04D3UXCN3Z>, <@U04DLUZTL2Y>, <@U04DFH2CCR3>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42439020",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "8hy",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U04J9382JP3> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "B04D33KFQP3",
+            "ts": "1676666111.000000"
+        }
+    },
+    {
+        "client_msg_id": "606243cb-1664-4526-b44f-9f5723290c5c",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=FAPySGLL3gg&amp;list=RDLVREA8Ac486O0&amp;index=20>\n<https:\/\/www.betterup.com\/blog\/networking>",
+        "user": "U04J9382JP3",
+        "ts": "1676666097.398129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Foqh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=FAPySGLL3gg&list=RDLVREA8Ac486O0&index=20"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.betterup.com\/blog\/networking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=FAPySGLL3gg&amp;list=RDLVREA8Ac486O0&amp;index=20",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/FAPySGLL3gg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/FAPySGLL3gg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"How To Network If You’re An Introvert\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=FAPySGLL3gg&amp;list=RDLVREA8Ac486O0&amp;index=20",
+                "fallback": "YouTube Video: How To Network If You’re An Introvert",
+                "title": "How To Network If You’re An Introvert",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=FAPySGLL3gg&amp;list=RDLVREA8Ac486O0&amp;index=20",
+                "author_name": "Charisma on Command",
+                "author_link": "https:\/\/www.youtube.com\/@Charismaoncommand",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            },
+            {
+                "image_url": "https:\/\/www.betterup.com\/hubfs\/Imported_Blog_Media\/networking%20blog%20image-1.png#keepProtocol",
+                "image_width": 1000,
+                "image_height": 500,
+                "image_bytes": 756052,
+                "from_url": "https:\/\/www.betterup.com\/blog\/networking",
+                "service_icon": "https:\/\/www.betterup.com\/hubfs\/BetterUp_Logo_White.png",
+                "id": 2,
+                "original_url": "https:\/\/www.betterup.com\/blog\/networking",
+                "fallback": "What Is Networking and Why Is It So Important?",
+                "text": "With these tools, you’ll see why networking is so important, what networking is, and how to make strides on your career path by making new connections.",
+                "title": "What Is Networking and Why Is It So Important?",
+                "title_link": "https:\/\/www.betterup.com\/blog\/networking",
+                "service_name": "betterup.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0FAD2FA7-D6F5-49C5-83A8-49F11ED7BE60",
+        "type": "message",
+        "text": "<https:\/\/www.linkedin.com\/posts\/devjessparker_dearjuniordev-programming-coding-activity-7032124727267647488-SsGy?utm_source=share&amp;utm_medium=member_ios|https:\/\/www.linkedin.com\/posts\/devjessparker_dearjuniordev-programming-coding-activity-7032124727267647488-SsGy?utm_source=share&amp;utm_medium=member_ios>",
+        "user": "U04DLUZGJ4C",
+        "ts": "1676666987.512299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cfi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/devjessparker_dearjuniordev-programming-coding-activity-7032124727267647488-SsGy?utm_source=share&utm_medium=member_ios",
+                                "text": "https:\/\/www.linkedin.com\/posts\/devjessparker_dearjuniordev-programming-coding-activity-7032124727267647488-SsGy?utm_source=share&utm_medium=member_ios"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/C5622AQFW31-zIPhtsw\/feedshare-shrink_800\/0\/1676589184404?e=1679529600&v=beta&t=ZNHiewZ_M5v84jdhozMnrH05HjQGI7p_OFviSP89qu0",
+                "image_width": 800,
+                "image_height": 451,
+                "image_bytes": 18162,
+                "from_url": "https:\/\/www.linkedin.com\/posts\/devjessparker_dearjuniordev-programming-coding-activity-7032124727267647488-SsGy?utm_source=share&utm_medium=member_ios",
+                "service_icon": "https:\/\/static.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/devjessparker_dearjuniordev-programming-coding-activity-7032124727267647488-SsGy?utm_source=share&amp;utm_medium=member_ios",
+                "fallback": "Jessica Parker on LinkedIn: #dearjuniordev #programming #coding #softwaredeveloper | 86 comments",
+                "text": "#DearJuniorDev -- There is now an official home base for early career developers, and we&amp;#39;re so excited to show you!\n\nWe&amp;#39;ve launched an extensive --FREE--… | 86 comments on LinkedIn",
+                "title": "Jessica Parker on LinkedIn: #dearjuniordev #programming #coding #softwaredeveloper | 86 comments",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/devjessparker_dearjuniordev-programming-coding-activity-7032124727267647488-SsGy?utm_source=share&utm_medium=member_ios",
+                "service_name": "linkedin.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0E9B1A4B-A100-4ED5-AFA2-2F364C17B186",
+        "type": "message",
+        "text": "Check this out you guys ",
+        "user": "U04DLUZGJ4C",
+        "ts": "1676666992.329529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B6xt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Check this out you guys "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0646BF28-C3D9-4746-8A35-B9F739585FF1",
+        "type": "message",
+        "text": "Discord for early career devs ",
+        "user": "U04DLUZGJ4C",
+        "ts": "1676667020.580199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ATEx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Discord for early career devs "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

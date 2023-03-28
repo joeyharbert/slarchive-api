@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "a4d58a7b-e954-4043-9c2e-98612fcc38f0",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/cassidoo\/status\/1623072279499251718?cxt=HHwWjICxhfHop4YtAAAA>\n\nthis is what some of y'all's browsers look like",
+        "user": "U04HL79B12M",
+        "ts": "1675884707.255589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rfEsR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/cassidoo\/status\/1623072279499251718?cxt=HHwWjICxhfHop4YtAAAA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nthis is what some of y'all's browsers look like"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675884707.255589",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675897300.278219",
+        "reply_users": [
+            "U04HB4D6ARZ"
+        ],
+        "replies": [
+            {
+                "user": "U04HB4D6ARZ",
+                "ts": "1675897300.278219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04DLUZMY84",
+                    "U04DLUZGJ4C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "face_with_peeking_eye",
+                "users": [
+                    "U04HB4DFQ0K",
+                    "U04D3UXCN3Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1C76D12C-B572-471F-B43D-BF8B4C00D2AA",
+        "type": "message",
+        "text": "L O L \n*was one of those just “Potato” on Wikipedia?*",
+        "user": "U04HB4D6ARZ",
+        "ts": "1675897300.278219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HSp3s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L O L \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "was one of those just “Potato” on Wikipedia?",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675884707.255589",
+        "parent_user_id": "U04HL79B12M"
+    }
+]

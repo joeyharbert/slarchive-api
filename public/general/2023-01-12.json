@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "fb8c64a8-0b55-4d3d-9555-827c4f30b8f2",
+        "type": "message",
+        "text": "I’m around for another hour if anyone needs help. Joey  just reopened the room",
+        "user": "U04HB4D6ARZ",
+        "ts": "1673560952.934889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m around for another hour if anyone needs help. Joey  just reopened the room"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

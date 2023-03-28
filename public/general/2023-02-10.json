@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "6a2c73bd-818a-46db-8418-77edd991a2b3",
+        "type": "message",
+        "text": "I will be staying after class today for office hours. And just a heads up that starting next week I am switching my office hour to Wednesdays right after class :)",
+        "user": "U04HB4DFQ0K",
+        "ts": "1676063779.386959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SNM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will be staying after class today for office hours. And just a heads up that starting next week I am switching my office hour to Wednesdays right after class :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "8788338e91da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4615286762803_8788338e91da5cb6f873_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn Spaulding",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "robynm27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HB4DFQ0K",
+            "ts": "1676063792.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04DLUZMY84"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04D3UXCN3Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

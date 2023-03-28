@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "0c1d603e-f56b-484d-8e26-b1cc1df0380b",
+        "type": "message",
+        "text": "1. * Open your “Actualize Job Search Documents” folder\n2. * Open your “Actualize Job Search Plan for Graduation” \n3. * Draft answers for Job Search Plan questions for the sections *“Logistics &amp; Motivations”, “Coding”, “Networking”, “Applying”, and “Playing to Your Individual Strengths” ONLY*\n",
+        "user": "U04J9382JP3",
+        "ts": "1678396771.613449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YhIio",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "* Open your “Actualize Job Search Documents” folder"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "* Open your “Actualize Job Search Plan for Graduation” "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "* Draft answers for Job Search Plan questions for the sections "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "“Logistics & Motivations”, “Coding”, “Networking”, “Applying”, and “Playing to Your Individual Strengths” ONLY",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

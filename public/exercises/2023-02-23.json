@@ -1,0 +1,762 @@
+[
+    {
+        "client_msg_id": "3df329ce-bc37-442c-a5ef-5dfbb2327081",
+        "type": "message",
+        "text": "Exercise:\nClone this blog app (a Rails API backend with authentication and a Post model) by running the following commands in the Terminal in your Actualize folder:\n```git clone <https:\/\/github.com\/acltc\/blog-api.git>\ncd blog-api\necho 0f5f3ed4d1256e1fda2555ad12e65292 &gt;&gt; config\/master.key\nbundle install\nrails db:create db:migrate db:seed```\nMake sure your app works by viewing `<http:\/\/localhost:3000\/posts.json>` in your browser.",
+        "user": "U04HL79B12M",
+        "ts": "1677172295.712399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0pgd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nClone this blog app (a Rails API backend with authentication and a Post model) by running the following commands in the Terminal in your Actualize folder:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git clone "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/acltc\/blog-api.git"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ncd blog-api\necho 0f5f3ed4d1256e1fda2555ad12e65292 >> config\/master.key\nbundle install\nrails db:create db:migrate db:seed"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Make sure your app works by viewing "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000\/posts.json",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in your browser."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7f9d9bac-54bc-4f6a-8421-4ce16d4e41fd",
+        "type": "message",
+        "text": "Exercise:\nIn your terminal, navigate to the Actualize folder and run\n`npm create vite@latest`\nProject name: blog-frontend\nSelect a framework: react\nSelect a variant: JavaScript\nRun the suggested commands\n\n```cd blog-frontend ```\n```npm install ```\n```npm run dev ```\nOpen browser to <http:\/\/localhost:5173> to see the app\nOpen a new terminal tab and run `code .`\nMake some edits to src\/App.jsx and watch it automatically refresh in the browser!",
+        "user": "U04HL79B12M",
+        "ts": "1677173501.484509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N7hvF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn your terminal, navigate to the Actualize folder and run\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "npm create vite@latest",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nProject name: blog-frontend\nSelect a framework: react\nSelect a variant: JavaScript\nRun the suggested commands\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cd blog-frontend "
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm install "
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm run dev "
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Open browser to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:5173"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to see the app\nOpen a new terminal tab and run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "code .",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMake some edits to src\/App.jsx and watch it automatically refresh in the browser!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f62e21cb-38fb-4bbb-a26d-54c9319808e4",
+        "type": "message",
+        "text": "Exercise:\nBuild a frontend for your blog app.\nReplace the code in `src\/index.css` with the following:\n```#posts-index img {\n  width: 300px;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}```\nReplace the code in `src\/App.jsx` with the following:\n```function App() {\n  return (\n    &lt;div&gt;\n      &lt;header&gt;\n        &lt;a href=\"#\"&gt;Home&lt;\/a&gt; | &lt;a href=\"#posts-index\"&gt;All posts&lt;\/a&gt; | &lt;a href=\"#posts-new\"&gt;New post&lt;\/a&gt;\n      &lt;\/header&gt;\n\n      &lt;div id=\"posts-new\"&gt;\n        &lt;h1&gt;New post&lt;\/h1&gt;\n      &lt;\/div&gt;\n\n      &lt;div id=\"posts-index\"&gt;\n        &lt;h1&gt;All posts&lt;\/h1&gt;\n      &lt;\/div&gt;\n\n      &lt;footer&gt;\n        &lt;p&gt;Copyright 20XX&lt;\/p&gt;\n      &lt;\/footer&gt;\n    &lt;\/div&gt;\n  );\n}\n\nexport default App;```\nIn the `posts-new` section, write an HTML form to create a new blog post with inputs for title, body, and image.\n\nIn the `posts-index` section, write the HTML to display 2 or 3 posts with hard-coded fake data (each post has a title, body, and an image).",
+        "user": "U04HL79B12M",
+        "ts": "1677174058.183189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FhSmb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nBuild a frontend for your blog app.\nReplace the code in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "src\/index.css",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with the following:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#posts-index img {\n  width: 300px;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nReplace the code in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "src\/App.jsx",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with the following:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "function App() {\n  return (\n    <div>\n      <header>\n        <a href=\"#\">Home<\/a> | <a href=\"#posts-index\">All posts<\/a> | <a href=\"#posts-new\">New post<\/a>\n      <\/header>\n\n      <div id=\"posts-new\">\n        <h1>New post<\/h1>\n      <\/div>\n\n      <div id=\"posts-index\">\n        <h1>All posts<\/h1>\n      <\/div>\n\n      <footer>\n        <p>Copyright 20XX<\/p>\n      <\/footer>\n    <\/div>\n  );\n}\n\nexport default App;"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIn the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "posts-new",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " section, write an HTML form to create a new blog post with inputs for title, body, and image.\n\nIn the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "posts-index",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " section, write the HTML to display 2 or 3 posts with hard-coded fake data (each post has a title, body, and an image)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "649842fe-2e3f-44a9-badb-447ec6f53373",
+        "type": "message",
+        "text": "Exercise:\nDivide your frontend into separate component functions!\nMake separate functions for Header, PostsNew, PostsIndex, and Footer\nMake a separate Content function which contains the PostsNew and PostsIndex.\nMake a separate App function which contains the Header, Content, and Footer functions.",
+        "user": "U04HL79B12M",
+        "ts": "1677176991.123669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zgs2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nDivide your frontend into separate component functions!\nMake separate functions for Header, PostsNew, PostsIndex, and Footer\nMake a separate Content function which contains the PostsNew and PostsIndex.\nMake a separate App function which contains the Header, Content, and Footer functions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7a629ec7-6cdf-4eda-b145-547da263d83f",
+        "type": "message",
+        "text": "Exercise:\nIn the Content component, define the posts as an array of objects.\n```  let posts = [\n    {\n      id: 1,\n      title: \"___\",\n      body: \"___\",\n      image: \"___\",\n    },\n    {\n      id: 2,\n      title: \"___\",\n      body: \"___\",\n      image: \"___\",\n    },\n    {\n      id: 3,\n      title: \"___\",\n      body: \"___\",\n      image: \"___\",\n    },\n  ];```\nPass the posts state to the PostsIndex component\n```&lt;PostsIndex posts={posts} \/&gt;```\nIn the PostsIndex component, change the function to take in props and console log the result\n```function PostsIndex(props) {\n  console.log(props);```\nIn the PostsIndex component, use a map function with the props.posts to create the posts dynamically",
+        "user": "U04HL79B12M",
+        "ts": "1677179069.943959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RdQR0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn the Content component, define the posts as an array of objects.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  let posts = [\n    {\n      id: 1,\n      title: \"___\",\n      body: \"___\",\n      image: \"___\",\n    },\n    {\n      id: 2,\n      title: \"___\",\n      body: \"___\",\n      image: \"___\",\n    },\n    {\n      id: 3,\n      title: \"___\",\n      body: \"___\",\n      image: \"___\",\n    },\n  ];"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pass the posts state to the PostsIndex component\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<PostsIndex posts={posts} \/>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the PostsIndex component, change the function to take in props and console log the result\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "function PostsIndex(props) {\n  console.log(props);"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the PostsIndex component, use a map function with the props.posts to create the posts dynamically"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8643e02e-3aec-41e5-9512-2a215d1cd761",
+        "type": "message",
+        "text": "Exercise:\nIn your terminal, install the axios library:\n```npm install axios --save```\n\nIn src\/App.jsx, import the axios library\n```import axios from \"axios\";```\n\nIn the Content component, change the posts variable to start with an empty array\n```  let posts = [];```\nIn the Content component, write a `handleIndexPosts` function that makes a web request to GET <http:\/\/localhost:3000\/posts.json> and console.log the response.\n\n\nIn the Content component, add a button to run the `handleIndexPosts` function on click.\n\n\nTest the button in your browser to see the response in your JavaScript console (nothing should change on the page yet)",
+        "user": "U04HL79B12M",
+        "ts": "1677181189.379429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZO0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn your terminal, install the axios library:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm install axios --save"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nIn src\/App.jsx, import the axios library\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import axios from \"axios\";"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nIn the Content component, change the posts variable to start with an empty array\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  let posts = [];"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIn the Content component, write a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "handleIndexPosts",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " function that makes a web request to GET "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000\/posts.json"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and console.log the response.\n\n\nIn the Content component, add a button to run the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "handleIndexPosts",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " function on click.\n\n\nTest the button in your browser to see the response in your JavaScript console (nothing should change on the page yet)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f3cd1438-ab43-4d17-9c3f-34eacf340206",
+        "type": "message",
+        "text": "Exercise:\nIn src\/App.jsx, import the axios library\n```import { useState } from \"react\";```\n\nIn the Content component, change the useState hook to start with an empty array\n```  const [posts, setPosts] = useState([]);```\nIn the Content component `handleIndexPosts` function, use the `setPosts` function to set the state.\n\nNOTE: If the placeholder images from the blog-api backend are broken, you can update the images using Postico",
+        "user": "U04HL79B12M",
+        "ts": "1677182299.848949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KW9Jg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn src\/App.jsx, import the axios library\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import { useState } from \"react\";"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nIn the Content component, change the useState hook to start with an empty array\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  const [posts, setPosts] = useState([]);"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIn the Content component "
+                            },
+                            {
+                                "type": "text",
+                                "text": "handleIndexPosts",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " function, use the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "setPosts",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " function to set the state.\n\nNOTE: If the placeholder images from the blog-api backend are broken, you can update the images using Postico"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "58a68cbc-8a01-4e61-9f99-58beba8f506b",
+        "type": "message",
+        "text": "Exercise:\nImport the `useEffect` hook from react\nIn the Content component, use the useEffect hook to run the `handleIndexPosts` method instead of a button\n```  useEffect(handleIndexPosts, []);```\nBonus: Read more about the useEffect hook and the different ways it can be used: <https:\/\/reactjs.org\/docs\/hooks-effect.html>",
+        "user": "U04HL79B12M",
+        "ts": "1677183036.162079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hyY3u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nImport the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "useEffect",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " hook from react\nIn the Content component, use the useEffect hook to run the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "handleIndexPosts",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " method instead of a button\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  useEffect(handleIndexPosts, []);"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBonus: Read more about the useEffect hook and the different ways it can be used: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/reactjs.org\/docs\/hooks-effect.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

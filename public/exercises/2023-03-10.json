@@ -1,0 +1,503 @@
+[
+    {
+        "client_msg_id": "69c6db88-1323-43ea-ac69-96b830bbebf4",
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/file\/d\/0B3ngYruCXYtdaTc1RjBkVGtzZlE\/view?resourcekey=0-rti4TeSMttHnKoefl3T-XA>",
+        "user": "U04HL79B12M",
+        "ts": "1678468157.131359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jq\/T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/0B3ngYruCXYtdaTc1RjBkVGtzZlE\/view?resourcekey=0-rti4TeSMttHnKoefl3T-XA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5660f379-8387-4ff1-8356-a473cb19b486",
+        "type": "message",
+        "text": "Exercise:\nNavigate to the folder containing the file you downloaded (usually ~\/Downloads) and run the following command:\n```createdb -U $USER employees; psql -U $USER -f employees.psql employees```\nNote: if you are using <http:\/\/Postgres.app|Postgres.app>, you may have to run this line first: export PATH=$PATH:\/Applications\/Postgres.app\/Contents\/Versions\/latest\/bin\nThe students should access the employees database using Postico for the following exercise:",
+        "user": "U04HL79B12M",
+        "ts": "1678469055.286199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6qELb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nNavigate to the folder containing the file you downloaded (usually ~\/Downloads) and run the following command:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "createdb -U $USER employees; psql -U $USER -f employees.psql employees"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nNote: if you are using Postgres.app, you may have to run this line first: export PATH=$PATH:\/Applications\/Postgres.app\/Contents\/Versions\/latest\/bin\nThe students should access the employees database using Postico for the following exercise:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "96bb6807-5119-4613-a9f5-15afb67ee337",
+        "type": "message",
+        "text": "Exercise:\nUse SQL to grab the following data from the employees database:\n1. Get all info about employees whose last names begin with “Z”.\n2. Get the first name and last name of employees whose last names begin with “Mi”.\n3. Get the first name,  last name, and birthday of 5 eldest employees.\n4. Get all info about the 5 most recent hires.\n5. Get all info about 5 most recent female hires.\n6. Bonus: Get all the info on all employees whose first name is Mario or Luigi.\n7. Bonus: Get only the first and last name of employees without the last name “Aingworth.”\n8. Bonus: Get all the info on employees whose first name is Arif, but only those hired between 1988 and 1992.\n9. Bonus: How many employees were making over $100,000 a year on June 24, 1992? Return only a number.\n10. Bonus: Repeat exercise #2 without using the LIKE keyword.\n11. Uber bonus: Research how to do a case-insensitive search in postgres and try it out in Postico (there is more than one way…)",
+        "user": "U04HL79B12M",
+        "ts": "1678469157.784769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DtZJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nUse SQL to grab the following data from the employees database:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get all info about employees whose last names begin with “Z”."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get the first name and last name of employees whose last names begin with “Mi”."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get the first name,  last name, and birthday of 5 eldest employees."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get all info about the 5 most recent hires."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get all info about 5 most recent female hires."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n6. Bonus: Get all the info on all employees whose first name is Mario or Luigi.\n7. Bonus: Get only the first and last name of employees without the last name “Aingworth.”\n8. Bonus: Get all the info on employees whose first name is Arif, but only those hired between 1988 and 1992.\n9. Bonus: How many employees were making over $100,000 a year on June 24, 1992? Return only a number.\n10. Bonus: Repeat exercise #2 without using the LIKE keyword.\n11. Uber bonus: Research how to do a case-insensitive search in postgres and try it out in Postico (there is more than one way…)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "78e67b89-a2e6-4886-8527-06bb09760c97",
+        "type": "message",
+        "text": "Exercise: Use SQL to grab the following data from your mini-capstone:\n• Count how many products exist in your database.\n• Find the average price of all your products.\n• Return all the products from your database, priced lowest to highest, but without description or image.",
+        "user": "U04HL79B12M",
+        "ts": "1678473120.077689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RfMyo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Use SQL to grab the following data from your mini-capstone:\n• Count how many products exist in your database.\n• Find the average price of all your products.\n• Return all the products from your database, priced lowest to highest, but without description or image."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "01e1356d-1af9-4132-bf11-0e3a5667762b",
+        "type": "message",
+        "text": "Exercise:\nClone the example student portal app:\n```git clone <https:\/\/github.com\/actualize-daytime-2022-12-04\/example-actualize-portal.git>\ncd example-actualize-portal\nbundle install\nrails db:create db:migrate db:seed\nrails server```\nMake a new tab in your terminal, run `code .`\nExamine the schema.rb file to understand the database structure",
+        "user": "U04HL79B12M",
+        "ts": "1678475315.799839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JA3AH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nClone the example student portal app:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git clone "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/actualize-daytime-2022-12-04\/example-actualize-portal.git"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ncd example-actualize-portal\nbundle install\nrails db:create db:migrate db:seed\nrails server"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Make a new tab in your terminal, run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "code .",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nExamine the schema.rb file to understand the database structure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "05a15b65-b1cc-4d97-88c9-5c84d9968c63",
+        "type": "message",
+        "text": "Exercise:\nChange the users index action to filter users by their role using `params[:role_id]`. Test it in HTTP client.\n\nChange the users index action to also filter users by their cohort using `params[:cohort_id]`. Test it in HTTP client\n\nChange the users index action to sort the final result by user last name. Test it in HTTP client",
+        "user": "U04HL79B12M",
+        "ts": "1678476852.975269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "746G4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nChange the users index action to filter users by their role using "
+                            },
+                            {
+                                "type": "text",
+                                "text": "params[:role_id]",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Test it in HTTP client.\n\nChange the users index action to also filter users by their cohort using "
+                            },
+                            {
+                                "type": "text",
+                                "text": "params[:cohort_id]",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Test it in HTTP client\n\nChange the users index action to sort the final result by user last name. Test it in HTTP client"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "61a01b34-bbd7-4e74-a0ab-ed5dc80813fb",
+        "type": "message",
+        "text": "Exercise:\nChange the users index action to take in params for limit and offset.\nTest in the Rest Client: `GET localhost:3000\/users?limit=3&amp;offset=6`\n\nBonus: Instead of the user providing two params for limit and offset, have the user provide a single params for a page number instead. A page number of 1 should show items 1 through 10, page 2 should show 11 through 20, etc.\nTest in the Rest Client : `GET localhost:3000\/users.json?page=2`",
+        "user": "U04HL79B12M",
+        "ts": "1678477898.929229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "USMG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nChange the users index action to take in params for limit and offset.\nTest in the Rest Client: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "GET localhost:3000\/users?limit=3&offset=6",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBonus: Instead of the user providing two params for limit and offset, have the user provide a single params for a page number instead. A page number of 1 should show items 1 through 10, page 2 should show 11 through 20, etc.\nTest in the Rest Client : "
+                            },
+                            {
+                                "type": "text",
+                                "text": "GET localhost:3000\/users.json?page=2",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7eeb6eb4-b2da-4047-bdcd-41e2c1807303",
+        "type": "message",
+        "text": "Exercise:\nResearch the Rails N + 1 problem\n\nTry to implement a solution to speed up the localhost:3000\/users request without using pagination (the rails server log should only show two or three SQL queries instead of hundreds)\n\nBonus: Try to speed up the localhost:3000\/cohorts request (this one is trickier with nested data)",
+        "user": "U04HL79B12M",
+        "ts": "1678478612.234149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bYT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nResearch the Rails N + 1 problem\n\nTry to implement a solution to speed up the localhost:3000\/users request without using pagination (the rails server log should only show two or three SQL queries instead of hundreds)\n\nBonus: Try to speed up the localhost:3000\/cohorts request (this one is trickier with nested data)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8469b575-1581-461d-bcf8-bcc7b3dee053",
+        "type": "message",
+        "text": "Exercise:\nPractice SQL using the above resources\nOr read through the Active Record documentation (using scopes to clean up controllers)\nOr look thru old apps to find and fix N + 1 queries",
+        "user": "U04HL79B12M",
+        "ts": "1678479532.739709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "20mP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nPractice SQL using the above resources\nOr read through the Active Record documentation (using scopes to clean up controllers)\nOr look thru old apps to find and fix N + 1 queries"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

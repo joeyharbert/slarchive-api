@@ -1,0 +1,232 @@
+[
+    {
+        "client_msg_id": "d76a1d92-0f84-4503-bb84-4822fbb1a275",
+        "type": "message",
+        "text": "<https:\/\/github.com\/actualize-daytime-2022-12-04\/resources\/blob\/main\/setup_git_and_github.md>",
+        "user": "U04HL79B12M",
+        "ts": "1673370791.293129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f0XI=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/actualize-daytime-2022-12-04\/resources\/blob\/main\/setup_git_and_github.md"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d6c25672-c4e0-4a1a-8c3d-afc4f333ac28",
+        "type": "message",
+        "text": "`rm -rf .git`",
+        "user": "U04HL79B12M",
+        "ts": "1673371267.458889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "grvI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rm -rf .git",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1673371463.000000"
+        }
+    },
+    {
+        "client_msg_id": "c97e33c8-bfd4-4439-997a-106aed945ea8",
+        "type": "message",
+        "text": "<https:\/\/docs.github.com\/en\/free-pro-team@latest\/github\/authenticating-to-github\/creating-a-personal-access-token>",
+        "user": "U04HL79B12M",
+        "ts": "1673372741.745729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JYm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.github.com\/en\/free-pro-team@latest\/github\/authenticating-to-github\/creating-a-personal-access-token"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/docs.github.com\/en\/free-pro-team@latest\/github\/authenticating-to-github\/creating-a-personal-access-token",
+                "image_url": "https:\/\/github.githubassets.com\/images\/modules\/open_graph\/github-logo.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7038,
+                "service_icon": "https:\/\/docs.github.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/docs.github.com\/en\/free-pro-team@latest\/github\/authenticating-to-github\/creating-a-personal-access-token",
+                "fallback": "GitHub Docs: Creating a personal access token - GitHub Docs",
+                "text": "You can create a personal access token to use in place of a password with the command line or with the API.",
+                "title": "Creating a personal access token - GitHub Docs",
+                "title_link": "https:\/\/docs.github.com\/en\/free-pro-team@latest\/github\/authenticating-to-github\/creating-a-personal-access-token",
+                "service_name": "GitHub Docs"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49cce74a-a8e8-4400-96cd-324b4c83685a",
+        "type": "message",
+        "text": "<https:\/\/github.com\/settings\/tokens\/new>",
+        "user": "U04HL79B12M",
+        "ts": "1673373058.525279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PDA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/settings\/tokens\/new"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/settings\/tokens\/new",
+                "image_url": "https:\/\/github.githubassets.com\/images\/modules\/open_graph\/github-logo.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7038,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/settings\/tokens\/new",
+                "fallback": "GitHub",
+                "text": "GitHub is where people build software. More than 94 million people use GitHub to discover, fork, and contribute to over 330 million projects.",
+                "title": "GitHub",
+                "title_link": "https:\/\/github.com\/settings\/tokens\/new"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e7e2f09-b972-4303-9424-b87a3a384fe0",
+        "type": "message",
+        "text": "<http:\/\/rubyweekly.com\/>",
+        "user": "U04HL79B12M",
+        "ts": "1673376766.015969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/rubyweekly.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

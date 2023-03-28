@@ -1,0 +1,272 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678295583.868509",
+        "user": "U04DLUZMY84",
+        "text": "<@U04DLUZMY84> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678295634.530659",
+        "user": "U04DLUZGJ4C",
+        "text": "<@U04DLUZGJ4C> has joined the channel",
+        "inviter": "U04DLUZMY84"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678295634.613999",
+        "user": "U04DLUZ1JCU",
+        "text": "<@U04DLUZ1JCU> has joined the channel",
+        "inviter": "U04DLUZMY84"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678295634.695049",
+        "user": "U04HL79B12M",
+        "text": "<@U04HL79B12M> has joined the channel",
+        "inviter": "U04DLUZMY84"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678295634.765839",
+        "user": "U04HB4D6ARZ",
+        "text": "<@U04HB4D6ARZ> has joined the channel",
+        "inviter": "U04DLUZMY84"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678295634.842229",
+        "user": "U04HB4DFQ0K",
+        "text": "<@U04HB4DFQ0K> has joined the channel",
+        "inviter": "U04DLUZMY84"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678295634.919249",
+        "user": "U04GY24PLTY",
+        "text": "<@U04GY24PLTY> has joined the channel",
+        "inviter": "U04DLUZMY84"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678295635.009209",
+        "user": "U04D3UXCN3Z",
+        "text": "<@U04D3UXCN3Z> has joined the channel",
+        "inviter": "U04DLUZMY84"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678295652.327929",
+        "user": "U04DFH2CCR3",
+        "text": "<@U04DFH2CCR3> has joined the channel",
+        "inviter": "U04DLUZMY84"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678295661.208449",
+        "user": "U04DLUZTL2Y",
+        "text": "<@U04DLUZTL2Y> has joined the channel",
+        "inviter": "U04DLUZMY84"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678295772.894779",
+        "user": "U04J9382JP3",
+        "text": "<@U04J9382JP3> has joined the channel",
+        "inviter": "U04DLUZMY84"
+    },
+    {
+        "client_msg_id": "7fb2155b-16cf-4b2b-9713-ab52f80274c5",
+        "type": "message",
+        "text": "<https:\/\/www.goodreads.com\/book\/show\/186074.The_Name_of_the_Wind|The Name of the Wind by Patrick Rothfuss>",
+        "user": "U04DLUZMY84",
+        "ts": "1678295920.404719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mGarx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.goodreads.com\/book\/show\/186074.The_Name_of_the_Wind",
+                                "text": "The Name of the Wind by Patrick Rothfuss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "97ccafc9cb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4602596693541_97ccafc9cb624f6d5b6a_72.png",
+            "first_name": "Madeline",
+            "real_name": "Madeline Vogel",
+            "display_name": "Madeline Vogel",
+            "team": "T04C9T53QJK",
+            "name": "madmvogel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/s.gr-assets.com\/assets\/facebook\/goodreads_wide-e23f6858b6bf20dcaf8493237a214a0e.png",
+                "image_width": 1200,
+                "image_height": 628,
+                "image_bytes": 35203,
+                "from_url": "https:\/\/www.goodreads.com\/book\/show\/186074.The_Name_of_the_Wind",
+                "service_icon": "https:\/\/www.goodreads.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.goodreads.com\/book\/show\/186074.The_Name_of_the_Wind",
+                "fallback": "Goodreads",
+                "text": "Discover and share books you love on Goodreads.",
+                "title": "Goodreads",
+                "title_link": "https:\/\/www.goodreads.com\/book\/show\/186074.The_Name_of_the_Wind",
+                "service_name": "goodreads.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4b67ed8-93a8-4ae9-a1cf-a23c5902a570",
+        "type": "message",
+        "text": "This one had my crying in public (i was reading on the train lol) it was so sad and beautiful: <https:\/\/www.goodreads.com\/book\/show\/60781.Soldier_Boys?from_search=true&amp;from_srp=true&amp;qid=jNL82KNWFD&amp;rank=1>",
+        "user": "U04HB4DFQ0K",
+        "ts": "1678296042.222529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qOo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This one had my crying in public (i was reading on the train lol) it was so sad and beautiful: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.goodreads.com\/book\/show\/60781.Soldier_Boys?from_search=true&from_srp=true&qid=jNL82KNWFD&rank=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "8788338e91da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4615286762803_8788338e91da5cb6f873_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn Spaulding",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "robynm27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.goodreads.com\/book\/show\/60781.Soldier_Boys?from_search=true&from_srp=true&qid=jNL82KNWFD&rank=1",
+                "image_url": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/compressed.photo.goodreads.com\/books\/1388260031i\/60781.jpg",
+                "image_width": 279,
+                "image_height": 475,
+                "image_bytes": 30728,
+                "service_icon": "https:\/\/www.goodreads.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.goodreads.com\/book\/show\/60781.Soldier_Boys?from_search=true&amp;from_srp=true&amp;qid=jNL82KNWFD&amp;rank=1",
+                "fallback": "Goodreads: Soldier Boys",
+                "text": "Spencer Morgan and Dieter Hedrick are on opposite sides…",
+                "title": "Soldier Boys",
+                "title_link": "https:\/\/www.goodreads.com\/book\/show\/60781.Soldier_Boys?from_search=true&from_srp=true&qid=jNL82KNWFD&rank=1",
+                "service_name": "Goodreads"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f977a4c7-5107-4ba6-b932-d2eeb495e51a",
+        "type": "message",
+        "text": "Also this: <https:\/\/www.goodreads.com\/book\/show\/375802.Ender_s_Game?ac=1&amp;from_search=true&amp;qid=b2NIROh6s1&amp;rank=1>",
+        "user": "U04HB4DFQ0K",
+        "ts": "1678296113.748989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SSM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also this: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.goodreads.com\/book\/show\/375802.Ender_s_Game?ac=1&from_search=true&qid=b2NIROh6s1&rank=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "8788338e91da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4615286762803_8788338e91da5cb6f873_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn Spaulding",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "robynm27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.goodreads.com\/book\/show\/375802.Ender_s_Game?ac=1&from_search=true&qid=b2NIROh6s1&rank=1",
+                "image_url": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/compressed.photo.goodreads.com\/books\/1408303130i\/375802.jpg",
+                "image_width": 290,
+                "image_height": 475,
+                "image_bytes": 68043,
+                "service_icon": "https:\/\/www.goodreads.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.goodreads.com\/book\/show\/375802.Ender_s_Game?ac=1&amp;from_search=true&amp;qid=b2NIROh6s1&amp;rank=1",
+                "fallback": "Goodreads: Ender’s Game (Ender's Saga, #1)",
+                "text": "Andrew \"Ender\" Wiggin thinks he is playing computer sim…",
+                "title": "Ender’s Game (Ender's Saga, #1)",
+                "title_link": "https:\/\/www.goodreads.com\/book\/show\/375802.Ender_s_Game?ac=1&from_search=true&qid=b2NIROh6s1&rank=1",
+                "service_name": "Goodreads"
+            }
+        ]
+    }
+]

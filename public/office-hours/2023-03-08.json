@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "41cca00e-5726-402c-8725-f60acd5ab5e0",
+        "type": "message",
+        "text": "Office Hour today after class!",
+        "user": "U04HB4DFQ0K",
+        "ts": "1678311282.605049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KJsFe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Office Hour today after class!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "8788338e91da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4615286762803_8788338e91da5cb6f873_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn Spaulding",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "robynm27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

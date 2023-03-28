@@ -1,0 +1,268 @@
+[
+    {
+        "client_msg_id": "7419f59f-01b1-4c9f-99ba-94973aadb023",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/11889048\/is-there-documentation-for-the-rails-column-types>",
+        "user": "U04HL79B12M",
+        "ts": "1674498414.661309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SJC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/11889048\/is-there-documentation-for-the-rails-column-types"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/stackoverflow.com\/questions\/11889048\/is-there-documentation-for-the-rails-column-types",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/11889048\/is-there-documentation-for-the-rails-column-types",
+                "fallback": "Stack Overflow: Is there documentation for the Rails column types?",
+                "text": "I'm looking for more than the simple type listing that is found on this page:\n :primary_key, :string, :text, :integer, :float, :decimal, :datetime, :timestamp, :time, :date, :binary, :boolean\nBu...",
+                "title": "Is there documentation for the Rails column types?",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/11889048\/is-there-documentation-for-the-rails-column-types",
+                "service_name": "Stack Overflow"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "274b0253-2c9c-4e8c-9882-16a861959f92",
+        "type": "message",
+        "text": "<https:\/\/guides.rubyonrails.org\/v3.2\/migrations.html#supported-types>",
+        "user": "U04HL79B12M",
+        "ts": "1674498507.534569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ug",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/guides.rubyonrails.org\/v3.2\/migrations.html#supported-types"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ecad5ccd-052c-4275-b260-f5fe7f4ab9a2",
+        "type": "message",
+        "text": "<https:\/\/guides.rubyonrails.org\/active_record_migrations.html#using-the-change-method>",
+        "user": "U04HL79B12M",
+        "ts": "1674499019.178809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1smy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/guides.rubyonrails.org\/active_record_migrations.html#using-the-change-method"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "832abc49-cdec-4665-9667-ba0f3c4d037d",
+        "type": "message",
+        "text": "<http:\/\/guides.rubyonrails.org\/active_record_migrations.html>\n<http:\/\/api.rubyonrails.org\/classes\/ActiveRecord\/Migration.html>",
+        "user": "U04HL79B12M",
+        "ts": "1674500276.527529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pk0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/guides.rubyonrails.org\/active_record_migrations.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/api.rubyonrails.org\/classes\/ActiveRecord\/Migration.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/api.rubyonrails.org\/classes\/ActiveRecord\/Migration.html",
+                "service_icon": "https:\/\/api.rubyonrails.org\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/api.rubyonrails.org\/classes\/ActiveRecord\/Migration.html",
+                "fallback": "ActiveRecord::Migration",
+                "text": "Active Record Migrations Migrations can manage the evolution of a schema used by several physical databases.",
+                "title": "ActiveRecord::Migration",
+                "title_link": "http:\/\/api.rubyonrails.org\/classes\/ActiveRecord\/Migration.html",
+                "service_name": "api.rubyonrails.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "496fd382-c1f5-4867-b07e-77f3765bdc1d",
+        "type": "message",
+        "text": "```brew install --cask postico```",
+        "user": "U04HL79B12M",
+        "ts": "1674503419.757989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tw1q0",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "brew install --cask postico"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e9ecb76e-7297-46fb-9d5e-feb7ee6a2743",
+        "type": "message",
+        "text": "<https:\/\/github.com\/rroblak\/seed_dump>",
+        "user": "U04HL79B12M",
+        "ts": "1674510765.891199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FdhT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/rroblak\/seed_dump"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

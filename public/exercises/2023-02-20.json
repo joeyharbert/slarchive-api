@@ -1,0 +1,1667 @@
+[
+    {
+        "client_msg_id": "f329dd57-7e22-4178-8790-c23e23414bb6",
+        "type": "message",
+        "text": "Exercise:\nOpen your terminal, navigate to your Actualize folder\nMake a new folder called practice-javascript\n```mkdir practice-javascript\ncd practice-javascript```\nMake a new file called test.js\n```touch test.js```\nOpen the folder in VSCode\n```code .```\nPaste in the following code (which has mistakes):\n```my_variable = 3\n\n  console.log(my_variable)```\nUse the Setup: VSCode linter for JavaScript guide to install a linter and formatter in your text editor\n\n\nIf you finish early, you can practice writing some javascript (you can run your code in the terminal using `node test.js`)\n\nIf you want your code to auto format when you save, *add* this line to your settings.json in VSCode (access settings.json with `cmd + shift + p` and `Open User Settings JSON`\n```\"[javascript]\": {\n    \"editor.defaultFormatter\": \"esbenp.prettier-vscode\"\n  },```",
+        "user": "U04HL79B12M",
+        "ts": "1676914084.858679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aRC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nOpen your terminal, navigate to your Actualize folder\nMake a new folder called practice-javascript\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mkdir practice-javascript\ncd practice-javascript"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Make a new file called test.js\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "touch test.js"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Open the folder in VSCode\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "code ."
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Paste in the following code (which has mistakes):\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my_variable = 3\n\n  console.log(my_variable)"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Use the Setup: VSCode linter for JavaScript guide to install a linter and formatter in your text editor\n\n\nIf you finish early, you can practice writing some javascript (you can run your code in the terminal using "
+                            },
+                            {
+                                "type": "text",
+                                "text": "node test.js",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nIf you want your code to auto format when you save, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "add",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " this line to your settings.json in VSCode (access settings.json with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "cmd + shift + p",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Open User Settings JSON",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"[javascript]\": {\n    \"editor.defaultFormatter\": \"esbenp.prettier-vscode\"\n  },"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1676914276.000000"
+        }
+    },
+    {
+        "client_msg_id": "75167afb-5e50-41ca-90f2-1a847b601473",
+        "type": "message",
+        "text": "Exercise:\n• Open your terminal, navigate to your Actualize folder\n• Clone the js-lotr exercise:\n```git clone <https:\/\/github.com\/actualize-daytime-2022-12-04\/js-lotr.git>```\n```cd js-lotr```\n\n• Open the index.html file in your browser (if it opens in Safari, copy the url to Google Chrome)\n```open index.html```\n\n• In your Google Chrome browser, open the web inspector using the keyboard shortcut CMD OPT J\n\n• In your terminal, open your text editor\n```code .```\n\n• Write your code in `scripts\/tasks.js`. Read each task and write the solution code for each where it says “WRITE YOUR CODE HERE”\n• After your group agrees each task is complete, uncomment the test function and refresh the browser. Check out the console.\n• If you get stuck for a while, you can reference the `solutions.js` file to keep making progress\nBonus: Check out the `tests.js` file to see how the tests are written.\n\nSuper Bonus: Check out the `domEvents.js` file, then read up on DOM Manipulation: <https:\/\/www.w3schools.com\/js\/js_htmldom_document.asp>.\nSee if you can change a function to do something different to the DOM!\n\nSome reference javascript code: <https:\/\/gist.github.com\/peterxjang\/cdfa5184459de13bde8db504f2607a20>",
+        "user": "U04HL79B12M",
+        "ts": "1676915804.269319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xen",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Open your terminal, navigate to your Actualize folder"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Clone the js-lotr exercise:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git clone "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/actualize-daytime-2022-12-04\/js-lotr.git"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cd js-lotr"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Open the index.html file in your browser (if it opens in Safari, copy the url to Google Chrome)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "open index.html"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In your Google Chrome browser, open the web inspector using the keyboard shortcut CMD OPT J"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In your terminal, open your text editor"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "code ."
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Write your code in "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "scripts\/tasks.js",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". Read each task and write the solution code for each where it says “WRITE YOUR CODE HERE”"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "After your group agrees each task is complete, uncomment the test function and refresh the browser. Check out the console."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If you get stuck for a while, you can reference the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "solutions.js",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " file to keep making progress"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBonus: Check out the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tests.js",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file to see how the tests are written.\n\nSuper Bonus: Check out the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "domEvents.js",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file, then read up on DOM Manipulation: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/js\/js_htmldom_document.asp"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nSee if you can change a function to do something different to the DOM!\n\nSome reference javascript code: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/peterxjang\/cdfa5184459de13bde8db504f2607a20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.w3schools.com\/images\/w3schools_logo_436_2.png",
+                "image_width": 436,
+                "image_height": 228,
+                "image_bytes": 6369,
+                "from_url": "https:\/\/www.w3schools.com\/js\/js_htmldom_document.asp",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.w3schools.com\/js\/js_htmldom_document.asp",
+                "fallback": "JavaScript DOM Document",
+                "text": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+                "title": "JavaScript DOM Document",
+                "title_link": "https:\/\/www.w3schools.com\/js\/js_htmldom_document.asp",
+                "service_name": "w3schools.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "498d8bc1-13af-4bd9-8119-538eca2ad7f6",
+        "type": "message",
+        "text": "Exercise:\nPractice JavaScript!\n• Option 1: Continue with the js-lotr exercises\n• Option 2: Complete the problems in this gist: <https:\/\/gist.github.com\/peterxjang\/cdfa5184459de13bde8db504f2607a20> \n• Option 3: Use your deliberate practice skills spreadsheet to practice specific problems\n",
+        "user": "U04HL79B12M",
+        "ts": "1676921908.098069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tO3bC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nPractice JavaScript!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Option 1: Continue with the js-lotr exercises"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Option 2: Complete the problems in this gist: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/gist.github.com\/peterxjang\/cdfa5184459de13bde8db504f2607a20"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Option 3: Use your deliberate practice skills spreadsheet to practice specific problems"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2037d89e-126b-44ab-923e-9b06548f2e5e",
+        "type": "message",
+        "text": "Example whiteboarding problem: Write a function that takes in an array of numbers and returns the largest number.",
+        "user": "U04HL79B12M",
+        "ts": "1676927284.536269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "waTOj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Example whiteboarding problem: Write a function that takes in an array of numbers and returns the largest number."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8b852caa-d723-4dc5-ae2b-f76edebcdce6",
+        "type": "message",
+        "text": "Input: [2,3,1,9,3,7]\nOutput: 9",
+        "user": "U04HL79B12M",
+        "ts": "1676927517.385589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SV7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Input: [2,3,1,9,3,7]\nOutput: 9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ec90e16e-c896-429c-a495-92322129cd04",
+        "type": "message",
+        "text": "[*2*,*3*,1,9,3,7] -&gt; max is 3",
+        "user": "U04HL79B12M",
+        "ts": "1676927596.788289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "["
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ",1,9,3,7] -> max is 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "87cb2942-6a0a-4f75-a02d-e4be8b5a6fc4",
+        "type": "message",
+        "text": "[2,*3,1*,9,3,7] -&gt; max is 3",
+        "user": "U04HL79B12M",
+        "ts": "1676927608.588779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D5ZR9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2,"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3,1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ",9,3,7] -> max is 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d137a77d-5a4d-4ede-a42a-64106f9aebca",
+        "type": "message",
+        "text": "[2,3,*1,9*,3,7] -&gt; max is 9",
+        "user": "U04HL79B12M",
+        "ts": "1676927622.315259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZkXJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2,3,"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1,9",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ",3,7] -> max is 9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "182f32aa-774d-43a4-864a-95291e093998",
+        "type": "message",
+        "text": "[2,3,1,*9,3*,7] -&gt; max is 9",
+        "user": "U04HL79B12M",
+        "ts": "1676927638.232139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kWvpj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2,3,1,"
+                            },
+                            {
+                                "type": "text",
+                                "text": "9,3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ",7] -> max is 9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6e629986-6cde-425c-b04d-7f0579a509e0",
+        "type": "message",
+        "text": "[2,3,1,9,*3,7*] -&gt; max is 7",
+        "user": "U04HL79B12M",
+        "ts": "1676927651.620319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RKB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2,3,1,9,"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3,7",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "] -> max is 7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f297ec34-5187-4af1-a5e7-3303d7538752",
+        "type": "message",
+        "text": "max is 0",
+        "user": "U04HL79B12M",
+        "ts": "1676927803.279809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hsf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "max is 0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fa399349-ccd4-4250-9ccf-557085dae2d5",
+        "type": "message",
+        "text": "[*2*,3,1,9,3,7] -&gt; max is 2",
+        "user": "U04HL79B12M",
+        "ts": "1676927827.357269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+cxKj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "["
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ",3,1,9,3,7] -> max is 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1676927854.000000"
+        }
+    },
+    {
+        "client_msg_id": "7387b73b-34ff-4823-a9d1-8c06bd1cd618",
+        "type": "message",
+        "text": "[2,*3*,1,9,3,7] -&gt; max is 3",
+        "user": "U04HL79B12M",
+        "ts": "1676927869.100379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nvhU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2,"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ",1,9,3,7] -> max is 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "24f48c16-9458-48e7-a5d3-dbf5ee0d8446",
+        "type": "message",
+        "text": "[2,3,*1*,9,3,7] -&gt; max is 3",
+        "user": "U04HL79B12M",
+        "ts": "1676927881.716779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "33m2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2,3,"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ",9,3,7] -> max is 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5415da02-8c98-4038-81eb-313c974b7192",
+        "type": "message",
+        "text": "[2,3,1,*9*,3,7] -&gt; max is 9",
+        "user": "U04HL79B12M",
+        "ts": "1676927891.698979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z\/Ln",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2,3,1,"
+                            },
+                            {
+                                "type": "text",
+                                "text": "9",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ",3,7] -> max is 9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fdf6c509-abe7-4460-8dd2-d61fba139043",
+        "type": "message",
+        "text": "[2,3,1,9,*3*,7] -&gt; max is 9",
+        "user": "U04HL79B12M",
+        "ts": "1676927901.560819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NOUh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2,3,1,9,"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ",7] -> max is 9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a6f751ae-b11d-4fd5-8348-4fba93126d71",
+        "type": "message",
+        "text": "[2,3,1,9,3,*7*] -&gt; max is 9",
+        "user": "U04HL79B12M",
+        "ts": "1676927915.587699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EeEJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2,3,1,9,3,"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "] -> max is 9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "29a94d4c-db7f-40bb-a66e-96c61324cb17",
+        "type": "message",
+        "text": "```numbers = [2,3,1,9,3,7]\nmax = 0\n\nindex = 0\nwhile index &lt; numbers.length\n   if numbers[index] &gt; max\n      max = numbers[index]\n   end\n   index += 1\nend\n\np max```",
+        "user": "U04HL79B12M",
+        "ts": "1676927956.271179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7wni\/",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "numbers = [2,3,1,9,3,7]\nmax = 0\n\nindex = 0\nwhile index < numbers.length\n   if numbers[index] > max\n      max = numbers[index]\n   end\n   index += 1\nend\n\np max"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1676928068.000000"
+        }
+    },
+    {
+        "client_msg_id": "a884a2b2-c2bc-472a-94a8-474c5ef96931",
+        "type": "message",
+        "text": "Write a function that reverses a string.",
+        "user": "U04HL79B12M",
+        "ts": "1676929668.635489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z5aPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Write a function that reverses a string."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a62eeaaf-5702-4f3a-9b4b-4014757d63cf",
+        "type": "message",
+        "text": "input: \"happy\"\noutput: \"yppah\"",
+        "user": "U04HL79B12M",
+        "ts": "1676929739.706759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N2h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "input: \"happy\"\noutput: \"yppah\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f8256787-beb3-49c0-80d1-b72494c7720a",
+        "type": "message",
+        "text": "input: \"AbCdE\"\noutput: \"EdCbA\"",
+        "user": "U04HL79B12M",
+        "ts": "1676929774.791869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qIK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "input: \"AbCdE\"\noutput: \"EdCbA\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "34ebba51-0db7-49ad-ac1d-e258ee09103e",
+        "type": "message",
+        "text": "input: \"happy\"",
+        "user": "U04HL79B12M",
+        "ts": "1676929983.617929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/Cl\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "input: \"happy\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "db8e6672-7087-423e-a649-5907b163ab88",
+        "type": "message",
+        "text": "\"happ*y*\" &gt;&gt; result = \"y\"",
+        "user": "U04HL79B12M",
+        "ts": "1676930016.436869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gb9t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"happ*y*\" >> result = \"y\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "76828ee3-bc3f-43e5-bf81-e57c02b0a7d5",
+        "type": "message",
+        "text": "\"hap*p*y\" &gt;&gt; result = \"yp\"",
+        "user": "U04HL79B12M",
+        "ts": "1676930034.024649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1xjE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"hap*p*y\" >> result = \"yp\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6d96bdaa-af04-40fc-8d06-f0ae4addc599",
+        "type": "message",
+        "text": "\"ha*p*py\" &gt;&gt; result = \"ypp\"",
+        "user": "U04HL79B12M",
+        "ts": "1676930051.713519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pCRuN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"ha*p*py\" >> result = \"ypp\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2f8e87a9-2a73-4455-9fcb-b654d2c6d6f0",
+        "type": "message",
+        "text": "\"h*a*ppy\" &gt;&gt; result = \"yppa\"",
+        "user": "U04HL79B12M",
+        "ts": "1676930065.847479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qLx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"h*a*ppy\" >> result = \"yppa\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d7a3cbe1-0eb9-477d-9953-99985b425553",
+        "type": "message",
+        "text": "\"*h*appy\" &gt;&gt; result = \"yppah\"",
+        "user": "U04HL79B12M",
+        "ts": "1676930077.287219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cmt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"*h*appy\" >> result = \"yppah\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

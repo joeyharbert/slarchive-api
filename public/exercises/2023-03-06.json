@@ -1,0 +1,241 @@
+[
+    {
+        "client_msg_id": "d231e32c-a71b-4004-9363-101f63665a02",
+        "type": "message",
+        "text": "Exercise:\nFollow this tutorial to build an app using React:\n<https:\/\/www.taniarascia.com\/getting-started-with-react\/#create-react-app>\n\nIf the command to create your app has the error “We no longer support global installation of Create React App.”, change the command to:\n```npx create-react-app@latest react-tutorial```\n(you can stop at Pulling in API Data)",
+        "user": "U04HL79B12M",
+        "ts": "1678122690.436419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7yIl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nFollow this tutorial to build an app using React:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.taniarascia.com\/getting-started-with-react\/#create-react-app"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf the command to create your app has the error “We no longer support global installation of Create React App.”, change the command to:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npx create-react-app@latest react-tutorial"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n(you can stop at Pulling in API Data)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.taniarascia.com\/getting-started-with-react\/#create-react-app",
+                "service_icon": "https:\/\/www.taniarascia.com\/icons\/icon-48x48.png?v=07f5a193c5a1357203c0389b1002fb71",
+                "thumb_url": "https:\/\/www.taniarascia.com\/static\/d695fe69198cc4558284e9aec1a4892c\/92ab1\/react.png",
+                "thumb_width": 150,
+                "thumb_height": 150,
+                "id": 1,
+                "original_url": "https:\/\/www.taniarascia.com\/getting-started-with-react\/#create-react-app",
+                "fallback": "React Tutorial: An Overview and Walkthrough",
+                "text": "I've been hearing about React since I first started learning JavaScript, but I'll admit I took one look at it and it scared me. I saw what…",
+                "title": "React Tutorial: An Overview and Walkthrough",
+                "title_link": "https:\/\/www.taniarascia.com\/getting-started-with-react\/#create-react-app",
+                "service_name": "taniarascia.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8ae8ed6-a75b-46b7-b90c-5f143a0cebca",
+        "type": "message",
+        "text": "Exercise:\nCreate a brand new React project\nChoose a 3rd party React library to experiment with:\n<https:\/\/github.com\/wojtekmaj\/react-calendar>\n<https:\/\/github.com\/highcharts\/highcharts-react>\n<https:\/\/github.com\/mariusandra\/pigeon-maps>\n<https:\/\/github.com\/rcaferati\/react-awesome-button>\n<https:\/\/github.com\/CookPete\/react-player>",
+        "user": "U04HL79B12M",
+        "ts": "1678128254.471099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Ziox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nCreate a brand new React project\nChoose a 3rd party React library to experiment with:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/wojtekmaj\/react-calendar"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/highcharts\/highcharts-react"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/mariusandra\/pigeon-maps"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/rcaferati\/react-awesome-button"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/CookPete\/react-player"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4caa33f2-898f-4ea7-8b2c-5d37726aafb9",
+        "type": "message",
+        "text": "Exercise:\nTry installing a React library you haven’t worked with before: <https:\/\/github.com\/brillout\/awesome-react-components>",
+        "user": "U04HL79B12M",
+        "ts": "1678131114.668609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qlC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nTry installing a React library you haven’t worked with before: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/brillout\/awesome-react-components"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a483a74c-7403-4102-b8c9-a21d74a0f6cd",
+        "type": "message",
+        "text": "Exercise:\nWork on the Price Combinations problem in groups of two or three.\nIf you get stuck, decompose and solve smaller problems that can lead you to the solution!\nNavigators can do research on their own computers while the driver codes",
+        "user": "U04HL79B12M",
+        "ts": "1678138034.258409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0AhF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nWork on the Price Combinations problem in groups of two or three.\nIf you get stuck, decompose and solve smaller problems that can lead you to the solution!\nNavigators can do research on their own computers while the driver codes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1678138054.000000"
+        }
+    }
+]

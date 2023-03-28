@@ -1,0 +1,222 @@
+[
+    {
+        "client_msg_id": "1ddbfa1f-e857-432a-9ccf-9c6fd8a91c0f",
+        "type": "message",
+        "text": "Info session coming up Monday for those interested in Develop Carolina! We’ve had several grads have great experiences there. :slightly_smiling_face:  Here’s the event sign up link with more info below <https:\/\/airtable.com\/shrCsaW2MqomKeW9h>\n\n“This virtual session is for individuals interested in applying (or who have already applied) to the upcoming Develop Carolina Apprenticeship cohort beginning July 10, 2023. During this information session, you’ll meet the Develop Carolina team, gain insights into the program’s structure &amp; schedule, and have an opportunity to ask any and all questions.\n\nTo be eligible for the Develop Carolina program, you must:\n-be 18 years of age or older\n-be interested in entering a career in software development\n-have recently completed a degree or certificate program or be able to demonstrate proficiency via a portfolio (self-taught developers welcome!)”",
+        "user": "U04J9382JP3",
+        "ts": "1677626621.181919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "70j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Info session coming up Monday for those interested in Develop Carolina! We’ve had several grads have great experiences there. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Here’s the event sign up link with more info below "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/airtable.com\/shrCsaW2MqomKeW9h"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n“This virtual session is for individuals interested in applying (or who have already applied) to the upcoming Develop Carolina Apprenticeship cohort beginning July 10, 2023. During this information session, you’ll meet the Develop Carolina team, gain insights into the program’s structure & schedule, and have an opportunity to ask any and all questions.\n\nTo be eligible for the Develop Carolina program, you must:\n-be 18 years of age or older\n-be interested in entering a career in software development\n-have recently completed a degree or certificate program or be able to demonstrate proficiency via a portfolio (self-taught developers welcome!)”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/static.airtable.com\/images\/oembed\/airtable.png",
+                "image_width": 1200,
+                "image_height": 628,
+                "image_bytes": 254455,
+                "from_url": "https:\/\/airtable.com\/shrCsaW2MqomKeW9h",
+                "service_icon": "https:\/\/airtable.com\/images\/favicon\/baymax\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/airtable.com\/shrCsaW2MqomKeW9h",
+                "fallback": "Airtable: Airtable | Everyone's app platform",
+                "text": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+                "title": "Airtable | Everyone's app platform",
+                "title_link": "https:\/\/airtable.com\/shrCsaW2MqomKeW9h",
+                "service_name": "Airtable"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31cb4212-4921-4d9d-8ea4-899208c1e79d",
+        "type": "message",
+        "text": "more about the program here: <https:\/\/www.developcarolina.org\/>",
+        "user": "U04J9382JP3",
+        "ts": "1677626645.419449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oLVzq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "more about the program here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.developcarolina.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04J9382JP3",
+            "ts": "1677628467.000000"
+        }
+    },
+    {
+        "client_msg_id": "E89F4B43-1C93-4209-9227-C30583A59319",
+        "type": "message",
+        "text": "Def interested! Just signed up!",
+        "user": "U04DLUZGJ4C",
+        "ts": "1677628372.022199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d+QcD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Def interested! Just signed up!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677628372.022199",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677635844.596889",
+        "reply_users": [
+            "U04HB4DFQ0K"
+        ],
+        "replies": [
+            {
+                "user": "U04HB4DFQ0K",
+                "ts": "1677635844.596889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "59164008-7dbf-4fab-b415-9d4c4af39b03",
+        "type": "message",
+        "text": "Me too!",
+        "user": "U04HB4DFQ0K",
+        "ts": "1677635844.596889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IkBV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "8788338e91da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4615286762803_8788338e91da5cb6f873_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn Spaulding",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "robynm27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677628372.022199",
+        "parent_user_id": "U04DLUZGJ4C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

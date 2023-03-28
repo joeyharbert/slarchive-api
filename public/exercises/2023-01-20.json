@@ -1,0 +1,365 @@
+[
+    {
+        "client_msg_id": "16d76b80-f951-46ce-ac09-a8e448fba660",
+        "type": "message",
+        "text": "Exercise: Hacker Exercise (work in pairs)\nClone this app, bundle its gems and start the server with the following commands\n```git clone <https:\/\/github.com\/actualize-daytime-2022-12-04\/params-security-exercise.git>\ncd params-security-exercise\nbundle install\nrails server```\n• Make a web request to localhost:3000 to get started.\n\nBack story: You are hackers breaking into an enemy government’s classified website, whose source code you’ve hacked and downloaded. Based on the source code alone (and the skills we’ve learned today), you will hack your way to obtain a top secret message.\n\nYou are allowed to look at the entire code base, but you aren’t allowed to change any of the code. If you need to create a ruby script make sure to create it in a different folder as you “do not have the ability” to change the source code of the site you are hacking. If you change code or jump ahead it may break or the tumblers may reset and you will have to start over\n\nBONUS: Learn how to hack through the command line by playing “wargames”: <https:\/\/overthewire.org\/wargames\/bandit\/>",
+        "user": "U04HL79B12M",
+        "ts": "1674240000.359469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KTyY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Hacker Exercise (work in pairs)\nClone this app, bundle its gems and start the server with the following commands\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git clone "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/actualize-daytime-2022-12-04\/params-security-exercise.git"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ncd params-security-exercise\nbundle install\nrails server"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n• Make a web request to localhost:3000 to get started.\n\nBack story: You are hackers breaking into an enemy government’s classified website, whose source code you’ve hacked and downloaded. Based on the source code alone (and the skills we’ve learned today), you will hack your way to obtain a top secret message.\n\nYou are allowed to look at the entire code base, but you aren’t allowed to change any of the code. If you need to create a ruby script make sure to create it in a different folder as you “do not have the ability” to change the source code of the site you are hacking. If you change code or jump ahead it may break or the tumblers may reset and you will have to start over\n\nBONUS: Learn how to hack through the command line by playing “wargames”: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/overthewire.org\/wargames\/bandit\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "For the last gate in order to get the body params to work, you'll have to select body, text, and type your params as actual json:",
+        "files": [
+            {
+                "id": "F04KG2N132B",
+                "created": 1674242462,
+                "timestamp": 1674242462,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04HL79B12M",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 265847,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04KG2N132B\/image.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04KG2N132B\/download\/image.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KG2N132B-0477b6857b\/image_64.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KG2N132B-0477b6857b\/image_80.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KG2N132B-0477b6857b\/image_360.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360_w": 360,
+                "thumb_360_h": 301,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KG2N132B-0477b6857b\/image_480.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_480_w": 480,
+                "thumb_480_h": 402,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KG2N132B-0477b6857b\/image_160.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KG2N132B-0477b6857b\/image_720.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720_w": 720,
+                "thumb_720_h": 603,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KG2N132B-0477b6857b\/image_800.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_800_w": 800,
+                "thumb_800_h": 669,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KG2N132B-0477b6857b\/image_960.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_960_w": 960,
+                "thumb_960_h": 803,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KG2N132B-0477b6857b\/image_1024.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 857,
+                "original_w": 1998,
+                "original_h": 1672,
+                "thumb_tiny": "AwAoADCkMGjPNNFLQAuc0mB\/k0Uv40AJxTiUIACkHuc03j1ooAQUtIKWgAooooAKO9FHegBQp9DRtPoamPU\/WkoGQ7T6GjB9D+VTUUCIdp9DS7TnoalpV+8KAP\/Z",
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04HL79B12M\/F04KG2N132B\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04KG2N132B-e5aba83ee6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04HL79B12M",
+        "display_as_bot": false,
+        "ts": "1674242466.170379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rfct",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the last gate in order to get the body params to work, you'll have to select body, text, and type your params as actual json:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "80548fac-64d1-45a5-a4ef-0fb64db63d30"
+    },
+    {
+        "client_msg_id": "2467ab68-a36d-404e-95e7-bf31fe405a70",
+        "type": "message",
+        "text": "Exercise: For your mini-capstone:\n• Add the following tests to `test\/models\/product_test.rb`:\n```  test \"is_discounted?\" do\n    product = Product.new(price: 11)\n    assert_equal false, product.is_discounted?\n\n    product = Product.new(price: 1)\n    assert_equal true, product.is_discounted?\n  end\n\n  test \"tax\" do\n    product = Product.new(price: 100)\n    assert_in_delta 9, product.tax\n  end\n\n  test \"total\" do\n    product = Product.new(price: 100)\n    assert_in_delta 109, product.total\n  end```\n• Create a model method called `is_discounted?` that returns true if an item is less than or equal to $10 and false otherwise.\n\n• Create a model method called `tax` which will return the tax that would be charged for a particular product. (Assume a 9% tax rate.)\n\n• Create a model method called `total` which will return the sum of the price + tax.\n\n• In the terminal, run `rails test` to make sure that the code is working.\n\n• Modify the products view template to display these model methods.\n\n• In the terminal, run `rails test` to make sure that the code is working. (NOTE: You’ll need to update the controller tests to match the updated JSON attributes!)",
+        "user": "U04HL79B12M",
+        "ts": "1674245741.272679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NG8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: For your mini-capstone:\n• Add the following tests to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "test\/models\/product_test.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  test \"is_discounted?\" do\n    product = Product.new(price: 11)\n    assert_equal false, product.is_discounted?\n\n    product = Product.new(price: 1)\n    assert_equal true, product.is_discounted?\n  end\n\n  test \"tax\" do\n    product = Product.new(price: 100)\n    assert_in_delta 9, product.tax\n  end\n\n  test \"total\" do\n    product = Product.new(price: 100)\n    assert_in_delta 109, product.total\n  end"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n• Create a model method called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "is_discounted?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that returns true if an item is less than or equal to $10 and false otherwise.\n\n• Create a model method called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tax",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " which will return the tax that would be charged for a particular product. (Assume a 9% tax rate.)\n\n• Create a model method called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "total",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " which will return the sum of the price + tax.\n\n• In the terminal, run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rails test",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to make sure that the code is working.\n\n• Modify the products view template to display these model methods.\n\n• In the terminal, run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rails test",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to make sure that the code is working. (NOTE: You’ll need to update the controller tests to match the updated JSON attributes!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4af1025f-f679-4e36-b779-406a60d3678d",
+        "type": "message",
+        "text": "Exercise:\n\nDocument your learning in a work journal!  <https:\/\/jvns.ca\/blog\/brag-documents>\n\nClick on the Gists link at the top of GitHub and make a public or secret Gist named work-journal.md.\n\nPaste in this content:\n\n```\n# Work Journal\n\nDoings and learnings. Updated weekly.\n\n\n## YYYY-MM-DD\n\n### Learnings\n\n- (Describe things you have learned, things you are struggling with and how you plan to tackle them)\n\n\n### Interesting things\n\n- (List coding resources you have found and describe why they’re interesting)```\nUpdate the content with today’s date and your content for the learning and interesting things section\n\nFocus on the following:\n\nWhich resources did you find interesting? How do they relate to your previous hobbies or interests?\n\nIf you haven’t found resources that are interesting to you, describe one or two resources you explored in detail and what you learned about the topic.\n\n(example work journal: <https:\/\/samselikoff.com\/work-journal>)\n\n\nSyntax for markdown code blocks: <https:\/\/docs.github.com\/en\/github\/writing-on-github\/creating-and-highlighting-code-blocks>",
+        "user": "U04HL79B12M",
+        "ts": "1674249393.487509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yp1ia",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n\nDocument your learning in a work journal!  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jvns.ca\/blog\/brag-documents"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nClick on the Gists link at the top of GitHub and make a public or secret Gist named work-journal.md.\n\nPaste in this content:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n# Work Journal\n\nDoings and learnings. Updated weekly.\n\n\n## YYYY-MM-DD\n\n### Learnings\n\n- (Describe things you have learned, things you are struggling with and how you plan to tackle them)\n\n\n### Interesting things\n\n- (List coding resources you have found and describe why they’re interesting)"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nUpdate the content with today’s date and your content for the learning and interesting things section\n\nFocus on the following:\n\nWhich resources did you find interesting? How do they relate to your previous hobbies or interests?\n\nIf you haven’t found resources that are interesting to you, describe one or two resources you explored in detail and what you learned about the topic.\n\n(example work journal: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/samselikoff.com\/work-journal"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\n\nSyntax for markdown code blocks: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.github.com\/en\/github\/writing-on-github\/creating-and-highlighting-code-blocks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/jvns.ca\/blog\/brag-documents",
+                "service_icon": "https:\/\/jvns.ca\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/jvns.ca\/blog\/brag-documents",
+                "fallback": "Julia Evans: Get your work recognized: write a brag document",
+                "text": "Get your work recognized: write a brag document",
+                "title": "Get your work recognized: write a brag document",
+                "title_link": "https:\/\/jvns.ca\/blog\/brag-documents",
+                "service_name": "Julia Evans"
+            }
+        ]
+    }
+]

@@ -1,0 +1,779 @@
+[
+    {
+        "client_msg_id": "c101b851-9ddb-4a75-83b7-1ac24367ff02",
+        "type": "message",
+        "text": "Exercise:\nIn your blog-frontend\nIn the terminal, install react router\n```npm install react-router-dom@6```\nMake a new file src\/About.jsx\n```export function About() {\n  return (\n    &lt;div&gt;\n      &lt;h1&gt;About&lt;\/h1&gt;\n    &lt;\/div&gt;\n  );\n}```\nModify src\/App.jsx to import the React router BrowserRouter component\n```import { Header } from \".\/Header\";\nimport { Content } from \".\/Content\";\nimport { Footer } from \".\/Footer\";\nimport { BrowserRouter } from \"react-router-dom\";\n\nfunction App() {\n  return (\n    &lt;div&gt;\n      &lt;BrowserRouter&gt;\n        &lt;Header \/&gt;\n        &lt;Content \/&gt;\n        &lt;Footer \/&gt;\n      &lt;\/BrowserRouter&gt;\n    &lt;\/div&gt;\n  );\n}\n\nexport default App;```\nModify src\/Content.jsx to import React router and the About component\n```import { Routes, Route } from \"react-router-dom\";\nimport { About } from \".\/About\";```\nModify src\/Content.jsx to display the About component as a route\n```    &lt;Routes&gt;\n      &lt;Route path=\"\/about\" element={&lt;About \/&gt;} \/&gt;\n    &lt;\/Routes&gt;```\nIn Header.jsx, import the Link component from react router\n```import { Link } from \"react-router-dom\";```\nIn Header.jsx, add a Link component to link to the “about” route\n```&lt;Link to=\"\/about\"&gt;About&lt;\/Link&gt;```\nBonus: Read more about React router and its features: <https:\/\/reactrouter.com\/en\/v6.3.0\/getting-started\/overview>",
+        "user": "U04HL79B12M",
+        "ts": "1677777901.671979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HZZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn your blog-frontend\nIn the terminal, install react router\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm install react-router-dom@6"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Make a new file src\/About.jsx\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "export function About() {\n  return (\n    <div>\n      <h1>About<\/h1>\n    <\/div>\n  );\n}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Modify src\/App.jsx to import the React router BrowserRouter component\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import { Header } from \".\/Header\";\nimport { Content } from \".\/Content\";\nimport { Footer } from \".\/Footer\";\nimport { BrowserRouter } from \"react-router-dom\";\n\nfunction App() {\n  return (\n    <div>\n      <BrowserRouter>\n        <Header \/>\n        <Content \/>\n        <Footer \/>\n      <\/BrowserRouter>\n    <\/div>\n  );\n}\n\nexport default App;"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nModify src\/Content.jsx to import React router and the About component\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import { Routes, Route } from \"react-router-dom\";\nimport { About } from \".\/About\";"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Modify src\/Content.jsx to display the About component as a route\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "    <Routes>\n      <Route path=\"\/about\" element={<About \/>} \/>\n    <\/Routes>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In Header.jsx, import the Link component from react router\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import { Link } from \"react-router-dom\";"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In Header.jsx, add a Link component to link to the “about” route\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<Link to=\"\/about\">About<\/Link>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonus: Read more about React router and its features: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/reactrouter.com\/en\/v6.3.0\/getting-started\/overview"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "31453768-0748-496f-8bf7-a13e38341e78",
+        "type": "message",
+        "text": "Exercise:\nMake separate routes for different components\n(Signup, Login, etc)",
+        "user": "U04HL79B12M",
+        "ts": "1677779456.698909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9CdD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake separate routes for different components\n(Signup, Login, etc)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "446376c0-a908-43b2-995d-aaded7b38e43",
+        "type": "message",
+        "text": "Exercise:\nMake a separate route for Show Page!",
+        "user": "U04HL79B12M",
+        "ts": "1677782855.604689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fjgmj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake a separate route for Show Page!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f9c5946d-e1f1-4085-9f08-a997d4bce814",
+        "type": "message",
+        "text": "Exercise:\nIn Signup.jsx, make a React state variable for the name\n```const [name, setName] = useState(\"\");```\n\nAdd value and onChange attributes to the name input\n```value={name} onChange={(event) =&gt; setName(event.target.value)}```\n\nAdd an element underneath to display characters remaining\n```&lt;small&gt;{20 - name.length} characters remaining&lt;\/small&gt;```\n\nBonus: Read more about React controlled forms: <https:\/\/reactjs.org\/docs\/forms.html#controlled-components>",
+        "user": "U04HL79B12M",
+        "ts": "1677785890.946989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gKOU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn Signup.jsx, make a React state variable for the name\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "const [name, setName] = useState(\"\");"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nAdd value and onChange attributes to the name input\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "value={name} onChange={(event) => setName(event.target.value)}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nAdd an element underneath to display characters remaining\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<small>{20 - name.length} characters remaining<\/small>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nBonus: Read more about React controlled forms: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/reactjs.org\/docs\/forms.html#controlled-components"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7efaa554-e40b-4479-97d7-abd1ecb81c13",
+        "type": "message",
+        "text": "Exercise:\nIn Signup.jsx, make a React state variable for the status\n```const [status, setStatus] = useState(null);```\n\nSet the status In the .catch() section of the <http:\/\/axios.post|axios.post> request\n```setStatus(error.response.status);```\n\nIn the HTML, add images based on the HTTP status code\n```{status ? &lt;img src={`<https:\/\/http.cat\/${status}>`} \/&gt; : null}```\n\nBonus: If you’re a dog person, use httpstatusdogs instead (example url: <https:\/\/httpstatusdogs.com\/img\/404.jpg>)",
+        "user": "U04HL79B12M",
+        "ts": "1677786683.844909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mmo2k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn Signup.jsx, make a React state variable for the status\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "const [status, setStatus] = useState(null);"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nSet the status In the .catch() section of the axios.post request\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "setStatus(error.response.status);"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nIn the HTML, add images based on the HTTP status code\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "{status ? <img src={`"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/http.cat\/${status}"
+                            },
+                            {
+                                "type": "text",
+                                "text": "`} \/> : null}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nBonus: If you’re a dog person, use httpstatusdogs instead (example url: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/httpstatusdogs.com\/img\/404.jpg"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/httpstatusdogs.com\/img\/404.jpg",
+                "image_url": "https:\/\/httpstatusdogs.com\/img\/404.jpg",
+                "image_width": 650,
+                "image_height": 500,
+                "image_bytes": 70381,
+                "id": 1,
+                "original_url": "https:\/\/httpstatusdogs.com\/img\/404.jpg",
+                "fallback": "650x500px image"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3efa0467-f441-4218-aac0-07d06acd3370",
+        "type": "message",
+        "text": "Exercise:\nModify Header.jsx to conditionally render appropriate signup\/login\/logout links by checking if `localStorage.jwt === undefined`\n\n\nBonus: read more about React conditionals <https:\/\/kentcdodds.com\/blog\/use-ternaries-rather-than-and-and-in-jsx>",
+        "user": "U04HL79B12M",
+        "ts": "1677787194.323119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MFzsv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nModify Header.jsx to conditionally render appropriate signup\/login\/logout links by checking if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "localStorage.jwt === undefined",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nBonus: read more about React conditionals "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kentcdodds.com\/blog\/use-ternaries-rather-than-and-and-in-jsx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/res.cloudinary.com\/kentcdodds-com\/image\/upload\/$th_1256,$tw_2400,$gw_$tw_div_24,$gh_$th_div_12\/co_rgb:a9adc1,c_fit,g_north_west,w_$gw_mul_14,h_$gh,x_$gw_mul_1.5,y_$gh_mul_1.3,l_text:kentcdodds.com:Matter-Regular.woff2_50:Check%2520out%2520this%2520article\/co_white,c_fit,g_north_west,w_$gw_mul_13.5,h_$gh_mul_7,x_$gw_mul_1.5,y_$gh_mul_2.3,l_text:kentcdodds.com:Matter-Regular.woff2_110:Use%2520ternaries%2520rather%2520than%2520%2526%2526%2520in%2520JSX\/c_fit,g_north_west,r_max,w_$gw_mul_4,h_$gh_mul_3,x_$gw,y_$gh_mul_8,l_kent:profile-transparent\/co_rgb:a9adc1,c_fit,g_north_west,w_$gw_mul_5.5,h_$gh_mul_4,x_$gw_mul_4.5,y_$gh_mul_9,l_text:kentcdodds.com:Matter-Regular.woff2_70:Kent%20C.%20Dodds\/co_rgb:a9adc1,c_fit,g_north_west,w_$gw_mul_9,x_$gw_mul_4.5,y_$gh_mul_9.8,l_text:kentcdodds.com:Matter-Regular.woff2_40:kentcdodds.com%252Fblog%252Fuse-ternaries-rather-than-and-and-in-jsx\/c_fill,ar_3:4,r_12,g_east,h_$gh_mul_10,x_$gw,l_unsplash:photo-1516824600626-47a22f894aff\/c_fill,w_$tw,h_$th\/kentcdodds.com\/social-background.png",
+                "image_width": 2400,
+                "image_height": 1256,
+                "image_bytes": 1825654,
+                "from_url": "https:\/\/kentcdodds.com\/blog\/use-ternaries-rather-than-and-and-in-jsx",
+                "service_icon": "https:\/\/kentcdodds.com\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/kentcdodds.com\/blog\/use-ternaries-rather-than-and-and-in-jsx",
+                "fallback": "Use ternaries rather than &amp;&amp; in JSX",
+                "text": "What problems can happen when you use &amp;&amp; to conditionally render content in JSX",
+                "title": "Use ternaries rather than &amp;&amp; in JSX",
+                "title_link": "https:\/\/kentcdodds.com\/blog\/use-ternaries-rather-than-and-and-in-jsx",
+                "service_name": "kentcdodds.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8adc5b32-b8e0-46f6-8ac2-5cc2d0bf34bd",
+        "type": "message",
+        "text": "Exercise:\nIn PostsIndex.jsx, import the useState hook\n```import { useState } from \"react\";```\n\nMake a React state variable for the searchFilter\n```const [searchFilter, setSearchFilter] = useState(\"\");```\n\nIn the HTML, make an input for the search filter\n```Search filter: &lt;input type=\"text\" value={searchFilter} onChange={(event) =&gt; setSearchFilter(event.target.value)} \/&gt;```\n\nAdd a .filter function right before the .map function\n```.filter((post) =&gt; post.title.toLowerCase().includes(searchFilter.toLowerCase()))```\n\nTest search filter in the browser",
+        "user": "U04HL79B12M",
+        "ts": "1677788164.289859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1nl06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn PostsIndex.jsx, import the useState hook\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import { useState } from \"react\";"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nMake a React state variable for the searchFilter\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "const [searchFilter, setSearchFilter] = useState(\"\");"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nIn the HTML, make an input for the search filter\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Search filter: <input type=\"text\" value={searchFilter} onChange={(event) => setSearchFilter(event.target.value)} \/>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nAdd a .filter function right before the .map function\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ".filter((post) => post.title.toLowerCase().includes(searchFilter.toLowerCase()))"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nTest search filter in the browser"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0cda229a-e689-447b-97c3-0febf92532d6",
+        "type": "message",
+        "text": "Exercise:\n• Work on the following problems in groups of three.\n• Take turns driving for each problem (one driver, two navigators).\n• If you get stuck, decompose and solve smaller problems that can lead you to the solution!\n<https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup>\n<https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=strings>",
+        "user": "U04HL79B12M",
+        "ts": "1677790837.837879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oEEyH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Work on the following problems in groups of three."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Take turns driving for each problem (one driver, two navigators)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If you get stuck, decompose and solve smaller problems that can lead you to the solution!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=strings"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup",
+                "service_icon": "https:\/\/hrcdn.net\/fcore\/assets\/favicon-ddc852f75a.png",
+                "thumb_url": "https:\/\/hrcdn.net\/og\/default.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 640,
+                "id": 1,
+                "original_url": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup",
+                "fallback": "HackerRank: Solve Programming Questions | HackerRank",
+                "text": "The true test of problem solving: when one realizes that time and memory aren't infinite.",
+                "title": "Solve Programming Questions | HackerRank",
+                "title_link": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup",
+                "service_name": "HackerRank"
+            },
+            {
+                "from_url": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=strings",
+                "service_icon": "https:\/\/hrcdn.net\/fcore\/assets\/favicon-ddc852f75a.png",
+                "thumb_url": "https:\/\/hrcdn.net\/og\/default.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 640,
+                "id": 2,
+                "original_url": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=strings",
+                "fallback": "HackerRank: Solve Programming Questions | HackerRank",
+                "text": "The true test of problem solving: when one realizes that time and memory aren't infinite.",
+                "title": "Solve Programming Questions | HackerRank",
+                "title_link": "https:\/\/www.hackerrank.com\/domains\/algorithms?filters%5Bsubdomains%5D%5B%5D=strings",
+                "service_name": "HackerRank"
+            }
+        ]
+    }
+]

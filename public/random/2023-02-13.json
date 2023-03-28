@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04NZ3CH06T",
+                "created": 1676316192,
+                "timestamp": 1676316192,
+                "name": "IMG_9439.jpg",
+                "title": "IMG_9439",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04GY24PLTY",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 40527,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04NZ3CH06T\/img_9439.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04NZ3CH06T\/download\/img_9439.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NZ3CH06T-a292446b08\/img_9439_64.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NZ3CH06T-a292446b08\/img_9439_80.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NZ3CH06T-a292446b08\/img_9439_360.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360_w": 245,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NZ3CH06T-a292446b08\/img_9439_480.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_480_w": 327,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NZ3CH06T-a292446b08\/img_9439_160.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NZ3CH06T-a292446b08\/img_9439_720.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720_w": 490,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NZ3CH06T-a292446b08\/img_9439_800.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_800_w": 544,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NZ3CH06T-a292446b08\/img_9439_960.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_960_w": 653,
+                "thumb_960_h": 960,
+                "original_w": 653,
+                "original_h": 960,
+                "thumb_tiny": "AwAwACDScEjApuJM\/eXH0peSTjtSgEHtigCPbN\/fX8Fp6BwDvIJ9hihnxwBSg5oAOhpcikH3jSMOelAC8ZpcUz7o74pVbNADs80dRzSfxUtACYFLimuCelCgjGaAP\/\/Z",
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04GY24PLTY\/F04NZ3CH06T\/img_9439.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04NZ3CH06T-ae7b8b3100",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GY24PLTY",
+        "display_as_bot": false,
+        "ts": "1676316194.961389",
+        "client_msg_id": "45BEAD53-4E1C-4E46-83B5-846276EA6CB5",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04D3UXCN3Z",
+                    "U04DLUZMY84",
+                    "U04HL79B12M"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

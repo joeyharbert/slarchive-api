@@ -1,0 +1,532 @@
+[
+    {
+        "client_msg_id": "dd4d334f-1d23-49d2-9e73-567fdb47fdb2",
+        "type": "message",
+        "text": "Exercise:\n• In your mini-capstone, add authorization to your orders controller index and create actions\n• Test it out using your HTTP client (with and without a valid JWT)\n",
+        "user": "U04HL79B12M",
+        "ts": "1675185359.582019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+8c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In your mini-capstone, add authorization to your orders controller index and create actions"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Test it out using your HTTP client (with and without a valid JWT)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "23d6c7a7-e798-462e-b5d8-d6ca2af9300e",
+        "type": "message",
+        "text": "Exercise:\n• Refactor orders controller to use authenticate_user\n• Add admin boolean column to User table with default value of false\n• Use a `before_action :authenticate_admin` to prohibit non-admin users from creating, updating, and deleting products. (You’ll need to create the `authenticate_admin` method in the application_controller).\nBonus:\n• If you run `rails test`, your products controller tests will fail for create\/update\/destroy.\n    ◦ This is because they now require an admin’s jwt in the headers!\n    ◦ See if you can update your tests (you can look at the orders controller tests to see how to make a jwt and include it in each header)",
+        "user": "U04HL79B12M",
+        "ts": "1675187301.156489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ARBC0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Refactor orders controller to use authenticate_user"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add admin boolean column to User table with default value of false"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "before_action :authenticate_admin",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to prohibit non-admin users from creating, updating, and deleting products. (You’ll need to create the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "authenticate_admin",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " method in the application_controller)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBonus:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If you run "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "rails test",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", your products controller tests will fail for create\/update\/destroy."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "This is because they now require an admin’s jwt in the headers!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "See if you can update your tests (you can look at the orders controller tests to see how to make a jwt and include it in each header)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1675187332.000000"
+        }
+    },
+    {
+        "client_msg_id": "e188627f-d462-45b5-8d42-2d69eccfefbc",
+        "type": "message",
+        "text": "Exercise:\n• Update your products controller tests to pass using `setup`\n• Use HTTPie variables to DRY up each request: <https:\/\/httpie.io\/blog\/changelog-0017#variables> ",
+        "user": "U04HL79B12M",
+        "ts": "1675190209.353489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KYnb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Update your products controller tests to pass using "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "setup",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use HTTPie variables to DRY up each request: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/httpie.io\/blog\/changelog-0017#variables"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/httpie.io\/blog\/changelog-0017#variables",
+                "image_url": "https:\/\/httpie.io\/Images\/Share\/blog-changelog-0017.png",
+                "image_width": 448,
+                "image_height": 250,
+                "image_bytes": 355958,
+                "service_icon": "https:\/\/httpie.io\/Brand\/Favicons\/Black\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/httpie.io\/blog\/changelog-0017#variables",
+                "fallback": "Changelog #0017 — ☁️ Sync, variables, incognito, more features, and public beta! – HTTPie blog: Changelog #0017 — :cloud: Sync, variables, incognito, more features, and public beta! – HTTPie blog",
+                "text": "After months of development, testing, and collecting feedback in private beta, we’re opening HTTPie for Web &amp; Desktop to everyone today :rocket:",
+                "title": "Changelog #0017 — :cloud: Sync, variables, incognito, more features, and public beta! – HTTPie blog",
+                "title_link": "https:\/\/httpie.io\/blog\/changelog-0017#variables",
+                "service_name": "Changelog #0017 — ☁️ Sync, variables, incognito, more features, and public beta! – HTTPie blog"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc06ea45-b58d-480d-ae60-50d9a405ed95",
+        "type": "message",
+        "text": "Exercise:\n1. Create a Category model (with a name attribute)\n\n2. Create a CategoryProduct model (with a product_id and category_id attribute, both integers)\n\n3. In the rails console, create some Category instances in your database\n\n4. In the rails console, create some CategoryProduct instances in your database\n\n5. In your text editor, write the has_many \/ belongs_to relationships between Category, Product, and CategoryProduct\n\n\nBONUS: In your Category model, make a `products` method that returns all the products associated with that category. (You’ll need to loop through all the `category_products` and find the associated products…)",
+        "user": "U04HL79B12M",
+        "ts": "1675191780.206259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vAQJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n1. Create a Category model (with a name attribute)\n\n2. Create a CategoryProduct model (with a product_id and category_id attribute, both integers)\n\n3. In the rails console, create some Category instances in your database\n\n4. In the rails console, create some CategoryProduct instances in your database\n\n5. In your text editor, write the has_many \/ belongs_to relationships between Category, Product, and CategoryProduct\n\n\nBONUS: In your Category model, make a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "products",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " method that returns all the products associated with that category. (You’ll need to loop through all the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "category_products",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and find the associated products…)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "486b935d-6097-4153-9021-a3cfb4ebd5a8",
+        "type": "message",
+        "text": "Exercise:\nAdd the has_many through relationships for Product and Category\nTest it in the rails console (for example, `pp Product.third.categories`)",
+        "user": "U04HL79B12M",
+        "ts": "1675194431.112419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WmL4R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nAdd the has_many through relationships for Product and Category\nTest it in the rails console (for example, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pp Product.third.categories",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5b98bdd0-e42c-4adf-a0cc-8bfdd0d2d155",
+        "type": "message",
+        "text": "Exercise:\n• Display categories for each product in your products index and\/or show actions\n• Change your products index action to allow filtering by category if the user provides a category name in the query parameters\n```localhost:3000\/products.json?category=Weapons```\n• Hint: The user provides the name of the category in params, you’ll first need to write code to find the category by that name...",
+        "user": "U04HL79B12M",
+        "ts": "1675195657.359739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6+Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Display categories for each product in your products index and\/or show actions"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change your products index action to allow filtering by category if the user provides a category name in the query parameters"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "localhost:3000\/products.json?category=Weapons"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hint: The user provides the name of the category in params, you’ll first need to write code to find the category by that name..."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1675195671.000000"
+        }
+    }
+]

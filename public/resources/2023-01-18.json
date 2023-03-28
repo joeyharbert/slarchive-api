@@ -1,0 +1,187 @@
+[
+    {
+        "client_msg_id": "db23c4d9-0e9f-4d54-99f3-8975a8ba62cb",
+        "type": "message",
+        "text": "`code ~\/.zshrc`",
+        "user": "U04HL79B12M",
+        "ts": "1674066456.026169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nfZbA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "code ~\/.zshrc",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ff59efbc-3eef-41bc-a472-847cdbc75833",
+        "type": "message",
+        "text": "```alias gs='git status'\nalias gl='git log'\nalias gi='git init'\nalias ga='git add --all'\nalias gc='git commit -m '\nalias gp='git push origin main'```",
+        "user": "U04HL79B12M",
+        "ts": "1674066483.521689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XGm4d",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alias gs='git status'\nalias gl='git log'\nalias gi='git init'\nalias ga='git add --all'\nalias gc='git commit -m '\nalias gp='git push origin main'"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "88efec18-5165-4fc8-884f-ff3211e4a7da",
+        "type": "message",
+        "text": "`source ~\/.zshrc`",
+        "user": "U04HL79B12M",
+        "ts": "1674066526.075189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRph4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "source ~\/.zshrc",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04KELKBZC5",
+                "created": 1674071148,
+                "timestamp": 1674071148,
+                "name": "REST-Table (1).png",
+                "title": "REST-Table (1).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04HL79B12M",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 196566,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04KELKBZC5\/rest-table__1_.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04KELKBZC5\/download\/rest-table__1_.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KELKBZC5-cf83a1124a\/rest-table__1__64.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KELKBZC5-cf83a1124a\/rest-table__1__80.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KELKBZC5-cf83a1124a\/rest-table__1__360.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360_w": 360,
+                "thumb_360_h": 193,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KELKBZC5-cf83a1124a\/rest-table__1__480.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_480_w": 480,
+                "thumb_480_h": 258,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KELKBZC5-cf83a1124a\/rest-table__1__160.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KELKBZC5-cf83a1124a\/rest-table__1__720.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720_w": 720,
+                "thumb_720_h": 387,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KELKBZC5-cf83a1124a\/rest-table__1__800.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_800_w": 800,
+                "thumb_800_h": 430,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KELKBZC5-cf83a1124a\/rest-table__1__960.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_960_w": 960,
+                "thumb_960_h": 516,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04KELKBZC5-cf83a1124a\/rest-table__1__1024.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 550,
+                "original_w": 1582,
+                "original_h": 850,
+                "thumb_tiny": "AwAZADC+CmepoDL6\/wBaURrzxSCNc9KBiZXPX9TQWTj5j+dGxc9BSlFBHFACeYvqKXeh\/ioCqf8AJpfLWgBoQZ6\/rQIwT1P\/AH1UlFAiPYM9f\/HqUxjPU\/nUlJQBGIwT1P8A31S+UPVvzp9FAH\/\/2Q==",
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04HL79B12M\/F04KELKBZC5\/rest-table__1_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04KELKBZC5-ff0adaaa35",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04HL79B12M",
+        "display_as_bot": false,
+        "ts": "1674071151.713079",
+        "client_msg_id": "86f01c80-08a1-4726-ab55-5b467ca5c8c5"
+    }
+]

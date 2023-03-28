@@ -1,0 +1,762 @@
+[
+    {
+        "client_msg_id": "3325acd9-dbb7-4f89-a002-a3227ec9a6fa",
+        "type": "message",
+        "text": "1. Exercise:  \n    a. Create a new folder within the ‘Actualize’ folder called ‘git-story’. It should have a file with a very short story (3 to 5 sentences). Turn it into a git repository, and make 3 changes, tracking each change with git.\nBonus: Read about the many different options and commands that come with git:\n1. <https:\/\/git-scm.com\/docs\/git#_high_level_commands_porcelain> \nBonus: Read more about how git works under the hood:\n1. <https:\/\/codewords.recurse.com\/issues\/two\/git-from-the-inside-out> \n 3. <https:\/\/jwiegley.github.io\/git-from-the-bottom-up\/>",
+        "user": "U04HL79B12M",
+        "ts": "1673370888.228989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5n8tC",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Exercise:  "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a new folder within the ‘Actualize’ folder called ‘git-story’. It should have a file with a very short story (3 to 5 sentences). Turn it into a git repository, and make 3 changes, tracking each change with git."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBonus: Read about the many different options and commands that come with git:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/git-scm.com\/docs\/git#_high_level_commands_porcelain"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBonus: Read more about how git works under the hood:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/codewords.recurse.com\/issues\/two\/git-from-the-inside-out"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " 3. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jwiegley.github.io\/git-from-the-bottom-up\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6dc405fc-b09a-4f12-93ed-dca10c82a131",
+        "type": "message",
+        "text": "Exercise:\n1. Push your local git-story to GitHub.\n    a. When your terminal prompts you for your username, enter your GitHub username.\n    b. When your terminal prompts you for your password, *paste your personal access token*. (It will look like nothing pasted, since the terminal doesn’t show typed passwords for security reasons. Press enter after pasting)\n",
+        "user": "U04HL79B12M",
+        "ts": "1673373034.867149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q8cX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Push your local git-story to GitHub."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "When your terminal prompts you for your username, enter your GitHub username."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "When your terminal prompts you for your password, *paste your personal access token*. (It will look like nothing pasted, since the terminal doesn’t show typed passwords for security reasons. Press enter after pasting)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7c82d02c-114f-4695-a5ea-714db912e35a",
+        "type": "message",
+        "text": "Exercise:\n    a. Create a brand new folder in your `Actualize` folder called `github-test` and put some random file in it. Turn this folder into a Git repo, and push it up to Github.\nBonus: Read about the many different options that come with GitHub: <https:\/\/docs.github.com\/en>",
+        "user": "U04HL79B12M",
+        "ts": "1673374898.199539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Or\/H2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a brand new folder in your `Actualize` folder called `github-test` and put some random file in it. Turn this folder into a Git repo, and push it up to Github."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBonus: Read about the many different options that come with GitHub: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.github.com\/en"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673374950.028689",
+        "user": "U04GY24PLTY",
+        "text": "<@U04GY24PLTY> has joined the channel"
+    },
+    {
+        "client_msg_id": "e045370d-13e9-4989-bc8c-4af1e5cbcbc2",
+        "type": "message",
+        "text": "Exercise:\n    a. Make changes to your ‘github-test’ repo and push them up to Github.\n",
+        "user": "U04HL79B12M",
+        "ts": "1673375652.587419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z4e6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make changes to your ‘github-test’ repo and push them up to Github."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0d908b38-ec14-4ae5-b726-ed58ade77378",
+        "type": "message",
+        "text": "Exercise:\n1. Use the terminal to create a new folder in your actualize folder called `practice-ruby`.\n2. Create a new file in the folder called `store_item.rb` and open it in your text editor.\n3. Use hashes with symbols to represent the following scenario:\n    ◦ You are the owner of a store that sells items (you decide what specifically). Each item has various properties such as color, price, etc.\n    ◦ Represent 3 items using hashes. Each hash should have the same keys with different values.\n    ◦ Be sure to use symbols for the keys. Try creating hashes using both types of hash symbol syntaxes. (Ruby syntax {:a =&gt; 123} vs. “JavaScript” syntax {a: 123}).\nBonus: Read more about Ruby array and hash methods. Explore using different methods in your code.\n<https:\/\/ruby-doc.org\/core\/Array.html>\n<https:\/\/ruby-doc.org\/core\/Hash.html>\n<https:\/\/ruby-doc.org\/core\/Symbol.html>",
+        "user": "U04HL79B12M",
+        "ts": "1673379669.324089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e1v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use the terminal to create a new folder in your actualize folder called `practice-ruby`."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a new file in the folder called `store_item.rb`"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "and open it in your text editor."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use hashes with symbols to represent the following scenario:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You are the owner of a store that sells items (you decide what specifically). Each item has various properties such as color, price, etc."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Represent 3 items using hashes. Each hash should have the same keys with different values."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Be sure to use symbols for the keys. Try creating hashes using both types of hash symbol syntaxes. (Ruby syntax {:a => 123} vs. “JavaScript” syntax {a: 123})."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonus: Read more about Ruby array and hash methods. Explore using different methods in your code.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ruby-doc.org\/core\/Array.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ruby-doc.org\/core\/Hash.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ruby-doc.org\/core\/Symbol.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1673379831.000000"
+        }
+    },
+    {
+        "client_msg_id": "1b2eb1e6-1414-4db1-a201-c94a835fc772",
+        "type": "message",
+        "text": "1. Exercise: Rewrite your store items using a class instead of a hash.\n    a. a) Choose which attributes should have “reader” methods and which attributes should have “writer” methods.\n    b. b) Create an instance from your store item class. Use puts statements to print the 3 attributes individually to the terminal.\nBonus: Read more about Ruby classes: <https:\/\/ruby-doc.com\/core\/Class.html>",
+        "user": "U04HL79B12M",
+        "ts": "1673385856.915029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AusE",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Exercise: Rewrite your store items using a class instead of a hash."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "a) Choose which attributes should have “reader” methods and which attributes should have “writer” methods."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "b) Create an instance from your store item class. Use puts statements to print the 3 attributes individually to the terminal."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonus: Read more about Ruby classes: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ruby-doc.com\/core\/Class.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ruby-doc.com\/core\/Class.html",
+                "service_icon": "https:\/\/ruby-doc.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/ruby-doc.com\/core\/Class.html",
+                "fallback": "Class: Class (Ruby 2.5.2)",
+                "text": "Class : Class - Ruby 2.5.2",
+                "title": "Class: Class (Ruby 2.5.2)",
+                "title_link": "https:\/\/ruby-doc.com\/core\/Class.html",
+                "service_name": "ruby-doc.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c422ef18-2421-4027-b9bd-95a404952ae1",
+        "type": "message",
+        "text": "1. Exercise: Replace your “reader” and “writer” methods using the attr_reader and attr_writer shortcuts!\nBonus: Read more about how attr_reader works its magic (advanced stuff here) <https:\/\/mikeyhogarth.wordpress.com\/2011\/12\/01\/creating-your-own-attr_accessor-in-ruby\/>",
+        "user": "U04HL79B12M",
+        "ts": "1673387146.889629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c4H",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Exercise: Replace your “reader” and “writer” methods using the attr_reader and attr_writer shortcuts!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonus: Read more about how attr_reader works its magic (advanced stuff here) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mikeyhogarth.wordpress.com\/2011\/12\/01\/creating-your-own-attr_accessor-in-ruby\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/mikeyhogarth.wordpress.com\/2011\/12\/01\/creating-your-own-attr_accessor-in-ruby\/",
+                "service_icon": "https:\/\/s2.wp.com\/i\/webclip.png",
+                "id": 1,
+                "original_url": "https:\/\/mikeyhogarth.wordpress.com\/2011\/12\/01\/creating-your-own-attr_accessor-in-ruby\/",
+                "fallback": "Mikey Hogarth Link: Creating your own attr_accessor in&nbsp;Ruby",
+                "text": "When going through Ruby 101, you won&rsquo;t need to do much research before you come accross the use of the attr_accessor methods. There are several flavours of this;\nattr_accessor\ngives you a getter and a setter\nattr_reader\njust gives you a getter\nattr_writer\njust gives you a setter\nHere&rsquo;s a code example of this functionality being used;\n\nclass Person\n  attr_accessor :name, :age\nend\n\n#above class definition enables the following\np = Person.new\np.name = \"Mikey\"\np.age = 30\nputs p.name\n\nMagic. It&rsquo;s almost like you&rsquo;ve somehow managed to add two more methods to the person class without defining them. Well, it turns out that this is exactly what you have done! For anyone who is not used to dynamic programming languages (and I include myself in that list) this can be a really tricky point in the learning curve. This sort of functionality is used all the time in ruby, and not only within the context of attr_accessors &ndash; The Rails framework, for example, uses dynamic code to allow you to add very complex functionality to your ActiveRecord classes with a single line of code. \nIf you are anything like me, then you can&rsquo;t just take the fact that it works for granted! I needed to know *exactly* how this sort of thing is possible! This post will clear up exactly how this attr_accessor magic works by showing you how to make your own version of the same functionality.\nDynamic code is created using a series of &ldquo;eval&rdquo; methods which the ruby language makes available to you. There are several flavours (eval, instance_eval, class_eval, module_eval) &ndash; the one we&rsquo;ll be using here is class_eval, which you basically use to add code to a class. As we will be trying to create a method that will be accesible from all classes, we will need to add our code to the Class class (not a typo!). This is going to get a bit headswimmy, so I&rsquo;ll just go ahead and show you the code itself then discuss it below.\n\nclass Class\n  #firstly, the * decoration on the parameter variable\n  #indicates that the parameters should come in as an array\n  #of whatever was sent\n  def mikeys_attr_accessor(*args)\n\n    #We simply iterate through each passed in argument...\n    args.each do |arg|\n      \n      #Here's the getter\n      self.class_eval(\"def #{arg};@#{arg};end\")\n      \n      #Here's the setter\n      self.class_eval(\"def #{arg}=(val);@#{arg}=val;end\")                      \n                      \n    end\n  end\nend\n\nThe above code allows a new class to be defined as follows;\n\nclass Person\n  mikeys_attr_accessor :name, :age  \nend\n\nWhich in turn allows you to write code like this;\n\nperson = Person.new\nperson.name = \"Mikey\"\nperson.age = 30\nputs person.name\nputs person.age\n\nA lot was going on in the first code example, but the rest of it functions exactly as you would expect attr_accessor to function. The focus here will therefore be on the first bit of code. So it all starts off pretty basically, we are able in ruby to extend any class simply by using the class keyword. We then add the method &ldquo;mikeys_attr_accessor&rdquo; to it, using a bit of ruby syntactic sugar to allow this method to receive any number of arguments. It&rsquo;s worth pointing out that we should really check that these arguments were symbols, but as this is a simple example I&rsquo;ll skip that part.\nNext we iterate through each argument and make two calls to the &ldquo;class_eval&rdquo; method. The message we send to this is basically just an interpolated string representing the code we want included in our object. Yes, I did say object &ndash; you might raise the question at this point as to why I&rsquo;m using the word &ldquo;object&rdquo; when we are clearly adding a method to a class. You might also question the presence of the word &ldquo;self&rdquo; before the &ldquo;class_eval&rdquo; call, surely this would mean that we have somehow managed to create an &ldquo;instance&rdquo; of a class?! \nThis was pretty much the point, while learning Ruby, that I lost cabin pressure.\n\nclass Person\nend\n\nPerson.class\n=&gt; Class\n\nThe capital letter at ths start of Person indicates that it is a constant. Person is constant instance of the Class class. As you&rsquo;ve instantiated the Class class in your Person class, you need to use &ldquo;self&rdquo; on the class eval to make sure that the class_eval method is talking to the Person instantiation of the Class class. You may need to read the previous sentence a few times before it sinks in (if you feel your ears starting to bleed, contact your GP immediately).\nA better question is that, if this is the case, why is class_eval used instead of instance_eval? the short answer to that is that it has to do with scope and context. If you are interested in learning a bit more about metaprogramming, i found the following question over on stack overflow to be incredibly useful. Lots of great links from the respondants.",
+                "title": "Creating your own attr_accessor in Ruby",
+                "title_link": "https:\/\/mikeyhogarth.wordpress.com\/2011\/12\/01\/creating-your-own-attr_accessor-in-ruby\/",
+                "author_name": "mikeyhogarth",
+                "author_link": "https:\/\/mikeyhogarth.wordpress.com\/author\/mikeyhogarth\/",
+                "service_name": "Mikey Hogarth",
+                "service_url": "http:\/\/mikeyhogarth.wordpress.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37a795e7-582d-4930-8e12-88819296d1b6",
+        "type": "message",
+        "text": "1. Exercise: Rewrite your store items using a class with a single options hash in the initialize method.\nBonus: Read more alternatives to an options hash, try some out: <http:\/\/www.sitepoint.com\/method-signature-you-can-sink-your-teeth-into\/>",
+        "user": "U04HL79B12M",
+        "ts": "1673387722.574999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ascj",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Exercise: Rewrite your store items using a class with a single options hash in the initialize method."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonus: Read more alternatives to an options hash, try some out: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.sitepoint.com\/method-signature-you-can-sink-your-teeth-into\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/www.sitepoint.com\/method-signature-you-can-sink-your-teeth-into\/",
+                "ts": 1362666601,
+                "service_icon": "https:\/\/www.sitepoint.com\/favicons\/48x48.png",
+                "id": 1,
+                "original_url": "http:\/\/www.sitepoint.com\/method-signature-you-can-sink-your-teeth-into\/",
+                "fallback": "Method Signature You Can Sink Your Teeth Into - SitePoint",
+                "text": "Read Method Signature You Can Sink Your Teeth Into and learn with SitePoint. Our web development and design tutorials, courses, and books will teach you HTML, CSS, JavaScript, PHP, Python, and more.",
+                "title": "Method Signature You Can Sink Your Teeth Into - SitePoint",
+                "title_link": "http:\/\/www.sitepoint.com\/method-signature-you-can-sink-your-teeth-into\/",
+                "service_name": "sitepoint.com",
+                "fields": [
+                    {
+                        "value": "Jonathan Jackson",
+                        "title": "Written by",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    }
+]

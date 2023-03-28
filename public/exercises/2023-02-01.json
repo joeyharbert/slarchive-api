@@ -1,0 +1,695 @@
+[
+    {
+        "client_msg_id": "5a4c935d-e938-4bf1-a8fb-1fb63b95eca7",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1IZQJzkizc05joYukgz_A8YWbYfsUh9fzziLjNG5p9Y4\/copy>",
+        "user": "U04HL79B12M",
+        "ts": "1675272205.024829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ulMs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1IZQJzkizc05joYukgz_A8YWbYfsUh9fzziLjNG5p9Y4\/copy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a0563a1c-8a9a-4723-b6f2-656f5e18f59d",
+        "type": "message",
+        "text": "Exercise:\nHere are examples of various database-backed applications. In some examples, the models involved are purely has_many and would not require a join table, and in other examples, it’s has_many :through and a join table would be required. For each example, use a spreadsheet to model the various database tables (including columns), and say how you would declare the associations in the models themselves (has_many, belongs_to, has_many :through).\n\n1. A blogging platform that allows for the creation of blog posts and for others to comment on those blogs. How can we store in the database which comments apply to which posts?\n\n2. A blogging platform that allows for the creation of blog posts and for its creator to give the post various tags. How can we store in the database which tags apply to which posts?\n\n3. An Uber-for-clowns that allows someone to order a clown on demand. We want to store which user ordered which clown. How can we store each clown booking in the database while storing which user ordered which clown?\n\n4. A Q&amp;A site like Stack Overflow which has questions and answers. How can we store in the database which answers are for which questions?\n\n5. A Reddit-like platform that allows for users, articles, and votes. How can we store in the database which users upvoted each article?\n\n6. A Twitter-like social network which allows for users to follow each other. How can we store in the database who follows whom?",
+        "user": "U04HL79B12M",
+        "ts": "1675272249.471219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8cyzW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nHere are examples of various database-backed applications. In some examples, the models involved are purely has_many and would not require a join table, and in other examples, it’s has_many :through and a join table would be required. For each example, use a spreadsheet to model the various database tables (including columns), and say how you would declare the associations in the models themselves (has_many, belongs_to, has_many :through).\n\n1. A blogging platform that allows for the creation of blog posts and for others to comment on those blogs. How can we store in the database which comments apply to which posts?\n\n2. A blogging platform that allows for the creation of blog posts and for its creator to give the post various tags. How can we store in the database which tags apply to which posts?\n\n3. An Uber-for-clowns that allows someone to order a clown on demand. We want to store which user ordered which clown. How can we store each clown booking in the database while storing which user ordered which clown?\n\n4. A Q&A site like Stack Overflow which has questions and answers. How can we store in the database which answers are for which questions?\n\n5. A Reddit-like platform that allows for users, articles, and votes. How can we store in the database which users upvoted each article?\n\n6. A Twitter-like social network which allows for users to follow each other. How can we store in the database who follows whom?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0445ff5c-5f72-426b-906d-eb6617d8f21b",
+        "type": "message",
+        "text": "Exercise:\nBuild a rails app using a `has_many through` relationship based on one of the schemas from the Has Many Through spreadsheet! (Blog posts - Tags, Uber for clowns, Reddit, Twitter)",
+        "user": "U04HL79B12M",
+        "ts": "1675276817.071829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2J3tD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nBuild a rails app using a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "has_many through",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " relationship based on one of the schemas from the Has Many Through spreadsheet! (Blog posts - Tags, Uber for clowns, Reddit, Twitter)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "984e5a46-54e4-44b1-91c0-f6cecb9936b0",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1lRfhOP2ODZeKBbQ6BiC3Hv63VHGtMryVeWPQPXKqkyU\/copy>",
+        "user": "U04HL79B12M",
+        "ts": "1675278350.384739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fi2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1lRfhOP2ODZeKBbQ6BiC3Hv63VHGtMryVeWPQPXKqkyU\/copy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0f5b6366-501f-4cf9-af29-7502830ccfe0",
+        "type": "message",
+        "text": "Exercise:\nDesign the schema for a “shopping cart” feature.\nThere should be 4 tables in total - users, products, carted_products, and orders.\nWhen a user adds items to their shopping cart, it should create new rows in the carted_products table.\nWhen a user completes their order, it should create a new row in the orders table.\nNOTE: This schema is unorthodox compared to others, try to determine what makes this one different.",
+        "user": "U04HL79B12M",
+        "ts": "1675278380.731949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AHA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nDesign the schema for a “shopping cart” feature.\nThere should be 4 tables in total - users, products, carted_products, and orders.\nWhen a user adds items to their shopping cart, it should create new rows in the carted_products table.\nWhen a user completes their order, it should create a new row in the orders table.\nNOTE: This schema is unorthodox compared to others, try to determine what makes this one different."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8b5a0de0-dd62-4154-bbb5-84af750f9a36",
+        "type": "message",
+        "text": "Exercise: Decomposition\n• Write out all the steps necessary for your mini-capstone-api to allow users to purchase multiple products with a shopping cart. (aim for roughly 10 to 15 steps)\n_Do not write any code for this exercise; just focus on decomposing the different steps necessary to complete the feature._",
+        "user": "U04HL79B12M",
+        "ts": "1675280532.809119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CSh5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Decomposition\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Write out all the steps necessary for your mini-capstone-api to allow users to purchase multiple products with a shopping cart. (aim for roughly 10 to 15 steps)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Do not write any code for this exercise; just focus on decomposing the different steps necessary to complete the feature.",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8bda7196-c723-4eb7-9df3-7756a0e701cd",
+        "type": "message",
+        "text": "```require \"test_helper\"\n\nclass OrdersControllerTest &lt; ActionDispatch::IntegrationTest\n  setup do\n    @user = User.create(name: \"Test\", email: \"test@test.com\", password: \"password\")\n    @order = Order.create(user_id: @user.id)\n    post \"\/sessions.json\", params: { email: \"test@test.com\", password: \"password\" }\n    data = JSON.parse(response.body)\n    @jwt = data[\"jwt\"]\n  end\n\n  test \"index\" do\n    get \"\/orders.json\", headers: { \"Authorization\" =&gt; \"Bearer #{@jwt}\" }\n    assert_response 200\n  end\n\n  test \"create\" do\n    assert_difference \"Order.count\", 1 do\n      post \"\/orders.json\", headers: { \"Authorization\" =&gt; \"Bearer #{@jwt}\" }\n      assert_response 200\n    end\n  end\n\n  test \"show\" do\n    get \"\/orders\/#{@order.id}.json\", headers: { \"Authorization\" =&gt; \"Bearer #{@jwt}\" }\n    assert_response 200\n\n    data = JSON.parse(response.body)\n    assert_equal [\"id\", \"subtotal\", \"tax\", \"total\", \"carted_products\", \"created_at\", \"updated_at\"], data.keys\n  end\nend```\n",
+        "user": "U04HL79B12M",
+        "ts": "1675281418.125599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iprb",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "require \"test_helper\"\n\nclass OrdersControllerTest < ActionDispatch::IntegrationTest\n  setup do\n    @user = User.create(name: \"Test\", email: \"test@test.com\", password: \"password\")\n    @order = Order.create(user_id: @user.id)\n    post \"\/sessions.json\", params: { email: \"test@test.com\", password: \"password\" }\n    data = JSON.parse(response.body)\n    @jwt = data[\"jwt\"]\n  end\n\n  test \"index\" do\n    get \"\/orders.json\", headers: { \"Authorization\" => \"Bearer #{@jwt}\" }\n    assert_response 200\n  end\n\n  test \"create\" do\n    assert_difference \"Order.count\", 1 do\n      post \"\/orders.json\", headers: { \"Authorization\" => \"Bearer #{@jwt}\" }\n      assert_response 200\n    end\n  end\n\n  test \"show\" do\n    get \"\/orders\/#{@order.id}.json\", headers: { \"Authorization\" => \"Bearer #{@jwt}\" }\n    assert_response 200\n\n    data = JSON.parse(response.body)\n    assert_equal [\"id\", \"subtotal\", \"tax\", \"total\", \"carted_products\", \"created_at\", \"updated_at\"], data.keys\n  end\nend"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "03669dc5-312c-4d6e-ad94-1dafa99eddd0",
+        "type": "message",
+        "text": "Exercise: BUILD A SHOPPING CART\n1) Make your rails database match the spreadsheet\n• Create a new model for CartedProduct with attributes user_id:integer product_id:integer quantity:integer status:string order_id:integer\n• Create a migration to remove product_id and quantity from the orders model\n2) Add the model associations (belongs_to, has_many, has_many through)\n• Remember that by default rails does not let us create a row with an empty foreign key. When setting up the CartedProduct class make the `belongs_to :order, optional: true` \n\n3) Create a carted_products controller.\n• Add tests:\n```require \"test_helper\"\n\nclass CartedProductsControllerTest &lt; ActionDispatch::IntegrationTest\n  setup do\n    @user = User.create(name: \"Test\", email: \"test@test.com\", password: \"password\")\n    @supplier = Supplier.create(name: \"Store\", email: \"store@test.com\", phone_number: \"3223232\")\n    @product = Product.create(supplier_id: @supplier.id, name: \"Item\", price: 10, description: \"item\")\n    @carted_product = CartedProduct.create(user_id: @user.id, product_id: @product.id, quantity: 2, status: \"carted\")\n    post \"\/sessions.json\", params: { email: \"test@test.com\", password: \"password\" }\n    data = JSON.parse(response.body)\n    @jwt = data[\"jwt\"]\n  end\n\n  test \"index\" do\n    get \"\/carted_products.json\",\n      headers: { \"Authorization\" =&gt; \"Bearer #{@jwt}\" }\n    assert_response 200\n\n    data = JSON.parse(response.body)\n    assert_equal 1, data.length\n  end\n\n  test \"create\" do\n    assert_difference \"CartedProduct.count\", 1 do\n      post \"\/carted_products.json\",\n        params: { product_id: @product.id, quantity: 2 },\n        headers: { \"Authorization\" =&gt; \"Bearer #{@jwt}\" }\n      assert_response 200\n\n      data = JSON.parse(response.body)\n      assert_equal \"carted\", data[\"status\"]\n    end\n  end\n\n  test \"destroy\" do\n    delete \"\/carted_products\/#{@carted_product.id}.json\",\n      headers: { \"Authorization\" =&gt; \"Bearer #{@jwt}\" }\n    assert_response 200\n\n    @carted_product.reload\n    assert_equal \"removed\", @carted_product.status\n  end\nend```\n4) Make a carted_products `create` action.\n• Assume everything is coming from params. Test it in your HTTP client`.\n• Change the user_id to come from current_user.id instead of params. Test it in your HTTP client\n• Change the order_id to be nil instead of params. Test it in your HTTP client\n• Change the status to always be \"carted\" instead of params. Test it in your HTTP client\n\n5) Make a carted_products `index` action.\n• Assume it's showing all carted_products. Test it in your HTTP client.\n• Change it to only show the current user's carted products with a status of \"carted\". Test it in your HTTP client.\n6) Fix the orders `create` action.\n• Find all the current user's carted products with a status of \"carted\"\n• Create a new order with user_id, subtotal, tax, and total (this will require a loop to calculate)\n• Modify the carted products to change the status to \"purchased\" and the order_id to the new order's id\n7) Make a carted_products `destroy` action.\n• Assume it destroys the item as normal. Test it in your HTTP client.\n• Instead of destroying the carted product, it should change its status to \"removed\". Test it in your HTTP client.\n8) Once everything is working in your HTTP client, you can test out your app using the frontend at:\n<https:\/\/mini-capstone.peterxjang.com\/has-many-through\/products>.\nNote: The frontend json requires nested data, you’ll need to customize your json views accordingly",
+        "user": "U04HL79B12M",
+        "ts": "1675281489.981459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KN8KR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: BUILD A SHOPPING CART\n1) Make your rails database match the spreadsheet\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a new model for CartedProduct with attributes user_id:integer product_id:integer quantity:integer status:string order_id:integer"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a migration to remove product_id and quantity from the orders model"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n2) Add the model associations (belongs_to, has_many, has_many through)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Remember that by default rails does not let us create a row with an empty foreign key. When setting up the CartedProduct class make the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "belongs_to :order, optional: true",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n3) Create a carted_products controller.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add tests:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "require \"test_helper\"\n\nclass CartedProductsControllerTest < ActionDispatch::IntegrationTest\n  setup do\n    @user = User.create(name: \"Test\", email: \"test@test.com\", password: \"password\")\n    @supplier = Supplier.create(name: \"Store\", email: \"store@test.com\", phone_number: \"3223232\")\n    @product = Product.create(supplier_id: @supplier.id, name: \"Item\", price: 10, description: \"item\")\n    @carted_product = CartedProduct.create(user_id: @user.id, product_id: @product.id, quantity: 2, status: \"carted\")\n    post \"\/sessions.json\", params: { email: \"test@test.com\", password: \"password\" }\n    data = JSON.parse(response.body)\n    @jwt = data[\"jwt\"]\n  end\n\n  test \"index\" do\n    get \"\/carted_products.json\",\n      headers: { \"Authorization\" => \"Bearer #{@jwt}\" }\n    assert_response 200\n\n    data = JSON.parse(response.body)\n    assert_equal 1, data.length\n  end\n\n  test \"create\" do\n    assert_difference \"CartedProduct.count\", 1 do\n      post \"\/carted_products.json\",\n        params: { product_id: @product.id, quantity: 2 },\n        headers: { \"Authorization\" => \"Bearer #{@jwt}\" }\n      assert_response 200\n\n      data = JSON.parse(response.body)\n      assert_equal \"carted\", data[\"status\"]\n    end\n  end\n\n  test \"destroy\" do\n    delete \"\/carted_products\/#{@carted_product.id}.json\",\n      headers: { \"Authorization\" => \"Bearer #{@jwt}\" }\n    assert_response 200\n\n    @carted_product.reload\n    assert_equal \"removed\", @carted_product.status\n  end\nend"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n4) Make a carted_products "
+                            },
+                            {
+                                "type": "text",
+                                "text": "create",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " action.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Assume everything is coming from params. Test it in your HTTP client`."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change the user_id to come from current_user.id instead of params. Test it in your HTTP client"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change the order_id to be nil instead of params. Test it in your HTTP client"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change the status to always be \"carted\" instead of params. Test it in your HTTP client"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n5) Make a carted_products "
+                            },
+                            {
+                                "type": "text",
+                                "text": "index",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " action.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Assume it's showing all carted_products. Test it in your HTTP client."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change it to only show the current user's carted products with a status of \"carted\". Test it in your HTTP client."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n6) Fix the orders "
+                            },
+                            {
+                                "type": "text",
+                                "text": "create",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " action.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Find all the current user's carted products with a status of \"carted\""
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a new order with user_id, subtotal, tax, and total (this will require a loop to calculate)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Modify the carted products to change the status to \"purchased\" and the order_id to the new order's id"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n7) Make a carted_products "
+                            },
+                            {
+                                "type": "text",
+                                "text": "destroy",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " action.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Assume it destroys the item as normal. Test it in your HTTP client."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Instead of destroying the carted product, it should change its status to \"removed\". Test it in your HTTP client."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n8) Once everything is working in your HTTP client, you can test out your app using the frontend at:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mini-capstone.peterxjang.com\/has-many-through\/products"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nNote: The frontend json requires nested data, you’ll need to customize your json views accordingly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1675281816.000000"
+        }
+    }
+]

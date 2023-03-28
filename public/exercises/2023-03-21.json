@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "999df87a-5e2e-4bf6-8470-ad5e01fc4fa1",
+        "type": "message",
+        "text": "Exercise: Build your frontend!\nStep 1: Use the React CRUD cheat sheet to build JUST THE BASIC APP (“Welcome to React”)\nStep 2: Use the React Authentication cheat sheet to get working Signup, Login, and Logout components (all on the Home page, do NOT worry about making multiple pages and routes)\nStep 3: Use the React CRUD cheat sheet to build the remaining actions for your backend",
+        "user": "U04HL79B12M",
+        "ts": "1679414982.879559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RTqf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: Build your frontend!\nStep 1: Use the React CRUD cheat sheet to build JUST THE BASIC APP (“Welcome to React”)\nStep 2: Use the React Authentication cheat sheet to get working Signup, Login, and Logout components (all on the Home page, do NOT worry about making multiple pages and routes)\nStep 3: Use the React CRUD cheat sheet to build the remaining actions for your backend"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "1e78e0a1-c082-42d0-8660-d2deba122d6a",
+        "type": "message",
+        "text": "<https:\/\/media-exp1.licdn.com\/dms\/image\/C4E22AQFAMAjcBVT92g\/feedshare-shrink_800\/0\/1669884957385?e=1673481600&amp;v=beta&amp;t=yLLtaNx9EXKPlJg2GijQ5ZG6FYLGshhwMTsFNULzUsk>",
+        "user": "U04DLUZGJ4C",
+        "ts": "1670353820.805989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cAa4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C4E22AQFAMAjcBVT92g\/feedshare-shrink_800\/0\/1669884957385?e=1673481600&v=beta&t=yLLtaNx9EXKPlJg2GijQ5ZG6FYLGshhwMTsFNULzUsk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0a18dd7edef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a18dd7edef8835d7783bb4ebed3d0ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Centeno",
+            "display_name": "Alex Centeno",
+            "team": "T04C9T53QJK",
+            "name": "alex.centeno1991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C4E22AQFAMAjcBVT92g\/feedshare-shrink_800\/0\/1669884957385?e=1673481600&v=beta&t=yLLtaNx9EXKPlJg2GijQ5ZG6FYLGshhwMTsFNULzUsk",
+                "image_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C4E22AQFAMAjcBVT92g\/feedshare-shrink_800\/0\/1669884957385?e=1673481600&v=beta&t=yLLtaNx9EXKPlJg2GijQ5ZG6FYLGshhwMTsFNULzUsk",
+                "image_width": 800,
+                "image_height": 982,
+                "image_bytes": 80411,
+                "id": 1,
+                "original_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C4E22AQFAMAjcBVT92g\/feedshare-shrink_800\/0\/1669884957385?e=1673481600&amp;v=beta&amp;t=yLLtaNx9EXKPlJg2GijQ5ZG6FYLGshhwMTsFNULzUsk",
+                "fallback": "800x982px image"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U04D3UXCN3Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

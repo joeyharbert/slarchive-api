@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "9a2478a2-517f-4880-bdac-08e5b5aaa890",
+        "type": "message",
+        "text": "<https:\/\/jvns.ca\/blog\/brag-documents\/>",
+        "user": "U04HL79B12M",
+        "ts": "1674248457.610429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dM+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jvns.ca\/blog\/brag-documents\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/jvns.ca\/blog\/brag-documents\/",
+                "service_icon": "https:\/\/jvns.ca\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/jvns.ca\/blog\/brag-documents\/",
+                "fallback": "Julia Evans: Get your work recognized: write a brag document",
+                "text": "Get your work recognized: write a brag document",
+                "title": "Get your work recognized: write a brag document",
+                "title_link": "https:\/\/jvns.ca\/blog\/brag-documents\/",
+                "service_name": "Julia Evans"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a0cfab9-4c38-423f-b70c-a3d0e44ae77c",
+        "type": "message",
+        "text": "<https:\/\/docs.github.com\/en\/github\/writing-on-github\/creating-and-highlighting-code-blocks>",
+        "user": "U04HL79B12M",
+        "ts": "1674249329.630089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mohpU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.github.com\/en\/github\/writing-on-github\/creating-and-highlighting-code-blocks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

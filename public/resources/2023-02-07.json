@@ -1,0 +1,152 @@
+[
+    {
+        "client_msg_id": "6a96fc4a-c303-4c36-8fda-30220c4f6d62",
+        "type": "message",
+        "text": "I came across this cheat sheet a while back. It’s a helpful little reminder after you get more comfortable with the way git\/github are working",
+        "user": "U04HB4D6ARZ",
+        "ts": "1675796215.324889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "967BG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I came across this cheat sheet a while back. It’s a helpful little reminder after you get more comfortable with the way git\/github are working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04DLUZMY84"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04HB4DFQ0K",
+                    "U04DLUZGJ4C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04P6NZNKHN",
+                "created": 1675796221,
+                "timestamp": 1675796221,
+                "name": "git_cheat_sheet.png.pdf",
+                "title": "git_cheat_sheet.png.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U04HB4D6ARZ",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 685662,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04P6NZNKHN\/git_cheat_sheet.png.pdf?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04P6NZNKHN\/download\/git_cheat_sheet.png.pdf?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04P6NZNKHN-371c342f33\/git_cheat_sheet.png_thumb_pdf.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04HB4D6ARZ\/F04P6NZNKHN\/git_cheat_sheet.png.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04P6NZNKHN-548eae0f9a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F04NH2P0BNW",
+                "created": 1675796223,
+                "timestamp": 1675796223,
+                "name": "git_cheat_sheet.png",
+                "title": "git_cheat_sheet.png",
+                "mimetype": "image\/webp",
+                "filetype": "webp",
+                "pretty_type": "WebP",
+                "user": "U04HB4D6ARZ",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 211690,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04NH2P0BNW\/git_cheat_sheet.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04NH2P0BNW\/download\/git_cheat_sheet.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NH2P0BNW-d0f359a359\/git_cheat_sheet_64.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NH2P0BNW-d0f359a359\/git_cheat_sheet_80.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NH2P0BNW-d0f359a359\/git_cheat_sheet_360.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NH2P0BNW-d0f359a359\/git_cheat_sheet_480.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NH2P0BNW-d0f359a359\/git_cheat_sheet_160.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NH2P0BNW-d0f359a359\/git_cheat_sheet_720.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NH2P0BNW-d0f359a359\/git_cheat_sheet_800.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NH2P0BNW-d0f359a359\/git_cheat_sheet_960.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04NH2P0BNW-d0f359a359\/git_cheat_sheet_1024.png?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 2000,
+                "original_h": 1500,
+                "thumb_tiny": "AwAkADCpyBgcDvSZ4oJ9hQOla2QxU6HDAfWkxtbp\/wDXoBoHJosAZNB6dqToaDQApP0\/KkHTrTj9f1pVAKdfwzRddAGg9cE0ZyaQUvegA70Gk4zSmmAMeDQOQKD0oXoKUdwAUd6BSnrWlkMQ9KbmnN0plZy0Ef\/Z",
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04HB4D6ARZ\/F04NH2P0BNW\/git_cheat_sheet.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04NH2P0BNW-114092a60e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04HB4D6ARZ",
+        "ts": "1675796228.891409",
+        "client_msg_id": "1c5652f9-9ab4-4fcd-9e6a-0aeac7e0b314"
+    }
+]

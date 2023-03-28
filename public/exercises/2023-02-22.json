@@ -1,0 +1,916 @@
+[
+    {
+        "client_msg_id": "8bf79bea-c468-4456-a1b2-ed8cb59f162f",
+        "type": "message",
+        "text": "EXERCISE:\nWrite JavaScript code using the setTimeout function to print 3 lines asynchronously. Use anonymous functions in your setTimeout calls. The output should do the following:\n1. Wait 2 seconds\n2. Print out “First task done!”\n3. Wait another 2 seconds\n4. Print out “Second task done!”\n5. Wait another 2 seconds\n6. Print out “Third task done!”\n```setTimeout(function() {\n  console.log('First task done!');\n}, 2000);\n\nconsole.log('Second task done!');```\n(use this code as a starting point)",
+        "user": "U04HL79B12M",
+        "ts": "1677087310.466209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mWh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EXERCISE:\nWrite JavaScript code using the setTimeout function to print 3 lines asynchronously. Use anonymous functions in your setTimeout calls. The output should do the following:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Wait 2 seconds"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Print out “First task done!”"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Wait another 2 seconds"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Print out “Second task done!”"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Wait another 2 seconds"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Print out “Third task done!”"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "setTimeout(function() {\n  console.log('First task done!');\n}, 2000);\n\nconsole.log('Second task done!');"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(use this code as a starting point)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "59e9f008-9a26-40e7-a2a5-6587fb4380df",
+        "type": "message",
+        "text": "Exercise:\nCreate a new folder called `modern-javascript`  in your Actualize folder and navigate to it in the terminal.\n\nCreate a new html file in your text editor called `index.html` and enter the following content:\n```<!DOCTYPE html>\n&lt;html lang=\"en\"&gt;\n&lt;head&gt;\n  &lt;meta charset=\"UTF-8\"&gt;\n  &lt;title&gt;Modern JavaScript&lt;\/title&gt;\n&lt;\/head&gt;\n&lt;body&gt;\n  &lt;h1&gt;Hello from HTML!&lt;\/h1&gt;\n&lt;\/body&gt;\n&lt;\/html&gt;```\nCreate a new empty javascript file called `index.js` with a simple `console.log` statement. Then link it to your html using a `&lt;script&gt;` tag.\n\nOpen the html file in your browser to see the console.log message.\n```open index.html```",
+        "user": "U04HL79B12M",
+        "ts": "1677088313.966599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ufbu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nCreate a new folder called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "modern-javascript",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  in your Actualize folder and navigate to it in the terminal.\n\nCreate a new html file in your text editor called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "index.html",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and enter the following content:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Modern JavaScript<\/title>\n<\/head>\n<body>\n  <h1>Hello from HTML!<\/h1>\n<\/body>\n<\/html>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nCreate a new empty javascript file called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "index.js",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with a simple "
+                            },
+                            {
+                                "type": "text",
+                                "text": "console.log",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " statement. Then link it to your html using a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "<script>",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " tag.\n\nOpen the html file in your browser to see the console.log message.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "open index.html"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "06155267-76ed-4ed2-9af7-865a42cedd10",
+        "type": "message",
+        "text": "Exercise:\nIn your terminal, make your folder a node project:\n```npm init```\nIn your terminal, install the moment.js library:\n```npm install moment --save```\nIn your `index.html` file, a `&lt;script&gt;` tag to the appropriate js file\n```&lt;script src=\"node_modules\/moment\/moment.js\"&gt;&lt;\/script&gt;```\nIn your `index.js` file, write a simple demo to show how to run the library.\n```var datetime = moment().startOf(\"day\").fromNow();\nconsole.log(datetime);```\n\nBonus: Read the moment.js documentation and try to print out other time information: <https:\/\/momentjs.com\/>\n\nBonus: Install a different JavaScript library from npm (see here for some possibilities: <https:\/\/www.javascripting.com\/helpers\/object-extends>)",
+        "user": "U04HL79B12M",
+        "ts": "1677089906.101969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g4tDT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nIn your terminal, make your folder a node project:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm init"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIn your terminal, install the moment.js library:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm install moment --save"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIn your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "index.html",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file, a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "<script>",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " tag to the appropriate js file\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<script src=\"node_modules\/moment\/moment.js\"><\/script>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIn your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "index.js",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file, write a simple demo to show how to run the library.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "var datetime = moment().startOf(\"day\").fromNow();\nconsole.log(datetime);"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nBonus: Read the moment.js documentation and try to print out other time information: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/momentjs.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBonus: Install a different JavaScript library from npm (see here for some possibilities: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.javascripting.com\/helpers\/object-extends"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.javascripting.com\/helpers\/object-extends",
+                "service_icon": "https:\/\/www.javascripting.com\/icons\/apple-touch-icon.png?v=2",
+                "id": 1,
+                "original_url": "https:\/\/www.javascripting.com\/helpers\/object-extends",
+                "fallback": "Helpers: Object Extends - javaScripting.com",
+                "text": "A collection of the world's best client-side JavaScript libraries",
+                "title": "Helpers: Object Extends - javaScripting.com",
+                "title_link": "https:\/\/www.javascripting.com\/helpers\/object-extends",
+                "service_name": "javascripting.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bde78b31-a654-4cdb-abcc-12c78779b1d6",
+        "type": "message",
+        "text": "Exercise:\nInstall webpack as a dev dependency:\n```npm install webpack webpack-cli --save-dev```\nChange your `index.js` code to require your libraries directly using Node’s `require` syntax.\n\nBuild your bundled file using webpack:\n```.\/node_modules\/.bin\/webpack .\/index.js --mode=development```\nChange your `index.html` file to only have a single `&lt;script&gt;` tag referencing `dist\/main.js`.\n\nTest to see if everything works in the browser!\n\nBonus: Install another JavaScript library from npm and demo how it works in your `index.js` file using the Node’s `require` syntax.",
+        "user": "U04HL79B12M",
+        "ts": "1677091042.624389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zY\/+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nInstall webpack as a dev dependency:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm install webpack webpack-cli --save-dev"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nChange your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "index.js",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " code to require your libraries directly using Node’s "
+                            },
+                            {
+                                "type": "text",
+                                "text": "require",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " syntax.\n\nBuild your bundled file using webpack:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ".\/node_modules\/.bin\/webpack .\/index.js --mode=development"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nChange your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "index.html",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file to only have a single "
+                            },
+                            {
+                                "type": "text",
+                                "text": "<script>",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " tag referencing "
+                            },
+                            {
+                                "type": "text",
+                                "text": "dist\/main.js",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nTest to see if everything works in the browser!\n\nBonus: Install another JavaScript library from npm and demo how it works in your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "index.js",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file using the Node’s "
+                            },
+                            {
+                                "type": "text",
+                                "text": "require",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " syntax."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8139c1f8-23c8-476c-a28e-c9b4a19e0072",
+        "type": "message",
+        "text": "Exercise:\n1) Install Babel into your project:\n```npm install @babel\/core @babel\/preset-env babel-loader --save-dev```\n2) Configure webpack by making a file called `webpack.config.js`:\n```module.exports = {\n  mode: 'development',\n  entry: '.\/index.js',\n  output: {\n    filename: 'main.js',\n    publicPath: 'dist'\n  },\n  module: {\n    rules: [\n      {\n        test: \/\\.js$\/,\n        exclude: \/node_modules\/,\n        use: {\n          loader: 'babel-loader',\n          options: {\n            presets: ['@babel\/preset-env']\n          }\n        }\n      }\n    ]\n  }\n};```\n3) Write some JavaScript in your index.js file using some new ES2015 features. <https:\/\/babeljs.io\/docs\/learn-es2015\/>\n\n4) Run webpack and see if your code works in all browsers:\n```.\/node_modules\/.bin\/webpack```",
+        "user": "U04HL79B12M",
+        "ts": "1677092144.535459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tm=VU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n1) Install Babel into your project:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm install @babel\/core @babel\/preset-env babel-loader --save-dev"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n2) Configure webpack by making a file called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "webpack.config.js",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "module.exports = {\n  mode: 'development',\n  entry: '.\/index.js',\n  output: {\n    filename: 'main.js',\n    publicPath: 'dist'\n  },\n  module: {\n    rules: [\n      {\n        test: \/\\.js$\/,\n        exclude: \/node_modules\/,\n        use: {\n          loader: 'babel-loader',\n          options: {\n            presets: ['@babel\/preset-env']\n          }\n        }\n      }\n    ]\n  }\n};"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n3) Write some JavaScript in your index.js file using some new ES2015 features. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/babeljs.io\/docs\/learn-es2015\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n4) Run webpack and see if your code works in all browsers:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ".\/node_modules\/.bin\/webpack"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "35949368-6532-4f51-bd50-37bcdd5e8f55",
+        "type": "message",
+        "text": "Exercise:\nInstall the live-server library:\n```npm install live-server --save-dev```\nAdd scripts to the `package.json` file in the “scripts” object for building and running the webpack server:\n```    \"build\": \"webpack --progress --mode=production\",\n    \"watch\": \"webpack --progress --watch\",\n    \"serve\": \"npm run watch &amp; live-server\",```\nRun the watch script in the terminal:\n```npm run watch```\nMake a change in index.js and watch the terminal rebuild main.js automatically! (You’ll still need to refresh the browser manually)\n\nRun the server script in the terminal:\n```npm run serve```\nOpen localhost:8080 in the browser (should happen automatically)\n\nMake a change to the index.js file and watch the browser refresh automatically!",
+        "user": "U04HL79B12M",
+        "ts": "1677093128.305929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sNS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nInstall the live-server library:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm install live-server --save-dev"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAdd scripts to the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "package.json",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file in the “scripts” object for building and running the webpack server:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "    \"build\": \"webpack --progress --mode=production\",\n    \"watch\": \"webpack --progress --watch\",\n    \"serve\": \"npm run watch & live-server\","
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nRun the watch script in the terminal:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm run watch"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nMake a change in index.js and watch the terminal rebuild main.js automatically! (You’ll still need to refresh the browser manually)\n\nRun the server script in the terminal:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "npm run serve"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nOpen localhost:8080 in the browser (should happen automatically)\n\nMake a change to the index.js file and watch the browser refresh automatically!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "64d47f8a-4347-4d5c-be08-f3eccd20115e",
+        "type": "message",
+        "text": "Exercise:\nFollow this tutorial to build a basic Node.js Express backend: <https:\/\/expressjs.com\/en\/starter\/installing.html>\nModify the code to make different routes and test it with your HTTP client!",
+        "user": "U04HL79B12M",
+        "ts": "1677094356.938419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "adazo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nFollow this tutorial to build a basic Node.js Express backend: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/expressjs.com\/en\/starter\/installing.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nModify the code to make different routes and test it with your HTTP client!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/expressjs.com\/en\/starter\/installing.html",
+                "image_url": "https:\/\/expressjs.com\/images\/express-facebook-share.png",
+                "image_width": 435,
+                "image_height": 157,
+                "image_bytes": 27054,
+                "service_icon": "https:\/\/expressjs.com\/images\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/expressjs.com\/en\/starter\/installing.html",
+                "fallback": "Installing Express",
+                "title": "Installing Express",
+                "title_link": "https:\/\/expressjs.com\/en\/starter\/installing.html",
+                "service_name": "expressjs.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2ab49cca-f611-464c-bc13-3a1e2e1c8d8d",
+        "type": "message",
+        "text": "Exercise:\nWork on the following problem individually\n```Given a sorted array arr[] consisting of N distinct integers and an integer K, the task is to find the index of K, if it’s present in the array arr[]. Otherwise, find the index where K must be inserted to keep the array sorted.```\n",
+        "user": "U04HL79B12M",
+        "ts": "1677099673.631929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "On1n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nWork on the following problem individually\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Given a sorted array arr[] consisting of N distinct integers and an integer K, the task is to find the index of K, if it’s present in the array arr[]. Otherwise, find the index where K must be inserted to keep the array sorted."
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

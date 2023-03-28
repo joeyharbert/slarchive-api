@@ -1,0 +1,132 @@
+[
+    {
+        "client_msg_id": "9048f428-cd4f-4748-88d9-d78a6f765582",
+        "type": "message",
+        "text": "<http:\/\/guides.rubyonrails.org\/active_record_validations.html>",
+        "user": "U04HL79B12M",
+        "ts": "1674581046.249499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MW5f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/guides.rubyonrails.org\/active_record_validations.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c6d3c35f-0ebc-46a5-a563-a00e167791c2",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/7540601\/rails-how-to-validate-file-format>",
+        "user": "U04HL79B12M",
+        "ts": "1674582476.261549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QipV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/7540601\/rails-how-to-validate-file-format"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/stackoverflow.com\/questions\/7540601\/rails-how-to-validate-file-format",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/7540601\/rails-how-to-validate-file-format",
+                "fallback": "Stack Overflow: Rails how to validate file format?",
+                "text": "How do I validate my file fields for the correct format?\n\nI want the image field to validate that it is a .png, .jpg, .jpeg.\n\nAnd the flv that it has the ending .flv\n\nAnd the quicktime that it have...",
+                "title": "Rails how to validate file format?",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/7540601\/rails-how-to-validate-file-format",
+                "service_name": "Stack Overflow"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01f00be4-2b2e-4fdc-a5e5-2c8b46005ab0",
+        "type": "message",
+        "text": "<http:\/\/guides.rubyonrails.org\/layouts_and_rendering.html#the-status-option>",
+        "user": "U04HL79B12M",
+        "ts": "1674585049.400639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ifv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/guides.rubyonrails.org\/layouts_and_rendering.html#the-status-option"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

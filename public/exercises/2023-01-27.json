@@ -1,0 +1,181 @@
+[
+    {
+        "client_msg_id": "64646204-1714-46fc-8bda-3d4b7842dcfe",
+        "type": "message",
+        "text": "Exercise:\nAdd authentication sign up to your mini-capstone (by following Part 1 in the guide).\n\nUse your http client to create 2 new users.\nTry to make invalid users to see the error responses (password confirmation doesn't match, email was already taken, etc.)\n\nNote: You only need Part 1 of the guide for this exercise. If you’re done, feel free to look over Part 2, but don’t implement the code yet…\n\nBonus: Read more about password hashing best practices:\n<https:\/\/cheatsheetseries.owasp.org\/cheatsheets\/Password_Storage_Cheat_Sheet.html>",
+        "user": "U04HL79B12M",
+        "ts": "1674844579.198159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LIY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nAdd authentication sign up to your mini-capstone (by following Part 1 in the guide).\n\nUse your http client to create 2 new users.\nTry to make invalid users to see the error responses (password confirmation doesn't match, email was already taken, etc.)\n\nNote: You only need Part 1 of the guide for this exercise. If you’re done, feel free to look over Part 2, but don’t implement the code yet…\n\nBonus: Read more about password hashing best practices:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cheatsheetseries.owasp.org\/cheatsheets\/Password_Storage_Cheat_Sheet.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/cheatsheetseries.owasp.org\/cheatsheets\/Password_Storage_Cheat_Sheet.html",
+                "service_icon": "https:\/\/cheatsheetseries.owasp.org\/assets\/WebSite_Favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/cheatsheetseries.owasp.org\/cheatsheets\/Password_Storage_Cheat_Sheet.html",
+                "fallback": "Password Storage - OWASP Cheat Sheet Series",
+                "text": "Website with the collection of all the cheat sheets of the project.",
+                "title": "Password Storage - OWASP Cheat Sheet Series",
+                "title_link": "https:\/\/cheatsheetseries.owasp.org\/cheatsheets\/Password_Storage_Cheat_Sheet.html",
+                "service_name": "cheatsheetseries.owasp.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19bcb41b-1780-4356-8020-ef0947ea334a",
+        "type": "message",
+        "text": "Exercise:\nAdd authentication login to your mini-capstone (by following Part 2 in the guide).\n\nUse your http client to send a POST request to localhost:3000\/sessions with parameters `email` and `password`.\n\nBonus: Read more about the `jwt` gem's different options:\n<https:\/\/github.com\/jwt\/ruby-jwt>",
+        "user": "U04HL79B12M",
+        "ts": "1674846149.133629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PEE5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nAdd authentication login to your mini-capstone (by following Part 2 in the guide).\n\nUse your http client to send a POST request to localhost:3000\/sessions with parameters "
+                            },
+                            {
+                                "type": "text",
+                                "text": "email",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "password",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nBonus: Read more about the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "jwt",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " gem's different options:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/jwt\/ruby-jwt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "26d0fd80-8d65-46b3-9aa0-76ff97bed675",
+        "type": "message",
+        "text": "Exercise:\nAdd authentication helpers to your mini-capstone (by following Part 3 in the guide).\n\nTest it out by temporarily adding `pp current_user` in your index action, then adding the jwt from the Login request to the show request headers (Authorization =&gt; Bearer ___). If done correctly, you should see the current user info in the rails server terminal.",
+        "user": "U04HL79B12M",
+        "ts": "1674849170.918179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TFo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nAdd authentication helpers to your mini-capstone (by following Part 3 in the guide).\n\nTest it out by temporarily adding "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pp current_user",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in your index action, then adding the jwt from the Login request to the show request headers (Authorization => Bearer ___). If done correctly, you should see the current user info in the rails server terminal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

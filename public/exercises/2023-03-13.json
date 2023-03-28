@@ -1,0 +1,250 @@
+[
+    {
+        "client_msg_id": "7d75f38f-090d-4cd2-aa53-316a07222b5b",
+        "type": "message",
+        "text": "Exercise:\nInstall minitest in the terminal: `gem install minitest`\nIn your Actualize folder, create a new folder called `unit-testing` with a new file inside it called `calculator.rb`. Paste in the following:\n```require \"minitest\/autorun\"\n\nclass Calculator\n  def add(number_one, number_two)\n    return number_one + number_two\n  end\n\n  def subtract(number_one, number_two)\n    return number_one - number_two\n  end\n\n  def multiply(number_one, number_two)\n    return number_one * number_two\n  end\n\n  def divide(dividend, divisor)\n    return dividend \/ divisor\n  end\n\n  def sqaure(number)\n    return square * square\n  end\n\n  def power(number, exponent)\n    return number ** exponent\n  end\nend\n\nclass TestCalculator &lt; Minitest::Test\n  def test_add\n    calculator = Calculator.new\n    assert_equal 4, calculator.add(1, 3)\n  end\n\n  def test_add_with_negative_numbers\n    calculator = Calculator.new\n    assert_equal -2, calculator.add(1, -3)\n  end\nend```\n1. Run your tests in the terminal with the command `ruby calculator.rb`\n2. Complete tests on the remaining methods. \n3. Then, add at least three additional methods to the calculator and test those as well. BUT WRITE THE TESTS FIRST.\n",
+        "user": "U04HL79B12M",
+        "ts": "1678725104.149049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OOZ2s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nInstall minitest in the terminal: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "gem install minitest",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIn your Actualize folder, create a new folder called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "unit-testing",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with a new file inside it called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "calculator.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Paste in the following:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "require \"minitest\/autorun\"\n\nclass Calculator\n  def add(number_one, number_two)\n    return number_one + number_two\n  end\n\n  def subtract(number_one, number_two)\n    return number_one - number_two\n  end\n\n  def multiply(number_one, number_two)\n    return number_one * number_two\n  end\n\n  def divide(dividend, divisor)\n    return dividend \/ divisor\n  end\n\n  def sqaure(number)\n    return square * square\n  end\n\n  def power(number, exponent)\n    return number ** exponent\n  end\nend\n\nclass TestCalculator < Minitest::Test\n  def test_add\n    calculator = Calculator.new\n    assert_equal 4, calculator.add(1, 3)\n  end\n\n  def test_add_with_negative_numbers\n    calculator = Calculator.new\n    assert_equal -2, calculator.add(1, -3)\n  end\nend"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Run your tests in the terminal with the command "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ruby calculator.rb",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Complete tests on the remaining methods. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Then, add at least three additional methods to the calculator and test those as well. BUT WRITE THE TESTS FIRST."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5967bb05-7991-4ba5-99e0-d407d6bb58c3",
+        "type": "message",
+        "text": "Exercise:\nPair up on the following using ’ping-pong’ style: i.e. Developer A creates a test, Developer B writes the code, Developer B writes the next test, Developer A writes the code.\n\nCreate a file in the `Actualize` folder called `change_machine.rb` with the following code inside.\n```require \"minitest\/autorun\"\n\nclass TestChangeMachine &lt; Minitest::Test\n  def test_one_returns_one_penny\n    machine = ChangeMachine.new\n    assert_equal [1], machine.change(1)\n  end\nend```\nYou will be creating a method that will take a number of cents and return an array of coins that will be your change. The goal is to return as few coins as possible. Assume that the highest denomination of coins will be a quarter (25 cents). For example: If the method receives 119, the result will be [25, 25, 25, 25, 10, 5, 1, 1, 1, 1]\n\nWhen you finish, try to refactor your code without breaking the tests!\n\nBonus: Write a method that accepts a number as a parameter and returns its Roman numeral equivalent.",
+        "user": "U04HL79B12M",
+        "ts": "1678730123.963989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BwL0d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nPair up on the following using ’ping-pong’ style: i.e. Developer A creates a test, Developer B writes the code, Developer B writes the next test, Developer A writes the code.\n\nCreate a file in the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Actualize",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " folder called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "change_machine.rb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with the following code inside.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "require \"minitest\/autorun\"\n\nclass TestChangeMachine < Minitest::Test\n  def test_one_returns_one_penny\n    machine = ChangeMachine.new\n    assert_equal [1], machine.change(1)\n  end\nend"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nYou will be creating a method that will take a number of cents and return an array of coins that will be your change. The goal is to return as few coins as possible. Assume that the highest denomination of coins will be a quarter (25 cents). For example: If the method receives 119, the result will be [25, 25, 25, 25, 10, 5, 1, 1, 1, 1]\n\nWhen you finish, try to refactor your code without breaking the tests!\n\nBonus: Write a method that accepts a number as a parameter and returns its Roman numeral equivalent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1678730136.000000"
+        }
+    },
+    {
+        "client_msg_id": "6624dd01-38b7-488e-b5b0-67934ee3f4c1",
+        "type": "message",
+        "text": "Exercise:\nRewrite your calculator tests as specs!",
+        "user": "U04HL79B12M",
+        "ts": "1678734295.345819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oS\/g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nRewrite your calculator tests as specs!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

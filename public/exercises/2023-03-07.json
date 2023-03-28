@@ -1,0 +1,536 @@
+[
+    {
+        "client_msg_id": "b2203503-8b98-403b-b97f-497fbc9cb799",
+        "type": "message",
+        "text": "Exercise:\nSign up for an API key - <https:\/\/newsapi.org\/register>\nNote how the API key is used - <https:\/\/newsapi.org\/docs\/authentication>\nTest it in your browser or your HTTP client",
+        "user": "U04HL79B12M",
+        "ts": "1678209166.194179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X59a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nSign up for an API key - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/newsapi.org\/register"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNote how the API key is used - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/newsapi.org\/docs\/authentication"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTest it in your browser or your HTTP client"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/newsapi.org\/register",
+                "service_icon": "https:\/\/newsapi.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/newsapi.org\/register",
+                "fallback": "News API: Register - News API",
+                "text": "Get a free API key for News API - an API for accessing JSON metadata for the latest news headlines from a range of sources.",
+                "title": "Register - News API",
+                "title_link": "https:\/\/newsapi.org\/register",
+                "service_name": "News API"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d22f6b5-50f0-42cd-93a7-1343a79e10f6",
+        "type": "message",
+        "text": "Exercise:\nMake a new React app called `example-news-frontend`\nMake an index action to display articles (each article has a title, author, description, content).\nInstead of making a web request to `<http:\/\/localhost:3000\/articles.json>`, make a web request to `<https:\/\/newsapi.org\/v2\/everything?q=bitcoin&amp;apiKey=___>` (replace the underscores at the end with your own news API key)\nBonus: Read the newsapi documentation and try to make other web requests: <https:\/\/newsapi.org\/docs\/endpoints>\n\n\nNote: Do NOT use git to commit your code right now because of the API key!",
+        "user": "U04HL79B12M",
+        "ts": "1678210314.880909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j2T4r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake a new React app called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "example-news-frontend",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMake an index action to display articles (each article has a title, author, description, content).\nInstead of making a web request to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000\/articles.json",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", make a web request to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/newsapi.org\/v2\/everything?q=bitcoin&apiKey=___",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (replace the underscores at the end with your own news API key)\nBonus: Read the newsapi documentation and try to make other web requests: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/newsapi.org\/docs\/endpoints"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nNote: Do NOT use git to commit your code right now because of the API key!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "af97c265-0735-4bf7-ad9b-020750fac847",
+        "type": "message",
+        "text": "Exercise:\nMake a new backend to make secure web requests to the news API:\n• Make a new rails app with an articles controller with an index action\n• The index action will use the `http` gem, which needs to be added to the `Gemfile` (be sure to run `bundle install` and restart your server afterwards)\n• Configure CORS to allow web requests from localhost:5173: <https:\/\/gist.github.com\/peterxjang\/77d6243cf85103b027a56b401b62b289> \n(NOTE: Don't commit your code with your API key, we'll go over that in a bit...)\n\nChange the frontend to make a web request to `<http:\/\/localhost:3000\/articles.json?search_terms=bitcoin>` instead of the news API directly!\n\nBonus: Put your API key in the HTTP headers instead of query parameters: <https:\/\/github.com\/httprb\/http\/wiki>\n\nBonus: Get weather data from the <https:\/\/openweathermap.org\/api> and display it in the JSON from your rails app! (You can display it in the same route as your news articles, or make a separate route, it’s up to you…)",
+        "user": "U04HL79B12M",
+        "ts": "1678213165.545489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aAdh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nMake a new backend to make secure web requests to the news API:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make a new rails app with an articles controller with an index action"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The index action will use the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "http",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " gem, which needs to be added to the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Gemfile",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (be sure to run "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "bundle install",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and restart your server afterwards)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Configure CORS to allow web requests from localhost:5173: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/gist.github.com\/peterxjang\/77d6243cf85103b027a56b401b62b289"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(NOTE: Don't commit your code with your API key, we'll go over that in a bit...)\n\nChange the frontend to make a web request to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000\/articles.json?search_terms=bitcoin",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " instead of the news API directly!\n\nBonus: Put your API key in the HTTP headers instead of query parameters: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/httprb\/http\/wiki"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBonus: Get weather data from the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openweathermap.org\/api"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and display it in the JSON from your rails app! (You can display it in the same route as your news articles, or make a separate route, it’s up to you…)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/openweathermap.org\/api",
+                "service_icon": "https:\/\/openweathermap.org\/themes\/openweathermap\/assets\/vendor\/owm\/img\/icons\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/openweathermap.org\/api",
+                "fallback": "Weather API - OpenWeatherMap",
+                "text": "Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts. Historical weather data for 40 years back for any coordinate. Weather maps, UV Index, air pollution\n and historical data",
+                "title": "Weather API - OpenWeatherMap",
+                "title_link": "https:\/\/openweathermap.org\/api",
+                "service_name": "openweathermap.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aec2f1f6-3302-4155-aa2e-d680ac9f1ed8",
+        "type": "message",
+        "text": "Exercise:\n• Open your .zshrc config file: `code ~\/.zshrc`\n• Add your news api key as an environment variable: `export NEWS_API_KEY=____`\n• In your terminal tab that has your rails server: Kill the server, run `source ~\/.zshrc`, run `rails server`\n• In your Articles controller, change your web request to use an environment variable\n```response = HTTP.get(\"<https:\/\/newsapi.org\/v2\/everything?q=tesla&amp;apiKey=#{ENV[>\"NEWS_API_KEY\"]}\")```\n\nBonus: Read about how Rails handles API keys its own special way using a credentials file:\n<https:\/\/guides.rubyonrails.org\/security.html#custom-credentials>",
+        "user": "U04HL79B12M",
+        "ts": "1678215128.646909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "awM2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Open your .zshrc config file: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "code ~\/.zshrc",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add your news api key as an environment variable: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "export NEWS_API_KEY=____",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In your terminal tab that has your rails server: Kill the server, run "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "source ~\/.zshrc",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", run "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "rails server",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In your Articles controller, change your web request to use an environment variable"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "response = HTTP.get(\""
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/newsapi.org\/v2\/everything?q=tesla&apiKey=#{ENV["
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"NEWS_API_KEY\"]}\")"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nBonus: Read about how Rails handles API keys its own special way using a credentials file:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/guides.rubyonrails.org\/security.html#custom-credentials"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "88454607-b62d-4583-ab1a-3ad775004602",
+        "type": "message",
+        "text": "Exercise: (work in pairs)\nChoose a third party API from <https:\/\/github.com\/toddmotto\/public-apis> with `apiKey` authorization and sign up for an API key. (Note - some APIs are better documented than others…)\n\nTest out the API using your browser or a `requests.http` to see if you can make the right web requests and get back the right web responses.\n\nCreate a new Rails app\n\nCreate a backend route\/controller action to make an API request to your third party API using the HTTP gem. Test it in your browser!\nNOTE: You’ll need to look at your API documentation to determine how to include the API key! (you can read <https:\/\/github.com\/httprb\/http\/wiki> for examples of how to make HTTP requests with custom headers if you need it)\n\nUse an http client to test your Rails app API\n\nBonus: Create a frontend for your new Rails app API!",
+        "user": "U04HL79B12M",
+        "ts": "1678217166.169129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "70G\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise: (work in pairs)\nChoose a third party API from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/toddmotto\/public-apis"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "apiKey",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " authorization and sign up for an API key. (Note - some APIs are better documented than others…)\n\nTest out the API using your browser or a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "requests.http",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to see if you can make the right web requests and get back the right web responses.\n\nCreate a new Rails app\n\nCreate a backend route\/controller action to make an API request to your third party API using the HTTP gem. Test it in your browser!\nNOTE: You’ll need to look at your API documentation to determine how to include the API key! (you can read "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/httprb\/http\/wiki"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for examples of how to make HTTP requests with custom headers if you need it)\n\nUse an http client to test your Rails app API\n\nBonus: Create a frontend for your new Rails app API!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1678219433.000000"
+        }
+    }
+]

@@ -1,0 +1,243 @@
+[
+    {
+        "client_msg_id": "A70EE869-AB9A-4113-A554-D7FF77740204",
+        "type": "message",
+        "text": "<@U04DLUZGJ4C> we’re big fans of Alex garland in my house. Maybe unpopular opinion but Men is my favorite movie of his. I think we talked about what it meant for like 2 hours after seeing it.",
+        "user": "U04GY24PLTY",
+        "ts": "1677600685.394729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YXNtm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04DLUZGJ4C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we’re big fans of Alex garland in my house. Maybe unpopular opinion but Men is my favorite movie of his. I think we talked about what it meant for like 2 hours after seeing it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "gb2e9be153e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2e9be153e2d58fc084bae15fa63faea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Gonzalez",
+            "display_name": "Nick Gonzalez",
+            "team": "T04C9T53QJK",
+            "name": "thisnickg194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":racing_car: :racing_car: :racing_car: ",
+        "files": [
+            {
+                "id": "F04RJ0TGUUE",
+                "created": 1677617226,
+                "timestamp": 1677617226,
+                "name": "v12044gd0000cfuj9grc77u0c58fq3s0.MP4",
+                "title": "v12044gd0000cfuj9grc77u0c58fq3s0",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U04DLUZTL2Y",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 4137399,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "none"
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RJ0TGUUE-da30f34920\/v12044gd0000cfuj9grc77u0c58fq3s0.mp4?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RJ0TGUUE-da30f34920\/v12044gd0000cfuj9grc77u0c58fq3s0.mp4?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04RJ0TGUUE\/download\/v12044gd0000cfuj9grc77u0c58fq3s0.mp4?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RJ0TGUUE-da30f34920\/file.m3u8?_xcb=c1f09&t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9MTgxMjc2MyxBVkVSQUdFLUJBTkRXSURUSD0xNDYxNDI5LENPREVDUz0iYXZjMS42NDAwMWYsbXA0YS40MC41IixSRVNPTFVUSU9OPTYwOHgxMDgwLEZSQU1FLVJBVEU9MjkuOTcwCmRhdGE6YXBwbGljYXRpb24vdm5kLmFwcGxlLm1wZWd1cmw7YmFzZTY0LEkwVllWRTB6VlFvalJWaFVMVmd0VmtWU1UwbFBUam96Q2lORldGUXRXQzFVUVZKSFJWUkVWVkpCVkVsUFRqbzNDaU5GV0ZRdFdDMU5SVVJKUVMxVFJWRlZSVTVEUlRveENpTkZXRlF0V0MxUVRFRlpURWxUVkMxVVdWQkZPbFpQUkFvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREEwUXpsVU5UTlJTa3N0UmpBMFVrb3dWRWRWVlVVdFpHRXpNR1l6TkRreU1DOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TVM1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBMFF6bFVOVE5SU2tzdFJqQTBVa293VkVkVlZVVXRaR0V6TUdZek5Ea3lNQzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd01pNTBjd29qUlZoVVNVNUdPakF1TmpNMExBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQTBRemxVTlROUlNrc3RSakEwVWtvd1ZFZFZWVVV0WkdFek1HWXpORGt5TUM5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNeTUwY3dvalJWaFVMVmd0UlU1RVRFbFRWQW89CiNFWFQtWC1TVFJFQU0tSU5GOkJBTkRXSURUSD0xMTI0ODY5LEFWRVJBR0UtQkFORFdJRFRIPTkwNTI1NCxDT0RFQ1M9ImF2YzEuNjQwMDFlLG1wNGEuNDAuNSIsUkVTT0xVVElPTj00MDZ4NzIwLEZSQU1FLVJBVEU9MjkuOTcwCmh0dHBzOi8vZmlsZXMuc2xhY2suY29tL2ZpbGVzLXRtYi9UMDRDOVQ1M1FKSy1GMDRSSjBUR1VVRS1kYTMwZjM0OTIwL2ZpbGVfSF8yNjRfMTI4MHg3MjBfMzUwMEtCUFNfN1FWQlIubTN1OAo=",
+                "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RJ0TGUUE-da30f34920\/v12044gd0000cfuj9grc77u0c58fq3s0_trans.mp4?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "duration_ms": 12645,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RJ0TGUUE-da30f34920\/v12044gd0000cfuj9grc77u0c58fq3s0_thumb_video.jpeg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_video_w": 576,
+                "thumb_video_h": 1024,
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04DLUZTL2Y\/F04RJ0TGUUE\/v12044gd0000cfuj9grc77u0c58fq3s0.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04RJ0TGUUE-f295d2d0f7",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04DLUZTL2Y",
+        "display_as_bot": false,
+        "ts": "1677617264.371819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L1MY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "racing_car",
+                                "unicode": "1f3ce-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "racing_car",
+                                "unicode": "1f3ce-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "racing_car",
+                                "unicode": "1f3ce-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5646318D-6558-45B3-B365-312399F92891",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U04HB4DFQ0K",
+                    "U04HL79B12M"
+                ],
+                "count": 2
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U04DLUZGJ4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04RRQWN43V",
+                "created": 1677635824,
+                "timestamp": 1677635824,
+                "name": "facebook_1677635812688_7036514599702648938.jpg",
+                "title": "facebook_1677635812688_7036514599702648938.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04HB4DFQ0K",
+                "user_team": "T04C9T53QJK",
+                "editable": false,
+                "size": 63458,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04RRQWN43V\/facebook_1677635812688_7036514599702648938.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04C9T53QJK-F04RRQWN43V\/download\/facebook_1677635812688_7036514599702648938.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RRQWN43V-bcb8c45aaf\/facebook_1677635812688_7036514599702648938_64.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RRQWN43V-bcb8c45aaf\/facebook_1677635812688_7036514599702648938_80.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RRQWN43V-bcb8c45aaf\/facebook_1677635812688_7036514599702648938_360.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_360_w": 298,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RRQWN43V-bcb8c45aaf\/facebook_1677635812688_7036514599702648938_480.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_480_w": 397,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RRQWN43V-bcb8c45aaf\/facebook_1677635812688_7036514599702648938_160.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RRQWN43V-bcb8c45aaf\/facebook_1677635812688_7036514599702648938_720.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_720_w": 596,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RRQWN43V-bcb8c45aaf\/facebook_1677635812688_7036514599702648938_800.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_800_w": 800,
+                "thumb_800_h": 966,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RRQWN43V-bcb8c45aaf\/facebook_1677635812688_7036514599702648938_960.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_960_w": 795,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04C9T53QJK-F04RRQWN43V-bcb8c45aaf\/facebook_1677635812688_7036514599702648938_1024.jpg?t=xoxe-4417923126631-5022377271139-5015905004086-b2b4520b10e0c24cdacc10ba8537aebb",
+                "thumb_1024_w": 848,
+                "thumb_1024_h": 1024,
+                "original_w": 894,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwACfQlLhf3YyaUh\/WkkIGMsB9aaGTuwx9aAHqGzyadUQkhL7A43em6nfJ6\/rQA+ikXGOOlLQBUv22opzjrVZShQ9STxn3q3ew+cqjOMVnyPsGwHIHU0hj4v8Aj8FaJI\/u\/pWWuUdZeOvepI7svOD0BHSmKxpR9D9afUVu2+Mk+tS0AUtSJWNCCR1ziqNuykfMoPPpWjfRSTRhY13evOKoCxuVbKxgf8CFIY+RkKkEdfTiogQnCDHvUv2W5I5i\/wDHhSpZz5JaPtx8w60AXbIEW4z3OasVFarIsOJQA2e1S0xH\/9k=",
+                "permalink": "https:\/\/actualize-day-2022-12.slack.com\/files\/U04HB4DFQ0K\/F04RRQWN43V\/facebook_1677635812688_7036514599702648938.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04C9T53QJK-F04RRQWN43V-5e4cb27348",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U04HB4DFQ0K",
+        "display_as_bot": false,
+        "ts": "1677635826.102729",
+        "client_msg_id": "abcf6b1d-5a7e-4266-9c7e-4791362d6cbf",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U04DLUZTL2Y",
+                    "U04DLUZMY84"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04DLUZGJ4C",
+                    "U04HL79B12M"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

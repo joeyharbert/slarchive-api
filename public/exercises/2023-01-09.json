@@ -1,0 +1,285 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673283500.123509",
+        "user": "U04DLUZ1JCU",
+        "text": "<@U04DLUZ1JCU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673284920.913089",
+        "user": "U04HL79B12M",
+        "text": "<@U04HL79B12M> has joined the channel"
+    },
+    {
+        "client_msg_id": "cd5a6141-f499-43dc-b2e9-1dd5b4c38bd2",
+        "type": "message",
+        "text": "Exercise:\nGiven the array numbers = [5,2,6,1], find the sum of all the numbers in that array",
+        "user": "U04HL79B12M",
+        "ts": "1673284927.288339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+46v+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\nGiven the array numbers = [5,2,6,1], find the sum of all the numbers in that array"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673284929.425619",
+        "user": "U04D3UXCN3Z",
+        "text": "<@U04D3UXCN3Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673284930.757329",
+        "user": "U04DFH2CCR3",
+        "text": "<@U04DFH2CCR3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673284937.414069",
+        "user": "U04HB4D6ARZ",
+        "text": "<@U04HB4D6ARZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673285208.260429",
+        "user": "U04HB4DFQ0K",
+        "text": "<@U04HB4DFQ0K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673285709.804599",
+        "user": "U04DLUZMY84",
+        "text": "<@U04DLUZMY84> has joined the channel"
+    },
+    {
+        "client_msg_id": "543f0311-255f-4cf4-ae19-4e30000d857c",
+        "type": "message",
+        "text": "Exercise:\n1. Create a folder in your home folder (the ~ folder) called ‘Actualize’. This will be where all of your course projects will go.\n2. Create three subfolders within that folder. Choose whatever folder names you like.\n3. Each subfolder should contain a text file.\n4. In one of the text files, add a line of text (it can be anything)\n5. Use this command to have the contents of that file spoken aloud: `cat _filename_ | say` (replace `filename` with the name of your file)\nBonus: Read this article for a really nice breakdown of some advanced terminal command usage: <http:\/\/vegardstikbakke.com\/unix\/>",
+        "user": "U04HL79B12M",
+        "ts": "1673288057.833399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hy62",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exercise:\n1. Create a folder in your home folder (the ~ folder) called ‘Actualize’. This will be where all of your course projects will go.\n2. Create three subfolders within that folder. Choose whatever folder names you like.\n3. Each subfolder should contain a text file.\n4. In one of the text files, add a line of text (it can be anything)\n5. Use this command to have the contents of that file spoken aloud: `cat "
+                            },
+                            {
+                                "type": "text",
+                                "text": "filename",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " | say` (replace `filename` with the name of your file)\nBonus: Read this article for a really nice breakdown of some advanced terminal command usage: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/vegardstikbakke.com\/unix\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04HL79B12M",
+            "ts": "1673288129.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/vegardstikbakke.com\/unix\/",
+                "service_icon": "https:\/\/www.vegardstikbakke.com\/assets\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/vegardstikbakke.com\/unix\/",
+                "fallback": "Vegard Stikbakke",
+                "text": "Vegard Stikbakke, software engineer from Norway.",
+                "title": "Vegard Stikbakke",
+                "title_link": "http:\/\/vegardstikbakke.com\/unix\/",
+                "service_name": "vegardstikbakke.com"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673288170.967879",
+        "user": "U04DLUZTL2Y",
+        "text": "<@U04DLUZTL2Y> has joined the channel"
+    },
+    {
+        "client_msg_id": "392fb220-c194-47f2-8261-b6d9e3546a4b",
+        "type": "message",
+        "text": "<https:\/\/overthewire.org\/wargames\/bandit\/bandit0.html>",
+        "user": "U04HL79B12M",
+        "ts": "1673291211.858219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sv2A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/overthewire.org\/wargames\/bandit\/bandit0.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a02e6a3a-17a1-40eb-892c-b83c0bfff704",
+        "type": "message",
+        "text": "find \/dir\/to\/search -type f | xargs file | grep text",
+        "user": "U04DFH2CCR3",
+        "ts": "1673293492.027909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2nl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "find \/dir\/to\/search -type f | xargs file | grep text"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0033814c118",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0033814c118d0c5130f202bb2c0ec62f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Taylor",
+            "display_name": "Matthew Taylor",
+            "team": "T04C9T53QJK",
+            "name": "mjt.inbox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "428ff921-ac15-4615-8545-72bb995ba4bc",
+        "type": "message",
+        "text": "```find \/ -user bandit7 -group bandit6 -size 33c```\n",
+        "user": "U04DFH2CCR3",
+        "ts": "1673294347.491429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wLxnI",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "find \/ -user bandit7 -group bandit6 -size 33c"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "g0033814c118",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0033814c118d0c5130f202bb2c0ec62f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Taylor",
+            "display_name": "Matthew Taylor",
+            "team": "T04C9T53QJK",
+            "name": "mjt.inbox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "eb5294f9-6e78-425d-9b4f-d21c14bd6753",
+        "type": "message",
+        "text": "Robyn is unable to join us this evening. So we’ll be doing community night tomorrow after class for anyone who wants to play some games :smile:",
+        "user": "U04HB4D6ARZ",
+        "ts": "1675719145.337489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K1Xn1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Robyn is unable to join us this evening. So we’ll be doing community night tomorrow after class for anyone who wants to play some games "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "4118925643d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4589465301426_4118925643d6e3410de3_72.jpg",
+            "first_name": "Kyle",
+            "real_name": "Kyle Pazdel",
+            "display_name": "Kyle Pazdel",
+            "team": "T04C9T53QJK",
+            "name": "kyle.kayvaun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04DLUZMY84"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U04HL79B12M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "face_with_cowboy_hat",
+                "users": [
+                    "U04DLUZTL2Y"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

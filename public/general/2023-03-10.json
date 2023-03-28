@@ -1,0 +1,140 @@
+[
+    {
+        "client_msg_id": "5ad79f65-7b85-45ca-942e-19f0ddc3474e",
+        "type": "message",
+        "text": "<!here> It's time to start thinking about the TA role y'all! The next daytime course date begins on Monday, May 1st and it is 12 weeks long! You will be working approximately 2-3 days per week and we will figure out the schedule details based on availability of TAs.\n\nIf you'd like to apply please send me a direct message letting me know you're interested! We will set up an interview shortly after class is over (don't worry, it won't be technical). Please apply if you're *at all interested*, soft skills are extremely valuable in this role and the number one thing I look for over technical ability.",
+        "user": "U04HL79B12M",
+        "ts": "1678468267.114119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xVUNG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It's time to start thinking about the TA role y'all! The next daytime course date begins on Monday, May 1st and it is 12 weeks long! You will be working approximately 2-3 days per week and we will figure out the schedule details based on availability of TAs.\n\nIf you'd like to apply please send me a direct message letting me know you're interested! We will set up an interview shortly after class is over (don't worry, it won't be technical). Please apply if you're "
+                            },
+                            {
+                                "type": "text",
+                                "text": "at all interested",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", soft skills are extremely valuable in this role and the number one thing I look for over technical ability."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04J9382JP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "896e5fa1-3495-41a6-be8f-96cf9bf736da",
+        "type": "message",
+        "text": "I'll be right back",
+        "user": "U04HB4DFQ0K",
+        "ts": "1678469494.896449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S8nt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll be right back"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "8788338e91da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4615286762803_8788338e91da5cb6f873_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn Spaulding",
+            "display_name": "",
+            "team": "T04C9T53QJK",
+            "name": "robynm27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "35c41021-d83a-4c03-8cf7-d81c53b45b9d",
+        "type": "message",
+        "text": "brb",
+        "user": "U04HL79B12M",
+        "ts": "1678484159.123609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M92JH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "brb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,241 @@
+[
+    {
+        "client_msg_id": "ef2a6c5f-44ea-4eb3-94ad-84dc7a8ef4aa",
+        "type": "message",
+        "text": "<https:\/\/css-tricks.com\/the-github-profile-trick\/>",
+        "user": "U04HL79B12M",
+        "ts": "1675977056.603989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lPr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/css-tricks.com\/the-github-profile-trick\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/css-tricks.com\/the-github-profile-trick\/",
+                "ts": 1595895599,
+                "image_url": "https:\/\/css-tricks.com\/wp-json\/social-image-generator\/v1\/image\/317762",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 154451,
+                "service_icon": "https:\/\/css-tricks.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/css-tricks.com\/the-github-profile-trick\/",
+                "fallback": "CSS-Tricks: The GitHub Profile Trick | CSS-Tricks",
+                "text": "Monica Powell shared a really cool trick the other day:",
+                "title": "The GitHub Profile Trick | CSS-Tricks",
+                "title_link": "https:\/\/css-tricks.com\/the-github-profile-trick\/",
+                "service_name": "CSS-Tricks",
+                "fields": [
+                    {
+                        "value": "Chris Coyier",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "1 minute",
+                        "title": "Time to read",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "462123eb-297f-4591-b868-e1f8ec0647dc",
+        "type": "message",
+        "text": "<https:\/\/aboutmonica.com\/blog\/how-to-create-a-github-profile-readme\/#fun-readmes>",
+        "user": "U04HL79B12M",
+        "ts": "1675977098.132539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V9p6x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aboutmonica.com\/blog\/how-to-create-a-github-profile-readme\/#fun-readmes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/aboutmonica.com\/blog\/how-to-create-a-github-profile-readme\/#fun-readmes",
+                "thumb_url": "https:\/\/www.aboutmonica.com\/generated-image?title=How%20To%20Create%20A%20GitHub%20Profile%20README&tags=GitHub",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/aboutmonica.com\/icons\/icon-48x48.png?v=dbf62e74541a90977906155a12a63aec",
+                "id": 1,
+                "original_url": "https:\/\/aboutmonica.com\/blog\/how-to-create-a-github-profile-readme\/#fun-readmes",
+                "fallback": "How To Create A GitHub Profile README",
+                "text": "This article walks through how to access GitHub's new profile level README feature",
+                "title": "How To Create A GitHub Profile README",
+                "title_link": "https:\/\/aboutmonica.com\/blog\/how-to-create-a-github-profile-readme\/#fun-readmes",
+                "service_name": "aboutmonica.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b80b8305-4200-442e-8792-129d326e5304",
+        "type": "message",
+        "text": "<https:\/\/bootcamp.uxdesign.cc\/how-to-design-an-attractive-github-profile-readme-3618d6c53783>",
+        "user": "U04HL79B12M",
+        "ts": "1675977108.921889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=9Aox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bootcamp.uxdesign.cc\/how-to-design-an-attractive-github-profile-readme-3618d6c53783"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/bootcamp.uxdesign.cc\/how-to-design-an-attractive-github-profile-readme-3618d6c53783",
+                "ts": 1652590017,
+                "image_url": "https:\/\/miro.medium.com\/max\/564\/1*Erk4NawQOHkf4wSN7JmB_A.jpeg",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 39871,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/bootcamp.uxdesign.cc\/how-to-design-an-attractive-github-profile-readme-3618d6c53783",
+                "fallback": "Medium: How to Design an Attractive GitHub Profile Readme…",
+                "text": "Aesthetically Pleasing…",
+                "title": "How to Design an Attractive GitHub Profile Readme…",
+                "title_link": "https:\/\/bootcamp.uxdesign.cc\/how-to-design-an-attractive-github-profile-readme-3618d6c53783",
+                "service_name": "Medium",
+                "fields": [
+                    {
+                        "value": "9 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ff44e1a-ef6d-4217-a5c9-dd2be96d22e2",
+        "type": "message",
+        "text": "<https:\/\/www.makeareadme.com>",
+        "user": "U04HL79B12M",
+        "ts": "1675977266.801029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8QK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.makeareadme.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "a8f110804d2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-02\/4571071643239_a8f110804d2ec80452a8_72.jpg",
+            "first_name": "Joey",
+            "real_name": "Joey Harbert",
+            "display_name": "Joey Harbert",
+            "team": "T04C9T53QJK",
+            "name": "joey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.makeareadme.com\/",
+                "thumb_url": "https:\/\/www.makeareadme.com\/images\/open-graph-logo.png?v=20181203",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/www.makeareadme.com\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.makeareadme.com",
+                "fallback": "Make a README",
+                "text": "Learn how to make a great README for your programming project, and use the editable template to get started.",
+                "title": "Make a README",
+                "title_link": "https:\/\/www.makeareadme.com\/",
+                "service_name": "makeareadme.com"
+            }
+        ]
+    }
+]

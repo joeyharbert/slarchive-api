@@ -1,0 +1,190 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": " ",
+        "ts": "1677186203.533689",
+        "bot_id": "B04D33KFQP3",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-08354b1d-b459-4916-8f15-bc01cfbc385c-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "**",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: Edit Poll",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":lock: Close Poll",
+                                "emoji": true
+                            },
+                            "value": "close_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":recycle: Recreate this Poll",
+                                "emoji": true
+                            },
+                            "value": "create_poll_from_recent_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":arrow_heading_down: Promote Poll",
+                                "emoji": true
+                            },
+                            "value": "promote_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-08354b1d-b459-4916-8f15-bc01cfbc385c-vote-42555076",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: I know nothing about networking\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42555076",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-08354b1d-b459-4916-8f15-bc01cfbc385c-vote-42555077",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: I understand networking but don’t feel comfortable with it    `7`\n<@U04GY24PLTY>, <@U04DLUZGJ4C>, <@U04D3UXCN3Z>, <@U04DLUZMY84>, <@U04DLUZTL2Y>, <@U04DFH2CCR3>, <@U04DLUZ1JCU>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42555077",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-08354b1d-b459-4916-8f15-bc01cfbc385c-vote-42555078",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: I feel confident about networking\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-42555078",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "uJ\/XJ",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U04J9382JP3> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "B04D33KFQP3",
+            "ts": "1677186218.000000"
+        }
+    },
+    {
+        "client_msg_id": "5d7b2995-58d4-441a-9aca-03dd40ba488f",
+        "type": "message",
+        "text": "<https:\/\/www.betterup.com\/blog\/networking>",
+        "user": "U04J9382JP3",
+        "ts": "1677186616.116209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1S0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.betterup.com\/blog\/networking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04C9T53QJK",
+        "user_team": "T04C9T53QJK",
+        "source_team": "T04C9T53QJK",
+        "user_profile": {
+            "avatar_hash": "87962e5686ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-06\/4621117278977_87962e5686accc731412_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Kercher",
+            "display_name": "Sarah Kercher",
+            "team": "T04C9T53QJK",
+            "name": "sarah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.betterup.com\/blog\/networking",
+                "image_url": "https:\/\/www.betterup.com\/hubfs\/Imported_Blog_Media\/networking%20blog%20image-1.png#keepProtocol",
+                "image_width": 1000,
+                "image_height": 500,
+                "image_bytes": 756052,
+                "service_icon": "https:\/\/www.betterup.com\/hubfs\/BetterUp_Logo_White.png",
+                "id": 1,
+                "original_url": "https:\/\/www.betterup.com\/blog\/networking",
+                "fallback": "What Is Networking and Why Is It So Important?",
+                "text": "With these tools, you’ll see why networking is so important, what networking is, and how to make strides on your career path by making new connections.",
+                "title": "What Is Networking and Why Is It So Important?",
+                "title_link": "https:\/\/www.betterup.com\/blog\/networking",
+                "service_name": "betterup.com"
+            }
+        ]
+    }
+]
