@@ -203,6 +203,8 @@ GEM
     xpath (3.2.0)
       nokogiri (~> 1.8)
     zeitwerk (2.6.7)
+    zip-zip (0.3)
+      rubyzip (>= 1.0.0)
 
 PLATFORMS
   x86_64-darwin-21
@@ -215,6 +217,7 @@ DEPENDENCIES
   jbuilder
   puma (~> 5.0)
   rails (~> 7.0.4, >= 7.0.4.3)
+  rubyzip
   selenium-webdriver
   sprockets-rails
   stimulus-rails
@@ -222,6 +225,7 @@ DEPENDENCIES
   tzinfo-data
   web-console
   webdrivers
+  zip-zip
 
 RUBY VERSION
    ruby 3.1.3p185
