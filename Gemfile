@@ -41,6 +41,7 @@ gem "bootsnap", require: false
 
 gem 'rubyzip'
 gem 'zip-zip'
+gem 'rack-cors'
 
 # Use Sass to process CSS
 # gem "sassc-rails"
