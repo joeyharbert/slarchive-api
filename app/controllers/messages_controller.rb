@@ -18,8 +18,12 @@ class MessagesController < ApplicationController
             end
             directory = entry.name[0..-2] #remove slash
           elsif entry.ftype == :file && entry.name.match(/(?<![0-9])[a-z]*.json/) #need to match
-            name = entry.name[0..-6]
-            response[name] = JSON.parse(entry.get_input_stream.read) #remove .json
+            name = entry.name[0..-6] #remove .json
+            response[name] = JSON.parse(entry.get_input_stream.read)
+            if directory != ""
+              response["messages"][directory] = messages
+              messages = []
+            end
             messages = []
             directory = ""
           elsif entry.ftype == :file #entry is a subfolder file
@@ -27,6 +31,8 @@ class MessagesController < ApplicationController
             messages = [*messages, *content]
           end
         end
+        puts "Adding #{directory}"
+        response["messages"][directory] = messages
       end
     end
     render json: response
