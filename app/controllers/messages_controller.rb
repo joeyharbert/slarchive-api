@@ -13,7 +13,7 @@ class MessagesController < ApplicationController
           raise "File too large when extracted" if entry.size > max_size
           if entry.ftype == :directory #entry is directory
             if directory != ""
-              response["messages"][directory] = messages
+              response["messages"][directory] = messages.sort_by { |m| m["ts"] }
               messages = []
             end
             directory = entry.name[0..-2] #remove slash
@@ -21,7 +21,7 @@ class MessagesController < ApplicationController
             name = entry.name[0..-6] #remove .json
             response[name] = JSON.parse(entry.get_input_stream.read)
             if directory != ""
-              response["messages"][directory] = messages
+              response["messages"][directory] = messages.sort_by { |m| m["ts"] }
               messages = []
             end
             messages = []
@@ -32,7 +32,7 @@ class MessagesController < ApplicationController
           end
         end
         puts "Adding #{directory}"
-        response["messages"][directory] = messages
+        response["messages"][directory] = messages.sort_by { |m| m["ts"] }
       end
     end
     render json: response
