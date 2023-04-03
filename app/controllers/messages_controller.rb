@@ -41,7 +41,7 @@ class MessagesController < ApplicationController
       end
       render json: response
     else
-      render json: { errors: "Unable to parse file" }, status: :unprocessable_entity
+      render json: { errors: ["Unable to parse file"] }, status: :unprocessable_entity
     end
   end
 end
