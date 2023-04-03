@@ -39,7 +39,9 @@ class MessagesController < ApplicationController
         puts "Adding #{directory}"
         response["messages"][directory] = messages.sort_by { |m| m["ts"] }
       end
+      render json: response
+    else
+      render json: { errors: "Unable to parse file" }, status: :unprocessable_entity
     end
-    render json: response
   end
 end
