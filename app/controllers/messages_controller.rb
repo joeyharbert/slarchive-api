@@ -28,6 +28,11 @@ class MessagesController < ApplicationController
             directory = ""
           elsif entry.ftype == :file #entry is a subfolder file
             content = JSON.parse(entry.get_input_stream.read)
+            content = content.map do |m|
+              start = directory.length + 1
+              m["date"] = entry.name[start..-6]
+              m
+            end
             messages = [*messages, *content]
           end
         end
