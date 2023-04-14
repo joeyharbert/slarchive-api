@@ -1,24 +1,30 @@
-# README
+# slarchive
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+slarchive is a web application for parsing and displaying slack archival json from an exported slack zip file. The backend api parses the file and returns a more friendly json response in the form of a single object.
 
-Things you may want to cover:
+## Installation - Backend Parsing API
 
-* Ruby version
+After cloning the repo and navigating to the project directory, it's a typical rails install.
 
-* System dependencies
+```bash
+bundle install
+rails server
+```
 
-* Configuration
+Built with Ruby version 3.1.3
+No database needed.
 
-* Database creation
+## Usage
 
-* Database initialization
+| Endpoint            | Description                                         |
+| ------------------- | --------------------------------------------------- |
+| POST /messages.json | expects params hash `{slack_file: [your_zip_file]}` |
 
-* How to run the test suite
+## Contributing
 
-* Services (job queues, cache servers, search engines, etc.)
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
 
-* Deployment instructions
+## License
 
-* ...
+[MIT](https://choosealicense.com/licenses/mit/)
