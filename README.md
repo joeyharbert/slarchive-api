@@ -2,6 +2,8 @@
 
 slarchive is a web application for parsing and displaying slack archival json from an exported slack zip file. The backend api parses the file and returns a more friendly json response in the form of a single object.
 
+Backend is built using Ruby on Rails.
+
 ## Installation - Backend Parsing API
 
 After cloning the repo and navigating to the project directory, it's a typical rails install.
