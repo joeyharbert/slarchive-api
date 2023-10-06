@@ -42,7 +42,10 @@ gem "bootsnap", require: false
 gem 'rubyzip'
 gem 'zip-zip'
 gem 'rack-cors'
-
+gem 'capistrano', '~> 3.11'
+gem 'capistrano-rails', '~> 1.4'
+gem 'capistrano-passenger', '~> 0.2.0'
+gem 'capistrano-rbenv', '~> 2.1', '>= 2.1.4'
 # Use Sass to process CSS
 # gem "sassc-rails"
 

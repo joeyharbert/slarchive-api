@@ -17,10 +17,11 @@ class MessagesController < ApplicationController
               messages = []
             end
             directory = entry.name[0..-2] #remove slash
-          elsif entry.ftype == :file && entry.name.match(/(?<![0-9])[a-z]*.json/) #need to match
+          elsif entry.ftype == :file && entry.name.match(/(?<![0-9])[a-z]*.json/) #need to match (negative lookbehind to check not messages json)
             name = entry.name[0..-6] #remove .json
             response[name] = JSON.parse(entry.get_input_stream.read)
             if directory != ""
+              #sorting messages in 'timestamp' order
               response["messages"][directory] = messages.sort_by { |m| m["ts"] }
               messages = []
             end
